@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-<video src="https://github.com/yejunbin/ming-dynasty-vis/releases/download/v0.1.0/video.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/yejunbin/ming-dynasty-vis/assets/video.mp4" controls width="100%"></video>
 
 
 ## 在线预览
