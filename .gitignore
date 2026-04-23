@@ -1,0 +1,11 @@
+.env
+.env.local
+.venv
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.claude/
+.stfolder/
+video.mp4
+明朝那些事儿.txt

@@ -1,0 +1,4924 @@
+{
+  "persons": [
+    {
+      "name": "朱祁镇",
+      "aliases": [
+        "明英宗"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1427,
+      "deathYear": 1464,
+      "bio": "明朝第六位皇帝，经历“土木堡之变”被俘，后通过“夺门之变”复位，年号天顺。",
+      "appearanceTime": "天顺元年正月十七日（1457年）复位后",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "徐有贞",
+      "aliases": [],
+      "identity": "兵部尚书、内阁首辅",
+      "birthYear": 1407,
+      "deathYear": 1472,
+      "bio": "天顺元年（1457）因“夺门之变”投机成功，任内阁首辅，后与石亨、曹吉祥内斗失败被贬。",
+      "appearanceTime": "天顺元年正月（1457年）",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "石亨",
+      "aliases": [],
+      "identity": "忠国公，武将",
+      "birthYear": null,
+      "deathYear": 1460,
+      "bio": "天顺元年（1457）“夺门之变”主要参与者，后与徐有贞、曹吉祥内斗，专横跋扈。",
+      "appearanceTime": "天顺元年正月（1457年）",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "张軏",
+      "aliases": [],
+      "identity": "太平侯，武将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "夺门之变参与者，张辅之弟。",
+      "appearanceTime": "天顺元年正月（1457年）",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "曹吉祥",
+      "aliases": [],
+      "identity": "司礼太监，总督三大营",
+      "birthYear": null,
+      "deathYear": 1461,
+      "bio": "天顺元年（1457）“夺门之变”主要参与者，宦官集团代表，与徐有贞、石亨内斗。",
+      "appearanceTime": "天顺元年正月（1457年）",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "于谦",
+      "aliases": [
+        "于忠肃"
+      ],
+      "identity": "兵部尚书，少保",
+      "birthYear": 1398,
+      "deathYear": 1457,
+      "bio": "北京保卫战指挥者，后被“还乡团”冤杀。李贤内心敬重并欲为其讨回公道。",
+      "appearanceTime": "天顺元年正月（1457年）被捕及处决",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "王文",
+      "aliases": [],
+      "identity": "大学士，吏部尚书",
+      "birthYear": null,
+      "deathYear": 1457,
+      "bio": "景泰朝重臣，与于谦一同被诬陷处死。",
+      "appearanceTime": "天顺元年正月（1457年）被捕",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "陈循",
+      "aliases": [],
+      "identity": "内阁首辅（景泰朝）",
+      "birthYear": 1385,
+      "deathYear": 1462,
+      "bio": "景泰朝内阁首辅，夺门后被罢官充军。",
+      "appearanceTime": "天顺元年正月（1457年）被罢官",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "江渊",
+      "aliases": [],
+      "identity": "内阁大学士（景泰朝）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "景泰朝阁臣，夺门后被罢官充军。",
+      "appearanceTime": "天顺元年正月（1457年）被罢官",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "商辂",
+      "aliases": [],
+      "identity": "内阁大学士（景泰朝）",
+      "birthYear": 1414,
+      "deathYear": 1486,
+      "bio": "明代唯一连中三元者，成化前期内阁成员，为官清正。",
+      "appearanceTime": "天顺元年正月（1457年）被罢官",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "萧",
+      "aliases": [
+        "萧镃"
+      ],
+      "identity": "内阁大学士（景泰朝）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "景泰朝阁臣，夺门后被罢免。",
+      "appearanceTime": "天顺元年正月（1457年）被罢官",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "卢忠",
+      "aliases": [],
+      "identity": "锦衣卫指挥",
+      "birthYear": null,
+      "deathYear": 1457,
+      "bio": "金刀案中出卖朋友，后被处斩。",
+      "appearanceTime": "天顺元年正月（1457年）被处斩",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "高平",
+      "aliases": [],
+      "identity": "官员",
+      "birthYear": null,
+      "deathYear": 1457,
+      "bio": "曾建议砍树使朱祁镇暴露，后被处斩。",
+      "appearanceTime": "天顺元年正月（1457年）被处斩",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "高谷",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": 1391,
+      "deathYear": 1460,
+      "bio": "景泰、天顺之际留任的内阁大臣。",
+      "appearanceTime": "天顺元年正月（1457年）未被罢免",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "许彬",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "徐有贞亲信，被引入内阁。",
+      "appearanceTime": "天顺元年正月（1457年）入阁",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "薛瑄",
+      "aliases": [],
+      "identity": "内阁大学士，理学家",
+      "birthYear": 1389,
+      "deathYear": 1464,
+      "bio": "著名理学家，被徐有贞引入内阁。",
+      "appearanceTime": "天顺元年正月（1457年）入阁",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "李贤",
+      "aliases": [],
+      "identity": "吏部右侍郎，内阁大学士",
+      "birthYear": 1408,
+      "deathYear": 1466,
+      "bio": "天顺年间重臣，表面周旋于徐有贞、石亨之间，实则暗中策划扳倒“还乡团”。",
+      "appearanceTime": "天顺元年二月（1457年）被召入阁",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第二章 隐藏的敌人",
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "朱祁钰",
+      "aliases": [
+        "明代宗",
+        "景泰帝"
+      ],
+      "identity": "明朝皇帝（景泰帝）",
+      "birthYear": 1428,
+      "deathYear": 1457,
+      "bio": "朱祁镇之弟，在土木堡之变后即位，即景泰帝。",
+      "appearanceTime": "天顺元年正月至二月（1457年）病重及被废",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "朱见深",
+      "aliases": [
+        "明宪宗",
+        "沂王"
+      ],
+      "identity": "明朝太子（后为皇帝）",
+      "birthYear": 1447,
+      "deathYear": 1487,
+      "bio": "明朝第八位皇帝，朱祁镇之子，童年坎坷，继位后专宠万贵妃。",
+      "appearanceTime": "八年后（1465年）继位下诏平反",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇",
+        "第三章 公道",
+        "第四章 不伦之恋",
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "于冕",
+      "aliases": [],
+      "identity": "于谦之子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "于谦之子，父死后被充军，后获平反召回。",
+      "appearanceTime": "八年后（1465年）被召回",
+      "chapters": [
+        "第一章 有冤报冤，有仇报仇"
+      ]
+    },
+    {
+      "name": "杨瑄",
+      "aliases": [],
+      "identity": "都察院御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "天顺元年（1457）弹劾曹吉祥、石亨的御史，后被关押。",
+      "appearanceTime": "天顺元年（1457）五月",
+      "chapters": [
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "张鹏",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "受徐有贞指使弹劾石亨、曹吉祥的御史，计划泄露后被关押。",
+      "appearanceTime": "天顺元年（1457）",
+      "chapters": [
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "王翱",
+      "aliases": [],
+      "identity": "吏部尚书",
+      "birthYear": 1384,
+      "deathYear": 1467,
+      "bio": "天顺年间吏部尚书，不依附石亨，后为李贤说情使其留任京城。",
+      "appearanceTime": "天顺元年（1457）",
+      "chapters": [
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "门达",
+      "aliases": [],
+      "identity": "锦衣卫指挥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "石亨的亲信，掌管诏狱时可能对徐有贞用刑。",
+      "appearanceTime": "天顺元年（1457）徐有贞二入诏狱时",
+      "chapters": [
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "王直",
+      "aliases": [],
+      "identity": "前吏部尚书",
+      "birthYear": 1379,
+      "deathYear": 1462,
+      "bio": "在李贤、石亨对话中被提及，已于天顺元年（1457）前退休。",
+      "appearanceTime": "本章通过李贤与石亨的过往提及",
+      "chapters": [
+        "第二章 隐藏的敌人"
+      ]
+    },
+    {
+      "name": "石彪",
+      "aliases": [],
+      "identity": "石亨之侄，武将",
+      "birthYear": null,
+      "deathYear": 1460,
+      "bio": "石亨侄子，镇守大同，后因罪被诛。",
+      "appearanceTime": "天顺三年(1459)被捕，天顺四年(1460)被斩",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "吴瑾",
+      "aliases": [
+        "恭顺侯"
+      ],
+      "identity": "侯爵，将领",
+      "birthYear": null,
+      "deathYear": 1461,
+      "bio": "明朝恭顺侯，将领，同情于谦。",
+      "appearanceTime": "天顺年间(1457-1464)，本章出现于天顺三至五年(1459-1461)",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "岳正",
+      "aliases": [],
+      "identity": "内阁学士",
+      "birthYear": 1418,
+      "deathYear": 1472,
+      "bio": "明朝大臣，曾任内阁学士。",
+      "appearanceTime": "天顺年间(1457-1464)，具体时间不详",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "朱瞻墡",
+      "aliases": [
+        "襄王"
+      ],
+      "identity": "藩王，明仁宗之子，朱祁镇叔父",
+      "birthYear": 1406,
+      "deathYear": 1478,
+      "bio": "明朝襄王，明仁宗第五子，明英宗叔父。",
+      "appearanceTime": "天顺年间(1457-1464)某年入京觐见",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "逯杲",
+      "aliases": [],
+      "identity": "锦衣卫指挥使",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝锦衣卫指挥使，参与多起政治事件，后为明英宗监视石亨。",
+      "appearanceTime": "天顺三年(1459)左右",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "曹钦",
+      "aliases": [],
+      "identity": "曹吉祥养子，武将",
+      "birthYear": null,
+      "deathYear": 1461,
+      "bio": "宦官曹吉祥养子，参与曹吉祥谋反。",
+      "appearanceTime": "天顺五年(1461)七月",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "冯益",
+      "aliases": [],
+      "identity": "曹钦门客",
+      "birthYear": null,
+      "deathYear": 1461,
+      "bio": "曹钦门客，因言及曹操被牵连处死。",
+      "appearanceTime": "天顺五年(1461)七月前",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "汤序",
+      "aliases": [],
+      "identity": "钦天监官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝钦天监官员，为曹钦选定谋反日期。",
+      "appearanceTime": "天顺五年(1461)七月前",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "马亮",
+      "aliases": [],
+      "identity": "鞑官（蒙古降兵）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "曹钦麾下鞑官，向吴瑾告发曹钦谋反。",
+      "appearanceTime": "天顺五年(1461)七月庚子日夜",
+      "chapters": [
+        "第三章 公道"
+      ]
+    },
+    {
+      "name": "孙镗",
+      "aliases": [],
+      "identity": "武将",
+      "birthYear": null,
+      "deathYear": 1471,
+      "bio": "明朝武将，曾平定曹吉祥叛乱，因与牛玉有亲戚关系被免职。",
+      "appearanceTime": "天顺五年(1461)七月庚子日夜",
+      "chapters": [
+        "第三章 公道",
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "万贞儿",
+      "aliases": [
+        "万妃",
+        "万贵妃",
+        "万姑姑",
+        "万宫女",
+        "万阿姨"
+      ],
+      "identity": "明宪宗贵妃",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱见深的宠妃，年长其十七岁，在朱见深童年时照料陪伴他。",
+      "appearanceTime": "正统十四年(1449)开始照料朱见深，成化二年(1466)封贵妃",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "孙太后",
+      "aliases": [
+        "孙氏"
+      ],
+      "identity": "明宣宗皇后，朱祁镇、朱祁钰之母（？）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱祁镇、朱祁钰之母（注：原文未明确其具体身份，但根据上下文推断为太后），在朱祁镇被俘后拥立朱见深为太子。",
+      "appearanceTime": "正统十四年(1449)后",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "周贵妃",
+      "aliases": [],
+      "identity": "朱祁镇妃子，朱见深生母",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱见深的生母，在朱见深被废为沂王时无法出宫探望。",
+      "appearanceTime": "景泰年间(1450-1457)提及",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "朱见济",
+      "aliases": [],
+      "identity": "朱祁钰之子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱祁钰之子，曾被立为太子以取代朱见深。",
+      "appearanceTime": "景泰三年(1452)被立为太子",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "吴皇后",
+      "aliases": [
+        "吴小姐",
+        "吴废后"
+      ],
+      "identity": "明宪宗第一任皇后",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱见深的第一任皇后，因杖责万贵妃而被废。",
+      "appearanceTime": "天顺八年(1464)朱见深继位后",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "牛玉",
+      "aliases": [],
+      "identity": "司礼监太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱祁镇的亲信太监，帮助吴氏当上皇后，后被牵连发配。",
+      "appearanceTime": "天顺八年(1464)前后",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "彭时",
+      "aliases": [],
+      "identity": "内阁大臣",
+      "birthYear": 1416,
+      "deathYear": 1475,
+      "bio": "明朝大臣，本章中进言反对废后，并劝皇帝广纳妃嫔以延子嗣。",
+      "appearanceTime": "天顺八年(1464)后，成化初年",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "韩雍",
+      "aliases": [],
+      "identity": "都察院都御史、远征军指挥官",
+      "birthYear": 1422,
+      "deathYear": 1478,
+      "bio": "明朝将领，平定成化年间两广叛乱（断藤峡之战）。",
+      "appearanceTime": "成化初年(1465)",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "纪氏",
+      "aliases": [
+        "姓纪的女孩"
+      ],
+      "identity": "宫女（后为明孝宗生母）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "韩雍从广西带回的俘虏之一，入宫为宫女，后成为万贵妃的敌人。",
+      "appearanceTime": "成化初年(1465)被俘入宫",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "汪直",
+      "aliases": [],
+      "identity": "太监（后为西厂提督）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原韩雍俘虏，后为宦官，得万贵妃推荐，受朱见深宠信，创立西厂。",
+      "appearanceTime": "成化初年(1465)被俘入宫（仅提及名字）",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "朱元璋",
+      "aliases": [
+        "朱重八",
+        "高皇帝"
+      ],
+      "identity": "明朝开国皇帝",
+      "birthYear": 1328,
+      "deathYear": 1398,
+      "bio": "明朝开国皇帝，本章中提及他开创了后宫殉葬制度。",
+      "appearanceTime": "本章中作为背景提及",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "朱棣",
+      "aliases": [
+        "朱老四",
+        "明成祖"
+      ],
+      "identity": "明朝皇帝（明成祖）",
+      "birthYear": 1360,
+      "deathYear": 1424,
+      "bio": "明朝第三位皇帝，本章中提及他也沿用殉葬制度。",
+      "appearanceTime": "本章中作为背景提及",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "朱高炽",
+      "aliases": [],
+      "identity": "明朝皇帝（明仁宗）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝第四位皇帝，本章中提及他也沿用殉葬制度。",
+      "appearanceTime": "本章中作为背景提及",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "朱瞻基",
+      "aliases": [
+        "明宣宗"
+      ],
+      "identity": "明朝皇帝（明宣宗）",
+      "birthYear": 1398,
+      "deathYear": 1435,
+      "bio": "明朝第五位皇帝，本章中提及他也沿用殉葬制度。",
+      "appearanceTime": "本章中作为背景提及",
+      "chapters": [
+        "第四章 不伦之恋",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "王振",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明英宗朱祁镇早期宠信的宦官，导致土木堡之变。",
+      "appearanceTime": "本章中作为朱祁镇信任过的人被提及",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "伯颜帖木尔",
+      "aliases": [],
+      "identity": "蒙古瓦剌部将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "俘虏朱祁镇的蒙古瓦剌部将领，后与朱祁镇成为朋友。",
+      "appearanceTime": "本章中作为朱祁镇的朋友被提及",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "阮浪",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝太监，在朱祁镇被囚南宫时期看守他，后成为朋友。",
+      "appearanceTime": "本章中作为朱祁镇的朋友被提及",
+      "chapters": [
+        "第四章 不伦之恋"
+      ]
+    },
+    {
+      "name": "梁芳",
+      "aliases": [],
+      "identity": "宦官，春派掌门",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化朝宦官，原为万贵妃采购员，后自立春派，研究进献春药。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "李孜省",
+      "aliases": [],
+      "identity": "官员，仙派掌门",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原江西小吏，后投靠梁芳，以炼丹修道、进献春药获宠于朱见深。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "尚铭",
+      "aliases": [],
+      "identity": "宦官，东监派掌门，东厂提督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化朝司礼太监，东厂掌印太监，行事谨慎，经营东厂及绑票副业。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "万贵妃",
+      "aliases": [
+        "万贞儿"
+      ],
+      "identity": "明宪宗贵妃，后派掌门",
+      "birthYear": 1430,
+      "deathYear": 1487,
+      "bio": "朱见深宠妃，在后宫及朝政中权势极大，为后派核心人物。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "万安",
+      "aliases": [
+        "万岁阁老"
+      ],
+      "identity": "内阁首辅，混派掌门",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化朝内阁首辅，攀附万贵妃，不理政务，以磕头拍马为能事。",
+      "appearanceTime": "成化年间(1465-1487)，成化十四年(1478)任首辅",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？"
+      ]
+    },
+    {
+      "name": "刘吉",
+      "aliases": [
+        "刘棉花"
+      ],
+      "identity": "内阁大臣，混派大弟子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "万安同科进士，脸皮极厚，不怕弹劾，故得外号“刘棉花”。",
+      "appearanceTime": "成化十一年(1475)入阁",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "倪进贤",
+      "aliases": [
+        "洗鸟御史"
+      ],
+      "identity": "御史，混派跟班",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "半文盲，因向万安进献治疗ED药方而得官御史。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "怀恩",
+      "aliases": [],
+      "identity": "司礼太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化朝司礼太监，宦官首领之一，曾试图收编梁芳。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会",
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "覃力鹏",
+      "aliases": [],
+      "identity": "南京镇守太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "地位重要的南京镇守太监，背景深厚，曾被汪直弹劾。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "杨晔",
+      "aliases": [],
+      "identity": "官员，杨荣曾孙",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨荣曾孙，因事入京，被汪直逮捕并施以酷刑“弹琵琶”致死。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "杨泰",
+      "aliases": [],
+      "identity": "杨晔之父",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨晔之父，与子一同入京，被汪直诬陷判处斩首。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "杨荣",
+      "aliases": [],
+      "identity": "明朝前期内阁大臣（“三杨”之一）",
+      "birthYear": 1371,
+      "deathYear": 1440,
+      "bio": "明初名臣，“三杨”之一，本章中作为杨晔的曾祖父被提及。",
+      "appearanceTime": "历史背景提及",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "杨仕伟",
+      "aliases": [],
+      "identity": "兵部主事，杨晔叔父",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨晔叔父，兵部主事，受杨晔案牵连。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "彭华",
+      "aliases": [],
+      "identity": "官员，混派二弟子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化年间大学士，本章仅提及曾被焦芳威胁。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会",
+        "第七章 斗争，还是隐忍？"
+      ]
+    },
+    {
+      "name": "刘翊",
+      "aliases": [],
+      "identity": "内阁大臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化后期内阁成员，混日子。",
+      "appearanceTime": "成化年间(1465-1487)",
+      "chapters": [
+        "第五章 武林大会"
+      ]
+    },
+    {
+      "name": "朱祐樘",
+      "aliases": [
+        "明孝宗"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1470,
+      "deathYear": 1505,
+      "bio": "明朝第九位皇帝，年号弘治，朱厚照的父亲，和平主义者。",
+      "appearanceTime": "本章主要描述其登基后（1487年）至弘治初年（约1488-1490年）的施政。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "张敏",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "曾舍生保护幼年朱祐樘的太监。",
+      "appearanceTime": "作为朱祐樘的回忆对象出现（成化年间，约1475年）。",
+      "chapters": [
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "万喜",
+      "aliases": [],
+      "identity": "外戚、万贵妃之弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "万贵妃弟弟，成化朝“后派”继任者。",
+      "appearanceTime": "朱祐樘登基后被关押又释放（1487年）。",
+      "chapters": [
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "尹直",
+      "aliases": [],
+      "identity": "官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "成化朝“混派”官员。",
+      "appearanceTime": "随万安失势而去职（1487年后）。",
+      "chapters": [
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "王恕",
+      "aliases": [],
+      "identity": "吏部尚书",
+      "birthYear": 1416,
+      "deathYear": 1508,
+      "bio": "弘治朝名臣，以敢言直谏著称，任吏部尚书整顿吏治。",
+      "appearanceTime": "成化年间（1465-1486）活跃，弘治元年（1488）被重新起用。",
+      "chapters": [
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "马文升",
+      "aliases": [],
+      "identity": "兵部尚书",
+      "birthYear": 1426,
+      "deathYear": 1510,
+      "bio": "弘治朝名臣，历任多部，任兵部尚书整顿军务。",
+      "appearanceTime": "成化十一年（1475）任兵部侍郎，弘治初年被召为兵部尚书（1488年后）。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "丘浚",
+      "aliases": [
+        "邱浚"
+      ],
+      "identity": "大学士",
+      "birthYear": 1418,
+      "deathYear": 1495,
+      "bio": "明代学者、官员，曾任《宪宗实录》副总裁。",
+      "appearanceTime": "弘治二年（1489）负责编修《宪宗实录》。",
+      "chapters": [
+        "第六章 明君"
+      ]
+    },
+    {
+      "name": "杨廷和",
+      "aliases": [
+        "杨师傅"
+      ],
+      "identity": "翰林院编修（本章中）",
+      "birthYear": 1459,
+      "deathYear": 1529,
+      "bio": "明朝中期重臣，历仕四朝，正德年间任内阁首辅，对朱厚照多有规谏。",
+      "appearanceTime": "弘治二年（1489）参与编修《宪宗实录》。",
+      "chapters": [
+        "第六章 明君",
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾",
+        "第十二章 皇帝的幸福生活",
+        "第十三章 无人知晓的胜利",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "刘健",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": 1433,
+      "deathYear": 1526,
+      "bio": "明武宗初期内阁首辅，与谢迁等试图铲除\"八虎\"失败后致仕。",
+      "appearanceTime": "弘治元年（1488）入阁。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "李东阳",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": 1447,
+      "deathYear": 1516,
+      "bio": "明朝大臣、文学家，茶陵诗派核心人物，曾任内阁首辅，推荐过梁储、蒋冕。",
+      "appearanceTime": "弘治八年（1495）入阁。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾",
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "谢迁",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": 1449,
+      "deathYear": 1531,
+      "bio": "明武宗初期内阁大学士，与刘健等试图铲除\"八虎\"失败后致仕。",
+      "appearanceTime": "弘治八年（1495）入阁。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "李梦阳",
+      "aliases": [],
+      "identity": "户部郎中、文学家",
+      "birthYear": 1473,
+      "deathYear": 1530,
+      "bio": "明代前七子领袖，曾因写奏折骂刘瑾下狱，后被刘瑾释放以博爱才之名。",
+      "appearanceTime": "弘治年间（1488年后）活跃于文坛。",
+      "chapters": [
+        "第六章 明君",
+        "第七章 斗争，还是隐忍？",
+        "第九章 悟道",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "唐寅",
+      "aliases": [
+        "唐伯虎",
+        "唐解元"
+      ],
+      "identity": "画家、诗人",
+      "birthYear": 1470,
+      "deathYear": 1524,
+      "bio": "明代著名画家、文学家，科举受挫后纵情酒色，曾被宁王招募。",
+      "appearanceTime": "弘治年间（约1489年）准备进京赶考。",
+      "chapters": [
+        "第六章 明君",
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "朱厚熜",
+      "aliases": [
+        "明世宗",
+        "嘉靖皇帝"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1507,
+      "deathYear": 1567,
+      "bio": "明朝嘉靖皇帝，由杨廷和等拥立即位。",
+      "appearanceTime": "作为对比对象被提及（非本章出场）。",
+      "chapters": [
+        "第六章 明君",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "朱厚照",
+      "aliases": [
+        "明武宗",
+        "正德皇帝",
+        "朱寿",
+        "总督军务威武大将军总兵官",
+        "威武大将军"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1491,
+      "deathYear": 1521,
+      "bio": "明朝第十位皇帝，以贪玩、不理朝政著称，宠信宦官刘瑾等人。",
+      "appearanceTime": "弘治十八年(1505)登基后至正德初年",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾",
+        "第十二章 皇帝的幸福生活",
+        "第十三章 无人知晓的胜利",
+        "第十五章 孤军",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量",
+        "第十九章 终结的归宿",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "刘大夏",
+      "aliases": [],
+      "identity": "兵部尚书（国防部长）",
+      "birthYear": 1436,
+      "deathYear": 1516,
+      "bio": "弘治、正德年间重臣，因劝谏朱厚照被罢官。",
+      "appearanceTime": "正德初年(1506)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "刘瑾",
+      "aliases": [],
+      "identity": "司礼监太监，\"八虎\"之首",
+      "birthYear": 1451,
+      "deathYear": 1510,
+      "bio": "明武宗时期权宦，本章中因安化王叛乱被指为祸首，最终被张永、杨一清设计铲除。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第九章 悟道",
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾",
+        "第十二章 皇帝的幸福生活",
+        "第十四章 东山再起",
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "焦芳",
+      "aliases": [],
+      "identity": "吏部侍郎，后投靠刘瑾",
+      "birthYear": 1434,
+      "deathYear": 1517,
+      "bio": "投靠宦官刘瑾的文官，为刘瑾通风报信，成为其党羽。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第八章 传奇就此开始",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "韩文",
+      "aliases": [],
+      "identity": "户部尚书",
+      "birthYear": 1441,
+      "deathYear": 1526,
+      "bio": "户部尚书，曾弹劾刘瑾，被免职后遭刘瑾报复罚至倾家荡产。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "王岳",
+      "aliases": [],
+      "identity": "司礼监太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "司礼监太监，厌恶刘瑾，支持文官清除\"八虎\"，后被贬。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？"
+      ]
+    },
+    {
+      "name": "谷大用",
+      "aliases": [],
+      "identity": "太监，\"八虎\"之一",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明武宗亲信太监，“八虎”之一，在朱厚照第二次出关时奉命守关阻拦追兵。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第十一章 必杀刘瑾",
+        "第十二章 皇帝的幸福生活",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "张永",
+      "aliases": [],
+      "identity": "太监，\"八虎\"之一",
+      "birthYear": null,
+      "deathYear": 1529,
+      "bio": "正德、嘉靖年间掌权太监，参与平定刘瑾、宁王之乱，在朱厚照死后与杨廷和议立新君。",
+      "appearanceTime": "正德初年(1506-1507)",
+      "chapters": [
+        "第七章 斗争，还是隐忍？",
+        "第十一章 必杀刘瑾",
+        "第十三章 无人知晓的胜利",
+        "第十八章 沉默的较量",
+        "第十九章 终结的归宿",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "薄彦征",
+      "aliases": [],
+      "identity": "监察院御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝御史，因上书挽留刘健、谢迁被刘瑾处以廷杖。",
+      "appearanceTime": "正德初年(约1506-1507)",
+      "chapters": [
+        "第八章 传奇就此开始"
+      ]
+    },
+    {
+      "name": "戴铣",
+      "aliases": [],
+      "identity": "南京给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝南京给事中，因上书挽留刘健、谢迁被刘瑾廷杖致死。",
+      "appearanceTime": "正德初年(约1506-1507)",
+      "chapters": [
+        "第八章 传奇就此开始",
+        "第九章 悟道"
+      ]
+    },
+    {
+      "name": "王守仁",
+      "aliases": [
+        "王阳明",
+        "伯安",
+        "王司令",
+        "王大人",
+        "王先生",
+        "王伯安",
+        "王巡抚",
+        "王道士"
+      ],
+      "identity": "明朝哲学家、军事家、政治家",
+      "birthYear": 1472,
+      "deathYear": 1529,
+      "bio": "明代心学集大成者，平定宁王叛乱，提出“知行合一”、“致良知”学说。",
+      "appearanceTime": "正德初年(约1506-1507，时年34岁)",
+      "chapters": [
+        "第八章 传奇就此开始",
+        "第九章 悟道",
+        "第十章 机会终于到来",
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十六章 奋战",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量",
+        "第十九章 终结的归宿",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "王华",
+      "aliases": [],
+      "identity": "明朝状元，王守仁之父",
+      "birthYear": null,
+      "deathYear": 1522,
+      "bio": "明宪宗成化十七年状元，官至吏部左侍郎，南京吏部尚书。",
+      "appearanceTime": "成化年间至弘治年间(1481-1489)",
+      "chapters": [
+        "第八章 传奇就此开始",
+        "第九章 悟道",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "朱熹",
+      "aliases": [
+        "朱子",
+        "朱文公",
+        "朱圣人"
+      ],
+      "identity": "南宋理学家、哲学家",
+      "birthYear": 1130,
+      "deathYear": 1200,
+      "bio": "理学集大成者，闽学代表人物，儒学重要发展者。",
+      "appearanceTime": "作为思想背景提及(无具体出场时间)",
+      "chapters": [
+        "第八章 传奇就此开始",
+        "第九章 悟道",
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "程颐",
+      "aliases": [
+        "伊川先生"
+      ],
+      "identity": "北宋理学家、教育家",
+      "birthYear": 1033,
+      "deathYear": 1107,
+      "bio": "北宋理学家，与其兄程颢共创\"洛学\"，为理学奠基人之一。",
+      "appearanceTime": "作为思想背景提及(无具体出场时间)",
+      "chapters": [
+        "第八章 传奇就此开始",
+        "第九章 悟道"
+      ]
+    },
+    {
+      "name": "慧能",
+      "aliases": [
+        "六祖"
+      ],
+      "identity": "唐代高僧，禅宗六祖",
+      "birthYear": 638,
+      "deathYear": 713,
+      "bio": "中国禅宗第六代祖师，主张顿悟，对禅宗发展影响深远。",
+      "appearanceTime": "作为思想背景提及(无具体出场时间)",
+      "chapters": [
+        "第八章 传奇就此开始"
+      ]
+    },
+    {
+      "name": "王纲",
+      "aliases": [],
+      "identity": "王守仁先祖",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "据传为刘伯温部属，官至四品。",
+      "appearanceTime": "作为家族背景提及(无具体出场时间)",
+      "chapters": [
+        "第八章 传奇就此开始"
+      ]
+    },
+    {
+      "name": "杭州无名禅师",
+      "aliases": [],
+      "identity": "僧人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在杭州寺庙修行，因王守仁点化而还俗探母。",
+      "appearanceTime": "弘治十四年（1501年），王守仁在杭州刑部出差期间。",
+      "chapters": [
+        "第九章 悟道"
+      ]
+    },
+    {
+      "name": "武夷山无名友人",
+      "aliases": [],
+      "identity": "王守仁的朋友",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在武夷山遇见逃亡的王守仁，并建议其卜卦问路。",
+      "appearanceTime": "1506年王守仁伪造投江后，逃亡至武夷山期间。",
+      "chapters": [
+        "第九章 悟道"
+      ]
+    },
+    {
+      "name": "龙场老驿丞",
+      "aliases": [],
+      "identity": "贵州龙场驿站前任驿丞",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "向王守仁交接驿站事务，并告知当地险恶环境。",
+      "appearanceTime": "1508年左右，王守仁抵达贵州龙场就任时。",
+      "chapters": [
+        "第九章 悟道"
+      ]
+    },
+    {
+      "name": "姚祥",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "御史，曾被刘瑾诬陷，得李东阳营救。",
+      "appearanceTime": "正德二年（1507）",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "张伟",
+      "aliases": [],
+      "identity": "主事",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "主事，曾被刘瑾诬陷，得李东阳营救。",
+      "appearanceTime": "正德二年（1507）",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "方奎",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "御史，因骂刘瑾遭迫害，得李东阳营救。",
+      "appearanceTime": "正德三年（1508）",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "罗玘",
+      "aliases": [],
+      "identity": "李东阳门生",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "李东阳门生，因不满李东阳留任而与之绝交。",
+      "appearanceTime": "正德初年（约1506-1508）",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "周钥",
+      "aliases": [],
+      "identity": "言官",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "言官，因无钱向刘瑾送礼而被逼自杀。",
+      "appearanceTime": "正德初年（约1506-1508）",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "黄明",
+      "aliases": [],
+      "identity": "国子监监丞",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "国子监监丞，杨廷和的老师，其女嫁与杨廷和。",
+      "appearanceTime": "成化年间（1470年代）被提及。",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "杨一清",
+      "aliases": [],
+      "identity": "三边总制、右都御史",
+      "birthYear": 1454,
+      "deathYear": 1530,
+      "bio": "本章核心人物，被刘瑾削职为民后于正德五年起复，与张永合谋铲除刘瑾。",
+      "appearanceTime": "正德初年任三边总制，正德三年（1508）被刘瑾诬陷下狱，后隐居镇江。",
+      "chapters": [
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾",
+        "第十四章 东山再起",
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "张彩",
+      "aliases": [],
+      "identity": "刘瑾谋士",
+      "birthYear": null,
+      "deathYear": 1510,
+      "bio": "刘瑾亲信，曾提醒刘瑾警惕杨一清，与刘瑾因杨一清之事发生争执。",
+      "appearanceTime": "正德初年（约1506-1508）投靠刘瑾，并参与谋划。",
+      "chapters": [
+        "第十章 机会终于到来",
+        "第十一章 必杀刘瑾"
+      ]
+    },
+    {
+      "name": "黎淳",
+      "aliases": [],
+      "identity": "学者",
+      "birthYear": 1423,
+      "deathYear": 1492,
+      "bio": "著名学者，杨一清的老师。",
+      "appearanceTime": "约四十年前（1460年代），杨一清拜其为师时被提及。",
+      "chapters": [
+        "第十章 机会终于到来"
+      ]
+    },
+    {
+      "name": "朱寘鐇",
+      "aliases": [
+        "安化王"
+      ],
+      "identity": "外系藩王，镇守宁夏",
+      "birthYear": null,
+      "deathYear": 1510,
+      "bio": "宁夏藩王，因刘瑾整顿军屯激变，于正德五年四月联合何锦等人叛乱，旋即被平定。",
+      "appearanceTime": "正德五年(1510)四月至五月（叛乱期间）",
+      "chapters": [
+        "第十一章 必杀刘瑾",
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "周东",
+      "aliases": [],
+      "identity": "大理寺官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "奉刘瑾命在宁夏整顿军屯，欺压士兵，是引发安化王叛乱的直接导火索之一。",
+      "appearanceTime": "正德五年(1510)四月前（叛乱诱因）",
+      "chapters": [
+        "第十一章 必杀刘瑾"
+      ]
+    },
+    {
+      "name": "何锦",
+      "aliases": [
+        "何指挥"
+      ],
+      "identity": "宁夏都指挥使",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宁夏军官，因不满周东欺压，与安化王朱寘鐇合谋发动叛乱。",
+      "appearanceTime": "正德五年(1510)四月（宁夏叛乱策划时）",
+      "chapters": [
+        "第十一章 必杀刘瑾"
+      ]
+    },
+    {
+      "name": "仇钺",
+      "aliases": [],
+      "identity": "军官，杨一清旧部",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨一清旧部，在杨一清赶到宁夏前已迅速平定安化王叛乱。",
+      "appearanceTime": "正德五年(1510)五月（叛乱平定后）",
+      "chapters": [
+        "第十一章 必杀刘瑾",
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "钱宁",
+      "aliases": [],
+      "identity": "佞臣",
+      "birthYear": null,
+      "deathYear": 1521,
+      "bio": "明武宗宠臣，因谄媚得幸，后因勾结宁王朱宸濠被处死。",
+      "appearanceTime": "正德年间（本章描述其接替刘瑾成为朱厚照玩伴，并陪同玩虎）",
+      "chapters": [
+        "第十二章 皇帝的幸福生活",
+        "第十四章 东山再起",
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "马昂",
+      "aliases": [],
+      "identity": "延绥总兵（后被免官）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原延绥总兵，因事免官后，为求复起将已嫁妹妹及小妾进献朱厚照。",
+      "appearanceTime": "正德年间（具体时间不详，在杨廷和丁忧前）",
+      "chapters": [
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "江彬",
+      "aliases": [],
+      "identity": "武官、边将",
+      "birthYear": null,
+      "deathYear": 1521,
+      "bio": "宣府、大同、延绥总兵，深受朱厚照宠信，曾为朱厚照挡虎，怂恿其出关。",
+      "appearanceTime": "正德十二年(1517)八月，夜奔事件中",
+      "chapters": [
+        "第十二章 皇帝的幸福生活",
+        "第十三章 无人知晓的胜利",
+        "第十四章 东山再起",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量",
+        "第十九章 终结的归宿",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "梁储",
+      "aliases": [],
+      "identity": "内阁大臣",
+      "birthYear": 1451,
+      "deathYear": 1527,
+      "bio": "明朝大臣，正德年间官至吏部尚书、华盖殿大学士，参与机务。",
+      "appearanceTime": "正德十二年(1517)八月，追谏朱厚照出关",
+      "chapters": [
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "蒋冕",
+      "aliases": [],
+      "identity": "内阁大臣",
+      "birthYear": 1462,
+      "deathYear": 1532,
+      "bio": "明朝大臣，正德年间官至户部尚书、谨身殿大学士，与梁储一同追谏朱厚照。",
+      "appearanceTime": "正德十二年(1517)八月，追谏朱厚照出关",
+      "chapters": [
+        "第十二章 皇帝的幸福生活",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "张钦",
+      "aliases": [],
+      "identity": "居庸关巡守御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "居庸关巡关御史，忠于职守，曾坚决拒绝为明武宗朱厚照开关。",
+      "appearanceTime": "正德十二年(1517)八月，守关期间",
+      "chapters": [
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "孙玺",
+      "aliases": [],
+      "identity": "居庸关守关大将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "居庸关守将，在张钦劝说下共同抗命，拒绝为朱厚照开关。",
+      "appearanceTime": "正德十二年(1517)八月，守关期间",
+      "chapters": [
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "刘嵩",
+      "aliases": [],
+      "identity": "镇守太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "居庸关镇守太监，曾试图为朱厚照开关，被张钦持剑阻止。",
+      "appearanceTime": "正德十二年(1517)八月，守关期间",
+      "chapters": [
+        "第十二章 皇帝的幸福生活"
+      ]
+    },
+    {
+      "name": "小王子",
+      "aliases": [
+        "达延汗"
+      ],
+      "identity": "蒙古鞑靼部首领",
+      "birthYear": 1464,
+      "deathYear": 1517,
+      "bio": "正德年间屡次率军侵扰明朝边境的蒙古鞑靼部首领，朱厚照的主要对手。",
+      "appearanceTime": "本章末尾提及，是朱厚照出关意图会见/交战的对象（正德十二年(1517)）",
+      "chapters": [
+        "第十二章 皇帝的幸福生活",
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "王勋",
+      "aliases": [],
+      "identity": "大同总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "大同镇守总兵官，在应州之战中率先迎击小王子部队。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "萧滓",
+      "aliases": [],
+      "identity": "辽东参将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "辽东参将，奉朱厚照之命率军增援王勋。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "时春",
+      "aliases": [],
+      "identity": "宣府游击将军",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宣府游击将军，奉朱厚照之命率军增援王勋。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "杭雄",
+      "aliases": [],
+      "identity": "延绥参将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "延绥参将，奉朱厚照之命驻守阳和等地。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "朱峦",
+      "aliases": [],
+      "identity": "副总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "副总兵，奉朱厚照之命尾随鞑靼军，后进入应州城。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "周政",
+      "aliases": [],
+      "identity": "游击将军",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "游击将军，与朱峦一同奉命行动。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "朱振",
+      "aliases": [],
+      "identity": "宣府总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宣府总兵，奉朱厚照之命驻守阳和。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "左钦",
+      "aliases": [],
+      "identity": "参将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "参将，与朱振一同驻守阳和。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "魏彬",
+      "aliases": [],
+      "identity": "太监，朱厚照亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "太监，朱厚照亲信，奉命率军参与应州之战。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "张忠",
+      "aliases": [],
+      "identity": "太监，朱厚照亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "太监，朱厚照亲信，奉命率军参与应州之战。",
+      "appearanceTime": "正德十二年(1517)",
+      "chapters": [
+        "第十三章 无人知晓的胜利",
+        "第十八章 沉默的较量",
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "也先",
+      "aliases": [],
+      "identity": "瓦剌部首领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "蒙古瓦剌部首领，曾在土木堡之变中俘虏明英宗。",
+      "appearanceTime": "本章提及（背景）",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "赵瑛",
+      "aliases": [],
+      "identity": "守备",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宣府守备，正德六年被小王子部杀死。",
+      "appearanceTime": "正德六年(1511)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "王继",
+      "aliases": [],
+      "identity": "都指挥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "都指挥，正德六年被小王子部杀死。",
+      "appearanceTime": "正德六年(1511)",
+      "chapters": [
+        "第十三章 无人知晓的胜利"
+      ]
+    },
+    {
+      "name": "王琼",
+      "aliases": [],
+      "identity": "兵部尚书",
+      "birthYear": 1459,
+      "deathYear": 1532,
+      "bio": "正德年间兵部尚书，赏识并提拔王守仁，与杨廷和有矛盾。",
+      "appearanceTime": "正德五年(1510)后至正德十二年(1517)前",
+      "chapters": [
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量",
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "孙燧",
+      "aliases": [],
+      "identity": "江西巡抚，都察院右副都御史",
+      "birthYear": null,
+      "deathYear": 1519,
+      "bio": "王守仁同乡好友，在江西监视宁王朱宸濠，后殉国。",
+      "appearanceTime": "正德十年(1515)至正德十四年(1519)间",
+      "chapters": [
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "朱宸濠",
+      "aliases": [
+        "宁王"
+      ],
+      "identity": "藩王，宁王",
+      "birthYear": 1479,
+      "deathYear": 1521,
+      "bio": "明太祖朱元璋五世孙，正德年间起兵叛乱，被王守仁平定。",
+      "appearanceTime": "正德十年(1515)后（孙燧巡抚江西时）至本章末",
+      "chapters": [
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十六章 奋战",
+        "第十七章 死亡的阴谋",
+        "第十八章 沉默的较量"
+      ]
+    },
+    {
+      "name": "刘养正",
+      "aliases": [],
+      "identity": "宁王谋士，举人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱宸濠招募的谋士，自称熟读兵法。",
+      "appearanceTime": "朱宸濠谋反准备期",
+      "chapters": [
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "李士实",
+      "aliases": [],
+      "identity": "宁王谋士，前侍郎",
+      "birthYear": null,
+      "deathYear": 1521,
+      "bio": "宁王朱宸濠的丞相兼谋士，后被俘。",
+      "appearanceTime": "朱宸濠谋反准备期",
+      "chapters": [
+        "第十四章 东山再起",
+        "第十五章 孤军",
+        "第十六章 奋战",
+        "第十八章 沉默的较量"
+      ]
+    },
+    {
+      "name": "王哲",
+      "aliases": [],
+      "identity": "前江西巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "任江西巡抚不久后离奇死亡。",
+      "appearanceTime": "正德十年(1515)前（提及）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "董杰",
+      "aliases": [],
+      "identity": "前江西巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "接替王哲任江西巡抚，八个月后死亡。",
+      "appearanceTime": "正德十年(1515)前（提及）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "张居正",
+      "aliases": [],
+      "identity": "明代后期内阁首辅",
+      "birthYear": 1525,
+      "deathYear": 1582,
+      "bio": "万历年间政治家、改革家，推崇王守仁“知行合一”。",
+      "appearanceTime": "二十多年后（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "海瑞",
+      "aliases": [],
+      "identity": "明代著名清官",
+      "birthYear": 1514,
+      "deathYear": 1587,
+      "bio": "以刚直不阿闻名，未理解“知行合一”深意。",
+      "appearanceTime": "二十多年后（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "陶行知",
+      "aliases": [],
+      "identity": "近代教育家",
+      "birthYear": 1891,
+      "deathYear": 1946,
+      "bio": "现代教育家，因服膺“知行合一”而改名。",
+      "appearanceTime": "四百年后（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "钱学森",
+      "aliases": [],
+      "identity": "现代科学家",
+      "birthYear": 1911,
+      "deathYear": 2009,
+      "bio": "中国航天事业奠基人，提及学习马列主义与科研的关系。",
+      "appearanceTime": "哲学讨论中（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "张献忠",
+      "aliases": [],
+      "identity": "明末农民起义领袖",
+      "birthYear": 1606,
+      "deathYear": 1647,
+      "bio": "明末大西政权建立者，文中作类比提及。",
+      "appearanceTime": "类比中（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "袁凯",
+      "aliases": [],
+      "identity": "明代诗人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "曾装疯吃狗屎以避祸，文中与唐伯虎装疯对比。",
+      "appearanceTime": "类比中（提及，非本章实际出场）",
+      "chapters": [
+        "第十四章 东山再起"
+      ]
+    },
+    {
+      "name": "戴德孺",
+      "aliases": [],
+      "identity": "临江知府",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "临江知府，在王守仁劝说下留下参与平叛。",
+      "appearanceTime": "正德十四年(1519)王守仁抵达临江府时",
+      "chapters": [
+        "第十五章 孤军",
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "伍文定",
+      "aliases": [
+        "伍知府"
+      ],
+      "identity": "吉安知府",
+      "birthYear": 1470,
+      "deathYear": 1530,
+      "bio": "吉安知府，性格强悍，成为王守仁平叛的得力助手。",
+      "appearanceTime": "正德十四年(1519)王守仁前往吉安途中",
+      "chapters": [
+        "第十五章 孤军",
+        "第十六章 奋战",
+        "第十八章 沉默的较量"
+      ]
+    },
+    {
+      "name": "许泰",
+      "aliases": [],
+      "identity": "都督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "都督，被王守仁在伪造的文书中提及。",
+      "appearanceTime": "正德十四年(1519)（被提及）",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "刘晖",
+      "aliases": [],
+      "identity": "京军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "京军将领，被王守仁在伪造的文书中提及。",
+      "appearanceTime": "正德十四年(1519)（被提及）",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "秦金",
+      "aliases": [],
+      "identity": "湖广官员",
+      "birthYear": 1467,
+      "deathYear": 1544,
+      "bio": "湖广官员，被王守仁在伪造的文书中提及。",
+      "appearanceTime": "正德十四年(1519)（被提及）",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "杨旦",
+      "aliases": [],
+      "identity": "两广官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "两广官员，被王守仁在伪造的文书中提及。",
+      "appearanceTime": "正德十四年(1519)（被提及）",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "杨锐",
+      "aliases": [],
+      "identity": "安庆都督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "安庆都督，率军坚守安庆抵抗宁王叛军。",
+      "appearanceTime": "正德十四年(1519)七月宁王进攻安庆时",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "张文锦",
+      "aliases": [],
+      "identity": "安庆知府",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "安庆知府，与杨锐一同坚守安庆。",
+      "appearanceTime": "正德十四年(1519)七月宁王进攻安庆时",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "潘鹏",
+      "aliases": [],
+      "identity": "投降宁王的官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "投降宁王的安庆籍官员，曾奉命劝降安庆守军。",
+      "appearanceTime": "正德十四年(1519)七月宁王进攻安庆时",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "史可法",
+      "aliases": [],
+      "identity": "南明兵部尚书",
+      "birthYear": 1601,
+      "deathYear": 1645,
+      "bio": "南明抗清名将，本章中作为对比被提及。",
+      "appearanceTime": "（被提及，非本章时代人物）",
+      "chapters": [
+        "第十五章 孤军"
+      ]
+    },
+    {
+      "name": "胡尧元",
+      "aliases": [],
+      "identity": "瑞州通判",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "王守仁部将，率伏兵袭击宁王叛军。",
+      "appearanceTime": "正德十四年(1519)七月二十三日",
+      "chapters": [
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "徐琏",
+      "aliases": [],
+      "identity": "袁州知府",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "王守仁部将，率军埋伏叛军侧翼。",
+      "appearanceTime": "正德十四年(1519)七月二十三日、二十六日",
+      "chapters": [
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "闵二十四",
+      "aliases": [],
+      "identity": "强盗头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "投靠宁王的强盗首领之一。",
+      "appearanceTime": "正德十四年(1519)七月二十六日被俘",
+      "chapters": [
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "凌十一",
+      "aliases": [],
+      "identity": "强盗头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "投靠宁王的强盗首领之一。",
+      "appearanceTime": "正德十四年(1519)七月二十六日被俘",
+      "chapters": [
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "吴十三",
+      "aliases": [],
+      "identity": "强盗头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "投靠宁王的强盗首领之一。",
+      "appearanceTime": "正德十四年(1519)七月二十六日被俘",
+      "chapters": [
+        "第十六章 奋战"
+      ]
+    },
+    {
+      "name": "刘姬",
+      "aliases": [],
+      "identity": "朱厚照宠妃",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明武宗朱厚照宠爱的女子，随其南巡。",
+      "appearanceTime": "正德十四年(1519)",
+      "chapters": [
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "朱辅",
+      "aliases": [
+        "成国公"
+      ],
+      "identity": "成国公（勋臣）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明代成国公，靖难功臣朱能后代，被江彬欺压。",
+      "appearanceTime": "正德十四年(1519)",
+      "chapters": [
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "朱能",
+      "aliases": [],
+      "identity": "靖难功臣、成国公",
+      "birthYear": 1370,
+      "deathYear": 1406,
+      "bio": "明代将领，靖难之役功臣，封成国公。",
+      "appearanceTime": "本章未直接出场，仅作为朱辅先祖被提及",
+      "chapters": [
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "和珅",
+      "aliases": [
+        "和绅"
+      ],
+      "identity": "清朝官员、巨贪",
+      "birthYear": 1750,
+      "deathYear": 1799,
+      "bio": "清朝乾隆帝宠臣，历史著名贪官。",
+      "appearanceTime": "本章未直接出场，仅作为类比被提及",
+      "chapters": [
+        "第十七章 死亡的阴谋"
+      ]
+    },
+    {
+      "name": "吴经",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "奉迎朱厚照的宦官，在扬州矫旨抢掠民女、强占民宅。",
+      "appearanceTime": "正德十四年(1519)十二月，在扬州为朱厚照“预备”美女。",
+      "chapters": [
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "蒋瑶",
+      "aliases": [
+        "蒋知府"
+      ],
+      "identity": "扬州知府",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "扬州地方官，敢于直谏，抵制朱厚照随从的过分要求。",
+      "appearanceTime": "正德十四年(1519)十二月，在扬州应对朱厚照一行。",
+      "chapters": [
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "乔宇",
+      "aliases": [
+        "乔尚书"
+      ],
+      "identity": "南京兵部尚书（南京守备）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "南京守备官员，杨一清学生，与张永合作防范江彬谋反。",
+      "appearanceTime": "正德十五年(1520)一月至六月，在南京拒绝江彬索取城门钥匙，并与张永监视江彬。",
+      "chapters": [
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "岳飞",
+      "aliases": [],
+      "identity": "南宋名将",
+      "birthYear": 1103,
+      "deathYear": 1142,
+      "bio": "南宋抗金名将，民族英雄。",
+      "appearanceTime": "本章未直接出场，仅在叙述牛首山历史时被提及。",
+      "chapters": [
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "宋徽宗",
+      "aliases": [
+        "赵佶"
+      ],
+      "identity": "北宋皇帝",
+      "birthYear": 1082,
+      "deathYear": 1135,
+      "bio": "北宋第八位皇帝，工于书画，后被金兵俘虏北去（北狩）。",
+      "appearanceTime": "本章未直接出场，仅在蒋瑶拒绝进献琼花的对话中被类比提及。",
+      "chapters": [
+        "第十九章 终结的归宿"
+      ]
+    },
+    {
+      "name": "王艮",
+      "aliases": [],
+      "identity": "王守仁弟子，泰州学派创始人",
+      "birthYear": 1483,
+      "deathYear": 1541,
+      "bio": "王守仁重要弟子，创立泰州学派，主张百姓日用即道。",
+      "appearanceTime": "嘉靖元年(1522)拜入王守仁门下",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "钱德洪",
+      "aliases": [],
+      "identity": "王守仁弟子",
+      "birthYear": 1496,
+      "deathYear": 1574,
+      "bio": "王守仁嫡传弟子，协助编纂《王文成公全书》。",
+      "appearanceTime": "嘉靖六年(1527)天泉论道",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "王畿",
+      "aliases": [
+        "王龙溪"
+      ],
+      "identity": "王守仁弟子",
+      "birthYear": 1498,
+      "deathYear": 1583,
+      "bio": "王守仁嫡传弟子，发扬心学“四无”说。",
+      "appearanceTime": "嘉靖六年(1527)天泉论道",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "姚镆",
+      "aliases": [],
+      "identity": "明朝官员，两广总督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "嘉靖年间两广总督，曾平定田州叛乱，后因处理不当再起事端。",
+      "appearanceTime": "嘉靖六年(1527)提及",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "张洪",
+      "aliases": [],
+      "identity": "明朝武将，京军都督，江彬心腹",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "江彬心腹，曾为江彬打探消息，后可能倒戈或受杨廷和利用。",
+      "appearanceTime": "正德十六年(1521)朱厚照死后",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "毛纪",
+      "aliases": [],
+      "identity": "明朝官员，内阁大学士",
+      "birthYear": 1463,
+      "deathYear": 1545,
+      "bio": "正德、嘉靖年间内阁大学士，杨廷和同僚。",
+      "appearanceTime": "正德十六年(1521)朱厚照死后与杨廷和谋划",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "郭勋",
+      "aliases": [],
+      "identity": "明朝武将，勋臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "嘉靖年间武定侯，受杨廷和命控制京城防务。",
+      "appearanceTime": "正德十六年(1521)朱厚照死后被提及",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "徐阶",
+      "aliases": [],
+      "identity": "明朝官员，内阁首辅，心学门人",
+      "birthYear": 1503,
+      "deathYear": 1583,
+      "bio": "嘉靖后期内阁首辅，王守仁心学思想追随者，后扳倒严嵩。",
+      "appearanceTime": "本章仅提及名字，作为泰州学派影响的后续人物",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    },
+    {
+      "name": "李贽",
+      "aliases": [],
+      "identity": "思想家，泰州学派后学",
+      "birthYear": 1527,
+      "deathYear": 1602,
+      "bio": "明代后期思想家，泰州学派代表人物，批判理学，主张个性解放。",
+      "appearanceTime": "本章仅提及名字，作为泰州学派影响的后续人物",
+      "chapters": [
+        "第二十章 新的开始"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "source": "徐有贞",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "徐有贞因私仇诬陷于谦谋逆，致其被冤杀。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "徐有贞是夺门之变主要策划者，被朱祁镇重用入阁。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "石亨参与诬陷于谦，是夺门集团核心成员。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "曹吉祥",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "曹吉祥参与诬陷于谦，是夺门集团核心成员。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱祁钰",
+      "type": "亲属",
+      "description": "朱祁镇与朱祁钰是兄弟关系，朱祁钰在朱祁镇被俘后继位。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "于谦",
+      "type": "君臣",
+      "description": "朱祁镇复位后，在徐有贞等人压力下下旨处死于谦，后后悔。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "朱祁钰",
+      "target": "于谦",
+      "type": "君臣",
+      "description": "朱祁钰在位期间重用於谦，于谦是北京保卫战的核心指挥。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "石亨",
+      "type": "同盟",
+      "description": "在夺门之变及后续政治清洗中结为同盟。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "曹吉祥",
+      "type": "同盟",
+      "description": "在夺门之变及后续政治清洗中结为同盟。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "陈循",
+      "type": "敌对",
+      "description": "徐有贞掌权后将陈循等景泰旧臣罢官充军。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "徐有贞",
+      "type": "关联",
+      "description": "李贤被徐有贞引入内阁，但并非其亲信，暗中观察并等待时机。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "朱见深",
+      "target": "于谦",
+      "type": "关联",
+      "description": "朱见深继位后下诏为于谦平反，并召回了于谦之子。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "于冕",
+      "target": "于谦",
+      "type": "亲属",
+      "description": "于冕是于谦之子，于谦被杀后被罚充军。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "王文",
+      "target": "于谦",
+      "type": "朋友",
+      "description": "同为景泰朝重臣，一同被诬陷下狱并处死。",
+      "chapter": "第一章 有冤报冤，有仇报仇",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "石亨",
+      "type": "敌对",
+      "description": "“夺门之变”后初期为同盟，后因性格、政见不合及权力斗争转为敌对，互相攻击。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "曹吉祥",
+      "type": "敌对",
+      "description": "“夺门之变”后初期为同盟，后徐有贞欲与之划清界限，曹吉祥设计使皇帝疏远徐有贞。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "曹吉祥",
+      "type": "同盟",
+      "description": "“夺门之变”盟友，在对抗徐有贞及后续专权过程中结盟，共同进退。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "李贤",
+      "type": "关联",
+      "description": "徐有贞将李贤视为亲信并提拔，共同策划弹劾石亨、曹吉祥；李贤实则利用徐有贞。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "石亨",
+      "type": "关联",
+      "description": "表面关系融洽，石亨曾欲提拔李贤；李贤实则将石亨视为需要清除的政敌。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "王翱",
+      "type": "朋友",
+      "description": "李贤曾拒绝排挤王翱以换取其好感，后王翱在关键时刻为李贤说情使其留京。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "徐有贞",
+      "type": "君臣",
+      "description": "朱祁镇复位后初期重用徐有贞，后因曹吉祥挑拨其泄密而疏远、贬斥徐有贞。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "石亨",
+      "type": "君臣",
+      "description": "朱祁镇复位后重用石亨，但对其专权行为逐渐不满，最终听从其言打压徐有贞。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "曹吉祥",
+      "type": "君臣",
+      "description": "曹吉祥为皇帝近侍宦官，利用信任挑拨皇帝与徐有贞关系。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "于谦",
+      "type": "朋友",
+      "description": "李贤内心敬重于谦的为人与功绩，将其视为真正的朋友，并立志为其冤案讨回公道。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "徐有贞是策划冤杀于谦的主要人物之一。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "门达",
+      "type": "同盟",
+      "description": "门达作为锦衣卫指挥是石亨的亲信，在诏狱中可能按照石亨的意图对待徐有贞。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "杨瑄",
+      "type": "关联",
+      "description": "徐有贞指使御史杨瑄上书弹劾石亨、曹吉祥。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "张鹏",
+      "type": "关联",
+      "description": "徐有贞指使御史张鹏搜集证据弹劾石亨、曹吉祥，计划泄露。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "王直",
+      "type": "关联",
+      "description": "石亨对不听话的前吏部尚书王直不满，曾想以其职位拉拢李贤。",
+      "chapter": "第二章 隐藏的敌人",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "徐有贞",
+      "type": "同盟",
+      "description": "共同策划并实施夺门之变，后反目。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "曹吉祥",
+      "type": "同盟",
+      "description": "夺门之变同党，石亨曾依靠曹吉祥打倒徐有贞。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "石亨为臣，拥立朱祁镇复位，后因专横跋扈遭朱祁镇忌恨铲除。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "石亨参与诬陷并导致于谦被冤杀。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "石彪",
+      "type": "亲属",
+      "description": "叔侄关系，石彪为石亨侄子及军事外援。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "石亨",
+      "target": "逯杲",
+      "type": "关联",
+      "description": "逯杲表面为石亨心腹，实为朱祁镇安插在石亨身边的眼线。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱瞻墡",
+      "type": "亲属",
+      "description": "叔侄关系，朱瞻墡为朱祁镇叔父。朱祁镇曾疑心其有继位可能。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "李贤",
+      "type": "君臣",
+      "description": "李贤为内阁首辅，为朱祁镇出谋划策铲除石亨等人。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "吴瑾",
+      "type": "君臣",
+      "description": "吴瑾为恭顺侯，朱祁镇曾向其询问边事，并一同登翔凤楼。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱祁钰",
+      "type": "亲属",
+      "description": "兄弟关系，朱祁钰在朱祁镇被俘后即位为帝。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "父子关系，朱见深为朱祁镇长子。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "石亨",
+      "type": "敌对",
+      "description": "李贤暗中策划并最终助朱祁镇铲除了石亨。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "曹吉祥",
+      "type": "敌对",
+      "description": "李贤将曹吉祥视为最后需要铲除的政敌。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "于谦",
+      "type": "关联",
+      "description": "李贤同情于谦，并意图为其平反。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "曹吉祥",
+      "target": "曹钦",
+      "type": "亲属",
+      "description": "养父子关系，共同策划谋反。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "曹钦",
+      "target": "冯益",
+      "type": "关联",
+      "description": "冯益为曹钦门客，曹钦曾向其询问宦官子弟称帝的先例。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "曹钦",
+      "target": "汤序",
+      "type": "关联",
+      "description": "曹钦请钦天监官员汤序为其选定谋反的吉日。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "吴瑾",
+      "target": "马亮",
+      "type": "朋友",
+      "description": "马亮为告密者，是吴瑾的朋友。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "吴瑾",
+      "target": "孙镗",
+      "type": "关联",
+      "description": "曹钦谋反当夜，吴瑾得知消息后立即通知了住在朝房的孙镗。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "徐有贞",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "徐有贞为夺门之变正名，诬陷并促使于谦被处死。",
+      "chapter": "第三章 公道",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "父子关系。朱祁镇在临终前将皇位传给朱见深，并嘱托废除殉葬。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱祁钰",
+      "type": "亲属",
+      "description": "兄弟关系。朱祁钰在朱祁镇被俘后即位，并废黜了朱见深的太子之位。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱见深",
+      "target": "万贞儿",
+      "type": "亲属",
+      "description": "夫妻关系（帝妃）。朱见深极度宠爱年长他十七岁的万贵妃，感情深厚。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱见深",
+      "target": "周贵妃",
+      "type": "亲属",
+      "description": "母子关系。周贵妃是朱见深的生母，但在其被废为沂王时难以相见。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱见深",
+      "target": "吴皇后",
+      "type": "亲属",
+      "description": "夫妻关系（帝后）。吴氏是朱见深的第一任皇后，因杖责万贵妃被废。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱见济",
+      "type": "亲属",
+      "description": "父子关系。朱祁钰废朱见深后，立自己的儿子朱见济为太子。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱见深",
+      "target": "朱见济",
+      "type": "敌对",
+      "description": "堂兄弟兼政治对手。朱见济取代了朱见深的太子之位。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "孙太后",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "祖孙关系（推断）。孙太后在朱祁镇被俘后，为防皇位旁落而拥立朱见深为太子。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "孙太后",
+      "target": "万贞儿",
+      "type": "关联",
+      "description": "派遣关系。孙太后派万贞儿（当时为宫女）去照料年幼的朱见深。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "万贞儿",
+      "target": "吴皇后",
+      "type": "敌对",
+      "description": "后宫争宠。吴皇后杖责万贵妃，导致自己被废。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "吴皇后",
+      "target": "牛玉",
+      "type": "同盟",
+      "description": "政治同盟。牛玉利用其太监身份帮助吴氏当上皇后。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "牛玉",
+      "type": "君臣",
+      "description": "君臣关系。牛玉是朱祁镇的亲信太监，临终前被召见。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "李贤",
+      "target": "彭时",
+      "type": "同盟",
+      "description": "政治同盟。两人一同向朱见深进言，反对废黜吴皇后。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "韩雍",
+      "target": "纪氏",
+      "type": "关联",
+      "description": "俘获与进献关系。韩雍平定广西叛乱后，将纪氏作为俘虏带回京城送入宫中。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "韩雍",
+      "target": "汪直",
+      "type": "关联",
+      "description": "俘获与进献关系。韩雍平定广西叛乱后，将汪直作为俘虏带回京城送入宫中为太监。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "万贞儿",
+      "target": "纪氏",
+      "type": "敌对",
+      "description": "潜在敌对。文中指出纪氏将成为万贵妃“最为可怕的敌人”。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "王振",
+      "type": "君臣",
+      "description": "君臣关系。朱祁镇曾宠信太监王振。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "徐有贞",
+      "type": "君臣",
+      "description": "君臣关系。朱祁镇曾信任大臣徐有贞。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "石亨",
+      "type": "君臣",
+      "description": "君臣关系。朱祁镇曾信任武将石亨。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "伯颜帖木尔",
+      "type": "朋友",
+      "description": "化敌为友。伯颜帖木尔原是俘虏朱祁镇的蒙古将领，后来成为了他的朋友。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "朱祁镇",
+      "target": "阮浪",
+      "type": "朋友",
+      "description": "化敌为友。阮浪原是看守被囚朱祁镇的太监，后来成为了他的朋友。",
+      "chapter": "第四章 不伦之恋",
+      "volume": 3
+    },
+    {
+      "source": "梁芳",
+      "target": "万贵妃",
+      "type": "君臣",
+      "description": "梁芳原为万贵妃的物品采购员，后得万贵妃提拔支持。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "梁芳",
+      "target": "李孜省",
+      "type": "师生",
+      "description": "李孜省曾为梁芳随从，得梁芳支持另立仙派门户。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "李孜省",
+      "target": "朱见深",
+      "type": "君臣",
+      "description": "李孜省为朱见深炼丹修道、进献春药，深受宠信。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "李孜省",
+      "target": "万安",
+      "type": "同盟",
+      "description": "万安、刘吉、彭华依靠李孜省的关系进入内阁。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "李孜省",
+      "target": "刘吉",
+      "type": "同盟",
+      "description": "刘吉依靠李孜省的关系进入内阁。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "李孜省",
+      "target": "彭华",
+      "type": "同盟",
+      "description": "彭华依靠李孜省的关系进入内阁。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "万贵妃",
+      "type": "君臣",
+      "description": "汪直曾侍候万贵妃，得其欢心并被推荐给朱见深。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "朱见深",
+      "type": "君臣",
+      "description": "汪直得朱见深宠信，被特批开办西厂。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "尚铭",
+      "type": "敌对",
+      "description": "两人分属监派东西两派，为争夺权力和皇帝宠信而斗争。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "韩雍",
+      "type": "关联",
+      "description": "汪直是韩雍大军带回京城的俘虏之一。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "覃力鹏",
+      "type": "敌对",
+      "description": "汪直为立威，曾收集罪证弹劾覃力鹏。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "杨晔",
+      "type": "敌对",
+      "description": "汪直为立威，逮捕并酷刑折磨杨晔致死。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "汪直",
+      "target": "杨泰",
+      "type": "敌对",
+      "description": "汪直诬陷杨泰（杨晔父）并判处其死刑。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "尚铭",
+      "target": "梁芳",
+      "type": "敌对",
+      "description": "尚铭曾试图收编梁芳，被梁芳拒绝。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "尚铭",
+      "target": "怀恩",
+      "type": "关联",
+      "description": "两人同为宦官首领（司礼太监），地位高于其他宦官。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "尚铭",
+      "target": "李孜省",
+      "type": "敌对",
+      "description": "李孜省插手特务工作，威胁东厂垄断，遭尚铭敌视。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万贵妃",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "万贵妃是朱见深的妃子（妻子兼保姆）。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万安",
+      "target": "万贵妃",
+      "type": "关联",
+      "description": "万安自称与万贵妃有远亲关系，并借此攀附上位。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万安",
+      "target": "倪进贤",
+      "type": "师生",
+      "description": "倪进贤是万安的关门弟子，因进献药方而得官。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万安",
+      "target": "商辂",
+      "type": "关联",
+      "description": "两人曾同在内阁，万安在商辂退休后继任首辅。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万安",
+      "target": "彭时",
+      "type": "关联",
+      "description": "两人曾同在内阁。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "商辂",
+      "target": "彭时",
+      "type": "朋友",
+      "description": "两人同为成化前期内阁清正大臣，共同理政。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "杨晔",
+      "target": "杨荣",
+      "type": "亲属",
+      "description": "杨晔是杨荣的曾孙。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "杨晔",
+      "target": "杨泰",
+      "type": "亲属",
+      "description": "杨晔是杨泰的儿子。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "杨晔",
+      "target": "杨仕伟",
+      "type": "亲属",
+      "description": "杨晔是杨仕伟的侄子。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万贵妃",
+      "target": "梁芳",
+      "type": "同盟",
+      "description": "万贵妃（后派）与梁芳（春派）是同盟关系，属泛后阵营。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万贵妃",
+      "target": "李孜省",
+      "type": "同盟",
+      "description": "通过梁芳关联，后派与仙派属同盟关系，属泛后阵营。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "万安",
+      "target": "李孜省",
+      "type": "同盟",
+      "description": "混派依附于得势的仙派李孜省。",
+      "chapter": "第五章 武林大会",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "万贵妃",
+      "type": "敌对",
+      "description": "万贵妃迫害朱祐樘母子，致其生母冤死，朱祐樘对其怀有仇恨。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "张敏",
+      "type": "恩情",
+      "description": "张敏曾舍生保护幼年朱祐樘，朱祐樘感念其恩。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "怀恩",
+      "type": "君臣",
+      "description": "怀恩曾保护朱祐樘，朱祐樘登基后将其召回并恢复原职，极为敬重。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "吴皇后",
+      "type": "恩情",
+      "description": "吴废后曾养育幼年朱祐樘，朱祐樘登基后将其奉养如母以报恩。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "万喜",
+      "type": "敌对",
+      "description": "万喜是万贵妃之弟，属于迫害朱祐樘的“后派”，朱祐樘登基后将其关押又宽恕释放。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "王恕",
+      "type": "君臣",
+      "description": "朱祐樘赏识并重用王恕，任命其为吏部尚书，支持其整顿吏治。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "马文升",
+      "type": "君臣",
+      "description": "朱祐樘了解马文升能力，召其入京任兵部尚书，并在他遭威胁时提供保护。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "刘健",
+      "type": "君臣",
+      "description": "刘健是朱祐樘信任的内阁重臣。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "李东阳",
+      "type": "君臣",
+      "description": "李东阳是朱祐樘信任的内阁重臣和文坛领袖。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "谢迁",
+      "type": "君臣",
+      "description": "谢迁是朱祐樘信任的内阁重臣。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "万喜",
+      "target": "万贵妃",
+      "type": "亲属",
+      "description": "万喜是万贵妃的弟弟。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "怀恩",
+      "target": "万安",
+      "type": "敌对",
+      "description": "怀恩奉朱祐樘之命，斥责并最终迫使万安致仕。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "王恕",
+      "target": "朱见深",
+      "type": "君臣",
+      "description": "王恕在成化年间不断进谏，令朱见深厌烦，最终被其用计逼退。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "马文升",
+      "target": "汪直",
+      "type": "敌对",
+      "description": "马文升在辽东常收拾汪直部下制造的烂摊子，后遭汪直陷害降官。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "丘浚",
+      "target": "杨廷和",
+      "type": "关联",
+      "description": "丘浚是《宪宗实录》副总裁，将编写工作交给新人杨廷和，并对其才华大为赞赏。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "李东阳",
+      "type": "同僚",
+      "description": "同为弘治朝内阁大学士，合作理政。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "谢迁",
+      "type": "同僚",
+      "description": "同为弘治朝内阁大学士，合作理政。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "谢迁",
+      "type": "同僚",
+      "description": "同为弘治朝内阁大学士，合作理政。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "朱祐樘是朱见深（明宪宗）的儿子。",
+      "chapter": "第六章 明君",
+      "volume": 3
+    },
+    {
+      "source": "朱祐樘",
+      "target": "朱厚照",
+      "type": "亲属",
+      "description": "父子关系，朱祐樘是朱厚照的父亲，对其极为溺爱。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘健作为内阁首辅，多次上书劝谏皇帝朱厚照勤政，反对其玩乐。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "马文升",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "马文升作为吏部尚书，上书劝谏朱厚照，后被罢官。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘大夏",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘大夏作为兵部尚书，上书劝谏朱厚照，后被罢官。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘瑾是朱厚照的贴身太监，投其所好，引诱其玩乐，深得宠信。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "焦芳",
+      "type": "同盟",
+      "description": "刘瑾拉拢吏部侍郎焦芳作为其在文官集团中的内应，共同对付反对派。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "韩文",
+      "type": "同盟",
+      "description": "刘健联合户部尚书韩文，共同策划发动文官集团弹劾\"八虎\"的行动。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "李梦阳",
+      "type": "关联",
+      "description": "刘健利用李梦阳的文笔，由其起草弹劾\"八虎\"的奏疏。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "王岳",
+      "type": "同盟",
+      "description": "刘健察觉王岳厌恶刘瑾，遂联合王岳，试图通过他向朱厚照施压清除\"八虎\"。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "王岳",
+      "type": "敌对",
+      "description": "刘瑾与王岳是宦官中的竞争对手，刘瑾在朱厚照面前诬陷王岳勾结文官。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "焦芳",
+      "target": "刘健",
+      "type": "敌对",
+      "description": "焦芳作为刘瑾的内应，将刘健等人密谋清除\"八虎\"的计划泄露给刘瑾。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "谢迁",
+      "type": "同盟",
+      "description": "刘健与谢迁同为内阁大学士，在清除\"八虎\"问题上立场一致，态度坚决。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "刘健",
+      "target": "李东阳",
+      "type": "关联",
+      "description": "刘健、谢迁、李东阳同为内阁成员。在清除\"八虎\"事件中，刘健、谢迁对李东阳的犹豫不满。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "谢迁",
+      "target": "李东阳",
+      "type": "关联",
+      "description": "同为内阁成员。在清除\"八虎\"事件中，谢迁对李东阳的犹豫持鄙夷态度。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "谷大用",
+      "type": "君臣",
+      "description": "谷大用是\"八虎\"之一，朱厚照的宠信宦官，后被任命掌管东厂等事务。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "张永",
+      "type": "君臣",
+      "description": "张永是\"八虎\"之一，朱厚照的宠信宦官，后被任命掌管宫中军务。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "焦芳",
+      "target": "彭华",
+      "type": "敌对",
+      "description": "本章提及旧事：焦芳曾因未被推荐晋升而威胁要刺杀大学士彭华。",
+      "chapter": "第七章 斗争，还是隐忍？",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "李东阳视刘瑾为可怕的对手，但认为铲除他的时机未到。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "刘健",
+      "type": "同盟",
+      "description": "同朝为官，李东阳认为刘健对局势看得不如自己深远。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "谢迁",
+      "type": "同盟",
+      "description": "同朝为官，李东阳认为谢迁对局势看得不如自己深远。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘瑾是\"八虎\"之一，为明武宗朱厚照的玩伴和宠信宦官。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "薄彦征",
+      "type": "敌对",
+      "description": "刘瑾对薄彦征等上书挽留刘健、谢迁的官员处以廷杖。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "戴铣",
+      "type": "敌对",
+      "description": "刘瑾将上书挽留刘健、谢迁的戴铣廷杖致死。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "王守仁",
+      "type": "敌对",
+      "description": "刘瑾对为救戴铣而上书的王守仁处以廷杖。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王华",
+      "type": "亲属",
+      "description": "王守仁是王华的儿子，王华对其教育颇为头疼。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱熹",
+      "type": "师生",
+      "description": "王守仁早年通过阅读朱熹著作寻求\"格物穷理\"的圣贤之道。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "焦芳",
+      "target": "刘瑾",
+      "type": "同盟",
+      "description": "焦芳背叛文官集团，投靠刘瑾。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "王纲",
+      "target": "刘伯温",
+      "type": "关联",
+      "description": "据传王纲曾给刘伯温当过跟班。",
+      "chapter": "第八章 传奇就此开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王华",
+      "type": "亲属",
+      "description": "父子关系。王华是王守仁的父亲，对其科举、为官多有管束和期望，后期转为理解与支持。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱熹",
+      "type": "敌对",
+      "description": "思想上的质疑与超越关系。王守仁通过“格竹”和实践，逐渐怀疑并最终突破朱熹的理学体系。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "程颐",
+      "type": "师生",
+      "description": "思想继承与反思关系。王守仁早期遵循程颐的“格物”方法求理，后发现问题。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "李梦阳",
+      "type": "朋友",
+      "description": "同僚兼文友。王守仁中进士后在工部任职期间，与李梦阳整日研究文学问题。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "戴铣",
+      "type": "同盟",
+      "description": "政治上的同情与声援关系。王守仁因上书营救被刘瑾廷杖的戴铣而遭贬。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "政治迫害关系。王守仁上书斥刘瑾为“权奸”，遭其廷杖、贬官乃至派杀手追杀。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "杭州无名禅师",
+      "type": "关联",
+      "description": "点化与被点化关系。王守仁以“想念母亲是人的本性”点化禅师，使其还俗，并由此领悟人性不可泯灭。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "武夷山无名友人",
+      "type": "朋友",
+      "description": "患难中的帮助关系。王守仁逃亡时在武夷山遇到该友人，得其建议卜卦决定去向。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "龙场老驿丞",
+      "type": "关联",
+      "description": "职务交接与信息告知关系。老驿丞向王守仁交接驿站并告知当地环境的艰苦与危险。",
+      "chapter": "第九章 悟道",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "刘瑾专权，不断打压李东阳；李东阳表面顺从，暗中营救反对刘瑾的官员并筹划倒刘。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "焦芳",
+      "type": "同盟",
+      "description": "李东阳给焦芳送礼，称兄道弟，利用焦芳在刘瑾面前为自己说情。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "刘健",
+      "type": "朋友",
+      "description": "李东阳在刘健被刘瑾迫害时出面营救。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "谢迁",
+      "type": "朋友",
+      "description": "李东阳在谢迁被刘瑾迫害时出面营救。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "罗玘",
+      "type": "师生",
+      "description": "罗玘是李东阳的门生，但因不满李东阳留任内阁而与李绝交。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "焦芳",
+      "type": "同盟",
+      "description": "焦芳是刘瑾犯罪集团的重要成员，依附刘瑾。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘瑾是明武宗朱厚照宠信的太监，借皇帝名义专权。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "韩文",
+      "type": "敌对",
+      "description": "韩文曾弹劾刘瑾，被免职后遭刘瑾报复，罚至倾家荡产。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "杨廷和看不起刘瑾，在讲课时暗讽刘瑾为小人，遭刘瑾报复调往南京，后因皇帝干预回京，彻底与刘瑾对立。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "杨廷和是朱厚照的老师（杨师傅），深受皇帝信任，因此刘瑾不敢轻易加害。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "黄明",
+      "type": "师生",
+      "description": "黄明是杨廷和在国子监读书时的老师，杨廷和娶其女为妻。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "李东阳",
+      "type": "同盟",
+      "description": "杨廷和与刘瑾撕破脸后，转向李东阳一边，共同筹划解决刘瑾。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨一清",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "刘瑾拉拢杨一清遭拒后，借故诬陷其贪污军饷，将其下狱。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨一清",
+      "target": "李东阳",
+      "type": "朋友",
+      "description": "两人是师兄弟（同师黎淳），关系紧密。李东阳在杨一清下狱后向刘瑾说情救其出狱，并安排其隐居以待时机。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨一清",
+      "target": "张彩",
+      "type": "关联",
+      "description": "杨一清辞职时推荐张彩接替自己，引起刘瑾对张彩的怀疑。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "张彩",
+      "type": "同盟",
+      "description": "张彩是刘瑾的军师和核心谋士，为刘瑾出谋划策。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "张彩",
+      "target": "马文升",
+      "type": "关联",
+      "description": "马文升对张彩的才华推崇备至。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "张彩",
+      "target": "刘大夏",
+      "type": "关联",
+      "description": "刘大夏对张彩的才华推崇备至。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "杨一清",
+      "target": "黎淳",
+      "type": "师生",
+      "description": "黎淳是杨一清少年时的老师。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "黎淳",
+      "type": "师生",
+      "description": "黎淳也是李东阳的老师，李东阳与杨一清是师兄弟关系源于此。",
+      "chapter": "第十章 机会终于到来",
+      "volume": 3
+    },
+    {
+      "source": "张彩",
+      "target": "刘瑾",
+      "type": "同盟",
+      "description": "张彩是刘瑾的党羽，本章中为刘瑾出谋划策，提醒其警惕杨一清。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "张彩",
+      "target": "杨一清",
+      "type": "敌对",
+      "description": "张彩深知杨一清刚正且工于心计，不可能加入他们，视其为大患，提醒刘瑾防范。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "杨一清",
+      "type": "敌对",
+      "description": "刘瑾将杨一清削职为民，后因平叛不得已起复他，但杨一清暗中策划铲除刘瑾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "朱寘鐇",
+      "target": "何锦",
+      "type": "同盟",
+      "description": "两人因不满刘瑾、周东的压迫，一拍即合，共同发动了宁夏叛乱。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "朱寘鐇",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "朱寘鐇以\"杀死刘瑾，为民除害\"为造反口号，叛乱直接针对刘瑾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "周东",
+      "target": "刘瑾",
+      "type": "君臣",
+      "description": "周东是奉刘瑾之命在宁夏整顿军屯的官员，其暴行是叛乱的导火索。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "杨一清",
+      "type": "同盟",
+      "description": "李东阳与杨一清有秘密约定，在安化王叛乱后力荐杨一清出山，共图除刘瑾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "李东阳表面与刘瑾商议平叛，实则与杨廷和推荐杨一清，参与倒刘计划。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "与李东阳一同向刘瑾推荐杨一清平叛，参与倒刘计划。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "刘瑾",
+      "type": "敌对",
+      "description": "原为\"八虎\"同党，后因刘瑾欲排挤自己而反目，本章中与杨一清合谋铲除刘瑾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "杨一清",
+      "type": "同盟",
+      "description": "在宁夏平叛期间，杨一清试探并争取张永，最终两人结盟，共同策划向武宗揭发刘瑾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "张永是朱厚照宠信的太监，直接向皇帝告发刘瑾，并在宴会上实施计划。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "刘瑾",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "刘瑾是明武宗朱厚照最宠信的太监，权倾朝野，但最终被武宗下令处置。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "仇钺",
+      "target": "杨一清",
+      "type": "君臣",
+      "description": "仇钺是杨一清的旧部，在杨一清到任前已主动平定了安化王叛乱。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "谷大用",
+      "target": "刘瑾",
+      "type": "关联",
+      "description": "同属\"八虎\"，曾奉朱厚照之命设宴调解刘瑾与张永的矛盾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "谷大用",
+      "target": "张永",
+      "type": "关联",
+      "description": "同属\"八虎\"，曾奉朱厚照之命设宴调解张永与刘瑾的矛盾。",
+      "chapter": "第十一章 必杀刘瑾",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "刘瑾",
+      "type": "君臣",
+      "description": "朱厚照为君，刘瑾为宦官宠臣，曾是朱厚照的玩伴。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "钱宁",
+      "type": "君臣",
+      "description": "朱厚照为君，钱宁为佞臣，接替刘瑾成为朱厚照的玩伴，陪同其玩乐。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "马昂",
+      "type": "君臣",
+      "description": "朱厚照为君，马昂为前延绥总兵，为求复起向朱厚照进献妹妹及小妾。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "杨廷和",
+      "type": "君臣",
+      "description": "朱厚照为君，杨廷和为内阁首辅及老师，朱厚照对其既反感又依赖。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "江彬",
+      "type": "君臣",
+      "description": "朱厚照为君，江彬为武官宠臣，曾为朱厚照挡虎，并提议和协助其夜奔出关。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "梁储",
+      "type": "君臣",
+      "description": "朱厚照为君，梁储为内阁大臣，曾两次追谏并试图阻止朱厚照私自出关。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "蒋冕",
+      "type": "君臣",
+      "description": "朱厚照为君，蒋冕为内阁大臣，与梁储一同追谏并试图阻止朱厚照私自出关。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "张钦",
+      "type": "君臣",
+      "description": "朱厚照为君，张钦为居庸关御史，坚决拒绝执行朱厚照开关的命令。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "小王子",
+      "type": "敌对",
+      "description": "朱厚照为明朝皇帝，小王子为蒙古首领，双方处于敌对状态，朱厚照出关意图与之交锋。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "马昂",
+      "type": "敌对",
+      "description": "杨廷和因马昂向皇帝进献已婚妹妹及小妾的行为感到极度愤怒。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "张钦",
+      "target": "孙玺",
+      "type": "同盟",
+      "description": "两人同为居庸关守官，张钦说服孙玺共同抗命，拒绝为朱厚照开关。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "张钦",
+      "target": "刘嵩",
+      "type": "敌对",
+      "description": "张钦持剑阻止试图为朱厚照偷偷开关的镇守太监刘嵩。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "梁储",
+      "target": "蒋冕",
+      "type": "朋友",
+      "description": "两人同为内阁大臣，由李东阳推荐，共同处理政务，并一同追谏朱厚照。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "梁储",
+      "type": "关联",
+      "description": "李东阳曾推荐梁储入朝为官。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "李东阳",
+      "target": "蒋冕",
+      "type": "关联",
+      "description": "李东阳曾推荐蒋冕入朝为官。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "朱厚照",
+      "type": "关联",
+      "description": "江彬曾为朱厚照挡住猛虎的扑击，救其于危难。",
+      "chapter": "第十二章 皇帝的幸福生活",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "小王子",
+      "type": "敌对",
+      "description": "正德十二年，朱厚照在应州之战中亲自率军与入侵的小王子部蒙古军交战。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "王勋",
+      "type": "君臣",
+      "description": "朱厚照作为皇帝，向大同总兵王勋下达作战命令，指挥其迎击小王子。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "江彬",
+      "type": "君臣",
+      "description": "江彬是朱厚照的边将亲信，在应州之战中随侍左右并提出军事建议。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "张永",
+      "type": "君臣",
+      "description": "朱厚照暗中命令太监张永率军前来参与应州之战。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "魏彬",
+      "type": "君臣",
+      "description": "朱厚照暗中命令太监魏彬率军前来参与应州之战。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "张忠",
+      "type": "君臣",
+      "description": "朱厚照暗中命令太监张忠率军前来参与应州之战。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "杨廷和",
+      "type": "君臣",
+      "description": "正德十四年，首辅杨廷和上书劝阻朱厚照南巡，引发君臣冲突。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "朱祐樘",
+      "type": "亲属",
+      "description": "朱祐樘是朱厚照的父亲，本章提及二人性格迥异（和平主义者 vs 好战）。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "王勋",
+      "target": "萧滓",
+      "type": "同盟",
+      "description": "应州之战中，辽东参将萧滓奉命率军增援被围的王勋部。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "王勋",
+      "target": "时春",
+      "type": "同盟",
+      "description": "应州之战中，宣府游击时春奉命率军增援被围的王勋部。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "小王子",
+      "target": "仇钺",
+      "type": "敌对",
+      "description": "正德七年，小王子部与明朝将领仇钺在沙河边境发生战斗。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "小王子",
+      "target": "赵瑛",
+      "type": "敌对",
+      "description": "正德六年，小王子率部进攻宣府，杀死守备赵瑛。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "小王子",
+      "target": "王继",
+      "type": "敌对",
+      "description": "正德六年，小王子率部进攻宣府，杀死都指挥王继。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "也先",
+      "target": "小王子",
+      "type": "关联",
+      "description": "本章提及小王子势力的崛起背景：也先死后，瓦剌衰落，鞑靼（小王子所属部落）壮大。",
+      "chapter": "第十三章 无人知晓的胜利",
+      "volume": 3
+    },
+    {
+      "source": "杨一清",
+      "target": "王守仁",
+      "type": "师生",
+      "description": "杨一清赏识王守仁的才能，刻意提拔他。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王琼",
+      "target": "王守仁",
+      "type": "师生",
+      "description": "王琼认为王守仁可保天下太平，运用权力对其破格提拔。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王琼",
+      "target": "钱宁",
+      "type": "朋友",
+      "description": "王琼与钱宁关系很好，钱宁常批准王琼的奏折。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王琼",
+      "target": "江彬",
+      "type": "朋友",
+      "description": "王琼与江彬关系很好，江彬常批准王琼的奏折。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "钱宁",
+      "target": "江彬",
+      "type": "敌对",
+      "description": "钱宁和江彬是死对头。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "孙燧",
+      "type": "朋友",
+      "description": "两人是同乡，也是同朝为官最好的朋友，在江西共同应对宁王威胁。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "江西土匪",
+      "type": "同盟",
+      "description": "土匪背后有宁王朱宸濠的支持和影子。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "孙燧",
+      "type": "敌对",
+      "description": "朱宸濠试图拉拢、威胁孙燧，孙燧坚决不从并监视其谋反举动。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "刘养正",
+      "type": "君臣",
+      "description": "朱宸濠招募刘养正为谋士，任命其为造反行动总助理。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "李士实",
+      "type": "君臣",
+      "description": "朱宸濠招募前侍郎李士实为谋士。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "唐寅",
+      "type": "君臣",
+      "description": "朱宸濠礼遇并招募唐伯虎，唐伯虎察觉其谋反意图后装疯脱身。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "张居正",
+      "type": "关联",
+      "description": "张居正读王守仁的书，看懂了“知行合一”并受用终身。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "海瑞",
+      "type": "关联",
+      "description": "海瑞读王守仁的书，但没有看懂“知行合一”。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "陶行知",
+      "type": "关联",
+      "description": "陶行知因佩服“知行合一”思想，以此作为行为准则并改名。",
+      "chapter": "第十四章 东山再起",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "孙燧",
+      "type": "朋友",
+      "description": "同乡好友，王守仁得知宁王叛乱后首先想到并悼念孙燧的遇害。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱宸濠",
+      "type": "敌对",
+      "description": "王守仁作为朝廷巡抚，组织平叛军队，与叛乱的宁王朱宸濠为敌。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "戴德孺",
+      "type": "君臣",
+      "description": "王守仁是戴德孺的上司（巡抚），说服戴德孺留下参与平叛。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "伍文定",
+      "type": "君臣",
+      "description": "王守仁是平叛总司令，伍文定是其下属（吉安知府）和得力助手。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王琼",
+      "type": "关联",
+      "description": "王琼是王守仁在兵部的老上级，王守仁期望其能派兵援助。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "孙燧",
+      "type": "敌对",
+      "description": "朱宸濠叛乱，杀害了拒绝合作的江西巡抚孙燧。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "李士实",
+      "type": "君臣",
+      "description": "李士实是宁王朱宸濠的谋士。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "刘养正",
+      "type": "君臣",
+      "description": "刘养正是宁王朱宸濠的谋士。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "杨锐",
+      "type": "敌对",
+      "description": "朱宸濠率叛军进攻安庆，遭到都督杨锐的抵抗。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "张文锦",
+      "type": "敌对",
+      "description": "朱宸濠率叛军进攻安庆，遭到知府张文锦的抵抗。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "潘鹏",
+      "type": "君臣",
+      "description": "潘鹏是投降宁王的官员，并奉命去劝降安庆守军。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "李士实",
+      "target": "刘养正",
+      "type": "同盟",
+      "description": "两人同为宁王朱宸濠的谋士，共同为其出谋划策。",
+      "chapter": "第十五章 孤军",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱宸濠",
+      "type": "敌对",
+      "description": "王守仁作为明朝巡抚，率军平定宁王朱宸濠的叛乱。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "伍文定",
+      "type": "君臣",
+      "description": "伍文定是王守仁的部将，担任先锋并执行关键军令。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "胡尧元",
+      "type": "君臣",
+      "description": "胡尧元是王守仁的部将，奉命率伏兵袭击叛军。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "戴德孺",
+      "type": "君臣",
+      "description": "戴德孺是王守仁的部将，奉命埋伏并参与总攻。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "徐琏",
+      "type": "君臣",
+      "description": "徐琏是王守仁的部将，奉命埋伏并参与总攻。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "刘养正",
+      "type": "君臣",
+      "description": "刘养正是宁王朱宸濠的谋士，为其出谋划策。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "李士实",
+      "type": "君臣",
+      "description": "李士实是宁王朱宸濠的丞相兼谋士，后被俘。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "闵二十四",
+      "type": "同盟",
+      "description": "闵二十四为强盗头目，受宁王钱财招募为其作战。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "凌十一",
+      "type": "同盟",
+      "description": "凌十一为强盗头目，受宁王钱财招募为其作战。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "吴十三",
+      "type": "同盟",
+      "description": "吴十三为强盗头目，受宁王钱财招募为其作战。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "孙燧",
+      "type": "敌对",
+      "description": "朱宸濠因孙燧不依附自己而将其杀害。",
+      "chapter": "第十六章 奋战",
+      "volume": 3
+    },
+    {
+      "source": "王琼",
+      "target": "王守仁",
+      "type": "君臣",
+      "description": "王琼任兵部尚书时，赏识并派王守仁镇守赣南，以应对宁王叛乱。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "杨廷和",
+      "type": "君臣",
+      "description": "杨廷和是朱厚照的老师（杨师傅）和内阁首辅，常劝阻其行为，本章中试图阻止其亲征。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "江彬",
+      "type": "君臣",
+      "description": "江彬是朱厚照的第一宠臣，极力支持其亲征，但暗中策划阴谋。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "钱宁",
+      "type": "君臣",
+      "description": "钱宁曾是朱厚照宠臣，但实为宁王安插的内奸，后被朱厚照下令逮捕。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "刘姬",
+      "type": "亲属",
+      "description": "刘姬是朱厚照十分宠爱的女子，朱厚照曾专程回京接她一同南巡。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "钱宁",
+      "type": "敌对",
+      "description": "江彬设计调离并搜集钱宁勾结宁王的证据，导致钱宁被捕垮台。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "钱宁",
+      "target": "朱宸濠",
+      "type": "同盟",
+      "description": "钱宁是朱宸濠安插在皇帝身边的内奸，收受其贿赂，为其提供情报。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "朱辅",
+      "type": "敌对",
+      "description": "江彬仗势欺压成国公朱辅，甚至令其下跪。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱辅",
+      "target": "朱能",
+      "type": "亲属",
+      "description": "朱辅是靖难功臣朱能的后代，袭封成国公。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "朱宸濠",
+      "type": "敌对",
+      "description": "朱宸濠起兵叛乱，朱厚照决定亲征讨伐。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱宸濠",
+      "type": "敌对",
+      "description": "王守仁平定宁王朱宸濠的叛乱。",
+      "chapter": "第十七章 死亡的阴谋",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "江彬",
+      "type": "敌对",
+      "description": "江彬因嫉妒王守仁平定宁王之功并疑心奏折指向自己，决定陷害王守仁；王守仁视江彬为比朱宸濠更可怕的敌人。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱宸濠",
+      "type": "敌对",
+      "description": "王守仁平定朱宸濠叛乱，并将其俘获。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "江彬是明武宗朱厚照的宠臣，为其出谋划策，本章中提议将朱宸濠放回再抓一次。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "王守仁向皇帝朱厚照上奏，希望将朱宸濠送至南京献俘，以避免大军扰民。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "张永",
+      "type": "同盟",
+      "description": "王守仁主动拜会张永，说服其帮助自己劝皇帝回京，张永最终被王守仁的正直打动，成为盟友并在皇帝面前维护王守仁。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王琼",
+      "type": "朋友",
+      "description": "两人关系一直很好，王守仁在官场的重要人脉之一。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "杨廷和",
+      "type": "敌对",
+      "description": "内阁首辅杨廷和不喜欢王守仁。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "张忠",
+      "type": "同盟",
+      "description": "张忠是江彬的同党，被派往江西试图整垮王守仁。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "张忠",
+      "target": "王守仁",
+      "type": "敌对",
+      "description": "张忠奉江彬之命到江西，通过逮捕伍文定、纵兵闹事、当面质问等方式刁难陷害王守仁。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "张忠",
+      "target": "伍文定",
+      "type": "敌对",
+      "description": "张忠逮捕伍文定，逼其交代所谓罪行，遭伍文定怒斥。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "伍文定",
+      "target": "王守仁",
+      "type": "同盟",
+      "description": "伍文定是王守仁的部下，共同平定宁王叛乱，并坚决维护王守仁。",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "杨一清",
+      "type": "同盟",
+      "description": "十年前（1509年）曾合作除掉宦官刘瑾。（本章背景提及）",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "朱宸濠",
+      "target": "李士实",
+      "type": "君臣",
+      "description": "李士实是朱宸濠的谋士，曾劝其节省贿赂开支。（通过账本事件背景提及）",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "钱宁",
+      "type": "敌对",
+      "description": "江彬曾将钱宁关进牢房。（本章背景提及）",
+      "chapter": "第十八章 沉默的较量",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "王守仁",
+      "type": "敌对",
+      "description": "江彬多次策划阴谋企图整倒乃至杀害王守仁。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "张忠",
+      "type": "同盟",
+      "description": "张忠是江彬的同党，受其指使具体执行构陷王守仁的计划。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "吴经",
+      "type": "同盟",
+      "description": "吴经在扬州抢掠民女民宅，江彬随后试图为难抵制此事的蒋瑶为其出头。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "乔宇",
+      "type": "敌对",
+      "description": "江彬向乔宇索要南京城门钥匙被拒，双方发生冲突，江彬调查并威胁乔宇。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "江彬",
+      "target": "朱厚照",
+      "type": "君臣",
+      "description": "江彬是朱厚照的宠臣和亲信，被封为威武副将军，但暗中可能策划对皇帝不利的阴谋。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "蒋瑶",
+      "type": "君臣",
+      "description": "皇帝与地方官。蒋瑶多次直言顶撞并抵制朱厚照及其随从的过分要求，朱厚照最终未加罪于他。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "朱厚照",
+      "target": "吴经",
+      "type": "君臣",
+      "description": "吴经是伺候朱厚照的太监，但他在扬州的行为被描述为“矫上意”。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "王守仁",
+      "type": "朋友",
+      "description": "张永多次帮助王守仁，如通知其应召觐见以破解江彬圈套，并在皇帝面前为其说好话。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "乔宇",
+      "type": "同盟",
+      "description": "两人私交甚好，在南京共同监视江彬，防范其谋反企图。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "江彬",
+      "type": "敌对",
+      "description": "张永派眼线监视江彬，并与其在权力斗争中对立。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "乔宇",
+      "target": "杨一清",
+      "type": "师生",
+      "description": "乔宇是杨一清的学生，这层关系使江彬不敢轻易动他。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "蒋瑶",
+      "target": "吴经",
+      "type": "敌对",
+      "description": "蒋瑶作为扬州知府，制止吴经在当地的抢掠行为，并与之发生正面冲突。",
+      "chapter": "第十九章 终结的归宿",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "王守仁",
+      "type": "关联",
+      "description": "张永认为王守仁算是“他的人”，曾向其索要宁王账本，被拒后心服口服。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "王守仁",
+      "type": "敌对",
+      "description": "杨廷和因与王琼有矛盾，对王守仁“自然不会手下留情”，将其调往南京而非入京。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王华",
+      "type": "亲属",
+      "description": "父子关系。王华去世(1522年)对王守仁打击沉重。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王艮",
+      "type": "师生",
+      "description": "王艮拜王守仁为师，成为其最优秀的学生之一，后创立泰州学派。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "钱德洪",
+      "type": "师生",
+      "description": "钱德洪是王守仁的嫡传弟子和心学传人，参与天泉论道。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王守仁",
+      "target": "王畿",
+      "type": "师生",
+      "description": "王畿是王守仁的嫡传弟子和心学传人，参与天泉论道。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "朱厚熜",
+      "type": "君臣",
+      "description": "杨廷和在朱厚照死后，与张永等拥立朱厚熜(嘉靖帝)即位。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "朱厚熜",
+      "type": "君臣",
+      "description": "张永在朱厚照死后，与杨廷和等议立朱厚熜(嘉靖帝)即位。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "谷大用",
+      "target": "朱厚熜",
+      "type": "君臣",
+      "description": "谷大用在朱厚照死后，与杨廷和等议立朱厚熜(嘉靖帝)即位。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "江彬",
+      "type": "敌对",
+      "description": "杨廷和在朱厚照死后设计擒杀江彬，解除其兵权。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "张永",
+      "target": "江彬",
+      "type": "敌对",
+      "description": "张永参与杨廷和擒杀江彬的计划，曾假意请江彬吃饭以诱捕。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "张洪",
+      "target": "江彬",
+      "type": "关联",
+      "description": "张洪是江彬的心腹，曾为江彬打探杨廷和动向。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "蒋冕",
+      "type": "同盟",
+      "description": "蒋冕是内阁同僚，与杨廷和共同谋划处理江彬及拥立新帝等事宜。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "毛纪",
+      "type": "同盟",
+      "description": "毛纪是内阁同僚，与杨廷和共同谋划处理江彬及拥立新帝等事宜。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "郭勋",
+      "type": "同盟",
+      "description": "杨廷和命郭勋控制京城防务，以配合解决江彬。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "杨廷和",
+      "target": "王琼",
+      "type": "敌对",
+      "description": "杨廷和与王守仁的老上级王琼“有着很深的矛盾”。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王艮",
+      "target": "徐阶",
+      "type": "关联",
+      "description": "徐阶受泰州学派（王艮创立）思想影响，但非嫡传，属思想传承关系。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    },
+    {
+      "source": "王艮",
+      "target": "李贽",
+      "type": "关联",
+      "description": "李贽是泰州学派（王艮创立）后学中的重要思想家，属思想传承关系。",
+      "chapter": "第二十章 新的开始",
+      "volume": 3
+    }
+  ]
+}

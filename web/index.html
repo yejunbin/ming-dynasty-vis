@@ -1,0 +1,1019 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>明朝那些事儿（全七卷）</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+    background: #f5f0e8;
+    color: #333;
+    overflow: hidden;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    background: #8b0000;
+    color: #fff;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    height: 48px;
+  }
+  header h1 {
+    font-size: 18px;
+    white-space: nowrap;
+  }
+  header .controls {
+    margin-left: auto;
+    display: flex;
+    gap: 8px;
+  }
+  header button {
+    padding: 5px 14px;
+    border: none;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background 0.2s;
+  }
+  header button:hover { background: rgba(255,255,255,0.35); }
+  header select {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.2);
+    color: #fff;
+    cursor: pointer;
+    font-size: 13px;
+    outline: none;
+  }
+  header select option {
+    background: #8b0000;
+    color: #fff;
+  }
+
+  main {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  .canvas-wrap {
+    flex: 1;
+    position: relative;
+    overflow: auto;
+  }
+  #canvas { width: 100%; height: 100%; }
+
+  .panel {
+    width: 300px;
+    background: #fff;
+    border-left: 1px solid #ddd;
+    padding: 14px;
+    overflow-y: auto;
+    flex-shrink: 0;
+  }
+  .panel h2 {
+    font-size: 17px;
+    color: #8b0000;
+    margin-bottom: 10px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #8b0000;
+  }
+  .panel h3 {
+    font-size: 13px;
+    color: #555;
+    margin: 12px 0 6px;
+  }
+  .panel p {
+    font-size: 12px;
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 6px;
+  }
+  .panel .placeholder {
+    color: #999;
+    font-style: italic;
+    text-align: center;
+    margin-top: 40px;
+  }
+  .event-list {
+    list-style: none;
+  }
+  .event-list li {
+    padding: 6px 8px;
+    margin-bottom: 4px;
+    background: #faf7f2;
+    border-radius: 4px;
+    border-left: 3px solid #8b0000;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .event-list li:hover { background: #f0ebe0; }
+  .event-list .ev-year {
+    color: #8b0000;
+    font-weight: bold;
+    margin-right: 4px;
+  }
+  .person-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 2px;
+    background: #e8e0d0;
+    border-radius: 3px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .person-tag:hover { background: #d8d0c0; }
+
+  .legend {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(255,255,255,0.92);
+    padding: 8px 12px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-size: 11px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 2px 0;
+  }
+  .legend-color {
+    width: 16px;
+    height: 3px;
+    border-radius: 2px;
+  }
+
+  .person-circle {
+    cursor: pointer;
+  }
+  .person-circle.dim { opacity: 0.12; }
+  .person-circle.highlight { opacity: 1; stroke: #222; stroke-width: 3; }
+
+  .person-label {
+    fill: #333;
+    font-size: 10px;
+    pointer-events: none;
+  }
+  .person-label.dim { opacity: 0.12; }
+  .person-label.highlight { font-weight: bold; fill: #000; font-size: 11px; }
+
+  .event-bar {
+    cursor: pointer;
+  }
+  .event-bar.dim { opacity: 0.12; }
+  .event-bar.highlight { opacity: 1; stroke: #222; stroke-width: 2; }
+  .event-bar.next-highlight { opacity: 0.75; stroke: #888; stroke-width: 1.5; }
+
+  .bar-label {
+    fill: #fff;
+    font-size: 10px;
+    pointer-events: none;
+    text-anchor: start;
+    dominant-baseline: middle;
+  }
+
+  .narrative-line {
+    fill: none;
+    stroke-width: 1.2;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+  .narrative-line.dim { opacity: 0.03; }
+  .narrative-line.highlight {
+    opacity: 1;
+    stroke-width: 2.5;
+    stroke: #333;
+    stroke-dasharray: none;
+  }
+
+  .relation-line {
+    fill: none;
+    stroke-width: 1.2;
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  .relation-line.dim { opacity: 0.03; }
+  .relation-line.highlight {
+    opacity: 0.9;
+    stroke-width: 2.5;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>明朝那些事儿</h1>
+  <select id="volume-select">
+    <option value="0">全七卷</option>
+    <option value="1">第1卷 · 洪武大帝</option>
+    <option value="2">第2卷 · 万国来朝</option>
+    <option value="3">第3卷 · 妖孽宫廷</option>
+    <option value="4">第4卷 · 粉饰太平</option>
+    <option value="5">第5卷 · 帝国飘摇</option>
+    <option value="6">第6卷 · 日落西山</option>
+    <option value="7">第7卷 · 大结局</option>
+  </select>
+  <div class="controls">
+    <button id="btn-reset" title="重置视图">⟲ 重置</button>
+  </div>
+</header>
+
+<main>
+  <div class="canvas-wrap">
+    <svg id="canvas"></svg>
+    <div class="legend" id="legend"></div>
+  </div>
+  <div class="panel" id="panel">
+    <div class="placeholder">点击人物或事件查看详情</div>
+  </div>
+</main>
+
+<script>
+let data = null;
+let selectedPerson = null;
+let selectedEvent = null;
+let _eventItems = null;
+let currentVolume = 0;
+const margin = { top: 20, right: 20, bottom: 30, left: 20 };
+
+function personColor(name) {
+  const colors = [
+    '#8b0000', '#a0522d', '#cd853f', '#d2691e', '#b8860b',
+    '#556b2f', '#6b8e23', '#2e8b57', '#3cb371', '#20b2aa',
+    '#008b8b', '#4682b4', '#5f9ea0', '#6495ed', '#4169e1',
+    '#6a5acd', '#483d8b', '#8b4513', '#800080', '#a52a2a',
+  ];
+  let hash = 0;
+  for (let i = 0; i < name.length; i++) hash = name.charCodeAt(i) + ((hash << 5) - hash);
+  return colors[Math.abs(hash) % colors.length];
+}
+
+const REL_COLORS = {
+  '君臣': '#4169e1',
+  '敌对': '#dc143c',
+  '亲属': '#228b22',
+  '朋友': '#ff8c00',
+  '同盟': '#9932cc',
+  '关联': '#999999',
+  '师生': '#20b2aa',
+  '同僚': '#cd853f',
+};
+
+function relationColor(types) {
+  if (!types || types.length === 0) return '#999';
+  if (types.length > 1) return '#808080';
+  return REL_COLORS[types[0]] || '#999';
+}
+
+async function loadData() {
+  const res = await fetch('./data/ming_all.json');
+  data = await res.json();
+  renderUnifiedView();
+}
+
+function getLayoutSize() {
+  const wrap = document.querySelector('.canvas-wrap');
+  return { w: wrap.clientWidth, h: Math.max(700, wrap.clientHeight) };
+}
+
+const CN_NUMS = { '一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9,'十':10,'十一':11,'十二':12,'十三':13,'十四':14,'十五':15,'十六':16,'十七':17,'十八':18,'十九':19,'二十':20,'二十一':21,'二十二':22,'二十三':23 };
+function parseChapterNum(ch) {
+  if (!ch) return 999;
+  const m = ch.match(/^第(.+?)章/);
+  return m ? (CN_NUMS[m[1]] || 99) : 99;
+}
+// 解析事件年份（处理字符串如 "约1550年代"、"成化年间（1465-1487）"）
+function parseEventYear(ev) {
+  let y = ev.years && ev.years[0];
+  if (typeof y === 'number') return y;
+  if (typeof y === 'string') {
+    const s = y.trim();
+    let m = s.match(/\((\d{4})[\-\~—](\d{4})\)/);
+    if (m) return Math.round((parseInt(m[1]) + parseInt(m[2])) / 2);
+    m = s.match(/\((\d{4})\)/);
+    if (m) return parseInt(m[1]);
+    m = s.match(/(\d{4})/);
+    if (m) {
+      const yy = parseInt(m[1]);
+      if (yy >= 1200 && yy <= 1700) return yy;
+    }
+    m = s.match(/(\d{2})年代/);
+    if (m) {
+      const decade = parseInt(m[1]);
+      if (decade >= 13 && decade <= 16) return decade * 100 + 5;
+    }
+  }
+  return null;
+}
+
+function renderUnifiedView() {
+  const { w, h } = getLayoutSize();
+  const svg = d3.select('#canvas').attr('width', w).attr('height', h);
+  svg.selectAll('*').remove();
+
+  // ========== FILTER DATA BY VOLUME ==========
+  let persons = data.persons;
+  let events = data.events;
+  let relations = data.relations;
+  let timeline = data.timeline;
+  let minYear, maxYear;
+
+  if (currentVolume > 0) {
+    persons = data.persons.filter(p => p.volume === currentVolume);
+    events = data.events.filter(e => e.volume === currentVolume);
+    relations = data.relations.filter(r => r.volume === currentVolume);
+    // Compute dynamic time range from this volume's events (event years are reliable)
+    const allYears = [];
+    events.forEach(e => {
+      const y = e.years && e.years[0];
+      if (typeof y === 'number' && y >= 1200 && y <= 1700) {
+        allYears.push(y);
+      } else if (typeof y === 'string') {
+        const m = y.match(/(\d{4})/);
+        if (m) {
+          const yy = parseInt(m[1]);
+          if (yy >= 1200 && yy <= 1700) allYears.push(yy);
+        }
+      }
+    });
+    if (allYears.length > 0) {
+      minYear = Math.min(...allYears) - 5;
+      maxYear = Math.max(...allYears) + 5;
+    } else {
+      const volRanges = {1:[1200,1410], 2:[1355,1465], 3:[1440,1540], 4:[1475,1600], 5:[1510,1605], 6:[1560,1650], 7:[1495,1650]};
+      [minYear, maxYear] = volRanges[currentVolume] || data.timeRange;
+    }
+    // Filter timeline markers to visible range
+    timeline = data.timeline.filter(t => t.year >= minYear && t.year <= maxYear);
+  } else {
+    [minYear, maxYear] = data.timeRange;
+  }
+
+  // Layout constants
+  const timelineX = w * 0.30;
+  const leftMaxX = timelineX - 40;
+  const rightMinX = timelineX + 40;
+  const rightMaxX = w - margin.right;
+  const rulerBarW = 40;
+  const rulerBarX = timelineX + 6;
+
+  // Y scale: time from top to bottom
+  const yearSpan = maxYear - minYear;
+  const pixelsPerYear = 8;
+
+  const yScale = d3.scaleLinear()
+    .domain([minYear, maxYear])
+    .range([margin.top, margin.top + yearSpan * pixelsPerYear]);
+
+  // ========== PREPARE DATA ==========
+  // 人物过滤：只保留关系度 >= 3 或 出场年份明确的核心人物
+  const degreeMap = {};
+  persons.forEach(p => degreeMap[p.name] = 0);
+  relations.forEach(r => {
+    degreeMap[r.source] = (degreeMap[r.source] || 0) + 1;
+    degreeMap[r.target] = (degreeMap[r.target] || 0) + 1;
+  });
+
+  // Build event ID set for efficient lookup
+  const eventIdSet = new Set(events.map(e => e.id));
+
+  const filteredPersons = persons.filter(p => {
+    const deg = degreeMap[p.name] || 0;
+    const hasEventsInVolume = p.events && p.events.some(eid => eventIdSet.has(eid));
+    return deg >= 3 || hasEventsInVolume || (p.startYear && p.endYear);
+  });
+
+  const personItems = filteredPersons.map(p => {
+    const validStart = (p.startYear && p.startYear >= 1200 && p.startYear <= 1700) ? p.startYear : minYear;
+    return {
+      ...p,
+      degree: degreeMap[p.name] || 0,
+      r: 5 + Math.sqrt(degreeMap[p.name] || 0) * 2,
+      py: yScale(validStart),
+    };
+  }).sort((a, b) => a.py - b.py);
+
+  // 人物布局：同一年纵向错开，横向展开，避免Y重叠
+  const personTrackWidth = 52;
+  const minPersonGap = 32;
+  const personTracks = [];
+
+  personItems.forEach(p => {
+    const idealY = p.py;
+    let bestTrack = -1;
+    let bestY = Infinity;
+
+    for (let t = 0; t < personTracks.length; t++) {
+      const last = personTracks[t];
+      const candidateY = Math.max(idealY, last.py + last.r + p.r + minPersonGap);
+      if (candidateY < bestY) {
+        bestY = candidateY;
+        bestTrack = t;
+      }
+    }
+
+    if (bestTrack >= 0 && bestY <= idealY + 120) {
+      p.track = bestTrack;
+      p.py = bestY;
+      personTracks[bestTrack] = p;
+    } else {
+      p.track = personTracks.length;
+      personTracks.push(p);
+    }
+  });
+
+  personItems.forEach(p => {
+    p.px = timelineX - 28 - p.track * personTrackWidth;
+  });
+
+  const itemByName = {};
+  personItems.forEach(p => itemByName[p.name] = p);
+
+  // Deduplicate relations and filter to core persons only
+  const relMap = new Map();
+  relations.forEach(r => {
+    if (!itemByName[r.source] || !itemByName[r.target]) return;
+    const key = [r.source, r.target].sort().join('::');
+    if (!relMap.has(key)) relMap.set(key, r);
+  });
+  const uniqueRels = Array.from(relMap.values());
+
+  // Events - 只保留重要性 >= 3 的事件，减少密度
+  const barHeight = 22;
+  const barGap = 5;
+
+  const charWidth = (ch) => ch.charCodeAt(0) > 127 ? 11 : 6;
+  const textWidth = (str) => str.split('').reduce((a, c) => a + charWidth(c), 0);
+
+  const filteredEvents = events.filter(e => (e.importance || 3) >= 3);
+
+  const eventItems = filteredEvents.map(e => {
+    const py = parseEventYear(e);
+    return {
+      ...e,
+      _year: py,
+      textW: textWidth(e.title) + 14,
+    };
+  });
+
+  // 按年份→章节→重要性排序，保证叙事线沿时间自然延伸不交叉
+  eventItems.sort((a, b) => {
+    const ya = a._year || 9999;
+    const yb = b._year || 9999;
+    if (ya !== yb) return ya - yb;
+    const ca = parseChapterNum(a.chapter);
+    const cb = parseChapterNum(b.chapter);
+    if (ca !== cb) return ca - cb;
+    return (b.importance || 3) - (a.importance || 3);
+  });
+
+  _eventItems = eventItems;
+
+  // 事件布局：多轨道横向展开，Y基于年份，不同年份也保证纵向不重叠
+  const eventTrackWidth = 140;
+  const minEventGap = 36; // 同轨道事件最小纵向间距
+  const eventStartX = rulerBarX + rulerBarW + 20;
+
+  // tracks[t] = 最后放入该轨道的事件对象
+  const tracks = [];
+
+  eventItems.forEach(ev => {
+    const idealY = yScale(ev._year || minYear);
+    let bestTrack = -1;
+    let bestY = Infinity;
+
+    for (let t = 0; t < tracks.length; t++) {
+      const last = tracks[t];
+      const candidateY = Math.max(idealY, last.finalY + minEventGap);
+      if (candidateY < bestY) {
+        bestY = candidateY;
+        bestTrack = t;
+      }
+    }
+
+    // 放宽偏移阈值，允许更大的Y推移以减少同轨道密度
+    if (bestTrack >= 0 && bestY <= idealY + 200) {
+      ev.track = bestTrack;
+      ev.finalY = bestY;
+      tracks[bestTrack] = ev;
+    } else {
+      // 创建新轨道（更靠右）
+      ev.track = tracks.length;
+      ev.finalY = idealY;
+      tracks.push(ev);
+    }
+  });
+
+  eventItems.forEach(ev => {
+    ev.px = eventStartX + ev.track * eventTrackWidth;
+  });
+
+  // Calculate required height
+  const maxPersonY = Math.max(...personItems.map(p => p.py + p.r));
+  const maxEventY = Math.max(...eventItems.map(e => e.finalY + barHeight/2));
+  const maxTimeY = yScale(maxYear);
+  const chartHeight = Math.max(h, maxPersonY, maxEventY, maxTimeY) + margin.bottom + 20;
+  svg.attr('height', chartHeight);
+
+  // ========== ZOOM ==========
+  const content = svg.append('g').attr('class', 'zoom-layer');
+
+  const zoom = d3.zoom()
+    .scaleExtent([0.3, 5])
+    .on('zoom', (event) => {
+      content.attr('transform', event.transform);
+    });
+  svg.call(zoom);
+  window._currentZoom = zoom;
+
+  // 点击空白区域取消高亮
+  svg.on('click', (event) => {
+    const target = event.target;
+    if (target.tagName === 'svg' || target.id === 'canvas') {
+      selectedPerson = null;
+      selectedEvent = null;
+      d3.selectAll('.person-circle, .person-label, .relation-line, .event-bar')
+        .classed('dim', false).classed('highlight', false).classed('next-highlight', false);
+      d3.selectAll('.narrative-line').classed('dim', false).classed('highlight', false);
+      document.getElementById('panel').innerHTML = '<div class="placeholder">点击人物或事件查看详情</div>';
+    }
+  });
+
+  // ========== TIMELINE AXIS (center) ==========
+  const axisG = content.append('g').attr('class', 'timeline-group');
+
+  // Main vertical line
+  axisG.append('line')
+    .attr('x1', timelineX).attr('x2', timelineX)
+    .attr('y1', yScale(minYear) - 10)
+    .attr('y2', yScale(maxYear) + 10)
+    .attr('stroke', '#8b0000')
+    .attr('stroke-width', 2);
+
+  // Year ticks and labels (每50年一个大刻度)
+  const tickInterval = 50;
+  for (let year = Math.ceil(minYear / tickInterval) * tickInterval; year <= maxYear; year += tickInterval) {
+    const y = yScale(year);
+    const isMajor = year % 10 === 0;
+    const tickLen = isMajor ? 14 : 7;
+
+    // Left tick
+    axisG.append('line')
+      .attr('x1', timelineX - tickLen).attr('x2', timelineX)
+      .attr('y1', y).attr('y2', y)
+      .attr('stroke', '#8b0000')
+      .attr('stroke-width', isMajor ? 1.5 : 1);
+
+    if (isMajor) {
+      // Year label on left
+      axisG.append('text')
+        .attr('x', timelineX - 18).attr('y', y + 3)
+        .attr('text-anchor', 'end')
+        .attr('font-size', '10px')
+        .attr('fill', '#666')
+        .text(year + '年');
+    }
+  }
+
+  // 皇帝在位时间段长条（时间轴右侧）
+  const emperorRanges = [
+    { name: '元顺帝', era: '至正', temple: '', start: 1328, end: 1368, color: '#6b7b8c' },
+    { name: '朱元璋', era: '洪武', temple: '明太祖', start: 1368, end: 1398, color: '#a52a2a' },
+    { name: '朱允炆', era: '建文', temple: '明惠帝', start: 1398, end: 1402, color: '#cd5c5c' },
+    { name: '朱棣', era: '永乐', temple: '明成祖', start: 1402, end: 1424, color: '#a52a2a' },
+    { name: '朱高炽', era: '洪熙', temple: '明仁宗', start: 1424, end: 1425, color: '#cd5c5c' },
+    { name: '朱瞻基', era: '宣德', temple: '明宣宗', start: 1425, end: 1435, color: '#a52a2a' },
+    { name: '朱祁镇', era: '正统/天顺', temple: '明英宗', start: 1435, end: 1464, color: '#cd5c5c' },
+    { name: '朱祁钰', era: '景泰', temple: '明代宗', start: 1449, end: 1457, color: '#cd5c5c' },
+    { name: '朱见深', era: '成化', temple: '明宪宗', start: 1464, end: 1487, color: '#a52a2a' },
+    { name: '朱祐樘', era: '弘治', temple: '明孝宗', start: 1487, end: 1505, color: '#cd5c5c' },
+    { name: '朱厚照', era: '正德', temple: '明武宗', start: 1505, end: 1521, color: '#a52a2a' },
+    { name: '朱厚熜', era: '嘉靖', temple: '明世宗', start: 1521, end: 1567, color: '#cd5c5c' },
+    { name: '朱载坖', era: '隆庆', temple: '明穆宗', start: 1567, end: 1572, color: '#a52a2a' },
+    { name: '朱翊钧', era: '万历', temple: '明神宗', start: 1572, end: 1620, color: '#cd5c5c' },
+    { name: '朱常洛', era: '泰昌', temple: '明光宗', start: 1620, end: 1620, color: '#a52a2a' },
+    { name: '朱由校', era: '天启', temple: '明熹宗', start: 1620, end: 1627, color: '#cd5c5c' },
+    { name: '朱由检', era: '崇祯', temple: '明思宗', start: 1627, end: 1644, color: '#a52a2a' },
+  ];
+
+  emperorRanges.forEach((emp, i) => {
+    const y1 = yScale(emp.start);
+    const y2 = yScale(emp.end);
+    const h = y2 - y1;
+
+    // 纵向长条
+    axisG.append('rect')
+      .attr('x', rulerBarX)
+      .attr('y', y1)
+      .attr('width', rulerBarW)
+      .attr('height', h)
+      .attr('rx', 3)
+      .attr('fill', emp.color)
+      .attr('opacity', 0.85)
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 1);
+
+    // 皇帝名+年号+庙号（纵向旋转90度）
+    const label = emp.temple ? `${emp.name} ${emp.era} ${emp.temple}` : `${emp.name} ${emp.era}`;
+    axisG.append('text')
+      .attr('x', rulerBarX + rulerBarW / 2)
+      .attr('y', y1 + h / 2)
+      .attr('text-anchor', 'middle')
+      .attr('dominant-baseline', 'middle')
+      .attr('fill', '#fff')
+      .attr('font-size', '11px')
+      .attr('font-weight', 'bold')
+      .attr('writing-mode', 'vertical-rl')
+      .text(label);
+  });
+
+  // ========== RELATION LINES ==========
+  const relGroup = content.append('g').attr('class', 'relations');
+  relGroup.selectAll('.relation-line')
+    .data(uniqueRels)
+    .enter()
+    .append('line')
+    .attr('class', 'relation-line')
+    .attr('id', d => `rel-${[d.source, d.target].sort().join('-')}`)
+    .attr('x1', d => itemByName[d.source].px)
+    .attr('y1', d => itemByName[d.source].py)
+    .attr('x2', d => itemByName[d.target].px)
+    .attr('y2', d => itemByName[d.target].py)
+    .attr('stroke', d => relationColor(d.types));
+
+  // ========== PERSON CIRCLES & LABELS ==========
+  const personGroup = content.append('g').attr('class', 'persons');
+
+  // 更新人物关联的关系线
+  function updateRelationLines() {
+    relGroup.selectAll('.relation-line')
+      .attr('x1', d => itemByName[d.source].px)
+      .attr('y1', d => itemByName[d.source].py)
+      .attr('x2', d => itemByName[d.target].px)
+      .attr('y2', d => itemByName[d.target].py);
+  }
+
+  // 更新事件叙事线
+  function updateNarrativeLines() {
+    narrativeG.selectAll('path').remove();
+    for (let i = 0; i < eventItems.length - 1; i++) {
+      const curr = eventItems[i];
+      const next = eventItems[i + 1];
+      const currW = Math.min(curr.textW, eventTrackWidth - 14);
+      const nextW = Math.min(next.textW, eventTrackWidth - 14);
+      const currX = curr.px + currW / 2;
+      const currY = curr.finalY + barHeight / 2;
+      const nextX = next.px + nextW / 2;
+      const nextY = next.finalY - barHeight / 2;
+      const midY = (currY + nextY) / 2;
+      narrativeG.append('path')
+        .attr('class', 'narrative-line')
+        .attr('id', `narrative-${curr.id}-${next.id}`)
+        .attr('d', `M${currX},${currY} C${currX},${midY} ${nextX},${midY} ${nextX},${nextY}`)
+        .attr('fill', 'none').attr('stroke', '#555')
+        .attr('stroke-width', 1.2).attr('stroke-dasharray', '4,3').attr('opacity', 0.6);
+    }
+  }
+
+  // 人物拖拽（含点击区分）
+  const CLICK_THRESHOLD = 3;
+  const personDrag = d3.drag()
+    .on('start', function(e, d) {
+      d._dragStartX = e.x;
+      d._dragStartY = e.y;
+      d3.select(this).raise();
+      d3.select(`#label-${d.name}`).raise();
+    })
+    .on('drag', function(e, d) {
+      d.px = e.x;
+      d.py = e.y;
+      d3.select(this).attr('cx', d.px).attr('cy', d.py);
+      d3.select(`#label-${d.name}`)
+        .attr('x', d.px - d.r - 4)
+        .attr('y', d.py + 3);
+      updateRelationLines();
+    })
+    .on('end', function(e, d) {
+      const dx = (e.x || d.px) - (d._dragStartX || d.px);
+      const dy = (e.y || d.py) - (d._dragStartY || d.py);
+      if (Math.sqrt(dx*dx + dy*dy) < CLICK_THRESHOLD) {
+        selectPerson(d.name);
+      }
+    });
+
+  personGroup.selectAll('.person-circle')
+    .data(personItems)
+    .enter()
+    .append('circle')
+    .attr('class', 'person-circle')
+    .attr('id', d => `circle-${d.name}`)
+    .attr('cx', d => d.px)
+    .attr('cy', d => d.py)
+    .attr('r', d => d.r)
+    .attr('fill', d => personColor(d.name))
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 1.5)
+    .call(personDrag);
+
+  personGroup.selectAll('.person-label')
+    .data(personItems)
+    .enter()
+    .append('text')
+    .attr('class', 'person-label')
+    .attr('id', d => `label-${d.name}`)
+    .attr('x', d => d.px - d.r - 4)
+    .attr('y', d => d.py + 3)
+    .attr('text-anchor', 'end')
+    .text(d => d.name);
+
+  // ========== EVENT BARS & LABELS ==========
+  const eventGroup = content.append('g').attr('class', 'events');
+
+  function eventColor(imp) {
+    const colors = ['#bbb', '#bbb', '#d4a574', '#c17f59', '#a0522d', '#8b0000'];
+    return colors[imp] || '#8b0000';
+  }
+
+  // 事件拖拽（含点击区分）
+  const eventDrag = d3.drag()
+    .on('start', function(e, d) {
+      d._dragStartX = e.x;
+      d._dragStartY = e.y;
+      d3.select(this).raise();
+      d3.select(`#label-${d.id}`).raise();
+    })
+    .on('drag', function(e, d) {
+      d.px = e.x;
+      d.finalY = e.y;
+      d3.select(this).attr('x', d.px).attr('y', d.finalY - barHeight / 2);
+      d3.select(`#label-${d.id}`)
+        .attr('x', d.px + 6)
+        .attr('y', d.finalY + 1);
+      updateNarrativeLines();
+    })
+    .on('end', function(e, d) {
+      const dx = (e.x || d.px) - (d._dragStartX || d.px);
+      const dy = (e.y || d.finalY) - (d._dragStartY || d.finalY);
+      if (Math.sqrt(dx*dx + dy*dy) < CLICK_THRESHOLD) {
+        selectEvent(d.id);
+      }
+    });
+
+  eventGroup.selectAll('.event-bar')
+    .data(eventItems)
+    .enter()
+    .append('rect')
+    .attr('class', 'event-bar')
+    .attr('id', d => `bar-${d.id}`)
+    .attr('x', d => d.px)
+    .attr('y', d => d.finalY - barHeight / 2)
+    .attr('width', d => Math.min(d.textW, eventTrackWidth - 16))
+    .attr('height', barHeight)
+    .attr('rx', 3)
+    .attr('fill', d => eventColor(d.importance || 3))
+    .call(eventDrag);
+
+  eventGroup.selectAll('.bar-label')
+    .data(eventItems)
+    .enter()
+    .append('text')
+    .attr('class', 'bar-label')
+    .attr('id', d => `label-${d.id}`)
+    .attr('x', d => d.px + 6)
+    .attr('y', d => d.finalY + 1)
+    .text(d => d.title);
+
+  // 叙事脉络线：按 eventItems 顺序（已按时间排序）连接，线自然延伸不交叉
+  const narrativeG = content.append('g').attr('class', 'narrative-lines');
+  for (let i = 0; i < eventItems.length - 1; i++) {
+    const curr = eventItems[i];
+    const next = eventItems[i + 1];
+    const currW = Math.min(curr.textW, eventTrackWidth - 14);
+    const nextW = Math.min(next.textW, eventTrackWidth - 14);
+    const currX = curr.px + currW / 2;
+    const currY = curr.finalY + barHeight / 2;
+    const nextX = next.px + nextW / 2;
+    const nextY = next.finalY - barHeight / 2;
+    const midY = (currY + nextY) / 2;
+
+    narrativeG.append('path')
+      .attr('class', 'narrative-line')
+      .attr('id', `narrative-${curr.id}-${next.id}`)
+      .attr('d', `M${currX},${currY} C${currX},${midY} ${nextX},${midY} ${nextX},${nextY}`)
+      .attr('fill', 'none')
+      .attr('stroke', '#555')
+      .attr('stroke-width', 1.2)
+      .attr('stroke-dasharray', '4,3')
+      .attr('opacity', 0.6);
+  }
+
+  // Legend
+  renderLegend([
+    { color: REL_COLORS['君臣'], label: '君臣' },
+    { color: REL_COLORS['敌对'], label: '敌对' },
+    { color: REL_COLORS['亲属'], label: '亲属' },
+    { color: REL_COLORS['朋友'], label: '朋友' },
+    { color: REL_COLORS['同盟'], label: '同盟' },
+    { color: '#808080', label: '多重关系' },
+    { color: REL_COLORS['关联'], label: '关联' },
+  ]);
+}
+
+function renderLegend(items) {
+  const legend = d3.select('#legend');
+  legend.selectAll('*').remove();
+  items.forEach(item => {
+    const row = legend.append('div').attr('class', 'legend-item');
+    row.append('div').attr('class', 'legend-color').style('background', item.color);
+    row.append('span').text(item.label);
+  });
+}
+
+function selectPerson(name) {
+  selectedPerson = name;
+  selectedEvent = null;
+
+  // Dim all
+  d3.selectAll('.person-circle').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.person-label').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.relation-line').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.event-bar').classed('dim', true).classed('highlight', false);
+
+  // Highlight selected
+  d3.select(`#circle-${name}`).classed('dim', false).classed('highlight', true);
+  d3.select(`#label-${name}`).classed('dim', false).classed('highlight', true);
+
+  // Find related persons and highlight lines
+  const related = new Set();
+  data.relations.forEach(r => {
+    if (r.source === name || r.target === name) {
+      const other = r.source === name ? r.target : r.source;
+      related.add(other);
+      const sortedKey = [r.source, r.target].sort().join('-');
+      d3.select(`#rel-${sortedKey}`).classed('dim', false).classed('highlight', true);
+    }
+  });
+
+  related.forEach(rname => {
+    d3.select(`#circle-${rname}`).classed('dim', false);
+    d3.select(`#label-${rname}`).classed('dim', false);
+  });
+
+  // Highlight events involving this person
+  data.events.forEach(ev => {
+    if (ev.persons.includes(name)) {
+      d3.select(`#bar-${ev.id}`).classed('dim', false).classed('highlight', true);
+    }
+  });
+
+  // Update panel
+  const person = data.persons.find(p => p.name === name);
+  if (!person) return;
+
+  const myEvents = data.events.filter(e => person.events.includes(e.id));
+
+  let html = `<h2>${person.name}</h2>`;
+  html += `<p><strong>时间跨度：</strong>${person.startYear}年 — ${person.endYear}年</p>`;
+  if (person.identity) html += `<p><strong>身份：</strong>${person.identity}</p>`;
+  html += `<p>${person.intro}</p>`;
+
+  html += `<h3>涉及事件（${myEvents.length}个）</h3>`;
+  if (myEvents.length) {
+    html += '<ul class="event-list">';
+    // 按书中出场顺序排列：卷号 → 章节号 → 年份
+    const sortedEvents = [...myEvents].sort((a, b) => {
+      const va = a.volume || 1;
+      const vb = b.volume || 1;
+      if (va !== vb) return va - vb;
+      const ca = parseChapterNum(a.chapter);
+      const cb = parseChapterNum(b.chapter);
+      if (ca !== cb) return ca - cb;
+      const ya = parseEventYear(a) || 9999;
+      const yb = parseEventYear(b) || 9999;
+      return ya - yb;
+    });
+    sortedEvents.forEach(ev => {
+      const stars = '★'.repeat(ev.importance || 3) + '☆'.repeat(5 - (ev.importance || 3));
+      html += `<li onclick="window.selectEvent('${ev.id}')"><span class="ev-year">${ev.years[0]}年</span><strong>${ev.title}</strong> <span style="color:#b8860b;font-size:10px">${stars}</span></li>`;
+    });
+    html += '</ul>';
+  } else {
+    html += '<p style="color:#999">暂无提取到的事件</p>';
+  }
+
+  html += `<h3>人物关系</h3>`;
+  const myRels = data.relations.filter(r => r.source === name || r.target === name);
+  if (myRels.length) {
+    myRels.forEach(r => {
+      const other = r.source === name ? r.target : r.source;
+      const typeStr = r.types.join('→');
+      const color = relationColor(r.types);
+      html += `<div style="margin:3px 0; padding:5px 8px; background:#faf7f2; border-radius:4px; font-size:12px;">`;
+      html += `<span style="font-weight:bold;color:${color}">${typeStr}</span> `;
+      html += `<span class="person-tag" onclick="window.selectPerson('${other}')">${other}</span>`;
+      if (r.context) html += `<div style="color:#666;margin-top:2px;font-size:11px;">${r.context}</div>`;
+      html += `</div>`;
+    });
+  } else {
+    html += '<p style="color:#999">暂无提取到的关系</p>';
+  }
+
+  document.getElementById('panel').innerHTML = html;
+}
+
+function selectEvent(eventId) {
+  selectedEvent = eventId;
+
+  // Dim all
+  d3.selectAll('.event-bar').classed('dim', true).classed('highlight', false).classed('next-highlight', false);
+  d3.selectAll('.narrative-line').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.person-circle').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.person-label').classed('dim', true).classed('highlight', false);
+  d3.selectAll('.relation-line').classed('dim', true).classed('highlight', false);
+
+  // Highlight selected event
+  d3.select(`#bar-${eventId}`).classed('dim', false).classed('highlight', true);
+
+  // Find next event in sequence and highlight it + the connecting line
+  const currIdx = _eventItems.findIndex(e => e.id === eventId);
+  if (currIdx >= 0 && currIdx < _eventItems.length - 1) {
+    const nextEv = _eventItems[currIdx + 1];
+    d3.select(`#bar-${nextEv.id}`).classed('dim', false).classed('next-highlight', true);
+    d3.select(`#narrative-${eventId}-${nextEv.id}`)
+      .classed('dim', false).classed('highlight', true);
+  }
+
+  const ev = data.events.find(e => e.id === eventId);
+  if (!ev) return;
+
+  // Highlight related persons
+  ev.persons.forEach(p => {
+    d3.select(`#circle-${p}`).classed('dim', false).classed('highlight', true);
+    d3.select(`#label-${p}`).classed('dim', false).classed('highlight', true);
+  });
+
+  let html = `<h2>${ev.title}</h2>`;
+  html += `<p><span style="color:#8b0000;font-weight:bold;">${ev.years[0]}年</span> `;
+  html += `<span style="color:#999;font-size:12px;">${ev.chapter}</span></p>`;
+  html += `<p>${ev.summary}</p>`;
+
+  const stars = '★'.repeat(ev.importance || 3) + '☆'.repeat(5 - (ev.importance || 3));
+  html += `<p><strong>重要性：</strong><span style="color:#b8860b">${stars}</span></p>`;
+
+  html += `<h3>涉及人物</h3>`;
+  html += '<div>';
+  ev.persons.forEach(p => {
+    html += `<span class="person-tag" onclick="window.selectPerson('${p}')">${p}</span>`;
+  });
+  html += '</div>';
+
+  document.getElementById('panel').innerHTML = html;
+}
+
+document.getElementById('btn-reset').addEventListener('click', () => {
+  const svg = d3.select('#canvas');
+  if (window._currentZoom) {
+    svg.transition().duration(500).call(window._currentZoom.transform, d3.zoomIdentity);
+  }
+  selectedPerson = null;
+  selectedEvent = null;
+  d3.selectAll('.person-circle, .person-label, .relation-line, .event-bar')
+    .classed('dim', false).classed('highlight', false).classed('next-highlight', false);
+  d3.selectAll('.narrative-line').classed('dim', false).classed('highlight', false);
+  document.getElementById('panel').innerHTML = '<div class="placeholder">点击人物或事件查看详情</div>';
+});
+
+document.getElementById('volume-select').addEventListener('change', (e) => {
+  currentVolume = parseInt(e.target.value);
+  selectedPerson = null;
+  selectedEvent = null;
+  document.getElementById('panel').innerHTML = '<div class="placeholder">点击人物或事件查看详情</div>';
+  renderUnifiedView();
+});
+
+window.addEventListener('resize', () => {
+  renderUnifiedView();
+});
+
+window.selectPerson = selectPerson;
+window.selectEvent = selectEvent;
+
+loadData();
+</script>
+</body>
+</html>

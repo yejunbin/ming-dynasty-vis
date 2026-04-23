@@ -1,0 +1,4528 @@
+{
+  "volume": "第壹卷 朱元璋篇",
+  "timeRange": [
+    1328,
+    1398
+  ],
+  "timeline": [
+    {
+      "year": 1328,
+      "label": "元末",
+      "emperor": "元顺帝",
+      "era": "至正"
+    },
+    {
+      "year": 1368,
+      "label": "明朝建立",
+      "emperor": "朱元璋",
+      "era": "洪武"
+    },
+    {
+      "year": 1398,
+      "label": "洪武驾崩",
+      "emperor": "朱元璋",
+      "era": "洪武"
+    }
+  ],
+  "persons": [
+    {
+      "id": "朱元璋",
+      "name": "朱元璋",
+      "startYear": 1328,
+      "endYear": 1398,
+      "intro": "明朝开国皇帝，出身贫苦，建立明朝后推行一系列恢复生产和巩固统治的政策。",
+      "events": [
+        "ev0",
+        "ev1",
+        "ev2",
+        "ev4",
+        "ev5",
+        "ev6",
+        "ev8",
+        "ev14",
+        "ev15",
+        "ev16",
+        "ev17",
+        "ev18",
+        "ev19",
+        "ev20",
+        "ev21",
+        "ev22",
+        "ev23",
+        "ev24",
+        "ev25",
+        "ev26",
+        "ev28",
+        "ev29",
+        "ev31",
+        "ev32",
+        "ev33",
+        "ev34",
+        "ev35",
+        "ev36",
+        "ev37",
+        "ev38",
+        "ev39",
+        "ev40",
+        "ev41",
+        "ev44",
+        "ev48",
+        "ev49",
+        "ev51",
+        "ev52",
+        "ev53",
+        "ev56",
+        "ev58",
+        "ev59",
+        "ev60",
+        "ev61",
+        "ev65",
+        "ev66",
+        "ev67",
+        "ev70",
+        "ev72",
+        "ev73",
+        "ev76",
+        "ev77",
+        "ev78",
+        "ev79",
+        "ev80",
+        "ev81",
+        "ev82",
+        "ev83",
+        "ev84",
+        "ev85",
+        "ev86",
+        "ev87",
+        "ev88",
+        "ev89",
+        "ev90",
+        "ev91",
+        "ev92",
+        "ev93",
+        "ev94",
+        "ev95",
+        "ev96",
+        "ev97",
+        "ev98",
+        "ev99",
+        "ev107",
+        "ev108",
+        "ev109",
+        "ev110",
+        "ev111",
+        "ev112",
+        "ev113",
+        "ev114",
+        "ev115",
+        "ev116",
+        "ev117",
+        "ev118",
+        "ev119",
+        "ev121",
+        "ev122",
+        "ev123",
+        "ev124",
+        "ev125",
+        "ev127",
+        "ev128",
+        "ev129",
+        "ev130",
+        "ev134",
+        "ev135",
+        "ev136",
+        "ev137",
+        "ev138",
+        "ev139",
+        "ev140",
+        "ev141",
+        "ev142",
+        "ev143",
+        "ev144",
+        "ev145"
+      ],
+      "firstAppearance": 0,
+      "identity": "明朝开国皇帝",
+      "aliases": [
+        "朱重八",
+        "朱国瑞",
+        "朱公子",
+        "朱地主",
+        "洪武帝"
+      ]
+    },
+    {
+      "id": "朱五四",
+      "name": "朱五四",
+      "startYear": 1328,
+      "endYear": 1344,
+      "intro": "朱元璋的父亲，贫农，兼营豆腐店。",
+      "events": [
+        "ev0",
+        "ev2",
+        "ev5"
+      ],
+      "firstAppearance": 0,
+      "identity": "农民",
+      "aliases": []
+    },
+    {
+      "id": "陈氏",
+      "name": "陈氏",
+      "startYear": 1328,
+      "endYear": 1344,
+      "intro": "朱元璋的母亲，史书未载其名。",
+      "events": [
+        "ev0",
+        "ev2",
+        "ev5"
+      ],
+      "firstAppearance": 0,
+      "identity": "农民",
+      "aliases": []
+    },
+    {
+      "id": "朱百六",
+      "name": "朱百六",
+      "startYear": 1328,
+      "endYear": 1398,
+      "intro": "朱元璋的祖先，其存在使得朱元璋无法认朱熹为祖先。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "农民",
+      "aliases": []
+    },
+    {
+      "id": "刘德",
+      "name": "刘德",
+      "startYear": 1340,
+      "endYear": 1398,
+      "intro": "朱元璋家乡的地主，拒绝帮助朱元璋埋葬父母",
+      "events": [
+        "ev1",
+        "ev2"
+      ],
+      "firstAppearance": 0,
+      "identity": "地主",
+      "aliases": []
+    },
+    {
+      "id": "脱脱",
+      "name": "脱脱",
+      "startYear": 1344,
+      "endYear": 1355,
+      "intro": "元朝末代名臣，主持修《宋史》，主张治理黄河",
+      "events": [
+        "ev3",
+        "ev9",
+        "ev11",
+        "ev30"
+      ],
+      "firstAppearance": 0,
+      "identity": "元朝宰相",
+      "aliases": []
+    },
+    {
+      "id": "元顺帝",
+      "name": "元顺帝",
+      "startYear": 1344,
+      "endYear": 1370,
+      "intro": "元朝末代皇帝，在位期间灾害频发",
+      "events": [
+        "ev3",
+        "ev7"
+      ],
+      "firstAppearance": 0,
+      "identity": "元朝皇帝",
+      "aliases": [
+        "妥懽帖睦尔"
+      ]
+    },
+    {
+      "id": "刘福通",
+      "name": "刘福通",
+      "startYear": 1351,
+      "endYear": 1363,
+      "intro": "北方红巾军首领，名义上封朱元璋等官职，并为其阻挡元军。",
+      "events": [
+        "ev10",
+        "ev39",
+        "ev60",
+        "ev68"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军领袖",
+      "aliases": []
+    },
+    {
+      "id": "汤和",
+      "name": "汤和",
+      "startYear": 1351,
+      "endYear": 1395,
+      "intro": "明朝开国名将，封信国公，朱元璋同乡，晚年主动交出兵权得以善终。",
+      "events": [
+        "ev14",
+        "ev15",
+        "ev20",
+        "ev22",
+        "ev80"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领/朱元璋朋友",
+      "aliases": []
+    },
+    {
+      "id": "周德兴",
+      "name": "周德兴",
+      "startYear": 1351,
+      "endYear": 1392,
+      "intro": "明朝开国将领，封江夏侯，与朱元璋同乡，早年曾为其算命。",
+      "events": [
+        "ev14",
+        "ev20",
+        "ev22",
+        "ev140"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋朋友",
+      "aliases": []
+    },
+    {
+      "id": "郭子兴",
+      "name": "郭子兴",
+      "startYear": 1352,
+      "endYear": 1398,
+      "intro": "元末红巾军领袖之一，朱元璋的岳父和早期上司",
+      "events": [
+        "ev15",
+        "ev17",
+        "ev18",
+        "ev19",
+        "ev20",
+        "ev21",
+        "ev33",
+        "ev34"
+      ],
+      "firstAppearance": 0,
+      "identity": "红巾军将领/濠州统帅",
+      "aliases": []
+    },
+    {
+      "id": "孙德崖",
+      "name": "孙德崖",
+      "startYear": 1352,
+      "endYear": 1398,
+      "intro": "濠州红巾军领袖之一，与郭子兴长期不和",
+      "events": [
+        "ev18",
+        "ev34"
+      ],
+      "firstAppearance": 0,
+      "identity": "红巾军将领/濠州统帅",
+      "aliases": []
+    },
+    {
+      "id": "徐达",
+      "name": "徐达",
+      "startYear": 1352,
+      "endYear": 1385,
+      "intro": "明朝开国军事统帅，为朱元璋统一天下立下赫赫战功。",
+      "events": [
+        "ev20",
+        "ev22",
+        "ev34",
+        "ev41",
+        "ev46",
+        "ev48",
+        "ev58",
+        "ev61",
+        "ev64",
+        "ev67",
+        "ev78",
+        "ev80",
+        "ev99",
+        "ev100",
+        "ev121"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": [
+        "征虏大将军"
+      ]
+    },
+    {
+      "id": "李善长",
+      "name": "李善长",
+      "startYear": 1353,
+      "endYear": 1390,
+      "intro": "朱元璋早期重要谋士，被比作汉之萧何，开国第一功臣",
+      "events": [
+        "ev23",
+        "ev48",
+        "ev82",
+        "ev105",
+        "ev136"
+      ],
+      "firstAppearance": 0,
+      "identity": "谋士",
+      "aliases": []
+    },
+    {
+      "id": "花云",
+      "name": "花云",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "朱元璋麾下勇将，攻打滁州时率骑兵冲锋破敌",
+      "events": [
+        "ev26",
+        "ev50"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "朱文正",
+      "name": "朱文正",
+      "startYear": 1353,
+      "endYear": 1365,
+      "intro": "朱元璋侄子，洪都守卫战功臣，后因不满封赏勾结张士诚被囚禁",
+      "events": [
+        "ev29",
+        "ev62",
+        "ev63",
+        "ev69",
+        "ev70",
+        "ev77"
+      ],
+      "firstAppearance": 0,
+      "identity": "亲属/将领",
+      "aliases": []
+    },
+    {
+      "id": "李文忠",
+      "name": "李文忠",
+      "startYear": 1353,
+      "endYear": 1384,
+      "intro": "明朝开国名将，本章任右路军主将，征讨北元。",
+      "events": [
+        "ev29",
+        "ev99",
+        "ev103"
+      ],
+      "firstAppearance": 0,
+      "identity": "亲属/将领",
+      "aliases": [
+        "左副将军"
+      ]
+    },
+    {
+      "id": "郭天叙",
+      "name": "郭天叙",
+      "startYear": 1353,
+      "endYear": 1355,
+      "intro": "郭子兴之子，名义上的都元帅，在进攻集庆时战死。",
+      "events": [
+        "ev32"
+      ],
+      "firstAppearance": 0,
+      "identity": "亲属/起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "冯胜",
+      "name": "冯胜",
+      "startYear": 1355,
+      "endYear": 1395,
+      "intro": "明朝开国名将，封宋国公，开国六公爵之一，后被朱元璋赐死。",
+      "events": [
+        "ev31",
+        "ev99",
+        "ev101",
+        "ev129",
+        "ev130",
+        "ev131",
+        "ev132",
+        "ev133",
+        "ev144"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": [
+        "冯国胜",
+        "右副将军"
+      ]
+    },
+    {
+      "id": "张士诚",
+      "name": "张士诚",
+      "startYear": 1356,
+      "endYear": 1367,
+      "intro": "元末割据势力首领，曾占据江浙地区，因其支持者被朱元璋报复性征收高赋税。",
+      "events": [
+        "ev27",
+        "ev30",
+        "ev39",
+        "ev40",
+        "ev41",
+        "ev44",
+        "ev60",
+        "ev61",
+        "ev68",
+        "ev77",
+        "ev78",
+        "ev80",
+        "ev82",
+        "ev85"
+      ],
+      "firstAppearance": 0,
+      "identity": "割据势力首领/朱元璋的对手",
+      "aliases": [
+        "诚王",
+        "九四",
+        "张地主"
+      ]
+    },
+    {
+      "id": "陈友谅",
+      "name": "陈友谅",
+      "startYear": 1356,
+      "endYear": 1363,
+      "intro": "元末南方红巾军领袖，建立汉政权，是朱元璋的主要对手。",
+      "events": [
+        "ev13",
+        "ev39",
+        "ev42",
+        "ev43",
+        "ev44",
+        "ev45",
+        "ev46",
+        "ev47",
+        "ev49",
+        "ev50",
+        "ev54",
+        "ev55",
+        "ev56",
+        "ev57",
+        "ev58",
+        "ev59",
+        "ev62",
+        "ev64",
+        "ev67",
+        "ev69",
+        "ev71",
+        "ev72",
+        "ev74",
+        "ev75"
+      ],
+      "firstAppearance": 0,
+      "identity": "割据势力首领/朱元璋的对手",
+      "aliases": [
+        "陈秀才",
+        "陈九四"
+      ]
+    },
+    {
+      "id": "徐寿辉",
+      "name": "徐寿辉",
+      "startYear": 1356,
+      "endYear": 1360,
+      "intro": "元末南方红巾军领袖，建立天完政权，后被陈友谅所杀。",
+      "events": [
+        "ev12",
+        "ev13",
+        "ev43",
+        "ev47",
+        "ev49"
+      ],
+      "firstAppearance": 0,
+      "identity": "天完政权皇帝/割据势力首领",
+      "aliases": []
+    },
+    {
+      "id": "张士义",
+      "name": "张士义",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "张士诚之弟，参与高邮守城战。",
+      "events": [
+        "ev30"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "张士德",
+      "name": "张士德",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "张士诚之弟，参与高邮守城战。",
+      "events": [
+        "ev30"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "倪文俊",
+      "name": "倪文俊",
+      "startYear": 1350,
+      "endYear": 1398,
+      "intro": "徐寿辉部下丞相，后企图篡位失败，逃往陈友谅处被杀。",
+      "events": [
+        "ev13",
+        "ev42",
+        "ev43"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": [
+        "丞相"
+      ]
+    },
+    {
+      "id": "丁普郎",
+      "name": "丁普郎",
+      "startYear": 1350,
+      "endYear": 1398,
+      "intro": "徐寿辉部下，四大金刚之一，以勇猛著称。",
+      "events": [
+        "ev45"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "赵普胜",
+      "name": "赵普胜",
+      "startYear": 1350,
+      "endYear": 1398,
+      "intro": "天完国将领，徐寿辉部下，被陈友谅以图谋不轨罪名杀害。",
+      "events": [
+        "ev45",
+        "ev55"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "傅友德",
+      "name": "傅友德",
+      "startYear": 1350,
+      "endYear": 1394,
+      "intro": "明朝将领，本章任冯胜军先锋，在西路七战七捷。",
+      "events": [
+        "ev45",
+        "ev101",
+        "ev143"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": []
+    },
+    {
+      "id": "常遇春",
+      "name": "常遇春",
+      "startYear": 1355,
+      "endYear": 1369,
+      "intro": "明朝开国名将，以勇猛善战著称，鄱阳湖之战中射伤张定边",
+      "events": [
+        "ev36",
+        "ev37",
+        "ev41",
+        "ev46",
+        "ev48",
+        "ev51",
+        "ev58",
+        "ev64",
+        "ev65",
+        "ev66",
+        "ev78",
+        "ev80"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "刘基",
+      "name": "刘基",
+      "startYear": 1360,
+      "endYear": 1375,
+      "intro": "明朝开国谋士，以神机妙算著称，封诚意伯。",
+      "events": [
+        "ev51",
+        "ev53",
+        "ev60",
+        "ev79"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋的谋士",
+      "aliases": [
+        "刘伯温"
+      ]
+    },
+    {
+      "id": "赵德胜",
+      "name": "赵德胜",
+      "startYear": 1360,
+      "endYear": 1363,
+      "intro": "洪都守将，负责防守宫步、土步、桥步三门，战死。",
+      "events": [
+        "ev63"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋麾下将领",
+      "aliases": []
+    },
+    {
+      "id": "康茂才",
+      "name": "康茂才",
+      "startYear": 1360,
+      "endYear": 1370,
+      "intro": "原为陈友谅部将，后投奔朱元璋，在龙湾之战中诈降诱敌。",
+      "events": [
+        "ev48",
+        "ev80"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋麾下将领/原陈友谅部将",
+      "aliases": []
+    },
+    {
+      "id": "叶琛",
+      "name": "叶琛",
+      "startYear": 1360,
+      "endYear": 1362,
+      "intro": "明初官员，与刘基等人一同被朱元璋“请”来辅佐。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "隐士/后为朱元璋效力",
+      "aliases": []
+    },
+    {
+      "id": "章溢",
+      "name": "章溢",
+      "startYear": 1360,
+      "endYear": 1369,
+      "intro": "明初官员，与刘基等人一同被朱元璋“请”来辅佐。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "隐士/后为朱元璋效力",
+      "aliases": []
+    },
+    {
+      "id": "韩林儿",
+      "name": "韩林儿",
+      "startYear": 1363,
+      "endYear": 1366,
+      "intro": "红巾军领袖韩山童之子，被刘福通立为小明王，宋政权皇帝。",
+      "events": [
+        "ev60",
+        "ev68",
+        "ev76"
+      ],
+      "firstAppearance": 0,
+      "identity": "宋政权皇帝（小明王）",
+      "aliases": []
+    },
+    {
+      "id": "郑和",
+      "name": "郑和",
+      "startYear": 1371,
+      "endYear": 1433,
+      "intro": "明代航海家、外交官，七下西洋。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "航海家",
+      "aliases": []
+    },
+    {
+      "id": "邓愈",
+      "name": "邓愈",
+      "startYear": 1363,
+      "endYear": 1377,
+      "intro": "明朝开国将领，洪都守卫战中防守抚州门。",
+      "events": [
+        "ev63",
+        "ev69"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "郭兴",
+      "name": "郭兴",
+      "startYear": 1363,
+      "endYear": 1384,
+      "intro": "朱元璋部将，鄱阳湖之战中向朱元璋建议火攻",
+      "events": [
+        "ev59",
+        "ev80"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "马皇后",
+      "name": "马皇后",
+      "startYear": 1365,
+      "endYear": 1382,
+      "intro": "朱元璋的结发妻子，仁慈贤德，深受朱元璋信任。",
+      "events": [
+        "ev19",
+        "ev77",
+        "ev86"
+      ],
+      "firstAppearance": 0,
+      "identity": "皇后",
+      "aliases": [
+        "孝慈高皇后"
+      ]
+    },
+    {
+      "id": "王弼",
+      "name": "王弼",
+      "startYear": 1366,
+      "endYear": 1393,
+      "intro": "明朝将领，蓝玉副将，封定远侯，参与捕鱼儿海战役。",
+      "events": [
+        "ev80",
+        "ev143"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "耿炳文",
+      "name": "耿炳文",
+      "startYear": 1366,
+      "endYear": 1403,
+      "intro": "明朝开国将领，封长兴侯，以善守著称，朱元璋屠戮功臣时得以幸免。",
+      "events": [
+        "ev80"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "蓝玉",
+      "name": "蓝玉",
+      "startYear": 1372,
+      "endYear": 1393,
+      "intro": "明朝开国名将，封凉国公，后因谋反罪被诛，引发蓝玉案。",
+      "events": [
+        "ev100",
+        "ev102",
+        "ev106",
+        "ev129",
+        "ev130",
+        "ev131",
+        "ev132",
+        "ev133",
+        "ev134",
+        "ev135",
+        "ev137",
+        "ev139",
+        "ev141",
+        "ev142"
+      ],
+      "firstAppearance": 0,
+      "identity": "明朝将领",
+      "aliases": []
+    },
+    {
+      "id": "王保保",
+      "name": "王保保",
+      "startYear": 1372,
+      "endYear": 1375,
+      "intro": "北元名将，本章在岭北设伏击败徐达，后又与徐达对峙。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "北元将领",
+      "aliases": [
+        "扩廓帖木儿"
+      ]
+    },
+    {
+      "id": "宋濂",
+      "name": "宋濂",
+      "startYear": 1368,
+      "endYear": 1381,
+      "intro": "明朝初年著名学者，曾批评八股取士选拔出的人才如同书呆子。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "明朝学者",
+      "aliases": []
+    },
+    {
+      "id": "胡惟庸",
+      "name": "胡惟庸",
+      "startYear": 1373,
+      "endYear": 1380,
+      "intro": "明朝丞相，因谋反罪被朱元璋诛杀，引发胡惟庸案。",
+      "events": [
+        "ev104",
+        "ev105",
+        "ev110",
+        "ev111",
+        "ev114",
+        "ev115"
+      ],
+      "firstAppearance": 0,
+      "identity": "丞相",
+      "aliases": []
+    },
+    {
+      "id": "朱标",
+      "name": "朱标",
+      "startYear": 1375,
+      "endYear": 1392,
+      "intro": "朱元璋长子，明朝第一任太子，为人忠厚，深受朱元璋喜爱。",
+      "events": [
+        "ev84",
+        "ev138",
+        "ev145"
+      ],
+      "firstAppearance": 0,
+      "identity": "太子",
+      "aliases": [
+        "太子"
+      ]
+    },
+    {
+      "id": "纳哈出",
+      "name": "纳哈出",
+      "startYear": 1387,
+      "endYear": 1388,
+      "intro": "北元将领，曾在洪武二十年被冯胜击败，后经观童劝降归明。",
+      "events": [
+        "ev130",
+        "ev133"
+      ],
+      "firstAppearance": 0,
+      "identity": "北元太尉",
+      "aliases": []
+    },
+    {
+      "id": "观童",
+      "name": "观童",
+      "startYear": 1387,
+      "endYear": 1398,
+      "intro": "明朝使者，多次成功劝降蒙古将领，如纳哈出、乃儿不花。",
+      "events": [
+        "ev133"
+      ],
+      "firstAppearance": 0,
+      "identity": "北元降将",
+      "aliases": []
+    },
+    {
+      "id": "朱棣",
+      "name": "朱棣",
+      "startYear": 1393,
+      "endYear": 1424,
+      "intro": "朱元璋第四子，初封燕王，后发动靖难之役夺取皇位，即明成祖。",
+      "events": [
+        "ev52",
+        "ev98",
+        "ev120",
+        "ev137"
+      ],
+      "firstAppearance": 0,
+      "identity": "明朝藩王/皇帝",
+      "aliases": [
+        "燕王",
+        "明成祖"
+      ]
+    },
+    {
+      "id": "朱重四",
+      "name": "朱重四",
+      "startYear": 1344,
+      "endYear": 1344,
+      "intro": "朱元璋的大哥，在饥荒中饿死",
+      "events": [
+        "ev2"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋大哥",
+      "aliases": []
+    },
+    {
+      "id": "朱重六",
+      "name": "朱重六",
+      "startYear": 1344,
+      "endYear": 1398,
+      "intro": "朱元璋的二哥，与朱元璋一同埋葬父母",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "朱元璋二哥",
+      "aliases": []
+    },
+    {
+      "id": "韩山童",
+      "name": "韩山童",
+      "startYear": 1351,
+      "endYear": 1398,
+      "intro": "白莲教首领，自称宋朝皇室后裔，与刘福通首举反元义旗",
+      "events": [
+        "ev10"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军领袖",
+      "aliases": []
+    },
+    {
+      "id": "马姑娘",
+      "name": "马姑娘",
+      "startYear": 1352,
+      "endYear": 1382,
+      "intro": "郭子兴义女，朱元璋妻子，后为马皇后",
+      "events": [
+        "ev17"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋妻子",
+      "aliases": [
+        "马皇后"
+      ]
+    },
+    {
+      "id": "郭子兴之子",
+      "name": "郭子兴之子",
+      "startYear": 1352,
+      "endYear": 1398,
+      "intro": "郭子兴儿子，曾企图饿死朱元璋",
+      "events": [
+        "ev19"
+      ],
+      "firstAppearance": 0,
+      "identity": "郭子兴儿子",
+      "aliases": []
+    },
+    {
+      "id": "缪大亨",
+      "name": "缪大亨",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "原元军将领，驻守横涧山，被朱元璋击败后投降",
+      "events": [
+        "ev25"
+      ],
+      "firstAppearance": 0,
+      "identity": "元军将领/地方武装头目",
+      "aliases": []
+    },
+    {
+      "id": "冯国用",
+      "name": "冯国用",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "定远人，与弟冯国胜投奔朱元璋，成为早期谋士",
+      "events": [
+        "ev28"
+      ],
+      "firstAppearance": 0,
+      "identity": "谋士/将领",
+      "aliases": []
+    },
+    {
+      "id": "冯国胜",
+      "name": "冯国胜",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "冯国用之弟，后为明朝开国名将，威震天下",
+      "events": [
+        "ev28"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": [
+        "冯胜"
+      ]
+    },
+    {
+      "id": "李贞",
+      "name": "李贞",
+      "startYear": 1353,
+      "endYear": 1398,
+      "intro": "朱元璋的姐夫",
+      "events": [
+        "ev29"
+      ],
+      "firstAppearance": 0,
+      "identity": "亲属",
+      "aliases": []
+    },
+    {
+      "id": "俞通海",
+      "name": "俞通海",
+      "startYear": 1355,
+      "endYear": 1398,
+      "intro": "原为沿江海盗，后投奔朱元璋，为其提供水军战船。",
+      "events": [
+        "ev35"
+      ],
+      "firstAppearance": 0,
+      "identity": "水军头目/将领",
+      "aliases": []
+    },
+    {
+      "id": "张天祐",
+      "name": "张天祐",
+      "startYear": 1355,
+      "endYear": 1355,
+      "intro": "郭子兴妻弟，义军右都副元帅，在进攻集庆时战死。",
+      "events": [
+        "ev32"
+      ],
+      "firstAppearance": 0,
+      "identity": "义军右都副元帅",
+      "aliases": []
+    },
+    {
+      "id": "张明鉴",
+      "name": "张明鉴",
+      "startYear": 1356,
+      "endYear": 1398,
+      "intro": "占据朱元璋东北面的起义军首领。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "起义军首领",
+      "aliases": []
+    },
+    {
+      "id": "八思尔不花",
+      "name": "八思尔不花",
+      "startYear": 1356,
+      "endYear": 1398,
+      "intro": "元朝将领，驻扎在朱元璋南面。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "元朝将领",
+      "aliases": []
+    },
+    {
+      "id": "邹普胜",
+      "name": "邹普胜",
+      "startYear": 1351,
+      "endYear": 1398,
+      "intro": "徐寿辉部下，铁匠出身，为天完政权太师，四大金刚之一。",
+      "events": [
+        "ev12"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军将领",
+      "aliases": [
+        "太师"
+      ]
+    },
+    {
+      "id": "彭莹玉",
+      "name": "彭莹玉",
+      "startYear": 1351,
+      "endYear": 1353,
+      "intro": "元末起义军领袖，江西和尚，协助徐寿辉宣传明教起义。",
+      "events": [
+        "ev12"
+      ],
+      "firstAppearance": 0,
+      "identity": "起义军领袖",
+      "aliases": []
+    },
+    {
+      "id": "胡大海",
+      "name": "胡大海",
+      "startYear": 1360,
+      "endYear": 1398,
+      "intro": "朱元璋部将，爱惜人才，攻占处州。",
+      "events": [
+        "ev53"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋麾下将领",
+      "aliases": []
+    },
+    {
+      "id": "孙炎",
+      "name": "孙炎",
+      "startYear": 1360,
+      "endYear": 1398,
+      "intro": "朱元璋派去征召刘基的使者。",
+      "events": [
+        "ev53"
+      ],
+      "firstAppearance": 0,
+      "identity": "朱元璋的使者",
+      "aliases": []
+    },
+    {
+      "id": "薛显",
+      "name": "薛显",
+      "startYear": 1363,
+      "endYear": 1398,
+      "intro": "洪都守将，以勇猛著称，防守章江、新城门。",
+      "events": [
+        "ev63",
+        "ev74"
+      ],
+      "firstAppearance": 0,
+      "identity": "将领",
+      "aliases": []
+    },
+    {
+      "id": "廖永忠",
+      "name": "廖永忠",
+      "startYear": 1363,
+      "endYear": 1375,
+      "intro": "明朝开国将领，参与鄱阳湖之战",
+      "events": [
+        "ev58",
+        "ev64"
+      ],
+      "firstAppearance": 0,
+      "identity": "明朝开国将领",
+      "aliases": []
+    },
+    {
+      "id": "汪广洋",
+      "name": "汪广洋",
+      "startYear": 1373,
+      "endYear": 1379,
+      "intro": "明朝官员，曾任丞相，后被朱元璋处死。",
+      "events": [
+        "ev104",
+        "ev111"
+      ],
+      "firstAppearance": 0,
+      "identity": "丞相/左都御史",
+      "aliases": []
+    },
+    {
+      "id": "朱亮祖",
+      "name": "朱亮祖",
+      "startYear": 1380,
+      "endYear": 1380,
+      "intro": "明朝开国大将，封永嘉侯，因骄狂贪腐被朱元璋鞭死。",
+      "events": [
+        "ev116",
+        "ev117"
+      ],
+      "firstAppearance": 0,
+      "identity": "开国大将/侯爵",
+      "aliases": [
+        "永嘉候"
+      ]
+    },
+    {
+      "id": "郑士利",
+      "name": "郑士利",
+      "startYear": 1376,
+      "endYear": 1398,
+      "intro": "因上书为“空印案”辩解而被罚作苦工的平民",
+      "events": [
+        "ev107",
+        "ev109"
+      ],
+      "firstAppearance": 0,
+      "identity": "生员（平民）",
+      "aliases": []
+    },
+    {
+      "id": "郭桓",
+      "name": "郭桓",
+      "startYear": 1385,
+      "endYear": 1385,
+      "intro": "户部侍郎，因贪污案被处死",
+      "events": [
+        "ev122"
+      ],
+      "firstAppearance": 0,
+      "identity": "户部侍郎",
+      "aliases": []
+    },
+    {
+      "id": "袁凯",
+      "name": "袁凯",
+      "startYear": 1375,
+      "endYear": 1398,
+      "intro": "因在朱元璋与太子意见间为难而装疯的御史",
+      "events": [
+        "ev126"
+      ],
+      "firstAppearance": 0,
+      "identity": "监察御史",
+      "aliases": []
+    },
+    {
+      "id": "李景隆",
+      "name": "李景隆",
+      "startYear": 1390,
+      "endYear": 1398,
+      "intro": "明朝将领，曹国公李文忠之子，袭父爵。",
+      "events": [],
+      "firstAppearance": 0,
+      "identity": "明朝将领",
+      "aliases": []
+    }
+  ],
+  "events": [
+    {
+      "id": "ev0",
+      "title": "朱元璋出生",
+      "years": [
+        1328
+      ],
+      "persons": [
+        "朱元璋",
+        "朱五四",
+        "陈氏"
+      ],
+      "summary": "朱元璋（原名朱重八）出生于濠州钟离一个贫苦农民家庭。其家族因元朝制度，多以数字为名。",
+      "importance": 1,
+      "chapter": "第一章 童年"
+    },
+    {
+      "id": "ev1",
+      "title": "朱元璋为地主放牛",
+      "years": [
+        1328
+      ],
+      "persons": [
+        "朱元璋",
+        "刘德"
+      ],
+      "summary": "童年时期的朱元璋，因家境贫寒，主要工作是为地主刘德家放牛，持续了约十二年。",
+      "importance": 1,
+      "chapter": "第一章 童年"
+    },
+    {
+      "id": "ev2",
+      "title": "朱重八家破人亡",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "朱元璋",
+        "朱五四",
+        "陈氏",
+        "朱重四",
+        "刘德"
+      ],
+      "summary": "四月初六至二十二日，因饥荒瘟疫，朱元璋的父亲、母亲、大哥及大哥长子接连饿死。他求地主刘德赐地葬亲遭拒，最终在好心人帮助下草草埋葬亲人。",
+      "importance": 4,
+      "chapter": "第二章 灾难"
+    },
+    {
+      "id": "ev3",
+      "title": "黄河泛滥与元廷争议",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "脱脱",
+        "元顺帝"
+      ],
+      "summary": "元至正四年，黄河泛滥，山东河南数十万人受灾。元廷内部就治理黄河问题产生激烈争议，宰相脱脱极力主张修治，为日后埋下隐患。",
+      "importance": 3,
+      "chapter": "第二章 灾难"
+    },
+    {
+      "id": "ev4",
+      "title": "朱重八外出化缘（游方）",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "入寺仅五十余天后，因寺中也面临饥荒，朱重八被迫外出化缘（讨饭）。他游历淮西、河南等地长达三年，历经磨难，开阔眼界，并接触了明教。",
+      "importance": 3,
+      "chapter": "第二章 灾难"
+    },
+    {
+      "id": "ev5",
+      "title": "朱元璋父母兄长去世",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "朱元璋",
+        "朱五四",
+        "陈氏"
+      ],
+      "summary": "1344年，灾难降临朱元璋家，其父母朱五四、陈氏及兄长在饥荒和瘟疫中相继去世，家破人亡。",
+      "importance": 2,
+      "chapter": "第一章 童年"
+    },
+    {
+      "id": "ev6",
+      "title": "朱元璋出家为僧",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "父母双亡后，为求生存，朱元璋到皇觉寺出家为僧，初期主要工作是外出化缘（讨饭）。",
+      "importance": 2,
+      "chapter": "第一章 童年"
+    },
+    {
+      "id": "ev7",
+      "title": "淮河瘟疫旱灾与赈灾腐败",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "元顺帝"
+      ],
+      "summary": "同年，淮河流域遭遇严重瘟疫和旱灾。元政府赈灾过程中，各级官员层层盘剥，到灾民手中所剩无几，加剧了社会矛盾。",
+      "importance": 2,
+      "chapter": "第二章 灾难"
+    },
+    {
+      "id": "ev8",
+      "title": "朱重八入皇觉寺为僧",
+      "years": [
+        1344
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "父母双亡后，为求生存，十七岁的朱重八选择到附近的皇觉寺出家为僧，从事杂役工作，饱受寺中和尚欺凌。",
+      "importance": 2,
+      "chapter": "第二章 灾难"
+    },
+    {
+      "id": "ev9",
+      "title": "元朝民族政策与统治危机",
+      "years": [
+        1350
+      ],
+      "persons": [
+        "脱脱"
+      ],
+      "summary": "元朝统治者拒绝汉化，与被统治者矛盾加深。虽有脱脱等大臣阻止极端政策，但社会矛盾最终激化，导致大规模起义。",
+      "importance": 4,
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "id": "ev10",
+      "title": "韩山童刘福通首义",
+      "years": [
+        1351
+      ],
+      "persons": [
+        "韩山童",
+        "刘福通"
+      ],
+      "summary": "韩山童、刘福通在颍州（今安徽阜阳）以白莲教为组织，假托宋朝皇室后裔之名，率先举起反抗元朝统治的大旗，标志着元末大规模农民战争的开始。",
+      "importance": 5,
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "id": "ev11",
+      "title": "元末黄河治理腐败",
+      "years": [
+        1351
+      ],
+      "persons": [
+        "脱脱"
+      ],
+      "summary": "元朝丞相脱脱主持治理黄河，但各级官吏趁机克扣工钱、口粮，并强征徭役，导致民怨沸腾，成为元末农民起义的导火索。",
+      "importance": 4,
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "id": "ev12",
+      "title": "徐寿辉建立天完政权",
+      "years": [
+        1351
+      ],
+      "persons": [
+        "徐寿辉",
+        "邹普胜",
+        "彭莹玉"
+      ],
+      "summary": "布贩徐寿辉在刘福通起义影响下，联合邹普胜、彭莹玉等人，以明教为号召，于大别山区起义，攻克罗田、黄州等地，建立“天完”政权。",
+      "importance": 3,
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "id": "ev13",
+      "title": "陈友谅投奔徐寿辉",
+      "years": [
+        1351
+      ],
+      "persons": [
+        "陈友谅",
+        "徐寿辉",
+        "倪文俊"
+      ],
+      "summary": "曾任县文书的陈友谅加入徐寿辉的红巾军部队。因其有文化、有计谋，迅速得到徐寿辉及其丞相倪文俊的信任和提拔。",
+      "importance": 2,
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "id": "ev14",
+      "title": "朱元璋被逼投军",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋",
+        "汤和",
+        "周德兴"
+      ],
+      "summary": "朱元璋收到好友汤和邀其投奔起义军的信，因被告发而面临生命危险。在走投无路之下，经占卜问策，最终下定决心投奔红巾军，踏上反元道路。",
+      "importance": 5,
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "id": "ev15",
+      "title": "朱元璋投军濠州",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴",
+        "汤和"
+      ],
+      "summary": "至正十二年，朱元璋（时名朱重八）前往被元军围困的濠州投奔郭子兴起义军，因镇定自若被郭子兴识破并非奸细，收为亲兵，从此开始军旅生涯。",
+      "importance": 4,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev16",
+      "title": "朱元璋改名立志",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "参军后不久，朱重八将自己的名字改为朱元璋，意为“诛灭元朝的利器”，表明其推翻元朝的决心，标志其个人身份与目标的重大转变。",
+      "importance": 3,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev17",
+      "title": "朱元璋娶马氏",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋",
+        "马姑娘",
+        "郭子兴"
+      ],
+      "summary": "在军中，朱元璋娶了郭子兴的义女马姑娘为妻，这使他成为元帅的女婿，不仅获得了家庭温暖，也提升了在军中的地位和政治资本。",
+      "importance": 3,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev18",
+      "title": "朱元璋智救郭子兴",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴",
+        "孙德崖"
+      ],
+      "summary": "郭子兴被濠州城内另一派系首领孙德崖绑架毒打。朱元璋凭借智慧，以掌握孙德崖部下贪污证据为要挟，成功从孙家地窖中救出郭子兴。",
+      "importance": 3,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev19",
+      "title": "朱元璋遭囚与马氏送饼",
+      "years": [
+        1352
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴",
+        "马皇后",
+        "郭子兴之子"
+      ],
+      "summary": "因遭郭子兴猜忌，朱元璋被关押。郭子兴之子欲饿死他，马姑娘将滚烫的烙饼藏在怀中偷送给他，胸口被烫伤。此事促使朱元璋决心离开。",
+      "importance": 2,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev20",
+      "title": "朱元璋脱离郭子兴",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴",
+        "徐达",
+        "汤和",
+        "周德兴"
+      ],
+      "summary": "带着七百部众回到濠州后，朱元璋决意独立发展。他精心挑选了徐达、汤和、周德兴等二十四位骨干，将剩余人马留给郭子兴，正式与之分道扬镳，开创自己的霸业。",
+      "importance": 5,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev21",
+      "title": "朱元璋独立领军出征",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴"
+      ],
+      "summary": "与郭子兴矛盾激化后，朱元璋申请并获准带兵出征。他奉命攻打元军重兵把守的定远，并出人意料地攻克，随后连克怀远、安奉、含山、虹县，四战四胜。",
+      "importance": 4,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev22",
+      "title": "朱元璋回乡募兵",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "徐达",
+        "周德兴",
+        "汤和"
+      ],
+      "summary": "攻克定远等地后，朱元璋回到家乡钟离募兵，最初招揽了包括徐达、周德兴在内的二十四位核心骨干，后队伍迅速扩大到七百人。",
+      "importance": 4,
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "id": "ev23",
+      "title": "李善长献策定大计",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "李善长"
+      ],
+      "summary": "李善长投奔朱元璋任文书，借刘邦为例，向朱元璋提出“豁达大度，知人善任”以取天下的战略方针。此举奠定了朱元璋集团的政治蓝图，李善长成为核心谋士。",
+      "importance": 4,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev24",
+      "title": "朱元璋智取张家堡",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋欲收编定远张家堡三千人部队，遭寨主食言。朱元璋设计宴请并擒获寨主，以其名义成功收编部队，展现了其谋略与果断。",
+      "importance": 3,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev25",
+      "title": "夜袭横涧山",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "缪大亨"
+      ],
+      "summary": "朱元璋率四千人夜袭驻守横涧山的两万元军（缪大亨部），以少胜多，迫使缪大亨投降。此役后朱元璋部队扩充至两万人，并开始严肃军纪。",
+      "importance": 3,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev26",
+      "title": "攻占滁州",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "花云"
+      ],
+      "summary": "朱元璋采纳李善长建议后，随即发兵攻占易守难攻的战略要地滁州。勇将花云率骑兵中央突破，元军溃败。此役使朱元璋获得稳固根据地。",
+      "importance": 3,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev27",
+      "title": "张士诚泰州起义",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "张士诚"
+      ],
+      "summary": "私盐贩子张士诚在泰州率众起义，后攻占泰州、兴化等地，因其出身与红巾军不同，为日后与朱元璋的矛盾埋下伏笔。",
+      "importance": 3,
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "id": "ev28",
+      "title": "冯氏兄弟来投",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "冯国用",
+        "冯国胜"
+      ],
+      "summary": "冯国用、冯国胜兄弟从定远投奔朱元璋。朱元璋识其才而留用，冯胜后来成为明朝开国名将，此事件为朱元璋集团吸纳了重要军事人才。",
+      "importance": 2,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev29",
+      "title": "亲属来投",
+      "years": [
+        1353
+      ],
+      "persons": [
+        "朱元璋",
+        "朱文正",
+        "李贞",
+        "李文忠"
+      ],
+      "summary": "攻占滁州后，朱元璋的侄子朱文正、姐夫李贞和外甥李文忠前来投奔。这些亲属后来均成为明朝开国战争中的重要将领，加强了朱元璋集团的核心力量。",
+      "importance": 2,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev30",
+      "title": "高邮之战",
+      "years": [
+        1354
+      ],
+      "persons": [
+        "张士诚",
+        "张士义",
+        "张士德",
+        "脱脱"
+      ],
+      "summary": "元丞相脱脱率百万大军围攻张士诚于高邮。张士诚坚守三个月，后因元廷内斗，脱脱被召回，张士诚奇迹般获胜，由此声名大振。",
+      "importance": 4,
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "id": "ev31",
+      "title": "朱元璋定策取集庆",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "朱元璋",
+        "冯胜"
+      ],
+      "summary": "朱元璋深感和州地小，难以发展。采纳冯胜建议，决意渡江攻取王气之地、富庶的集庆（南京），作为霸业根基。",
+      "importance": 4,
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "id": "ev32",
+      "title": "两次攻集庆失利与郭、张战死",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "朱元璋",
+        "郭天叙",
+        "张天祐"
+      ],
+      "summary": "1355年八、九月，朱元璋因船差轻敌，两次进攻集庆均被元军击败。但战斗中，名义上的上司郭天叙和张天祐战死，朱元璋扫除了内部权力障碍。",
+      "importance": 4,
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "id": "ev33",
+      "title": "郭子兴投奔与让权",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴"
+      ],
+      "summary": "郭子兴被孙德崖排挤出濠州，投奔女婿朱元璋。朱元璋不仅让出统帅之位，更交出三万精兵指挥权，以报知遇之恩，此举赢得了广泛敬佩，也消除了内部隐患。",
+      "importance": 3,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev34",
+      "title": "和州人质危机",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "朱元璋",
+        "郭子兴",
+        "孙德崖",
+        "徐达"
+      ],
+      "summary": "孙德崖率部至和州就食，郭子兴前来寻仇并扣押孙德崖，导致在城外的朱元璋被孙部擒为人质。经徐达挺身置换人质等复杂交涉后危机解除，但郭子兴因此气病身亡。",
+      "importance": 3,
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "id": "ev35",
+      "title": "俞通海投奔与组建水军",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "朱元璋",
+        "俞通海"
+      ],
+      "summary": "朱元璋缺乏水军，无法渡江。水军头目（海盗）俞通海率部来投，带来了上千条船只（实为小渔船），解决了渡江作战的燃眉之急。",
+      "importance": 3,
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "id": "ev36",
+      "title": "常遇春投奔朱元璋",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "常遇春",
+        "朱元璋"
+      ],
+      "summary": "至正十五年，朱元璋攻克和州时，常遇春前来投奔，并狂言要当先锋。后在采石战役中单枪匹马勇夺滩头，证明实力，被授予先锋官。",
+      "importance": 3,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev37",
+      "title": "采石矶之战（元军）",
+      "years": [
+        1355
+      ],
+      "persons": [
+        "常遇春",
+        "朱元璋"
+      ],
+      "summary": "在朱元璋进攻采石矶的战役中，元军列阵岸边阻击。常遇春奉命为先锋，持长戈孤身跃上江岸，连杀数人打开突破口，使朱军成功登陆。",
+      "importance": 2,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev38",
+      "title": "朱元璋攻占集庆（应天）",
+      "years": [
+        1356
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋于1356年亲率大军，分三路进攻集庆，历时十天终于攻克。他将集庆改名为应天，并以此作为新的根据地，事业进入新阶段。",
+      "importance": 5,
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "id": "ev39",
+      "title": "朱元璋在应天的战略态势",
+      "years": [
+        1356
+      ],
+      "persons": [
+        "朱元璋",
+        "张士诚",
+        "陈友谅",
+        "刘福通"
+      ],
+      "summary": "占据应天后，朱元璋被元军、张士诚、徐寿辉等强敌环绕。但因实力弱小未被重视，且北面刘福通的红巾军主力挡住了元军，为他赢得了生存与发展的时间。",
+      "importance": 4,
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "id": "ev40",
+      "title": "朱元璋与张士诚初期冲突",
+      "years": [
+        1356
+      ],
+      "persons": [
+        "朱元璋",
+        "张士诚"
+      ],
+      "summary": "自朱元璋1356年攻克应天（南京）后，便与东面的张士诚势力发生持续冲突，双方大小战斗上百次，朱元璋一度试图求和但被拒绝。",
+      "importance": 3,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev41",
+      "title": "龙潭之战",
+      "years": [
+        1356
+      ],
+      "persons": [
+        "朱元璋",
+        "张士诚",
+        "徐达",
+        "常遇春"
+      ],
+      "summary": "至正十六年七月，张士诚大举进攻朱元璋的镇江。朱元璋派徐达、常遇春迎战，在龙潭大败张士诚军。",
+      "importance": 3,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev42",
+      "title": "陈友谅杀倪文俊夺权",
+      "years": [
+        1357
+      ],
+      "persons": [
+        "陈友谅",
+        "倪文俊"
+      ],
+      "summary": "陈友谅杀掉天完国丞相倪文俊，吞并其部众，凭借匡扶之功成为天完国第一重臣，掌握了实权。",
+      "importance": 4,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev43",
+      "title": "倪文俊叛乱与陈友谅杀倪",
+      "years": [
+        1357
+      ],
+      "persons": [
+        "倪文俊",
+        "陈友谅",
+        "徐寿辉"
+      ],
+      "summary": "丞相倪文俊企图暗杀徐寿辉夺权，事败后逃往陈友谅处。陈友谅表面安抚，实则为向徐寿辉表忠心，设计杀死了自己的上司兼恩人倪文俊。",
+      "importance": 3,
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "id": "ev44",
+      "title": "朱元璋定策先攻陈友谅",
+      "years": [
+        1359
+      ],
+      "persons": [
+        "朱元璋",
+        "陈友谅",
+        "张士诚"
+      ],
+      "summary": "朱元璋在击败张士诚后，面临先攻陈友谅还是张士诚的抉择。他力排众议，分析陈友谅志骄、张士诚器小，决定先攻陈友谅，以避免两线作战，展现了卓越的战略眼光。",
+      "importance": 4,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev45",
+      "title": "陈友谅诛杀赵普胜",
+      "years": [
+        1359
+      ],
+      "persons": [
+        "陈友谅",
+        "赵普胜",
+        "丁普郎",
+        "傅友德"
+      ],
+      "summary": "陈友谅为清除徐寿辉的明教旧部，以图谋不轨的罪名杀害猛将赵普胜。丁普郎与傅友德察觉危险，投奔朱元璋。",
+      "importance": 3,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev46",
+      "title": "常遇春杀降激怒陈友谅",
+      "years": [
+        1359
+      ],
+      "persons": [
+        "常遇春",
+        "徐达",
+        "陈友谅"
+      ],
+      "summary": "常遇春与徐达在池州九华山伏击陈友谅军获胜，俘获三千人。常遇春未经请示，擅自将三千降卒活埋，并派人向陈友谅挑衅，此举直接激怒了陈友谅，导致决战提前爆发。",
+      "importance": 3,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev47",
+      "title": "陈友谅弑君称帝",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "陈友谅",
+        "徐寿辉"
+      ],
+      "summary": "至正二十年六月十六日，陈友谅在攻克采石后，于五通庙以铁锤击杀徐寿辉，随即在暴风雨中登基称帝，定国号为汉，年号大义。",
+      "importance": 5,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev48",
+      "title": "朱元璋部署龙湾之战",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "朱元璋",
+        "康茂才",
+        "徐达",
+        "常遇春",
+        "李善长"
+      ],
+      "summary": "朱元璋制定龙湾伏击计划。他命部将放弃龙湾阵地设伏，并利用原陈友谅旧将康茂才诈降，诱使陈友谅水军放弃从秦淮河直攻应天的路线，改走江东桥进入龙湾预设战场。",
+      "importance": 5,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev49",
+      "title": "陈友谅挟徐寿辉攻朱元璋",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "陈友谅",
+        "徐寿辉",
+        "朱元璋"
+      ],
+      "summary": "陈友谅完全控制徐寿辉后，于至正二十年挟持徐寿辉，以天完国名义率军顺江而下，进攻朱元璋的势力范围。",
+      "importance": 4,
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "id": "ev50",
+      "title": "陈友谅攻陷太平",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "陈友谅",
+        "花云"
+      ],
+      "summary": "陈友谅率强大水军顺江东下，迅速攻占采石。在攻打太平时，他利用巨型战船直接靠上城墙，士兵从船头攀爬入城，轻易歼灭三千守军，使应天门户洞开，朱元璋陷入危机。",
+      "importance": 4,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev51",
+      "title": "应天战前决策会议",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "朱元璋",
+        "刘基",
+        "常遇春"
+      ],
+      "summary": "太平失守后，朱元璋召集谋士商议对策，多数人主张弃城逃跑或退守。刘基力排众议，痛斥投降派，主张利用陈友谅的骄横设伏迎战，坚定了朱元璋“此地决战”的决心。",
+      "importance": 4,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev52",
+      "title": "朱棣出生",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "朱棣",
+        "朱元璋"
+      ],
+      "summary": "至正二十年四月，在陈友谅大军即将进攻应天的紧张战局中，朱元璋的一位身份低贱的妃子生下了朱棣。",
+      "importance": 4,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev53",
+      "title": "刘基（伯温）投奔朱元璋",
+      "years": [
+        1360
+      ],
+      "persons": [
+        "刘基",
+        "朱元璋",
+        "胡大海",
+        "孙炎"
+      ],
+      "summary": "胡大海攻下处州后，经多次征召，隐士刘基（刘伯温）最终在使者孙炎的强硬态度下，同意出山辅佐朱元璋。朱元璋起初只将他视为算命先生，未料其日后成为重要谋臣。",
+      "importance": 3,
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "id": "ev54",
+      "title": "陈友谅建造新式战船",
+      "years": [
+        1361
+      ],
+      "persons": [
+        "陈友谅"
+      ],
+      "summary": "陈友谅为准备与朱元璋的水战，建造了大型多层铁皮包裹的战船，增强了水军实力，其造船技术对后世郑和船队有影响。",
+      "importance": 3,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev55",
+      "title": "陈友谅杀害赵普胜",
+      "years": [
+        1361
+      ],
+      "persons": [
+        "陈友谅",
+        "赵普胜"
+      ],
+      "summary": "陈友谅为控制天完国政权，杀害了骁勇善战的将领赵普胜。此举导致军心涣散，士兵失去理想，只为粮饷而战。",
+      "importance": 3,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev56",
+      "title": "洪都守将叛变",
+      "years": [
+        1362
+      ],
+      "persons": [
+        "陈友谅",
+        "朱元璋"
+      ],
+      "summary": "陈友谅治下的洪都（今南昌）守将叛变，投降朱元璋。此地在陈友谅都城江州附近，成为其心腹大患。",
+      "importance": 3,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev57",
+      "title": "陈友谅倾国出征",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "陈友谅"
+      ],
+      "summary": "陈友谅趁朱元璋主力被牵制在安丰、庐州方向，动员六十万大军，倾全国之力，誓师出征，准备与朱元璋进行最终决战。",
+      "importance": 5,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev58",
+      "title": "鄱阳湖战役开始",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "陈友谅",
+        "徐达",
+        "常遇春",
+        "廖永忠"
+      ],
+      "summary": "七月二十一日，朱元璋与陈友谅在鄱阳湖展开决战。朱元璋军船小，陈友谅军以巨舰为主力，双方实力悬殊。",
+      "importance": 5,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev59",
+      "title": "朱元璋火攻破敌",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "郭兴",
+        "陈友谅"
+      ],
+      "summary": "在郭兴建议下，朱元璋趁下午东北风起，派出七条火船冲向铁索连船的陈友谅舰队，引发大火，陈军损失惨重，战局逆转。",
+      "importance": 5,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev60",
+      "title": "朱元璋救援安丰",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "刘基",
+        "韩林儿",
+        "刘福通",
+        "张士诚"
+      ],
+      "summary": "朱元璋不顾刘基劝阻，执意出兵救援安丰。抵达时安丰已失守，刘福通战死，只救出韩林儿，反成累赘。",
+      "importance": 4,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev61",
+      "title": "朱元璋进攻庐州",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "徐达",
+        "张士诚"
+      ],
+      "summary": "在回军路上遭张士诚部队骚扰，朱元璋不听徐达劝阻，决定进攻坚固的庐州（今合肥），意图打开进攻张士诚的通道。",
+      "importance": 4,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev62",
+      "title": "陈友谅进攻洪都",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "陈友谅",
+        "朱文正"
+      ],
+      "summary": "至正二十三年四月，陈友谅亲率数十万大军进攻朱元璋的战略要地洪都，意图以此为基地进攻应天。",
+      "importance": 4,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev63",
+      "title": "朱文正守洪都",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱文正",
+        "邓愈",
+        "赵德胜",
+        "薛显"
+      ],
+      "summary": "朱元璋任命侄子朱文正镇守洪都。面对陈友谅大军，朱文正一改纨绔作风，与邓愈等将领周密布防，顽强抵抗。",
+      "importance": 4,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev64",
+      "title": "徐达先锋突击",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "徐达",
+        "常遇春",
+        "廖永忠",
+        "陈友谅"
+      ],
+      "summary": "徐达主动请缨为先锋，采用小队群狼战术，利用己方船只灵活性，突袭陈友谅前军，攀上巨舰杀敌俘船，取得初胜。",
+      "importance": 4,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev65",
+      "title": "张定边孤军冲阵",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "常遇春"
+      ],
+      "summary": "陈友谅猛将张定边率三舰孤军直冲朱元璋旗舰，连破重围，斩杀韩成等多员大将，几乎擒获朱元璋，后中常遇春冷箭撤退。",
+      "importance": 4,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev66",
+      "title": "常遇春箭射张定边",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "常遇春",
+        "朱元璋"
+      ],
+      "summary": "在张定边即将冲至朱元璋搁浅旗舰的危急时刻，常遇春一箭射中张定边，迫使其退出战斗，解救了朱元璋。",
+      "importance": 4,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev67",
+      "title": "朱元璋巧计惑敌",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "徐达",
+        "陈友谅"
+      ],
+      "summary": "陈友谅欲集中兵力攻击朱元璋的白色旗舰。朱元璋识破此计，连夜将多艘战舰刷成白色，使陈友谅无法辨认，随后发动总攻击败陈军。",
+      "importance": 4,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev68",
+      "title": "张士诚围攻安丰",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "张士诚",
+        "韩林儿",
+        "刘福通"
+      ],
+      "summary": "已降元的张士诚出兵围攻红巾军韩林儿、刘福通所在的安丰（今安徽寿县）。刘福通向朱元璋求救。",
+      "importance": 3,
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "id": "ev69",
+      "title": "抚州门血战",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "邓愈",
+        "朱文正",
+        "陈友谅"
+      ],
+      "summary": "四月二十七日，陈友谅猛攻抚州门，城墙被破。邓愈用火铳阻击，朱文正率军增援并抢修城墙，激战一昼夜后击退汉军，守军多名将领战死。",
+      "importance": 3,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev70",
+      "title": "张子明求援",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋",
+        "朱文正"
+      ],
+      "summary": "洪都被围近两月，朱文正派张子明赴应天向朱元璋求援。张子明昼伏夜出，半月后抵达，朱元璋命其回报让朱文正再坚守一个月。",
+      "importance": 3,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev71",
+      "title": "陈友谅铁索连船",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "陈友谅"
+      ],
+      "summary": "陈友谅为发挥巨舰集群优势，效仿曹操，将战船用铁索相连，绵延十里，虽增强了阵型，但也为后来火攻埋下隐患。",
+      "importance": 3,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev72",
+      "title": "丁普朗决死冲锋",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "陈友谅",
+        "朱元璋"
+      ],
+      "summary": "朱元璋右翼遭猛攻即将崩溃时，丁普朗为报兄弟赵普胜之仇，树旗直冲陈友谅军阵，虽未成功但鼓舞了士气，最终战死。",
+      "importance": 3,
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "id": "ev73",
+      "title": "朱元璋麻痹元朝",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋在与陈友谅、张士诚作战期间，为麻痹元朝，不称王称帝，并暗中送礼给元将察罕帖木儿，以争取时间统一江南。",
+      "importance": 3,
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "id": "ev74",
+      "title": "薛显新城门反击",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "薛显",
+        "陈友谅"
+      ],
+      "summary": "五月初八，陈友谅转攻新城门。守将薛显趁汉军准备攻城器械时，突然率骑兵出城冲杀，打乱敌军攻势后撤回，挫败其进攻。",
+      "importance": 2,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev75",
+      "title": "水关攻防战",
+      "years": [
+        1363
+      ],
+      "persons": [
+        "陈友谅"
+      ],
+      "summary": "六月十四日，陈友谅改从水路进攻洪都水关。守军使用烧红的长矛和铁钩通过铁栅攻击，汉军伤亡惨重，进攻再次失败。",
+      "importance": 2,
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "id": "ev76",
+      "title": "朱元璋称吴王",
+      "years": [
+        1364
+      ],
+      "persons": [
+        "朱元璋",
+        "韩林儿"
+      ],
+      "summary": "至元二十四年正月，朱元璋在应天即吴王位，完成了从农民向王侯的转变。为与张士诚的吴区分，史称西吴。此举虽名义上仍需韩林儿批准，但标志着朱元璋政治地位的正式提升。",
+      "importance": 4,
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "id": "ev77",
+      "title": "朱文正叛变",
+      "years": [
+        1365
+      ],
+      "persons": [
+        "朱元璋",
+        "朱文正",
+        "张士诚",
+        "马皇后"
+      ],
+      "summary": "朱元璋在进攻张士诚期间，其亲侄、大将朱文正因不满封赏，密谋勾结张士诚反叛。朱元璋亲至洪都，鞭打并囚禁朱文正。此事对朱元璋造成巨大心理阴影，加深其多疑性格。",
+      "importance": 3,
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "id": "ev78",
+      "title": "朱元璋讨伐张士诚",
+      "years": [
+        1366
+      ],
+      "persons": [
+        "朱元璋",
+        "徐达",
+        "常遇春",
+        "张士诚"
+      ],
+      "summary": "至元二十六年，朱元璋集结全部精英，以徐达、常遇春为主帅，正式发动对东吴张士诚的全面讨伐。战前朱元璋定下先剪羽翼（杭州、湖州）、后攻腹心（平江）的战略，并严令禁止破城后滥杀。",
+      "importance": 4,
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "id": "ev79",
+      "title": "元朝招抚朱元璋失败",
+      "years": [
+        1366
+      ],
+      "persons": [
+        "朱元璋",
+        "刘基"
+      ],
+      "summary": "元朝派户部尚书张昶封朱元璋为官，试图招抚。朱元璋拒绝官职但扣留了张昶，挖走元朝人才，表明反元决心。",
+      "importance": 3,
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "id": "ev80",
+      "title": "平江围攻战",
+      "years": [
+        1367
+      ],
+      "persons": [
+        "朱元璋",
+        "张士诚",
+        "徐达",
+        "常遇春",
+        "郭兴",
+        "汤和",
+        "王弼",
+        "康茂才",
+        "耿炳文"
+      ],
+      "summary": "至正二十七年元月至九月，朱元璋军对平江（苏州）发动长达八个月的围攻。朱元璋采用多门齐攻、构筑长围、建造木塔俯攻等战术。张士诚率军顽强抵抗，最终城破。",
+      "importance": 4,
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "id": "ev81",
+      "title": "制定《大明律》",
+      "years": [
+        1367
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋建立明朝前后，制定了国家基本法典《大明律》，规定了笞、杖、徒、流、死五种正刑及诸多酷刑。",
+      "importance": 4,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev82",
+      "title": "张士诚被俘身死",
+      "years": [
+        1367
+      ],
+      "persons": [
+        "张士诚",
+        "朱元璋",
+        "李善长"
+      ],
+      "summary": "平江城破后，张士诚坚持巷战，拒绝投降，杀亲属后自尽未遂被俘。押往应天后，他蔑视李善长，并对朱元璋表示失败只因“天日照尔不照我”。朱元璋最终将其处死并锉骨扬灰。",
+      "importance": 3,
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "id": "ev83",
+      "title": "明朝国号确立",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋建立新朝，定国号为“明”。关于国号来源有争议，一说因其出身明教，一说取南方之火（明）镇北方之水（元）的五行相克之意。",
+      "importance": 5,
+      "chapter": "第十六章 建国"
+    },
+    {
+      "id": "ev84",
+      "title": "朱标被立为太子",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱标",
+        "朱元璋"
+      ],
+      "summary": "洪武元年正月初四，明朝建立的同日，朱元璋立长子朱标为太子，并为其配备最豪华的师资阵容，包括宋濂、李善长、徐达等。",
+      "importance": 4,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev85",
+      "title": "重惩江浙地区",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋",
+        "张士诚"
+      ],
+      "summary": "因江浙地区曾支持其对手张士诚，朱元璋在建国后对该地区征收数倍于他地的赋税以示惩罚，体现了其记仇的性格。此政策后期才废除。",
+      "importance": 3,
+      "chapter": "第十六章 建国"
+    },
+    {
+      "id": "ev86",
+      "title": "沈万三修墙获罪",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋",
+        "马皇后"
+      ],
+      "summary": "富商沈万三出资修筑南京城墙三分之一以讨好朱元璋，反引猜忌。朱元璋欲杀之，经马皇后劝谏，改为没收家产，发配云南。此事是朱元璋抑制商业的典型。",
+      "importance": 3,
+      "chapter": "第十六章 建国"
+    },
+    {
+      "id": "ev87",
+      "title": "设立剥皮实草之刑",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋为震慑贪官，在县衙大门与二门之间设置土地祠，用于对处死的贪官执行剥皮，并在皮内塞入稻草制成“皮场庙”，悬挂于公座旁示众。",
+      "importance": 3,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev88",
+      "title": "颁布抑商法令",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋颁布法令抑制商业发展，规定商人不得穿着绸缎等贵重衣物，试图贬低商人社会地位，维护以农为本的秩序。",
+      "importance": 3,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev89",
+      "title": "确立严格身份称谓制度",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "洪武年间规定，不同身份者去世须用不同称谓，如皇帝死称“崩”，庶民死才称“死”，违者将受严惩，以强化社会等级秩序。",
+      "importance": 2,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev90",
+      "title": "建立严密官僚服饰与礼仪规范",
+      "years": [
+        1368
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "对官员朝服、公服、常服的用料、颜色、花纹、补片乃至腰带材质，按品级做出极其严格的规定，违者可能被处死。",
+      "importance": 2,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev91",
+      "title": "朱元璋颁布肃贪法令",
+      "years": [
+        1369
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "洪武二年，朱元璋对大臣们表达对贪官污吏的痛恨，并颁布了严厉的肃贪法令：贪污六十两以上银子者，立杀。这显示了他建立清廉王朝的决心。",
+      "importance": 4,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev92",
+      "title": "洪武垦荒令",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋为恢复战后生产，颁布法令鼓励开荒。规定开垦荒地者免三年租税，且垦荒之地归开垦者所有，原主不得索回，极大促进了农业恢复。",
+      "importance": 4,
+      "chapter": "第十六章 建国"
+    },
+    {
+      "id": "ev93",
+      "title": "明朝科举扩招",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "洪武三年（1370年），明朝正式开科取士，并大幅扩大录取名额（唐宋每科仅取几十人）。此举奠定了明朝庞大文官集团的基础。",
+      "importance": 4,
+      "chapter": "第十六章 建国"
+    },
+    {
+      "id": "ev94",
+      "title": "推行职业户役制度",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "将百姓划分为民户、军户、匠户等，职业世袭，不得转换。旨在确保国家劳役与兵源稳定，构建僵化的社会结构。",
+      "importance": 4,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev95",
+      "title": "检校监察与高效肃贪",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋利用检校作为耳目，遍布全国监察官员。一旦发现贪腐，即便半夜也将情报呈送朱元璋，他立即处理，效率极高，常有官员今日受贿，次日即被逮捕。",
+      "importance": 3,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev96",
+      "title": "实施路引制度限制人口流动",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "规定百姓出行必须持有官府颁发的“路引”，无路引者被视为逃犯充军。旨在将人民束缚在固定地域与职业上。",
+      "importance": 3,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev97",
+      "title": "使用酷刑惩治贪官",
+      "years": [
+        1370
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "除了法定五刑，朱元璋在肃贪中常使用凌迟、抽肠、刷洗（开水浇烫后铁刷刮）、秤杆（风干）等酷刑，试图以严酷手段遏制腐败。",
+      "importance": 2,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev98",
+      "title": "朱棣受封燕王",
+      "years": [
+        1371
+      ],
+      "persons": [
+        "朱棣",
+        "朱元璋"
+      ],
+      "summary": "洪武四年，十一岁的朱棣被封为燕王，这是朱元璋对其众多儿子例行封王的一部分。",
+      "importance": 3,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev99",
+      "title": "朱元璋部署三路北伐",
+      "years": [
+        1372
+      ],
+      "persons": [
+        "朱元璋",
+        "徐达",
+        "李文忠",
+        "冯胜"
+      ],
+      "summary": "洪武五年正月，朱元璋命徐达、李文忠、冯胜各率五万大军，分中、右、西三路出征北元，意图合击歼灭北元主力。",
+      "importance": 4,
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "id": "ev100",
+      "title": "岭北之败",
+      "years": [
+        1372
+      ],
+      "persons": [
+        "徐达",
+        "蓝玉"
+      ],
+      "summary": "洪武五年五月，徐达中路军在岭北遭王保保与贺宗哲伏击，明军大败，死伤万余人。徐达稳住局势，率军安全撤退。",
+      "importance": 4,
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "id": "ev101",
+      "title": "傅友德西路七捷",
+      "years": [
+        1372
+      ],
+      "persons": [
+        "傅友德",
+        "冯胜"
+      ],
+      "summary": "洪武五年五月至十月，西路军先锋傅友德率部纵横甘肃、蒙古，连续取得西凉、永昌、扫林山等七场胜利，重创北元西部力量，缴获甚丰。",
+      "importance": 4,
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "id": "ev102",
+      "title": "蓝玉初战告捷",
+      "years": [
+        1372
+      ],
+      "persons": [
+        "蓝玉"
+      ],
+      "summary": "洪武五年二月至三月，先锋蓝玉先后在野马川、土剌河击败北元将领王保保，取得北伐初期的胜利。",
+      "importance": 3,
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "id": "ev103",
+      "title": "李文忠阿鲁浑河之战",
+      "years": [
+        1372
+      ],
+      "persons": [
+        "李文忠"
+      ],
+      "summary": "洪武五年六月，李文忠右路军轻敌冒进，在阿鲁浑河遭元将蛮子哈刺章以逸待劳的部队阻击。激战后明军虽胜但损失不小，后僵持撤军。",
+      "importance": 3,
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "id": "ev104",
+      "title": "胡惟庸独揽相权",
+      "years": [
+        1373
+      ],
+      "persons": [
+        "胡惟庸",
+        "汪广洋"
+      ],
+      "summary": "胡惟庸排挤走丞相汪广洋，独揽丞相大权，并掌权七年之久。期间他贪污受贿，专横跋扈，甚至私自处理政务，挑战皇权。",
+      "importance": 4,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev105",
+      "title": "胡惟庸拉帮结派",
+      "years": [
+        1373
+      ],
+      "persons": [
+        "胡惟庸",
+        "李善长"
+      ],
+      "summary": "胡惟庸为对抗朱元璋，通过封官许愿等手段拉拢吉安侯陆仲亨、御史大夫陈宁、都督毛骧等重臣。后又通过其弟李存义拉拢拥有免死铁券的李善长，试图构建庞大的政治同盟。",
+      "importance": 3,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev106",
+      "title": "王保保去世",
+      "years": [
+        1375
+      ],
+      "persons": [
+        "蓝玉"
+      ],
+      "summary": "北元第一名将王保保于洪武八年（1375年）死在漠北，使蓝玉失去了一个渴望复仇并超越的目标。",
+      "importance": 3,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev107",
+      "title": "空印案爆发",
+      "years": [
+        1376
+      ],
+      "persons": [
+        "朱元璋",
+        "郑士利"
+      ],
+      "summary": "朱元璋发现各地官员为方便核对账目，携带盖有官印的空白文册至户部，认为此举藐视皇权，未经请示擅自用印。虽经郑士利上书解释缘由，朱元璋仍严厉惩处相关官员。",
+      "importance": 4,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev108",
+      "title": "空印案处罚",
+      "years": [
+        1376
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "空印案定案后，朱元璋下令严惩：掌印的主官全部处死，副手杖责一百并发配充军。案件波及全国十三个省、一百四十多府、一千多县，大量官员被牵连，包括清官方克勤。",
+      "importance": 4,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev109",
+      "title": "郑士利上书直言",
+      "years": [
+        1376
+      ],
+      "persons": [
+        "郑士利",
+        "朱元璋"
+      ],
+      "summary": "生员郑士利勇敢上书朱元璋，详细解释空印文册仅为骑缝印，是地方与户部核对钱粮账目时，为避免路途遥远反复奔波而采取的变通办法，并试图为皇帝开脱。结果被罚劳改。",
+      "importance": 2,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev110",
+      "title": "胡惟庸杀马车夫事件",
+      "years": [
+        1379
+      ],
+      "persons": [
+        "胡惟庸",
+        "朱元璋"
+      ],
+      "summary": "胡惟庸之子坠马死于车轮下，胡惟庸未经司法程序擅自杀死了马车夫。朱元璋召见胡惟庸，仅以“杀人偿命”四字回应，标志双方矛盾公开化，朱元璋开始收网。",
+      "importance": 3,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev111",
+      "title": "占城国使节事件",
+      "years": [
+        1379
+      ],
+      "persons": [
+        "胡惟庸",
+        "汪广洋",
+        "朱元璋"
+      ],
+      "summary": "占城国派使节进贡，胡惟庸未将此事奏报朱元璋。朱元璋得知后震怒，严斥胡惟庸与汪广洋。二人推诿责任给礼部，朱元璋遂处死汪广洋，并囚禁相关官员，将矛头直指胡惟庸。",
+      "importance": 3,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev112",
+      "title": "胡惟庸案扩大化",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋下令深入调查胡惟庸同党。在严刑拷打下，供词牵连甚广，案件持续数年，被诛杀者超过一万人，大量开国功臣及官员被清洗。",
+      "importance": 5,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev113",
+      "title": "废除丞相制度",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "处死胡惟庸仅一个月后，朱元璋雷厉风行地撤销了延续上千年的丞相职位和中书省，由皇帝直接统领六部，极大加强了君主专制集权。",
+      "importance": 5,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev114",
+      "title": "废除丞相制度",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋",
+        "胡惟庸"
+      ],
+      "summary": "朱元璋以胡惟庸案为契机，废除延续千年的丞相制度，旨在加强皇权，直接统领六部。但后世内阁权力反而膨胀。",
+      "importance": 5,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev115",
+      "title": "涂节告发与胡惟庸伏诛",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "胡惟庸",
+        "朱元璋"
+      ],
+      "summary": "胡惟庸的亲信、御史中丞涂节见大势已去，告发胡惟庸的阴谋。朱元璋随即下令处死胡惟庸、陈宁及其党羽重要成员，并灭胡惟庸三族，胡惟庸案正式爆发。",
+      "importance": 4,
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "id": "ev116",
+      "title": "朱亮祖父子被鞭死",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋",
+        "朱亮祖"
+      ],
+      "summary": "洪武十三年九月初三，朱元璋在查明朱亮祖构陷清官道同、勾结恶霸的罪行后，亲自用鞭子抽打朱亮祖，侍卫随之动手，将朱亮祖与其长子朱暹活活鞭死于殿上。",
+      "importance": 4,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev117",
+      "title": "朱亮祖与道同之争",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱亮祖",
+        "朱元璋"
+      ],
+      "summary": "永嘉侯朱亮祖镇守广州时，收受地方豪强贿赂，多次干涉番禺县令道同执法，并最终动用军队抢走被道同抓捕的犯人，还利用快马抢先诬告，导致道同被误杀。",
+      "importance": 3,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev118",
+      "title": "允许百姓绑贪官送京",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋制定了一项激进政策，允许普通百姓将贪官污吏绑缚送往京城治罪，沿途关卡必须放行，阻拦者处死并株连九族。此举在法制史上绝无仅有。",
+      "importance": 3,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev119",
+      "title": "明军两次远征北元",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋于洪武十三年（1380年）二月及洪武十四年（1381年）正月，两次组织兵力远征北元，均取得胜利但未形成致命打击。",
+      "importance": 3,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev120",
+      "title": "朱棣就藩北平",
+      "years": [
+        1380
+      ],
+      "persons": [
+        "朱棣"
+      ],
+      "summary": "二十一岁时，朱棣奉命前往封地北平就藩，开始与蒙古骑兵长期打交道，并在战争中学习成长。",
+      "importance": 3,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev121",
+      "title": "徐达病逝",
+      "years": [
+        1384
+      ],
+      "persons": [
+        "徐达",
+        "朱元璋"
+      ],
+      "summary": "明朝开国第一名将徐达于洪武十七年（1384年）病逝。文中驳斥了朱元璋赐蒸鹅致其死的传闻。",
+      "importance": 4,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev122",
+      "title": "郭桓案发",
+      "years": [
+        1385
+      ],
+      "persons": [
+        "朱元璋",
+        "郭桓"
+      ],
+      "summary": "御史余敏、丁廷举告发户部侍郎郭桓勾结北平及中央六部官员贪污税粮，巧立名目征收杂税。据《大诰》记载，贪污数额巨大，接近全国一年岁入。",
+      "importance": 5,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev123",
+      "title": "郭桓案大清洗",
+      "years": [
+        1385
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "郭桓案牵连极广，中央六部侍郎以下官员多数被杀，地方经办官员、富户、粮长亦遭清洗。据载此案共诛杀三万余人，导致“百姓中产之家大抵皆破”，朝廷为之一空。",
+      "importance": 5,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev124",
+      "title": "主审官吴庸被处决",
+      "years": [
+        1385
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "郭桓案主审法官、右审刑吴庸，在案件审理结束后，自己也被朱元璋处死。此事极具讽刺意味，体现了朱元璋利用大案进行无差别政治清洗的特点。",
+      "importance": 3,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev125",
+      "title": "颁布《大诰》",
+      "years": [
+        1385
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "朱元璋采集一万多个罪犯案例编成《大诰》，作为普法读物推广。规定罪犯家中若有此书可减刑，以此强制百姓学法。",
+      "importance": 3,
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "id": "ev126",
+      "title": "官员装疯避祸",
+      "years": [
+        1385
+      ],
+      "persons": [
+        "袁凯"
+      ],
+      "summary": "为逃避朱元璋的严酷统治和随时可能降临的杀身之祸，许多明朝官员选择装疯。监察御史袁凯便是其中之一，通过极端怪异的言行成功伪装成精神病患者以求自保。",
+      "importance": 2,
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "id": "ev127",
+      "title": "肃贪导致官员奇缺",
+      "years": [
+        1386
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "至洪武十九年，因贪污被杀的官员达数万人，全国各省府县官员很少能任满，出现官员奇缺的现象。朱元璋甚至将判了死罪、徒流罪的官员戴枷办公，以维持衙门运转。",
+      "importance": 4,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev128",
+      "title": "同批官员几乎全军覆没",
+      "years": [
+        1386
+      ],
+      "persons": [
+        "朱元璋"
+      ],
+      "summary": "史料记载，某年同批发榜派官364人，一年后，其中6人被直接处死，其余358人均为“戴死罪、徒流罪办事”，即戴着刑具处理公务，形成了明朝特有的司法奇观。",
+      "importance": 3,
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "id": "ev129",
+      "title": "朱元璋定策征辽东",
+      "years": [
+        1387
+      ],
+      "persons": [
+        "朱元璋",
+        "冯胜",
+        "蓝玉"
+      ],
+      "summary": "洪武二十年（1387年），朱元璋亲自部署远征辽东纳哈出的战略，精准预测战争进程，并暗派乃剌吾劝降，实施军事与招抚并用的策略。",
+      "importance": 4,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev130",
+      "title": "纳哈出率众投降",
+      "years": [
+        1387
+      ],
+      "persons": [
+        "纳哈出",
+        "冯胜",
+        "蓝玉",
+        "朱元璋"
+      ],
+      "summary": "在明军军事压力和朱元璋派使者劝降的双重作用下，北元太尉纳哈出最终率二十万军队投降明朝。",
+      "importance": 4,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev131",
+      "title": "蓝玉雪夜袭庆州",
+      "years": [
+        1387
+      ],
+      "persons": [
+        "蓝玉",
+        "冯胜"
+      ],
+      "summary": "洪武二十年（1387年）征辽东之役中，蓝玉作为先锋冒雪奔袭，攻克北元重兵把守的庆州，杀平章果来，为后续决战创造条件。",
+      "importance": 3,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev132",
+      "title": "冯胜蓝玉会师辽东",
+      "years": [
+        1387
+      ],
+      "persons": [
+        "冯胜",
+        "蓝玉"
+      ],
+      "summary": "冯胜率大军出松亭关，于五月与攻克庆州的蓝玉会师，兵临纳哈出驻地，准备决战。",
+      "importance": 3,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev133",
+      "title": "受降宴风波",
+      "years": [
+        1387
+      ],
+      "persons": [
+        "蓝玉",
+        "纳哈出",
+        "冯胜",
+        "观童"
+      ],
+      "summary": "在纳哈出的投降宴上，因蓝玉赠衣引发争执，常茂拔刀砍伤纳哈出，险些导致降军哗变，后经冯胜等人安抚才平息。此事为蓝玉日后命运埋下祸根。",
+      "importance": 3,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev134",
+      "title": "蓝玉骄纵不法",
+      "years": [
+        1388
+      ],
+      "persons": [
+        "蓝玉",
+        "朱元璋"
+      ],
+      "summary": "蓝玉北征归来途中，欺凌元主妃致其自杀，后又夜闯喜峰关、擅权军伍，行为日益骄纵，引起朱元璋强烈不满。",
+      "importance": 3,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev135",
+      "title": "朱元璋改封凉国公",
+      "years": [
+        1388
+      ],
+      "persons": [
+        "朱元璋",
+        "蓝玉"
+      ],
+      "summary": "因蓝玉的过失，朱元璋将原拟封赏的梁国公改为凉国公，以示警告，体现了对其态度的转变。",
+      "importance": 2,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev136",
+      "title": "胡惟庸案终结",
+      "years": [
+        1390
+      ],
+      "persons": [
+        "李善长",
+        "朱元璋"
+      ],
+      "summary": "李善长被处死，标志着持续十年的胡惟庸案告一段落。",
+      "importance": 4,
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "id": "ev137",
+      "title": "朱棣首次统兵北征",
+      "years": [
+        1390
+      ],
+      "persons": [
+        "朱棣",
+        "朱元璋",
+        "蓝玉"
+      ],
+      "summary": "洪武二十三年，朱元璋将部分兵权授予燕王朱棣，命其统兵出击蒙古，这是朱棣军事生涯的重要起点。",
+      "importance": 3,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev138",
+      "title": "太子朱标病逝",
+      "years": [
+        1392
+      ],
+      "persons": [
+        "朱标",
+        "朱元璋"
+      ],
+      "summary": "洪武二十五年四月，太子朱标病亡。朱元璋深受打击，随后立朱标之子朱允炆为皇太孙，为后来清洗功臣埋下伏笔。",
+      "importance": 4,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev139",
+      "title": "朱元璋为朱允炆铺路",
+      "years": [
+        1392
+      ],
+      "persons": [
+        "朱元璋",
+        "蓝玉"
+      ],
+      "summary": "朱标死后，朱元璋为巩固年幼皇太孙朱允炆的皇位，开始系统性清除蓝玉等可能构成威胁的骄兵悍将。",
+      "importance": 4,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev140",
+      "title": "朱元璋诛杀开国功臣",
+      "years": [
+        1392
+      ],
+      "persons": [
+        "朱元璋",
+        "周德兴"
+      ],
+      "summary": "朱元璋为巩固皇权，开始系统性地清除开国功臣。洪武二十五年，他杀掉了早年为他算命的江夏侯周德兴。",
+      "importance": 4,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev141",
+      "title": "蓝玉觊觎太师之位",
+      "years": [
+        1392
+      ],
+      "persons": [
+        "蓝玉",
+        "朱元璋"
+      ],
+      "summary": "蓝玉对获封太子太傅不满，公开抱怨“难道我不配当太师吗？”，此举进一步激怒了朱元璋。",
+      "importance": 2,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev142",
+      "title": "蓝玉案发",
+      "years": [
+        1393
+      ],
+      "persons": [
+        "蓝玉",
+        "朱元璋"
+      ],
+      "summary": "洪武二十六年二月，锦衣卫指挥蒋瓛告发蓝玉谋反，朱元璋将其逮捕下狱，并牵连诛杀大量功臣，是为“蓝玉案”。",
+      "importance": 4,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "id": "ev143",
+      "title": "诛杀傅友德与王弼",
+      "years": [
+        1394
+      ],
+      "persons": [
+        "朱元璋",
+        "傅友德",
+        "王弼"
+      ],
+      "summary": "洪武二十七年，朱元璋诛杀颖国公傅友德，同时被杀的还有在捕鱼儿海战役中立功的定远侯王弼。",
+      "importance": 3,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev144",
+      "title": "诛杀冯胜",
+      "years": [
+        1395
+      ],
+      "persons": [
+        "朱元璋",
+        "冯胜"
+      ],
+      "summary": "洪武二十八年，朱元璋杀宋国公冯胜，至此，开国六公爵的硕果仅存者也未能幸免。",
+      "importance": 3,
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "id": "ev145",
+      "title": "朱标劝谏朱元璋",
+      "years": [],
+      "persons": [
+        "朱标",
+        "朱元璋"
+      ],
+      "summary": "朱标曾劝谏朱元璋诛杀功臣过多恐伤和气。朱元璋以“拔刺”为喻，朱标则以“上有尧舜之君，下有尧舜之民”反驳，触怒朱元璋。",
+      "importance": 2,
+      "chapter": "第二十一章 蓝玉的覆灭"
+    }
+  ],
+  "relations": [
+    {
+      "source": "朱五四",
+      "target": "朱元璋",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱五四为朱元璋的父亲。"
+    },
+    {
+      "source": "陈氏",
+      "target": "朱元璋",
+      "types": [
+        "亲属"
+      ],
+      "context": "陈氏为朱元璋的母亲。"
+    },
+    {
+      "source": "朱百六",
+      "target": "朱元璋",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱百六为朱元璋的高祖父。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘德",
+      "types": [
+        "关联"
+      ],
+      "context": "朱元璋少年时为地主刘德家放牛。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重四",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱元璋的大哥"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重六",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱元璋的二哥"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘德",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋求刘德帮助埋葬父母被拒"
+    },
+    {
+      "source": "脱脱",
+      "target": "元顺帝",
+      "types": [
+        "君臣"
+      ],
+      "context": "脱脱是元顺帝的宰相"
+    },
+    {
+      "source": "朱元璋",
+      "target": "元顺帝",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋家庭在元顺帝统治时期遭受灾难"
+    },
+    {
+      "source": "汤和",
+      "target": "朱元璋",
+      "types": [
+        "朋友"
+      ],
+      "context": "汤和是朱元璋幼年好友，写信邀请朱元璋参加起义军"
+    },
+    {
+      "source": "周德兴",
+      "target": "朱元璋",
+      "types": [
+        "朋友"
+      ],
+      "context": "周德兴是朱元璋的朋友，为其出谋划策（建议算卦）"
+    },
+    {
+      "source": "韩山童",
+      "target": "刘福通",
+      "types": [
+        "同盟"
+      ],
+      "context": "韩山童与刘福通共同在颍州发动白莲教起义"
+    },
+    {
+      "source": "朱元璋",
+      "target": "脱脱",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋作为反抗者，与元朝丞相脱脱代表的元廷处于敌对阵营"
+    },
+    {
+      "source": "朱元璋",
+      "target": "韩山童",
+      "types": [
+        "关联"
+      ],
+      "context": "朱元璋受韩山童、刘福通起义影响，最终走上反抗道路"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘福通",
+      "types": [
+        "关联"
+      ],
+      "context": "朱元璋受韩山童、刘福通起义影响，最终走上反抗道路"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭子兴",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋投奔郭子兴，成为其亲兵和部下"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马姑娘",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱元璋娶郭子兴义女马姑娘为妻"
+    },
+    {
+      "source": "郭子兴",
+      "target": "马姑娘",
+      "types": [
+        "亲属"
+      ],
+      "context": "马姑娘是郭子兴的义女"
+    },
+    {
+      "source": "郭子兴",
+      "target": "孙德崖",
+      "types": [
+        "敌对"
+      ],
+      "context": "濠州统帅间的矛盾，孙德崖绑架郭子兴"
+    },
+    {
+      "source": "朱元璋",
+      "target": "孙德崖",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋从孙德崖处救出郭子兴"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "types": [
+        "君臣"
+      ],
+      "context": "徐达在钟离投奔朱元璋，成为其早期核心将领"
+    },
+    {
+      "source": "郭子兴",
+      "target": "郭子兴之子",
+      "types": [
+        "亲属"
+      ],
+      "context": "父子关系"
+    },
+    {
+      "source": "郭子兴之子",
+      "target": "朱元璋",
+      "types": [
+        "敌对"
+      ],
+      "context": "郭子兴之子企图趁朱元璋被关时饿死他"
+    },
+    {
+      "source": "朱元璋",
+      "target": "缪大亨",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋夜袭横涧山，击败并收降缪大亨部"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯国用",
+      "types": [
+        "君臣"
+      ],
+      "context": "冯国用与弟冯国胜从定远来投奔朱元璋"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯国胜",
+      "types": [
+        "君臣"
+      ],
+      "context": "冯国胜与兄冯国用从定远来投奔朱元璋"
+    },
+    {
+      "source": "冯国用",
+      "target": "冯国胜",
+      "types": [
+        "亲属"
+      ],
+      "context": "兄弟关系"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "types": [
+        "君臣"
+      ],
+      "context": "李善长投奔朱元璋，以汉高祖刘邦为例为其规划帝业，被朱元璋拜为谋士"
+    },
+    {
+      "source": "朱元璋",
+      "target": "花云",
+      "types": [
+        "君臣"
+      ],
+      "context": "花云为朱元璋部将，率骑兵攻破滁州"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱文正是朱元璋的侄子，前来投奔"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李贞",
+      "types": [
+        "亲属"
+      ],
+      "context": "李贞是朱元璋的姐夫，前来投奔"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李文忠",
+      "types": [
+        "亲属"
+      ],
+      "context": "李文忠是朱元璋的外甥，前来投奔"
+    },
+    {
+      "source": "李贞",
+      "target": "李文忠",
+      "types": [
+        "亲属"
+      ],
+      "context": "父子关系"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭子兴",
+      "types": [
+        "亲属"
+      ],
+      "context": "郭子兴是朱元璋的岳父"
+    },
+    {
+      "source": "朱元璋",
+      "target": "孙德崖",
+      "types": [
+        "同盟"
+      ],
+      "context": "孙德崖兵多粮少，要求到朱元璋占据的和州就食，朱元璋同意"
+    },
+    {
+      "source": "郭子兴",
+      "target": "郭天叙",
+      "types": [
+        "亲属"
+      ],
+      "context": "父子关系"
+    },
+    {
+      "source": "郭天叙",
+      "target": "朱元璋",
+      "types": [
+        "关联"
+      ],
+      "context": "郭天叙因朱元璋让权给其父郭子兴而对其产生敬佩"
+    },
+    {
+      "source": "徐达",
+      "target": "孙德崖",
+      "types": [
+        "敌对"
+      ],
+      "context": "徐达作为人质被孙德崖军扣押，以交换朱元璋"
+    },
+    {
+      "source": "冯胜",
+      "target": "朱元璋",
+      "types": [
+        "君臣"
+      ],
+      "context": "冯胜是朱元璋部将，向其建议渡江攻占集庆。"
+    },
+    {
+      "source": "俞通海",
+      "target": "朱元璋",
+      "types": [
+        "君臣"
+      ],
+      "context": "俞通海率水军投奔朱元璋，助其攻打采石、太平、集庆。"
+    },
+    {
+      "source": "郭天叙",
+      "target": "朱元璋",
+      "types": [
+        "同盟"
+      ],
+      "context": "郭天叙为名义上都元帅，朱元璋为左副元帅，共同攻打集庆。"
+    },
+    {
+      "source": "张天祐",
+      "target": "朱元璋",
+      "types": [
+        "同盟"
+      ],
+      "context": "张天祐为右都副元帅，与朱元璋共同攻打集庆。"
+    },
+    {
+      "source": "刘福通",
+      "target": "朱元璋",
+      "types": [
+        "同盟"
+      ],
+      "context": "刘福通封朱元璋官职，并在北面阻挡元军，为朱元璋创造发展空间。"
+    },
+    {
+      "source": "张士诚",
+      "target": "朱元璋",
+      "types": [
+        "敌对"
+      ],
+      "context": "张士诚占据平江（苏州），是朱元璋东面的邻居和未来主要对手。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱元璋",
+      "types": [
+        "敌对"
+      ],
+      "context": "陈友谅是朱元璋西面的邻居，被描述为真正可怕的对手。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "朱元璋",
+      "types": [
+        "敌对"
+      ],
+      "context": "徐寿辉占据朱元璋西面，是其邻居之一。"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士义",
+      "types": [
+        "亲属"
+      ],
+      "context": "兄弟关系，共同坚守高邮。"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士德",
+      "types": [
+        "亲属"
+      ],
+      "context": "兄弟关系，共同坚守高邮。"
+    },
+    {
+      "source": "张士诚",
+      "target": "脱脱",
+      "types": [
+        "敌对"
+      ],
+      "context": "脱脱率元军百万围攻张士诚于高邮。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "刘福通",
+      "types": [
+        "关联"
+      ],
+      "context": "刘福通起义军经过徐寿辉家乡，促使徐寿辉起义。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "邹普胜",
+      "types": [
+        "君臣"
+      ],
+      "context": "徐寿辉任命邹普胜为太师。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "彭莹玉",
+      "types": [
+        "同盟"
+      ],
+      "context": "彭莹玉协助徐寿辉宣传明教并起义。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "陈友谅",
+      "types": [
+        "君臣"
+      ],
+      "context": "陈友谅参加徐寿辉的起义军并得到信任。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "倪文俊",
+      "types": [
+        "君臣"
+      ],
+      "context": "倪文俊是徐寿辉的丞相。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "丁普郎",
+      "types": [
+        "君臣"
+      ],
+      "context": "丁普郎是徐寿辉部下四大金刚之一。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "赵普胜",
+      "types": [
+        "君臣"
+      ],
+      "context": "赵普胜是徐寿辉部下四大金刚之一。"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "傅友德",
+      "types": [
+        "君臣"
+      ],
+      "context": "傅友德是徐寿辉部下四大金刚之一。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "倪文俊",
+      "types": [
+        "师生"
+      ],
+      "context": "倪文俊是陈友谅的领导并提拔了他。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "倪文俊",
+      "types": [
+        "敌对"
+      ],
+      "context": "陈友谅杀掉倪文俊，成为天完国第一重臣。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "赵普胜",
+      "types": [
+        "敌对"
+      ],
+      "context": "陈友谅为除掉徐寿辉羽翼，以图谋不轨罪名杀害赵普胜。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "丁普郎",
+      "types": [
+        "敌对"
+      ],
+      "context": "丁普郎见陈友谅清除异己，逃往朱元璋处。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "傅友德",
+      "types": [
+        "敌对"
+      ],
+      "context": "傅友德见陈友谅清除异己，逃往朱元璋处。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋在采石之战中启用常遇春为先锋，并授予官职。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "丁普郎",
+      "types": [
+        "君臣"
+      ],
+      "context": "丁普郎从陈友谅处投奔朱元璋。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "傅友德",
+      "types": [
+        "君臣"
+      ],
+      "context": "傅友德从陈友谅处投奔朱元璋。"
+    },
+    {
+      "source": "张士诚",
+      "target": "徐寿辉",
+      "types": [
+        "同盟"
+      ],
+      "context": "张士诚回信朱元璋称已和徐寿辉约好共同对付朱元璋。"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "types": [
+        "同僚"
+      ],
+      "context": "两人同为朱元璋部下将领，共同参与对张士诚的作战。"
+    },
+    {
+      "source": "常遇春",
+      "target": "徐达",
+      "types": [
+        "同盟"
+      ],
+      "context": "常遇春与徐达共同在九华山设伏击败陈友谅军。"
+    },
+    {
+      "source": "常遇春",
+      "target": "陈友谅",
+      "types": [
+        "敌对"
+      ],
+      "context": "常遇春击败并挑衅陈友谅，引发陈友谅大军来攻。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘基",
+      "types": [
+        "君臣"
+      ],
+      "context": "刘基（刘伯温）被朱元璋征召为谋士，在应天防守决策中力主决战。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡大海",
+      "types": [
+        "君臣"
+      ],
+      "context": "胡大海是朱元璋部将，攻下处州并征召隐士。"
+    },
+    {
+      "source": "胡大海",
+      "target": "刘基",
+      "types": [
+        "关联"
+      ],
+      "context": "胡大海奉命征召刘基，但刘基最初不愿应召。"
+    },
+    {
+      "source": "孙炎",
+      "target": "刘基",
+      "types": [
+        "关联"
+      ],
+      "context": "孙炎奉朱元璋之命最终成功迫使刘基前来效力。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "花云",
+      "types": [
+        "敌对"
+      ],
+      "context": "陈友谅大军攻破花云镇守的太平。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "赵德胜",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋命令赵德胜参与龙湾伏击。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "康茂才",
+      "types": [
+        "君臣"
+      ],
+      "context": "康茂才是朱元璋部将，奉命诈降诱骗陈友谅。"
+    },
+    {
+      "source": "康茂才",
+      "target": "陈友谅",
+      "types": [
+        "关联"
+      ],
+      "context": "康茂才原为陈友谅部将，后诈降诱骗陈友谅进入伏击圈。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张士诚",
+      "types": [
+        "同盟"
+      ],
+      "context": "陈友谅进攻应天前通知张士诚，希望其夹攻朱元璋。"
+    },
+    {
+      "source": "胡大海",
+      "target": "叶琛",
+      "types": [
+        "关联"
+      ],
+      "context": "胡大海征召隐士叶琛。"
+    },
+    {
+      "source": "胡大海",
+      "target": "章溢",
+      "types": [
+        "关联"
+      ],
+      "context": "胡大海征召隐士章溢。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "韩林儿",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋名义上尊韩林儿为皇帝，并出兵救援。"
+    },
+    {
+      "source": "张士诚",
+      "target": "韩林儿",
+      "types": [
+        "敌对"
+      ],
+      "context": "张士诚军队进攻韩林儿所在的安丰。"
+    },
+    {
+      "source": "张士诚",
+      "target": "刘福通",
+      "types": [
+        "敌对"
+      ],
+      "context": "张士诚军队进攻刘福通镇守的安丰。"
+    },
+    {
+      "source": "刘福通",
+      "target": "韩林儿",
+      "types": [
+        "君臣"
+      ],
+      "context": "刘福通拥立韩林儿为宋政权皇帝。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋委派朱文正镇守洪都。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱文正",
+      "types": [
+        "敌对"
+      ],
+      "context": "陈友谅率六十万大军进攻朱文正镇守的洪都。"
+    },
+    {
+      "source": "朱文正",
+      "target": "邓愈",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱文正作为洪都主帅，安排邓愈防守最重要的抚州门。"
+    },
+    {
+      "source": "朱文正",
+      "target": "赵德胜",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱文正安排赵德胜防守宫步、土步、桥步三门。"
+    },
+    {
+      "source": "朱文正",
+      "target": "薛显",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱文正安排薛显防守章江、新城两门。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭兴",
+      "types": [
+        "君臣"
+      ],
+      "context": "郭兴随朱元璋出征，准备与陈友谅决战。"
+    },
+    {
+      "source": "陈友谅",
+      "target": "徐寿辉",
+      "types": [
+        "敌对"
+      ],
+      "context": "文中提及陈友谅的生存方式与徐寿辉不同，暗示陈友谅杀害了徐寿辉。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "廖永忠",
+      "types": [
+        "君臣"
+      ],
+      "context": "廖永忠参与制定鄱阳湖之战作战计划"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "types": [
+        "朋友"
+      ],
+      "context": "徐达与常遇春、廖永忠等共同制定作战计划"
+    },
+    {
+      "source": "徐达",
+      "target": "廖永忠",
+      "types": [
+        "朋友"
+      ],
+      "context": "徐达与常遇春、廖永忠等共同制定作战计划"
+    },
+    {
+      "source": "朱文正",
+      "target": "张士诚",
+      "types": [
+        "同盟"
+      ],
+      "context": "朱文正因不满封赏，暗中勾结张士诚准备讨伐朱元璋"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马皇后",
+      "types": [
+        "亲属"
+      ],
+      "context": "马皇后是朱元璋结发妻子，曾劝阻朱元璋处死朱文正"
+    },
+    {
+      "source": "李善长",
+      "target": "张士诚",
+      "types": [
+        "敌对"
+      ],
+      "context": "李善长奉朱元璋之命审问张士诚，遭张士诚蔑视和辱骂"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李文忠",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋任命李文忠为左副将军，率右路军出征北元。"
+    },
+    {
+      "source": "徐达",
+      "target": "蓝玉",
+      "types": [
+        "君臣"
+      ],
+      "context": "徐达挑选蓝玉作为其先锋将领。"
+    },
+    {
+      "source": "徐达",
+      "target": "王保保",
+      "types": [
+        "敌对"
+      ],
+      "context": "徐达率军与王保保在岭北交战，先胜后遭伏击，最终对峙。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "types": [
+        "亲属"
+      ],
+      "context": "蓝玉是常遇春的内弟（小舅子）。"
+    },
+    {
+      "source": "冯胜",
+      "target": "傅友德",
+      "types": [
+        "君臣"
+      ],
+      "context": "冯胜挑选傅友德作为其先锋将领，后委以主力。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋任命胡惟庸为丞相，后因其专权将其处死。"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "刘基",
+      "types": [
+        "敌对"
+      ],
+      "context": "胡惟庸在朱元璋支持下打败浙东集团，除掉了刘基。"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "李善长",
+      "types": [
+        "关联"
+      ],
+      "context": "胡惟庸试图拉拢李善长，李善长最终默许其行为。"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "汪广洋",
+      "types": [
+        "敌对"
+      ],
+      "context": "胡惟庸挤走丞相汪广洋，独揽大权。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "汪广洋",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋因占城国进贡事件处死汪广洋。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "王保保",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋在元末击败对手王保保。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱亮祖",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋是皇帝，朱亮祖是其部下开国大将，封永嘉侯。"
+    },
+    {
+      "source": "郑士利",
+      "target": "朱元璋",
+      "types": [
+        "君臣"
+      ],
+      "context": "郑士利上书为“空印案”辩解"
+    },
+    {
+      "source": "袁凯",
+      "target": "朱元璋",
+      "types": [
+        "君臣"
+      ],
+      "context": "袁凯因在朱元璋与太子意见间为难而装疯"
+    },
+    {
+      "source": "袁凯",
+      "target": "朱标",
+      "types": [
+        "君臣"
+      ],
+      "context": "袁凯奉朱元璋命将处决名单交太子朱标"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱标",
+      "types": [
+        "亲属"
+      ],
+      "context": "父子，在处决人犯的宽严问题上意见相左"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱元璋任命蓝玉为征虏大将军，率军消灭北元。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "纳哈出",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋视纳哈出为边境威胁，派军征讨并设计招降。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "types": [
+        "师生"
+      ],
+      "context": "蓝玉跟随常遇春多年，深得其兵法精髓，作战风格相似。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "徐达",
+      "types": [
+        "关联"
+      ],
+      "context": "蓝玉曾跟随徐达参加洪武五年远征，徐达是其前辈。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "王保保",
+      "types": [
+        "敌对"
+      ],
+      "context": "蓝玉在洪武五年远征中被王保保击败，视其为要战胜的目标。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "纳哈出",
+      "types": [
+        "敌对"
+      ],
+      "context": "蓝玉参与征讨纳哈出，并在受降宴上发生冲突。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "冯胜",
+      "types": [
+        "同盟"
+      ],
+      "context": "蓝玉在冯胜麾下任右副将军，共同远征辽东。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "傅友德",
+      "types": [
+        "同盟"
+      ],
+      "context": "蓝玉与傅友德同任左右副将军，随冯胜远征辽东。"
+    },
+    {
+      "source": "冯胜",
+      "target": "蓝玉",
+      "types": [
+        "君臣"
+      ],
+      "context": "冯胜为主帅，蓝玉为其麾下右副将军。"
+    },
+    {
+      "source": "冯胜",
+      "target": "纳哈出",
+      "types": [
+        "敌对"
+      ],
+      "context": "冯胜率军征讨纳哈出，并最终接受其投降。"
+    },
+    {
+      "source": "观童",
+      "target": "纳哈出",
+      "types": [
+        "关联"
+      ],
+      "context": "观童是纳哈出手下降将，受冯胜指派去安抚纳哈出部下。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱棣",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱元璋第四子，封燕王。本章提及朱棣向朱元璋告发蓝玉。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "朱标",
+      "types": [
+        "朋友"
+      ],
+      "context": "蓝玉因与常遇春的亲属关系，与太子朱标交好，曾提醒朱标小心燕王。"
+    },
+    {
+      "source": "蓝玉",
+      "target": "朱棣",
+      "types": [
+        "敌对"
+      ],
+      "context": "蓝玉认为朱棣有天子气象，提醒太子小心，朱棣得知后向朱元璋告发蓝玉。"
+    },
+    {
+      "source": "朱标",
+      "target": "朱棣",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱标是朱棣的同父异母兄长。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋以谋反罪诛杀丞相胡惟庸，引发胡惟庸案。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀开国功臣李善长。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀大将蓝玉，引发蓝玉案。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "周德兴",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀开国将领、同乡周德兴。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "傅友德",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀名将傅友德。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "王弼",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀蓝玉副将王弼。"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "types": [
+        "敌对"
+      ],
+      "context": "朱元璋诛杀最后一位开国公爵冯胜。"
+    },
+    {
+      "source": "朱棣",
+      "target": "李文忠",
+      "types": [
+        "亲属"
+      ],
+      "context": "李文忠是朱棣的表哥，朱棣常与之交往学习军事。"
+    },
+    {
+      "source": "朱棣",
+      "target": "李景隆",
+      "types": [
+        "朋友"
+      ],
+      "context": "朱棣与李文忠之子李景隆是童年伙伴，但朱棣认为李景隆军事无能。"
+    },
+    {
+      "source": "朱棣",
+      "target": "徐达",
+      "types": [
+        "亲属"
+      ],
+      "context": "朱棣娶徐达长女为妻，属政治联姻。"
+    },
+    {
+      "source": "朱棣",
+      "target": "傅友德",
+      "types": [
+        "师生"
+      ],
+      "context": "朱棣曾虚心向名将傅友德学习军事。"
+    },
+    {
+      "source": "朱棣",
+      "target": "冯胜",
+      "types": [
+        "师生"
+      ],
+      "context": "朱棣曾虚心向名将冯胜学习军事。"
+    },
+    {
+      "source": "朱棣",
+      "target": "蓝玉",
+      "types": [
+        "师生"
+      ],
+      "context": "朱棣曾虚心向名将蓝玉学习军事，并从其夜袭战术中得到启发。"
+    },
+    {
+      "source": "朱棣",
+      "target": "观童",
+      "types": [
+        "君臣"
+      ],
+      "context": "朱棣派遣使者观童成功劝降乃儿不花。"
+    },
+    {
+      "source": "朱标",
+      "target": "宋濂",
+      "types": [
+        "师生"
+      ],
+      "context": "宋濂是太子朱标的老师。"
+    },
+    {
+      "source": "朱标",
+      "target": "李善长",
+      "types": [
+        "君臣"
+      ],
+      "context": "李善长兼任太子少师，辅导太子朱标。"
+    },
+    {
+      "source": "朱标",
+      "target": "徐达",
+      "types": [
+        "君臣"
+      ],
+      "context": "徐达兼任太子少傅，辅导太子朱标。"
+    },
+    {
+      "source": "李文忠",
+      "target": "李景隆",
+      "types": [
+        "亲属"
+      ],
+      "context": "李文忠是李景隆的父亲。"
+    }
+  ]
+}

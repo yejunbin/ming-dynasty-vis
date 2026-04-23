@@ -1,0 +1,5220 @@
+{
+  "persons": [
+    {
+      "name": "朱元璋",
+      "aliases": [
+        "朱重八",
+        "朱国瑞",
+        "朱公子",
+        "朱地主",
+        "洪武帝"
+      ],
+      "identity": "明朝开国皇帝",
+      "birthYear": 1328,
+      "deathYear": 1398,
+      "bio": "明朝开国皇帝，出身贫苦，建立明朝后推行一系列恢复生产和巩固统治的政策。",
+      "appearanceTime": 1328,
+      "chapters": [
+        "第一章 童年",
+        "第二章 灾难",
+        "第三章 踏上征途",
+        "第四章 就从这里起步",
+        "第五章 储蓄资本",
+        "第六章 霸业的开始",
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！",
+        "第十四章 复仇",
+        "第十五章 远征沙漠",
+        "第十六章 建国",
+        "第十七章 胡惟庸案件",
+        "第十八章 扫除一切腐败者",
+        "第十九章 冤案",
+        "第二十章 最后的名将——蓝玉",
+        "第二十一章 蓝玉的覆灭",
+        "第二十二章 制度后的秘密",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "朱五四",
+      "aliases": [],
+      "identity": "农民",
+      "birthYear": null,
+      "deathYear": 1344,
+      "bio": "朱元璋的父亲，贫农，兼营豆腐店。",
+      "appearanceTime": "1328",
+      "chapters": [
+        "第一章 童年",
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "陈氏",
+      "aliases": [],
+      "identity": "农民",
+      "birthYear": null,
+      "deathYear": 1344,
+      "bio": "朱元璋的母亲，史书未载其名。",
+      "appearanceTime": "1328",
+      "chapters": [
+        "第一章 童年",
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "朱百六",
+      "aliases": [],
+      "identity": "农民",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的祖先，其存在使得朱元璋无法认朱熹为祖先。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第一章 童年",
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "朱四九",
+      "aliases": [],
+      "identity": "农民",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的曾祖父。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第一章 童年"
+      ]
+    },
+    {
+      "name": "朱初一",
+      "aliases": [],
+      "identity": "农民",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的祖父。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第一章 童年"
+      ]
+    },
+    {
+      "name": "刘德",
+      "aliases": [],
+      "identity": "地主",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋家乡的地主，拒绝帮助朱元璋埋葬父母",
+      "appearanceTime": "少年时期",
+      "chapters": [
+        "第一章 童年",
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "吴老太",
+      "aliases": [],
+      "identity": "媒人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "村口的媒人，朱元璋曾幻想托她说媒。",
+      "appearanceTime": "少年时期",
+      "chapters": [
+        "第一章 童年"
+      ]
+    },
+    {
+      "name": "刘小德",
+      "aliases": [],
+      "identity": "地主",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋幻想中未来儿子要去放牛的地主（刘德之子？）。",
+      "appearanceTime": "少年时期",
+      "chapters": [
+        "第一章 童年"
+      ]
+    },
+    {
+      "name": "脱脱",
+      "aliases": [],
+      "identity": "元朝宰相",
+      "birthYear": 1314,
+      "deathYear": 1355,
+      "bio": "元朝末代名臣，主持修《宋史》，主张治理黄河",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难",
+        "第三章 踏上征途",
+        "第七章 可怕的对手",
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "元顺帝",
+      "aliases": [
+        "妥懽帖睦尔"
+      ],
+      "identity": "元朝皇帝",
+      "birthYear": 1320,
+      "deathYear": 1370,
+      "bio": "元朝末代皇帝，在位期间灾害频发",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难",
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "朱重四",
+      "aliases": [],
+      "identity": "朱元璋大哥",
+      "birthYear": null,
+      "deathYear": 1344,
+      "bio": "朱元璋的大哥，在饥荒中饿死",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "朱重四长子",
+      "aliases": [],
+      "identity": "朱元璋侄子",
+      "birthYear": null,
+      "deathYear": 1344,
+      "bio": "朱元璋大哥的长子，在饥荒中饿死",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "朱重六",
+      "aliases": [],
+      "identity": "朱元璋二哥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的二哥，与朱元璋一同埋葬父母",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "朱氏",
+      "aliases": [],
+      "identity": "朱元璋姐姐",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的姐姐，在饥荒前已出嫁",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "朱重七",
+      "aliases": [],
+      "identity": "朱元璋三哥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的三哥，在饥荒前已入赘",
+      "appearanceTime": 1344,
+      "chapters": [
+        "第二章 灾难"
+      ]
+    },
+    {
+      "name": "韩山童",
+      "aliases": [],
+      "identity": "起义军领袖",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "白莲教首领，自称宋朝皇室后裔，与刘福通首举反元义旗",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第三章 踏上征途"
+      ]
+    },
+    {
+      "name": "刘福通",
+      "aliases": [],
+      "identity": "起义军领袖",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "北方红巾军首领，名义上封朱元璋等官职，并为其阻挡元军。",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第三章 踏上征途",
+        "第六章 霸业的开始",
+        "第七章 可怕的对手",
+        "第十章 等待最好的时机"
+      ]
+    },
+    {
+      "name": "汤和",
+      "aliases": [],
+      "identity": "起义军将领/朱元璋朋友",
+      "birthYear": 1326,
+      "deathYear": 1395,
+      "bio": "明朝开国名将，封信国公，朱元璋同乡，晚年主动交出兵权得以善终。",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第三章 踏上征途",
+        "第四章 就从这里起步",
+        "第十三章 下一个目标，张士诚！",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "周德兴",
+      "aliases": [],
+      "identity": "朱元璋朋友",
+      "birthYear": null,
+      "deathYear": 1392,
+      "bio": "明朝开国将领，封江夏侯，与朱元璋同乡，早年曾为其算命。",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第三章 踏上征途",
+        "第四章 就从这里起步",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "郭子兴",
+      "aliases": [],
+      "identity": "红巾军将领/濠州统帅",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "元末红巾军领袖之一，朱元璋的岳父和早期上司",
+      "appearanceTime": 1352,
+      "chapters": [
+        "第四章 就从这里起步",
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "马姑娘",
+      "aliases": [
+        "马皇后"
+      ],
+      "identity": "朱元璋妻子",
+      "birthYear": 1332,
+      "deathYear": 1382,
+      "bio": "郭子兴义女，朱元璋妻子，后为马皇后",
+      "appearanceTime": "1352年后",
+      "chapters": [
+        "第四章 就从这里起步"
+      ]
+    },
+    {
+      "name": "孙德崖",
+      "aliases": [],
+      "identity": "红巾军将领/濠州统帅",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "濠州红巾军领袖之一，与郭子兴长期不和",
+      "appearanceTime": 1352,
+      "chapters": [
+        "第四章 就从这里起步",
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "徐达",
+      "aliases": [
+        "征虏大将军"
+      ],
+      "identity": "将领",
+      "birthYear": 1332,
+      "deathYear": 1385,
+      "bio": "明朝开国军事统帅，为朱元璋统一天下立下赫赫战功。",
+      "appearanceTime": "1352年后",
+      "chapters": [
+        "第四章 就从这里起步",
+        "第五章 储蓄资本",
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！",
+        "第十四章 复仇",
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "郭子兴之子",
+      "aliases": [],
+      "identity": "郭子兴儿子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "郭子兴儿子，曾企图饿死朱元璋",
+      "appearanceTime": "1352年后",
+      "chapters": [
+        "第四章 就从这里起步"
+      ]
+    },
+    {
+      "name": "缪大亨",
+      "aliases": [],
+      "identity": "元军将领/地方武装头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原元军将领，驻守横涧山，被朱元璋击败后投降",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "冯国用",
+      "aliases": [],
+      "identity": "谋士/将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "定远人，与弟冯国胜投奔朱元璋，成为早期谋士",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "冯国胜",
+      "aliases": [
+        "冯胜"
+      ],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "冯国用之弟，后为明朝开国名将，威震天下",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "李善长",
+      "aliases": [],
+      "identity": "谋士",
+      "birthYear": 1314,
+      "deathYear": 1390,
+      "bio": "朱元璋早期重要谋士，被比作汉之萧何，开国第一功臣",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本",
+        "第九章 决战不可避免",
+        "第十三章 下一个目标，张士诚！",
+        "第十六章 建国",
+        "第十七章 胡惟庸案件",
+        "第十九章 冤案",
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "花云",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋麾下勇将，攻打滁州时率骑兵冲锋破敌",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本",
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "朱文正",
+      "aliases": [],
+      "identity": "亲属/将领",
+      "birthYear": 1336,
+      "deathYear": 1365,
+      "bio": "朱元璋侄子，洪都守卫战功臣，后因不满封赏勾结张士诚被囚禁",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "李贞",
+      "aliases": [],
+      "identity": "亲属",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的姐夫",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "李文忠",
+      "aliases": [
+        "左副将军"
+      ],
+      "identity": "亲属/将领",
+      "birthYear": 1339,
+      "deathYear": 1384,
+      "bio": "明朝开国名将，本章任右路军主将，征讨北元。",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本",
+        "第十二章 鄱阳湖！决死战！",
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "郭天叙",
+      "aliases": [],
+      "identity": "亲属/起义军将领",
+      "birthYear": null,
+      "deathYear": 1355,
+      "bio": "郭子兴之子，名义上的都元帅，在进攻集庆时战死。",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本",
+        "第六章 霸业的开始"
+      ]
+    },
+    {
+      "name": "张家堡寨主",
+      "aliases": [],
+      "identity": "地方武装头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "定远张家堡武装头领，曾答应投靠朱元璋后又反悔",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第五章 储蓄资本"
+      ]
+    },
+    {
+      "name": "冯胜",
+      "aliases": [
+        "冯国胜",
+        "右副将军"
+      ],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1395,
+      "bio": "明朝开国名将，封宋国公，开国六公爵之一，后被朱元璋赐死。",
+      "appearanceTime": 1355,
+      "chapters": [
+        "第六章 霸业的开始",
+        "第九章 决战不可避免",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "俞通海",
+      "aliases": [],
+      "identity": "水军头目/将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原为沿江海盗，后投奔朱元璋，为其提供水军战船。",
+      "appearanceTime": 1355,
+      "chapters": [
+        "第六章 霸业的开始"
+      ]
+    },
+    {
+      "name": "张天祐",
+      "aliases": [],
+      "identity": "义军右都副元帅",
+      "birthYear": null,
+      "deathYear": 1355,
+      "bio": "郭子兴妻弟，义军右都副元帅，在进攻集庆时战死。",
+      "appearanceTime": 1355,
+      "chapters": [
+        "第六章 霸业的开始"
+      ]
+    },
+    {
+      "name": "张士诚",
+      "aliases": [
+        "诚王",
+        "九四",
+        "张地主"
+      ],
+      "identity": "割据势力首领/朱元璋的对手",
+      "birthYear": 1321,
+      "deathYear": 1367,
+      "bio": "元末割据势力首领，曾占据江浙地区，因其支持者被朱元璋报复性征收高赋税。",
+      "appearanceTime": 1356,
+      "chapters": [
+        "第六章 霸业的开始",
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十三章 下一个目标，张士诚！",
+        "第十四章 复仇",
+        "第十六章 建国",
+        "第十七章 胡惟庸案件",
+        "第二十二章 制度后的秘密"
+      ]
+    },
+    {
+      "name": "陈友谅",
+      "aliases": [
+        "陈秀才",
+        "陈九四"
+      ],
+      "identity": "割据势力首领/朱元璋的对手",
+      "birthYear": 1320,
+      "deathYear": 1363,
+      "bio": "元末南方红巾军领袖，建立汉政权，是朱元璋的主要对手。",
+      "appearanceTime": 1356,
+      "chapters": [
+        "第六章 霸业的开始",
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！",
+        "第十四章 复仇",
+        "第十七章 胡惟庸案件",
+        "第二十二章 制度后的秘密"
+      ]
+    },
+    {
+      "name": "徐寿辉",
+      "aliases": [],
+      "identity": "天完政权皇帝/割据势力首领",
+      "birthYear": null,
+      "deathYear": 1360,
+      "bio": "元末南方红巾军领袖，建立天完政权，后被陈友谅所杀。",
+      "appearanceTime": 1356,
+      "chapters": [
+        "第六章 霸业的开始",
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "张明鉴",
+      "aliases": [],
+      "identity": "起义军首领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "占据朱元璋东北面的起义军首领。",
+      "appearanceTime": 1356,
+      "chapters": [
+        "第六章 霸业的开始"
+      ]
+    },
+    {
+      "name": "八思尔不花",
+      "aliases": [],
+      "identity": "元朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "元朝将领，驻扎在朱元璋南面。",
+      "appearanceTime": 1356,
+      "chapters": [
+        "第六章 霸业的开始"
+      ]
+    },
+    {
+      "name": "张士义",
+      "aliases": [],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "张士诚之弟，参与高邮守城战。",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第七章 可怕的对手",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "张士德",
+      "aliases": [],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "张士诚之弟，参与高邮守城战。",
+      "appearanceTime": 1353,
+      "chapters": [
+        "第七章 可怕的对手",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "邹普胜",
+      "aliases": [
+        "太师"
+      ],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "徐寿辉部下，铁匠出身，为天完政权太师，四大金刚之一。",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第七章 可怕的对手"
+      ]
+    },
+    {
+      "name": "彭莹玉",
+      "aliases": [],
+      "identity": "起义军领袖",
+      "birthYear": null,
+      "deathYear": 1353,
+      "bio": "元末起义军领袖，江西和尚，协助徐寿辉宣传明教起义。",
+      "appearanceTime": 1351,
+      "chapters": [
+        "第七章 可怕的对手"
+      ]
+    },
+    {
+      "name": "倪文俊",
+      "aliases": [
+        "丞相"
+      ],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "徐寿辉部下丞相，后企图篡位失败，逃往陈友谅处被杀。",
+      "appearanceTime": "1350年代",
+      "chapters": [
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅"
+      ]
+    },
+    {
+      "name": "丁普郎",
+      "aliases": [],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "徐寿辉部下，四大金刚之一，以勇猛著称。",
+      "appearanceTime": "1350年代",
+      "chapters": [
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅"
+      ]
+    },
+    {
+      "name": "赵普胜",
+      "aliases": [],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "天完国将领，徐寿辉部下，被陈友谅以图谋不轨罪名杀害。",
+      "appearanceTime": "1350年代",
+      "chapters": [
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅",
+        "第十章 等待最好的时机",
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "傅友德",
+      "aliases": [],
+      "identity": "起义军将领",
+      "birthYear": null,
+      "deathYear": 1394,
+      "bio": "明朝将领，本章任冯胜军先锋，在西路七战七捷。",
+      "appearanceTime": "1350年代",
+      "chapters": [
+        "第七章 可怕的对手",
+        "第八章 可怕的陈友谅",
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "常遇春",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": 1330,
+      "deathYear": 1369,
+      "bio": "明朝开国名将，以勇猛善战著称，鄱阳湖之战中射伤张定边",
+      "appearanceTime": 1355,
+      "chapters": [
+        "第八章 可怕的陈友谅",
+        "第九章 决战不可避免",
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！",
+        "第十四章 复仇",
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十一章 蓝玉的覆灭",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "刘邦",
+      "aliases": [
+        "汉高祖"
+      ],
+      "identity": "汉朝开国皇帝",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "汉朝开国皇帝，本章中被引述与韩信的对话。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第八章 可怕的陈友谅"
+      ]
+    },
+    {
+      "name": "韩信",
+      "aliases": [],
+      "identity": "汉朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "汉朝名将，本章中被引述与刘邦的对话。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第八章 可怕的陈友谅"
+      ]
+    },
+    {
+      "name": "夏侯惇",
+      "aliases": [],
+      "identity": "三国时期将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "三国时期曹操部下将领，以受伤不下火线著称，本章中被类比。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第八章 可怕的陈友谅"
+      ]
+    },
+    {
+      "name": "刘基",
+      "aliases": [
+        "刘伯温"
+      ],
+      "identity": "朱元璋的谋士",
+      "birthYear": 1311,
+      "deathYear": 1375,
+      "bio": "明朝开国谋士，以神机妙算著称，封诚意伯。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免",
+        "第十章 等待最好的时机",
+        "第十一章 洪都的奇迹",
+        "第十四章 复仇",
+        "第十七章 胡惟庸案件",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "胡大海",
+      "aliases": [],
+      "identity": "朱元璋麾下将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋部将，爱惜人才，攻占处州。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "孙炎",
+      "aliases": [],
+      "identity": "朱元璋的使者",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋派去征召刘基的使者。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "邵荣",
+      "aliases": [],
+      "identity": "朱元璋麾下将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋部将，奉命放弃龙湾阵地。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "杨靖",
+      "aliases": [],
+      "identity": "朱元璋麾下将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋部将，参与龙湾伏击。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "赵德胜",
+      "aliases": [],
+      "identity": "朱元璋麾下将领",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "洪都守将，负责防守宫步、土步、桥步三门，战死。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免",
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "康茂才",
+      "aliases": [],
+      "identity": "朱元璋麾下将领/原陈友谅部将",
+      "birthYear": 1313,
+      "deathYear": 1370,
+      "bio": "原为陈友谅部将，后投奔朱元璋，在龙湾之战中诈降诱敌。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "陈友仁",
+      "aliases": [],
+      "identity": "陈友谅的弟弟/汉军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "陈友谅之弟，汉军将领，率军在龙湾登陆。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免"
+      ]
+    },
+    {
+      "name": "叶琛",
+      "aliases": [],
+      "identity": "隐士/后为朱元璋效力",
+      "birthYear": null,
+      "deathYear": 1362,
+      "bio": "明初官员，与刘基等人一同被朱元璋“请”来辅佐。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "章溢",
+      "aliases": [],
+      "identity": "隐士/后为朱元璋效力",
+      "birthYear": 1314,
+      "deathYear": 1369,
+      "bio": "明初官员，与刘基等人一同被朱元璋“请”来辅佐。",
+      "appearanceTime": 1360,
+      "chapters": [
+        "第九章 决战不可避免",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "韩林儿",
+      "aliases": [],
+      "identity": "宋政权皇帝（小明王）",
+      "birthYear": null,
+      "deathYear": 1366,
+      "bio": "红巾军领袖韩山童之子，被刘福通立为小明王，宋政权皇帝。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十章 等待最好的时机",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "郑和",
+      "aliases": [],
+      "identity": "航海家",
+      "birthYear": 1371,
+      "deathYear": 1433,
+      "bio": "明代航海家、外交官，七下西洋。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十章 等待最好的时机",
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "王勃",
+      "aliases": [],
+      "identity": "唐代诗人",
+      "birthYear": 650,
+      "deathYear": 676,
+      "bio": "唐代诗人，初唐四杰之一，作《滕王阁序》。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十章 等待最好的时机"
+      ]
+    },
+    {
+      "name": "邓愈",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": 1337,
+      "deathYear": 1377,
+      "bio": "明朝开国将领，洪都守卫战中防守抚州门。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹",
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "薛显",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "洪都守将，以勇猛著称，防守章江、新城门。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "牛海龙",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "洪都守将，防守琉璃、澹台两门，后战死。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "赵国旺",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "洪都守将，与牛海龙共同防守，后战死。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "李继先",
+      "aliases": [],
+      "identity": "洪都总管",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "洪都总管，在抚州门保卫战中战死。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "张子明",
+      "aliases": [],
+      "identity": "使者",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "朱文正派往应天求援的使者，被陈友谅杀害。",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹"
+      ]
+    },
+    {
+      "name": "郭兴",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1384,
+      "bio": "朱元璋部将，鄱阳湖之战中向朱元璋建议火攻",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十一章 洪都的奇迹",
+        "第十二章 鄱阳湖！决死战！",
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "张定边",
+      "aliases": [],
+      "identity": "陈友谅部将",
+      "birthYear": 1318,
+      "deathYear": 1417,
+      "bio": "陈友谅结义兄弟及部将，勇猛善战，鄱阳湖之战中率孤军突击朱元璋旗舰",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "廖永忠",
+      "aliases": [],
+      "identity": "明朝开国将领",
+      "birthYear": 1323,
+      "deathYear": 1375,
+      "bio": "明朝开国将领，参与鄱阳湖之战",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "俞海通",
+      "aliases": [],
+      "identity": "朱元璋部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋部将，鄱阳湖之战中指挥火炮攻击陈友谅军",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "韩成",
+      "aliases": [],
+      "identity": "朱元璋部将",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "朱元璋部将，在鄱阳湖之战中被张定边斩杀",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "陈兆先",
+      "aliases": [],
+      "identity": "朱元璋部将",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "朱元璋部将，在鄱阳湖之战中被张定边斩杀",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "宋贵",
+      "aliases": [],
+      "identity": "朱元璋部将",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "朱元璋部将，在鄱阳湖之战中被张定边斩杀",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "丁普朗",
+      "aliases": [],
+      "identity": "朱元璋部将",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "原为徐寿辉部将，后投朱元璋，鄱阳湖之战中为给赵普胜报仇而冲锋战死",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "陈理",
+      "aliases": [],
+      "identity": "陈友谅之子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "陈友谅之子，陈友谅死后继位，后投降朱元璋",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "张必先",
+      "aliases": [],
+      "identity": "陈友谅结义兄弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "陈友谅儿时伙伴，与陈友谅、张定边结拜为兄弟",
+      "appearanceTime": "少年时期",
+      "chapters": [
+        "第十二章 鄱阳湖！决死战！"
+      ]
+    },
+    {
+      "name": "张士信",
+      "aliases": [],
+      "identity": "张士诚之弟，东吴将领",
+      "birthYear": null,
+      "deathYear": 1367,
+      "bio": "张士诚之弟，在东吴后期掌权，导致势力衰落",
+      "appearanceTime": "1364",
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "绍荣",
+      "aliases": [],
+      "identity": "将领（叛将）",
+      "birthYear": null,
+      "deathYear": 1362,
+      "bio": "原朱元璋部将，至正二十二年密谋杀害朱元璋被处死",
+      "appearanceTime": 1362,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "赵继祖",
+      "aliases": [],
+      "identity": "将领（叛将）",
+      "birthYear": null,
+      "deathYear": 1362,
+      "bio": "原朱元璋部将，至正二十二年与绍荣密谋叛变被处死",
+      "appearanceTime": 1362,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "谢再兴",
+      "aliases": [],
+      "identity": "将领（叛将）",
+      "birthYear": null,
+      "deathYear": 1363,
+      "bio": "原朱元璋部将，至正二十三年在与陈友谅决战时叛变",
+      "appearanceTime": 1363,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "马皇后",
+      "aliases": [
+        "孝慈高皇后"
+      ],
+      "identity": "皇后",
+      "birthYear": 1332,
+      "deathYear": 1382,
+      "bio": "朱元璋的结发妻子，仁慈贤德，深受朱元璋信任。",
+      "appearanceTime": 1365,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！",
+        "第十六章 建国",
+        "第二十一章 蓝玉的覆灭"
+      ]
+    },
+    {
+      "name": "华云龙",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": 1332,
+      "deathYear": 1374,
+      "bio": "明朝开国将领，参与平江之战，攻打胥门",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "王弼",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1393,
+      "bio": "明朝将领，蓝玉副将，封定远侯，参与捕鱼儿海战役。",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "张温",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝开国将领，参与平江之战，攻打西门",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "耿炳文",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": 1334,
+      "deathYear": 1403,
+      "bio": "明朝开国将领，封长兴侯，以善守著称，朱元璋屠戮功臣时得以幸免。",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "仇成",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1388,
+      "bio": "明朝开国将领，参与平江之战，攻城西南",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "何文辉",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": 1341,
+      "deathYear": 1376,
+      "bio": "明朝开国将领，朱元璋养子，参与平江之战，攻城西北",
+      "appearanceTime": 1366,
+      "chapters": [
+        "第十三章 下一个目标，张士诚！"
+      ]
+    },
+    {
+      "name": "察罕帖木儿",
+      "aliases": [],
+      "identity": "元朝将领",
+      "birthYear": null,
+      "deathYear": 1362,
+      "bio": "元末将领，曾镇压红巾军起义。",
+      "appearanceTime": "元末(1330-1368)",
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "张昶",
+      "aliases": [],
+      "identity": "元朝户部尚书",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "元朝户部尚书，被朱元璋扣留。",
+      "appearanceTime": "元末(1330-1368)",
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "铁木真",
+      "aliases": [
+        "成吉思汗"
+      ],
+      "identity": "蒙古帝国大汗",
+      "birthYear": 1162,
+      "deathYear": 1227,
+      "bio": "蒙古帝国奠基者，尊号成吉思汗。",
+      "appearanceTime": 1206,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "蒙哥",
+      "aliases": [],
+      "identity": "蒙古帝国大汗",
+      "birthYear": 1209,
+      "deathYear": 1259,
+      "bio": "蒙古帝国大汗，在攻打南宋合州时受伤而死。",
+      "appearanceTime": 1259,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "王坚",
+      "aliases": [],
+      "identity": "南宋守将",
+      "birthYear": null,
+      "deathYear": 1264,
+      "bio": "南宋合州守将，坚守钓鱼城击退蒙哥。",
+      "appearanceTime": 1259,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "陆秀夫",
+      "aliases": [],
+      "identity": "南宋丞相",
+      "birthYear": 1236,
+      "deathYear": 1279,
+      "bio": "南宋末代丞相，背负幼帝投海殉国。",
+      "appearanceTime": 1279,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "赵昺",
+      "aliases": [
+        "宋少帝"
+      ],
+      "identity": "南宋皇帝",
+      "birthYear": 1272,
+      "deathYear": 1279,
+      "bio": "南宋最后一位皇帝，幼年投海殉国。",
+      "appearanceTime": 1279,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "文天祥",
+      "aliases": [],
+      "identity": "南宋丞相，抗元英雄",
+      "birthYear": 1236,
+      "deathYear": 1283,
+      "bio": "南宋末年抗元名臣，宁死不降，著有《正气歌》。",
+      "appearanceTime": 1283,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "忽必烈",
+      "aliases": [],
+      "identity": "元朝皇帝",
+      "birthYear": 1215,
+      "deathYear": 1294,
+      "bio": "元朝开国皇帝，成吉思汗之孙。",
+      "appearanceTime": 1283,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "扩廓帖木尔",
+      "aliases": [
+        "王保保"
+      ],
+      "identity": "元朝将领",
+      "birthYear": null,
+      "deathYear": 1375,
+      "bio": "元末名将，察罕帖木尔养子，朱元璋的主要对手。",
+      "appearanceTime": "元末(1330-1368)",
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "石敬瑭",
+      "aliases": [],
+      "identity": "后晋皇帝",
+      "birthYear": 892,
+      "deathYear": 942,
+      "bio": "后晋开国皇帝，割让燕云十六州给契丹。",
+      "appearanceTime": "10世纪初",
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "脱因帖木儿",
+      "aliases": [],
+      "identity": "元朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "王保保之弟，奉命防守山东。",
+      "appearanceTime": 1367,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "阿鲁温",
+      "aliases": [
+        "梁王"
+      ],
+      "identity": "元朝宗室，将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "元朝梁王，在河南洛水被常遇春击败俘虏。",
+      "appearanceTime": 1367,
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "李思齐",
+      "aliases": [],
+      "identity": "元末军阀",
+      "birthYear": 1323,
+      "deathYear": 1374,
+      "bio": "元末军阀，与王保保争权。",
+      "appearanceTime": "元末(1330-1368)",
+      "chapters": [
+        "第十四章 复仇"
+      ]
+    },
+    {
+      "name": "蓝玉",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": 1393,
+      "bio": "明朝开国名将，封凉国公，后因谋反罪被诛，引发蓝玉案。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠",
+        "第二十章 最后的名将——蓝玉",
+        "第二十一章 蓝玉的覆灭",
+        "第二十二章 制度后的秘密",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "王保保",
+      "aliases": [
+        "扩廓帖木儿"
+      ],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": 1375,
+      "bio": "北元名将，本章在岭北设伏击败徐达，后又与徐达对峙。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠",
+        "第十七章 胡惟庸案件",
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "贺宗哲",
+      "aliases": [],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元将领，本章与王保保合谋在岭北伏击明军。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "蛮子哈刺章",
+      "aliases": [],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元将领，本章在阿鲁浑河与李文忠军交战。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "失刺罕",
+      "aliases": [],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元将领，本章在西凉被傅友德击败。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "朵儿只巴",
+      "aliases": [
+        "元太尉"
+      ],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元太尉，本章在永昌被傅友德击败。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "上都驴",
+      "aliases": [],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元将领，本章被傅友德击败并俘虏。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "伯颜帖木儿",
+      "aliases": [],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元将领，本章在亦集乃路向傅友德投降。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "朵儿只班",
+      "aliases": [
+        "元岐王"
+      ],
+      "identity": "北元将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元岐王，本章在别笃山口被傅友德击溃。",
+      "appearanceTime": 1372,
+      "chapters": [
+        "第十五章 远征沙漠"
+      ]
+    },
+    {
+      "name": "沈万三",
+      "aliases": [],
+      "identity": "富商",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝初期江南巨富，曾出资修筑南京城墙，后因朱元璋抑商政策被抄家发配。",
+      "appearanceTime": "洪武初年(1368-1372)",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "朱熹",
+      "aliases": [
+        "朱圣人"
+      ],
+      "identity": "宋朝理学家",
+      "birthYear": 1130,
+      "deathYear": 1200,
+      "bio": "宋朝理学家，其注解的四书被明朝定为科举考试的标准答案。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "商辂",
+      "aliases": [],
+      "identity": "明朝官员",
+      "birthYear": 1414,
+      "deathYear": 1486,
+      "bio": "明朝正统年间官员，是明朝历史上少数连中三元（解元、会元、状元）者之一。",
+      "appearanceTime": "正统年间(1436-1449)",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "黄观",
+      "aliases": [],
+      "identity": "明朝官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "洪武年间连中三元者，靖难之役后因忠于建文帝被朱棣除名。",
+      "appearanceTime": "洪武年间(1368-1398)",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "韩克忠",
+      "aliases": [],
+      "identity": "明朝官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "永乐年间进士，因黄观被除名而被录为状元。",
+      "appearanceTime": "永乐年间(1403-1424)",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "宋濂",
+      "aliases": [],
+      "identity": "明朝学者",
+      "birthYear": 1310,
+      "deathYear": 1381,
+      "bio": "明朝初年著名学者，曾批评八股取士选拔出的人才如同书呆子。",
+      "appearanceTime": "洪武年间(1368-1398)",
+      "chapters": [
+        "第十六章 建国",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "陈独秀",
+      "aliases": [],
+      "identity": "近代革命家、学者",
+      "birthYear": 1879,
+      "deathYear": 1942,
+      "bio": "近代革命家、新文化运动领袖，前清秀才，曾与蒋梦麟比较秀才“价值”。",
+      "appearanceTime": "近代",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "蒋梦麟",
+      "aliases": [],
+      "identity": "近代教育家",
+      "birthYear": 1886,
+      "deathYear": 1964,
+      "bio": "近代教育家，曾任北京大学校长，前清策论秀才。",
+      "appearanceTime": "近代",
+      "chapters": [
+        "第十六章 建国"
+      ]
+    },
+    {
+      "name": "胡惟庸",
+      "aliases": [],
+      "identity": "丞相",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "明朝丞相，因谋反罪被朱元璋诛杀，引发胡惟庸案。",
+      "appearanceTime": "洪武六年(1373)-洪武十三年(1380)",
+      "chapters": [
+        "第十七章 胡惟庸案件",
+        "第十九章 冤案",
+        "第二十章 最后的名将——蓝玉",
+        "第二十一章 蓝玉的覆灭",
+        "第二十二章 制度后的秘密",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "汪广洋",
+      "aliases": [],
+      "identity": "丞相/左都御史",
+      "birthYear": null,
+      "deathYear": 1379,
+      "bio": "明朝官员，曾任丞相，后被朱元璋处死。",
+      "appearanceTime": "洪武六年(1373)-洪武十二年(1379)",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "陆仲亨",
+      "aliases": [],
+      "identity": "吉安侯",
+      "birthYear": null,
+      "deathYear": 1390,
+      "bio": "明朝开国将领，封吉安侯，后被牵连入胡惟庸案。",
+      "appearanceTime": "洪武十三年(1380)前",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "陈宁",
+      "aliases": [],
+      "identity": "御史大夫",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "明朝官员，任御史大夫，胡惟庸同党。",
+      "appearanceTime": "洪武十三年(1380)前",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "毛骧",
+      "aliases": [],
+      "identity": "都督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，任都督，胡惟庸同党。",
+      "appearanceTime": "洪武十三年(1380)前",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "李存义",
+      "aliases": [],
+      "identity": "官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "李善长之弟，胡惟庸儿女亲家。",
+      "appearanceTime": "洪武十三年(1380)前",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "涂节",
+      "aliases": [],
+      "identity": "御史中丞",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "明朝官员，任御史中丞，先为胡惟庸死党后告密。",
+      "appearanceTime": "洪武十三年(1380)",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "郑庄公",
+      "aliases": [],
+      "identity": "春秋时期诸侯",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "春秋时期郑国国君，以权谋著称。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "诸葛亮",
+      "aliases": [
+        "孔明"
+      ],
+      "identity": "三国时期蜀汉丞相",
+      "birthYear": 181,
+      "deathYear": 234,
+      "bio": "三国时期蜀汉丞相，著名政治家、军事家。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "宋江",
+      "aliases": [],
+      "identity": "水浒传人物",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "《水浒传》中梁山起义军领袖。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "晁盖",
+      "aliases": [],
+      "identity": "水浒传人物",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "《水浒传》中梁山起义军前期领袖。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "茹太素",
+      "aliases": [],
+      "identity": "户部尚书",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，曾任户部尚书。",
+      "appearanceTime": "洪武十七年(1384)",
+      "chapters": [
+        "第十七章 胡惟庸案件"
+      ]
+    },
+    {
+      "name": "朱亮祖",
+      "aliases": [
+        "永嘉候"
+      ],
+      "identity": "开国大将/侯爵",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "明朝开国大将，封永嘉侯，因骄狂贪腐被朱元璋鞭死。",
+      "appearanceTime": "洪武十三年(1380)",
+      "chapters": [
+        "第十八章 扫除一切腐败者"
+      ]
+    },
+    {
+      "name": "道同",
+      "aliases": [],
+      "identity": "番禺县令",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "番禺县清廉县令，因执法严厉与朱亮祖冲突，被诬陷处死。",
+      "appearanceTime": "洪武十三年(1380)",
+      "chapters": [
+        "第十八章 扫除一切腐败者"
+      ]
+    },
+    {
+      "name": "朱暹",
+      "aliases": [],
+      "identity": "朱亮祖长子",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "朱亮祖长子，参与其父不法事，与父一同被鞭死。",
+      "appearanceTime": "洪武十三年(1380)",
+      "chapters": [
+        "第十八章 扫除一切腐败者"
+      ]
+    },
+    {
+      "name": "罗氏兄弟",
+      "aliases": [],
+      "identity": "恶霸/土豪",
+      "birthYear": null,
+      "deathYear": 1380,
+      "bio": "番禺当地恶霸，被道同抓捕，后被朱亮祖强行放出。",
+      "appearanceTime": "洪武十三年(1380)",
+      "chapters": [
+        "第十八章 扫除一切腐败者"
+      ]
+    },
+    {
+      "name": "郑士利",
+      "aliases": [],
+      "identity": "生员（平民）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "因上书为“空印案”辩解而被罚作苦工的平民",
+      "appearanceTime": "洪武九年(1376)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "方克勤",
+      "aliases": [],
+      "identity": "济宁知府",
+      "birthYear": null,
+      "deathYear": 1376,
+      "bio": "方孝孺之父，清廉官员，在空印案中被杀",
+      "appearanceTime": "洪武九年(1376)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "郭桓",
+      "aliases": [],
+      "identity": "户部侍郎",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "户部侍郎，因贪污案被处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "余敏",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "告发郭桓贪污案的御史之一",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "丁廷举",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "告发郭桓贪污案的御史之一",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "赵全德",
+      "aliases": [],
+      "identity": "北平布政使司官吏",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "郭桓案中被指控的北平官吏",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "赵瑁",
+      "aliases": [],
+      "identity": "礼部尚书",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "礼部尚书，被列为郭桓同党处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "王惠迪",
+      "aliases": [],
+      "identity": "刑部尚书",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "刑部尚书，被列为郭桓同党处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "王志",
+      "aliases": [],
+      "identity": "兵部侍郎",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "兵部侍郎，被列为郭桓同党处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "麦至德",
+      "aliases": [],
+      "identity": "工部侍郎",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "工部侍郎，被列为郭桓同党处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "吴庸",
+      "aliases": [],
+      "identity": "右审刑（主审法官）",
+      "birthYear": null,
+      "deathYear": 1385,
+      "bio": "郭桓案主审法官，最终也被处死",
+      "appearanceTime": "洪武十八年(1385)",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "袁凯",
+      "aliases": [],
+      "identity": "监察御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "因在朱元璋与太子意见间为难而装疯的御史",
+      "appearanceTime": "洪武年间",
+      "chapters": [
+        "第十九章 冤案"
+      ]
+    },
+    {
+      "name": "朱标",
+      "aliases": [
+        "太子"
+      ],
+      "identity": "太子",
+      "birthYear": 1355,
+      "deathYear": 1392,
+      "bio": "朱元璋长子，明朝第一任太子，为人忠厚，深受朱元璋喜爱。",
+      "appearanceTime": "洪武年间",
+      "chapters": [
+        "第十九章 冤案",
+        "第二十一章 蓝玉的覆灭",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "爱猷识理达腊",
+      "aliases": [],
+      "identity": "北元皇帝",
+      "birthYear": null,
+      "deathYear": 1378,
+      "bio": "北元皇帝，元顺帝之子，奉行对抗明朝政策。",
+      "appearanceTime": "1378",
+      "chapters": [
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "纳哈出",
+      "aliases": [],
+      "identity": "北元太尉",
+      "birthYear": null,
+      "deathYear": 1388,
+      "bio": "北元将领，曾在洪武二十年被冯胜击败，后经观童劝降归明。",
+      "appearanceTime": 1387,
+      "chapters": [
+        "第二十章 最后的名将——蓝玉",
+        "第二十一章 蓝玉的覆灭",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "常茂",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "常遇春之子，本章中在纳哈出投降宴上砍伤纳哈出。",
+      "appearanceTime": 1387,
+      "chapters": [
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "耿忠",
+      "aliases": [],
+      "identity": "明朝都督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝都督，本章中在常茂砍伤纳哈出后冷静处理局面。",
+      "appearanceTime": 1387,
+      "chapters": [
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "观童",
+      "aliases": [],
+      "identity": "北元降将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝使者，多次成功劝降蒙古将领，如纳哈出、乃儿不花。",
+      "appearanceTime": 1387,
+      "chapters": [
+        "第二十章 最后的名将——蓝玉",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "脱古思帖木儿",
+      "aliases": [
+        "买的里八剌"
+      ],
+      "identity": "北元皇帝",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元皇帝，爱猷识理达腊之子，继续与明朝对抗。",
+      "appearanceTime": "1388",
+      "chapters": [
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "乃剌吾",
+      "aliases": [],
+      "identity": "北元降将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "原纳哈出部下，受朱元璋派遣劝降纳哈出。",
+      "appearanceTime": 1387,
+      "chapters": [
+        "第二十章 最后的名将——蓝玉"
+      ]
+    },
+    {
+      "name": "朱允炆",
+      "aliases": [
+        "建文帝"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1377,
+      "deathYear": 1402,
+      "bio": "朱标之子，朱元璋之孙，继朱元璋之后即位，年号建文。",
+      "appearanceTime": "洪武二十五年(1392)",
+      "chapters": [
+        "第二十一章 蓝玉的覆灭"
+      ]
+    },
+    {
+      "name": "朱棣",
+      "aliases": [
+        "燕王",
+        "明成祖"
+      ],
+      "identity": "明朝藩王/皇帝",
+      "birthYear": 1360,
+      "deathYear": 1424,
+      "bio": "朱元璋第四子，初封燕王，后发动靖难之役夺取皇位，即明成祖。",
+      "appearanceTime": "洪武二十六年(1393)",
+      "chapters": [
+        "第二十一章 蓝玉的覆灭",
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "蒋瓛",
+      "aliases": [],
+      "identity": "锦衣卫指挥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "锦衣卫指挥使，告发蓝玉谋反，直接引发蓝玉案。",
+      "appearanceTime": "洪武二十六年(1393)",
+      "chapters": [
+        "第二十一章 蓝玉的覆灭"
+      ]
+    },
+    {
+      "name": "王建",
+      "aliases": [],
+      "identity": "高丽王国开国君主",
+      "birthYear": 877,
+      "deathYear": 943,
+      "bio": "高丽王国开国君主。",
+      "appearanceTime": "10世纪",
+      "chapters": [
+        "第二十二章 制度后的秘密"
+      ]
+    },
+    {
+      "name": "李景隆",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，曹国公李文忠之子，袭父爵。",
+      "appearanceTime": "洪武末年(1390年代)",
+      "chapters": [
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "郭英",
+      "aliases": [],
+      "identity": "明朝开国将领",
+      "birthYear": 1335,
+      "deathYear": 1403,
+      "bio": "明朝开国将领，封武定侯，朱元璋屠戮功臣时得以幸免。",
+      "appearanceTime": "不详",
+      "chapters": [
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "咬住",
+      "aliases": [],
+      "identity": "北元丞相",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元丞相，朱元璋北伐的目标之一。",
+      "appearanceTime": 1390,
+      "chapters": [
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "乃儿不花",
+      "aliases": [],
+      "identity": "北元太尉",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "北元太尉，在洪武二十三年被燕王朱棣招降。",
+      "appearanceTime": 1390,
+      "chapters": [
+        "第二十三章 终点，起点"
+      ]
+    },
+    {
+      "name": "晋王",
+      "aliases": [
+        "朱棡"
+      ],
+      "identity": "明朝藩王",
+      "birthYear": 1358,
+      "deathYear": 1398,
+      "bio": "朱元璋第三子，封晋王，与燕王朱棣一同领兵北伐。",
+      "appearanceTime": 1390,
+      "chapters": [
+        "第二十三章 终点，起点"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "source": "朱五四",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱五四为朱元璋的父亲。",
+      "chapterEvent": "朱元璋出生",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "陈氏",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "陈氏为朱元璋的母亲。",
+      "chapterEvent": "朱元璋出生",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱百六",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱百六为朱元璋的高祖父。",
+      "chapterEvent": "介绍朱元璋家族命名",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱四九",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱四九为朱元璋的曾祖父。",
+      "chapterEvent": "介绍朱元璋家族命名",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱初一",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱初一为朱元璋的祖父。",
+      "chapterEvent": "介绍朱元璋家族命名",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘德",
+      "type": "关联",
+      "description": "朱元璋少年时为地主刘德家放牛。",
+      "chapterEvent": "朱元璋的童年",
+      "note": "雇佣关系",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱元璋",
+      "target": "吴老太",
+      "type": "关联",
+      "description": "朱元璋曾幻想托村口吴老太作媒。",
+      "chapterEvent": "朱元璋的少年梦想",
+      "note": "",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "刘德",
+      "target": "刘小德",
+      "type": "亲属",
+      "description": "文中暗示刘小德可能是刘德的儿子（未来地主）。",
+      "chapterEvent": "朱元璋的少年梦想",
+      "note": "推测为父子关系",
+      "chapter": "第一章 童年"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱五四",
+      "type": "亲属",
+      "description": "朱元璋的父亲",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈氏",
+      "type": "亲属",
+      "description": "朱元璋的母亲",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重四",
+      "type": "亲属",
+      "description": "朱元璋的大哥",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重六",
+      "type": "亲属",
+      "description": "朱元璋的二哥",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱氏",
+      "type": "亲属",
+      "description": "朱元璋的姐姐",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重七",
+      "type": "亲属",
+      "description": "朱元璋的三哥",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱重四长子",
+      "type": "亲属",
+      "description": "朱元璋的侄子",
+      "chapterEvent": "家庭灾难",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘德",
+      "type": "敌对",
+      "description": "朱元璋求刘德帮助埋葬父母被拒",
+      "chapterEvent": "埋葬父母",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "脱脱",
+      "target": "元顺帝",
+      "type": "君臣",
+      "description": "脱脱是元顺帝的宰相",
+      "chapterEvent": "元朝朝政",
+      "note": "",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "朱元璋",
+      "target": "元顺帝",
+      "type": "敌对",
+      "description": "朱元璋家庭在元顺帝统治时期遭受灾难",
+      "chapterEvent": "元末灾害",
+      "note": "间接敌对关系，本章未直接互动",
+      "chapter": "第二章 灾难"
+    },
+    {
+      "source": "汤和",
+      "target": "朱元璋",
+      "type": "朋友",
+      "description": "汤和是朱元璋幼年好友，写信邀请朱元璋参加起义军",
+      "chapterEvent": "汤和来信",
+      "note": "",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "周德兴",
+      "target": "朱元璋",
+      "type": "朋友",
+      "description": "周德兴是朱元璋的朋友，为其出谋划策（建议算卦）",
+      "chapterEvent": "朱元璋咨询去向",
+      "note": "",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "韩山童",
+      "target": "刘福通",
+      "type": "同盟",
+      "description": "韩山童与刘福通共同在颍州发动白莲教起义",
+      "chapterEvent": "颍州起义",
+      "note": "",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "朱元璋",
+      "target": "脱脱",
+      "type": "敌对",
+      "description": "朱元璋作为反抗者，与元朝丞相脱脱代表的元廷处于敌对阵营",
+      "chapterEvent": "元末起义背景",
+      "note": "本章未直接互动，但处于对立的政治阵营",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "朱元璋",
+      "target": "韩山童",
+      "type": "关联",
+      "description": "朱元璋受韩山童、刘福通起义影响，最终走上反抗道路",
+      "chapterEvent": "元末起义浪潮",
+      "note": "无直接联系，但韩刘起义是时代背景的关键事件",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘福通",
+      "type": "关联",
+      "description": "朱元璋受韩山童、刘福通起义影响，最终走上反抗道路",
+      "chapterEvent": "元末起义浪潮",
+      "note": "无直接联系，但韩刘起义是时代背景的关键事件",
+      "chapter": "第三章 踏上征途"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭子兴",
+      "type": "君臣",
+      "description": "朱元璋投奔郭子兴，成为其亲兵和部下",
+      "chapterEvent": "朱元璋投军濠州",
+      "note": "后期关系恶化，朱元璋离开郭子兴",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "汤和",
+      "type": "朋友",
+      "description": "汤和引荐朱元璋投军，并对其保持尊敬",
+      "chapterEvent": "汤和介绍朱元璋投军",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马姑娘",
+      "type": "亲属",
+      "description": "朱元璋娶郭子兴义女马姑娘为妻",
+      "chapterEvent": "朱元璋娶马姑娘",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "郭子兴",
+      "target": "马姑娘",
+      "type": "亲属",
+      "description": "马姑娘是郭子兴的义女",
+      "chapterEvent": "马姑娘身份介绍",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "郭子兴",
+      "target": "孙德崖",
+      "type": "敌对",
+      "description": "濠州统帅间的矛盾，孙德崖绑架郭子兴",
+      "chapterEvent": "孙德崖绑架郭子兴",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "孙德崖",
+      "type": "敌对",
+      "description": "朱元璋从孙德崖处救出郭子兴",
+      "chapterEvent": "朱元璋救郭子兴",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "徐达在钟离投奔朱元璋，成为其早期核心将领",
+      "chapterEvent": "朱元璋招募二十四将",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "周德兴",
+      "type": "朋友",
+      "description": "周德兴为朱元璋同乡，早期投奔",
+      "chapterEvent": "朱元璋招募二十四将",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "郭子兴",
+      "target": "郭子兴之子",
+      "type": "亲属",
+      "description": "父子关系",
+      "chapterEvent": "郭子兴之子企图饿死朱元璋",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "郭子兴之子",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "郭子兴之子企图趁朱元璋被关时饿死他",
+      "chapterEvent": "朱元璋被关押",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "马姑娘",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "马姑娘在朱元璋被关时送烙饼救他",
+      "chapterEvent": "马姑娘救朱元璋",
+      "note": "",
+      "chapter": "第四章 就从这里起步"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张家堡寨主",
+      "type": "敌对",
+      "description": "朱元璋欲收编寨主部队，寨主先应允后反悔，被朱元璋设计擒获",
+      "chapterEvent": "收编张家堡部队",
+      "note": "从试图招揽变为敌对并武力吞并",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "缪大亨",
+      "type": "敌对",
+      "description": "朱元璋夜袭横涧山，击败并收降缪大亨部",
+      "chapterEvent": "攻取横涧山",
+      "note": "战后收编其部队，关系转为君臣",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯国用",
+      "type": "君臣",
+      "description": "冯国用与弟冯国胜从定远来投奔朱元璋",
+      "chapterEvent": "冯氏兄弟来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯国胜",
+      "type": "君臣",
+      "description": "冯国胜与兄冯国用从定远来投奔朱元璋",
+      "chapterEvent": "冯氏兄弟来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "冯国用",
+      "target": "冯国胜",
+      "type": "亲属",
+      "description": "兄弟关系",
+      "chapterEvent": "冯氏兄弟来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "李善长投奔朱元璋，以汉高祖刘邦为例为其规划帝业，被朱元璋拜为谋士",
+      "chapterEvent": "李善长献策",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "花云",
+      "type": "君臣",
+      "description": "花云为朱元璋部将，率骑兵攻破滁州",
+      "chapterEvent": "攻取滁州",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "type": "亲属",
+      "description": "朱文正是朱元璋的侄子，前来投奔",
+      "chapterEvent": "亲属来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李贞",
+      "type": "亲属",
+      "description": "李贞是朱元璋的姐夫，前来投奔",
+      "chapterEvent": "亲属来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李文忠",
+      "type": "亲属",
+      "description": "李文忠是朱元璋的外甥，前来投奔",
+      "chapterEvent": "亲属来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "李贞",
+      "target": "李文忠",
+      "type": "亲属",
+      "description": "父子关系",
+      "chapterEvent": "亲属来投",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭子兴",
+      "type": "亲属",
+      "description": "郭子兴是朱元璋的岳父",
+      "chapterEvent": "郭子兴投靠与和州冲突",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭子兴",
+      "type": "君臣",
+      "description": "朱元璋将滁州统帅之位及三万精兵指挥权让与郭子兴",
+      "chapterEvent": "朱元璋让权",
+      "note": "名义上朱元璋臣属于郭子兴",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "郭子兴",
+      "target": "孙德崖",
+      "type": "敌对",
+      "description": "两人长期不和，孙德崖曾排挤郭子兴。在和州，郭子兴趁机扣押孙德崖",
+      "chapterEvent": "和州冲突",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "孙德崖",
+      "type": "同盟",
+      "description": "孙德崖兵多粮少，要求到朱元璋占据的和州就食，朱元璋同意",
+      "chapterEvent": "和州冲突",
+      "note": "因郭子兴抓孙德崖导致关系破裂，朱元璋被孙部扣押",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "郭子兴",
+      "target": "郭天叙",
+      "type": "亲属",
+      "description": "父子关系",
+      "chapterEvent": "郭子兴投靠与和州冲突",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "郭天叙",
+      "target": "朱元璋",
+      "type": "关联",
+      "description": "郭天叙因朱元璋让权给其父郭子兴而对其产生敬佩",
+      "chapterEvent": "朱元璋让权",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "徐达为救被扣押的朱元璋，自愿前往孙德崖军中为人质",
+      "chapterEvent": "和州人质交换",
+      "note": "",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "徐达",
+      "target": "孙德崖",
+      "type": "敌对",
+      "description": "徐达作为人质被孙德崖军扣押，以交换朱元璋",
+      "chapterEvent": "和州人质交换",
+      "note": "事件解决后获释",
+      "chapter": "第五章 储蓄资本"
+    },
+    {
+      "source": "冯胜",
+      "target": "朱元璋",
+      "type": "君臣",
+      "description": "冯胜是朱元璋部将，向其建议渡江攻占集庆。",
+      "chapterEvent": "建议攻取集庆",
+      "note": "",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "俞通海",
+      "target": "朱元璋",
+      "type": "君臣",
+      "description": "俞通海率水军投奔朱元璋，助其攻打采石、太平、集庆。",
+      "chapterEvent": "提供水军攻集庆",
+      "note": "",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "郭天叙",
+      "target": "朱元璋",
+      "type": "同盟",
+      "description": "郭天叙为名义上都元帅，朱元璋为左副元帅，共同攻打集庆。",
+      "chapterEvent": "共同进攻集庆",
+      "note": "名义上郭天叙地位更高，但军队实际由朱元璋统帅。郭天叙战死后，朱元璋成为都元帅。",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "张天祐",
+      "target": "朱元璋",
+      "type": "同盟",
+      "description": "张天祐为右都副元帅，与朱元璋共同攻打集庆。",
+      "chapterEvent": "共同进攻集庆",
+      "note": "张天祐战死后，朱元璋成为都元帅。",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "刘福通",
+      "target": "朱元璋",
+      "type": "同盟",
+      "description": "刘福通封朱元璋官职，并在北面阻挡元军，为朱元璋创造发展空间。",
+      "chapterEvent": "北方屏障",
+      "note": "",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "张士诚",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "张士诚占据平江（苏州），是朱元璋东面的邻居和未来主要对手。",
+      "chapterEvent": "介绍邻居",
+      "note": "本章仅提及为邻居，尚未直接冲突。",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "陈友谅是朱元璋西面的邻居，被描述为真正可怕的对手。",
+      "chapterEvent": "介绍邻居",
+      "note": "本章仅提及为邻居，尚未直接冲突。",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "徐寿辉占据朱元璋西面，是其邻居之一。",
+      "chapterEvent": "介绍邻居",
+      "note": "",
+      "chapter": "第六章 霸业的开始"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士义",
+      "type": "亲属",
+      "description": "兄弟关系，共同坚守高邮。",
+      "chapterEvent": "高邮之战",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士德",
+      "type": "亲属",
+      "description": "兄弟关系，共同坚守高邮。",
+      "chapterEvent": "高邮之战",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "张士诚",
+      "target": "脱脱",
+      "type": "敌对",
+      "description": "脱脱率元军百万围攻张士诚于高邮。",
+      "chapterEvent": "高邮之战",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "刘福通",
+      "type": "关联",
+      "description": "刘福通起义军经过徐寿辉家乡，促使徐寿辉起义。",
+      "chapterEvent": "徐寿辉起义",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "邹普胜",
+      "type": "君臣",
+      "description": "徐寿辉任命邹普胜为太师。",
+      "chapterEvent": "建立天完政权",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "彭莹玉",
+      "type": "同盟",
+      "description": "彭莹玉协助徐寿辉宣传明教并起义。",
+      "chapterEvent": "徐寿辉起义",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "陈友谅",
+      "type": "君臣",
+      "description": "陈友谅参加徐寿辉的起义军并得到信任。",
+      "chapterEvent": "陈友谅投军",
+      "note": "后陈友谅背叛并杀害徐寿辉",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "倪文俊",
+      "type": "君臣",
+      "description": "倪文俊是徐寿辉的丞相。",
+      "chapterEvent": "天完政权建制",
+      "note": "后倪文俊企图暗杀徐寿辉篡位",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "丁普郎",
+      "type": "君臣",
+      "description": "丁普郎是徐寿辉部下四大金刚之一。",
+      "chapterEvent": "介绍天完将领",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "赵普胜",
+      "type": "君臣",
+      "description": "赵普胜是徐寿辉部下四大金刚之一。",
+      "chapterEvent": "介绍天完将领",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "傅友德是徐寿辉部下四大金刚之一。",
+      "chapterEvent": "介绍天完将领",
+      "note": "",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "陈友谅",
+      "target": "倪文俊",
+      "type": "师生",
+      "description": "倪文俊是陈友谅的领导并提拔了他。",
+      "chapterEvent": "倪文俊投奔陈友谅",
+      "note": "后陈友谅杀害倪文俊，关系由师生/上下级变为敌对",
+      "chapter": "第七章 可怕的对手"
+    },
+    {
+      "source": "陈友谅",
+      "target": "倪文俊",
+      "type": "敌对",
+      "description": "陈友谅杀掉倪文俊，成为天完国第一重臣。",
+      "chapterEvent": "陈友谅夺权",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "陈友谅",
+      "target": "徐寿辉",
+      "type": "君臣",
+      "description": "陈友谅原为徐寿辉臣下，后挟持并最终弑君。",
+      "chapterEvent": "陈友谅挟持并杀害徐寿辉",
+      "note": "关系从君臣转变为敌对（弑君）",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "陈友谅",
+      "target": "赵普胜",
+      "type": "敌对",
+      "description": "陈友谅为除掉徐寿辉羽翼，以图谋不轨罪名杀害赵普胜。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "陈友谅",
+      "target": "丁普郎",
+      "type": "敌对",
+      "description": "丁普郎见陈友谅清除异己，逃往朱元璋处。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "从同僚变为敌对",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "陈友谅",
+      "target": "傅友德",
+      "type": "敌对",
+      "description": "傅友德见陈友谅清除异己，逃往朱元璋处。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "从同僚变为敌对",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "陈友谅挟徐寿辉进攻朱元璋，后自立为帝，与朱元璋争霸。",
+      "chapterEvent": "汉国建立与争霸",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "赵普胜",
+      "type": "君臣",
+      "description": "赵普胜是徐寿辉的部下（明教兄弟）。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "丁普郎",
+      "type": "君臣",
+      "description": "丁普郎是徐寿辉的部下。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "徐寿辉",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "傅友德是徐寿辉的部下。",
+      "chapterEvent": "清除徐寿辉势力",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "双方从1356年起发生多次冲突，朱元璋曾试图议和未果。",
+      "chapterEvent": "朱元璋与张士诚的战争",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋命令徐达应战张士诚的进攻。",
+      "chapterEvent": "龙潭之战",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "朱元璋在采石之战中启用常遇春为先锋，并授予官职。",
+      "chapterEvent": "采石之战与常遇春投奔",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "丁普郎",
+      "type": "君臣",
+      "description": "丁普郎从陈友谅处投奔朱元璋。",
+      "chapterEvent": "将领投奔",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "傅友德从陈友谅处投奔朱元璋。",
+      "chapterEvent": "将领投奔",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "张士诚",
+      "target": "徐寿辉",
+      "type": "同盟",
+      "description": "张士诚回信朱元璋称已和徐寿辉约好共同对付朱元璋。",
+      "chapterEvent": "朱元璋议和失败",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "type": "同僚",
+      "description": "两人同为朱元璋部下将领，共同参与对张士诚的作战。",
+      "chapterEvent": "龙潭之战等",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "刘邦",
+      "target": "韩信",
+      "type": "君臣",
+      "description": "本章引述刘邦与韩信关于带兵能力的对话。",
+      "chapterEvent": "论述带兵能力",
+      "note": "",
+      "chapter": "第八章 可怕的陈友谅"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "朱元璋与陈友谅为争夺天下进行决战。",
+      "chapterEvent": "龙湾之战",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋将张士诚视为对手，分析其性格特点。",
+      "chapterEvent": "战略决策",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐寿辉",
+      "type": "敌对",
+      "description": "朱元璋将徐寿辉视为需要对付的势力。",
+      "chapterEvent": "战略背景",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "陈友谅",
+      "target": "徐寿辉",
+      "type": "君臣",
+      "description": "陈友谅原为徐寿辉部将，后杀徐自立。",
+      "chapterEvent": "陈友谅篡权",
+      "note": "关系从君臣变为弑君夺位",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "常遇春是朱元璋麾下大将，奉命作战。",
+      "chapterEvent": "池州之战、龙湾之战",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "徐达是朱元璋麾下大将，参与伏击陈友谅。",
+      "chapterEvent": "池州之战、龙湾之战",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "常遇春",
+      "target": "徐达",
+      "type": "同盟",
+      "description": "常遇春与徐达共同在九华山设伏击败陈友谅军。",
+      "chapterEvent": "池州之战",
+      "note": "在杀降问题上意见相左",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "常遇春",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "常遇春击败并挑衅陈友谅，引发陈友谅大军来攻。",
+      "chapterEvent": "池州之战杀降挑衅",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘基",
+      "type": "君臣",
+      "description": "刘基（刘伯温）被朱元璋征召为谋士，在应天防守决策中力主决战。",
+      "chapterEvent": "应天防御决策",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡大海",
+      "type": "君臣",
+      "description": "胡大海是朱元璋部将，攻下处州并征召隐士。",
+      "chapterEvent": "征召刘基",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "胡大海",
+      "target": "刘基",
+      "type": "关联",
+      "description": "胡大海奉命征召刘基，但刘基最初不愿应召。",
+      "chapterEvent": "征召刘基",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "孙炎",
+      "target": "刘基",
+      "type": "关联",
+      "description": "孙炎奉朱元璋之命最终成功迫使刘基前来效力。",
+      "chapterEvent": "征召刘基",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "陈友谅",
+      "target": "花云",
+      "type": "敌对",
+      "description": "陈友谅大军攻破花云镇守的太平。",
+      "chapterEvent": "太平失守",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "花云",
+      "type": "君臣",
+      "description": "花云是朱元璋部将，奉命镇守太平。",
+      "chapterEvent": "太平失守",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "邵荣",
+      "type": "君臣",
+      "description": "朱元璋命令邵荣放弃龙湾阵地以诱敌。",
+      "chapterEvent": "龙湾伏击计划",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "杨靖",
+      "type": "君臣",
+      "description": "朱元璋命令杨靖参与龙湾伏击。",
+      "chapterEvent": "龙湾伏击计划",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "赵德胜",
+      "type": "君臣",
+      "description": "朱元璋命令赵德胜参与龙湾伏击。",
+      "chapterEvent": "龙湾伏击计划",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "康茂才",
+      "type": "君臣",
+      "description": "康茂才是朱元璋部将，奉命诈降诱骗陈友谅。",
+      "chapterEvent": "龙湾伏击计划",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "康茂才",
+      "target": "陈友谅",
+      "type": "关联",
+      "description": "康茂才原为陈友谅部将，后诈降诱骗陈友谅进入伏击圈。",
+      "chapterEvent": "龙湾伏击计划与实施",
+      "note": "关系从部将变为诈降诱敌",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "李善长是朱元璋谋士，奉命连夜重造江东桥。",
+      "chapterEvent": "龙湾伏击计划",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "君臣",
+      "description": "冯胜是朱元璋部将，参与龙湾伏击战。",
+      "chapterEvent": "龙湾之战",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "陈友谅",
+      "target": "陈友仁",
+      "type": "亲属",
+      "description": "陈友仁是陈友谅的弟弟，率军先行在龙湾登陆。",
+      "chapterEvent": "龙湾之战",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张士诚",
+      "type": "同盟",
+      "description": "陈友谅进攻应天前通知张士诚，希望其夹攻朱元璋。",
+      "chapterEvent": "陈友谅进攻应天",
+      "note": "同盟关系松散，张士诚未全力配合",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "胡大海",
+      "target": "叶琛",
+      "type": "关联",
+      "description": "胡大海征召隐士叶琛。",
+      "chapterEvent": "征召隐士",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "胡大海",
+      "target": "章溢",
+      "type": "关联",
+      "description": "胡大海征召隐士章溢。",
+      "chapterEvent": "征召隐士",
+      "note": "",
+      "chapter": "第九章 决战不可避免"
+    },
+    {
+      "source": "陈友谅",
+      "target": "赵普胜",
+      "type": "敌对",
+      "description": "陈友谅为控制天完国而杀害了赵普胜。",
+      "chapterEvent": "陈友谅杀害赵普胜",
+      "note": "赵普胜原视陈友谅为兄弟",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "双方为争夺天下进行长期战争。",
+      "chapterEvent": "陈朱水战与决战准备",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘基",
+      "type": "君臣",
+      "description": "朱元璋就救援安丰之事咨询刘基意见。",
+      "chapterEvent": "商议救援安丰",
+      "note": "朱元璋未采纳刘基反对意见",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "徐达反对朱元璋进攻庐州的决策。",
+      "chapterEvent": "商议进攻庐州",
+      "note": "朱元璋未采纳徐达意见",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "韩林儿",
+      "type": "君臣",
+      "description": "朱元璋名义上尊韩林儿为皇帝，并出兵救援。",
+      "chapterEvent": "救援安丰",
+      "note": "朱元璋救出韩林儿，视其为累赘",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "张士诚",
+      "target": "韩林儿",
+      "type": "敌对",
+      "description": "张士诚军队进攻韩林儿所在的安丰。",
+      "chapterEvent": "安丰之战",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "张士诚",
+      "target": "刘福通",
+      "type": "敌对",
+      "description": "张士诚军队进攻刘福通镇守的安丰。",
+      "chapterEvent": "安丰之战",
+      "note": "刘福通战死",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "刘福通",
+      "target": "韩林儿",
+      "type": "君臣",
+      "description": "刘福通拥立韩林儿为宋政权皇帝。",
+      "chapterEvent": "安丰被围求救",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋救援安丰对抗张士诚，后欲攻其庐州。",
+      "chapterEvent": "救援安丰与计划攻庐州",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张士诚",
+      "type": "同盟",
+      "description": "本章称张士诚为陈友谅的“忠实同盟”，共同对付朱元璋。",
+      "chapterEvent": "张士诚攻安丰牵制朱元璋",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘福通",
+      "type": "同盟",
+      "description": "同属红巾军系统，朱元璋应刘福通求救出兵安丰。",
+      "chapterEvent": "救援安丰",
+      "note": "",
+      "chapter": "第十章 等待最好的时机"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "type": "亲属",
+      "description": "朱文正是朱元璋的亲侄子。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "type": "君臣",
+      "description": "朱元璋委派朱文正镇守洪都。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "陈友谅",
+      "target": "朱文正",
+      "type": "敌对",
+      "description": "陈友谅率六十万大军进攻朱文正镇守的洪都。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "邓愈",
+      "type": "君臣",
+      "description": "朱文正作为洪都主帅，安排邓愈防守最重要的抚州门。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "赵德胜",
+      "type": "君臣",
+      "description": "朱文正安排赵德胜防守宫步、土步、桥步三门。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "薛显",
+      "type": "君臣",
+      "description": "朱文正安排薛显防守章江、新城两门。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "牛海龙",
+      "type": "君臣",
+      "description": "朱文正安排牛海龙防守琉璃、澹台两门。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "赵国旺",
+      "type": "君臣",
+      "description": "朱文正安排赵国旺与牛海龙共同防守琉璃、澹台两门。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱文正",
+      "target": "张子明",
+      "type": "君臣",
+      "description": "朱文正派张子明前往应天向朱元璋求援。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张子明",
+      "type": "敌对",
+      "description": "陈友谅擒获并杀害了朱文正的使者张子明。",
+      "chapterEvent": "洪都守卫战",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋调徐达从庐州班师，准备与陈友谅决战。",
+      "chapterEvent": "洪都守卫战与决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "常遇春随朱元璋出征，准备与陈友谅决战。",
+      "chapterEvent": "决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "君臣",
+      "description": "冯胜随朱元璋出征，准备与陈友谅决战。",
+      "chapterEvent": "决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭兴",
+      "type": "君臣",
+      "description": "郭兴随朱元璋出征，准备与陈友谅决战。",
+      "chapterEvent": "决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘基",
+      "type": "君臣",
+      "description": "刘基作为谋士随朱元璋出征。",
+      "chapterEvent": "决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "陈友谅",
+      "target": "徐寿辉",
+      "type": "敌对",
+      "description": "文中提及陈友谅的生存方式与徐寿辉不同，暗示陈友谅杀害了徐寿辉。",
+      "chapterEvent": "人物性格与背景提及",
+      "note": "从属关系已转变为敌对",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "朱元璋集结大军，准备与陈友谅进行最终决战。",
+      "chapterEvent": "决战准备",
+      "note": "",
+      "chapter": "第十一章 洪都的奇迹"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "双方在鄱阳湖进行决战",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋任命徐达为先锋，徐达在鄱阳湖之战中率军突击",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "常遇春在鄱阳湖之战中射伤张定边，解救朱元璋",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "廖永忠",
+      "type": "君臣",
+      "description": "廖永忠参与制定鄱阳湖之战作战计划",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "郭兴",
+      "type": "君臣",
+      "description": "郭兴向朱元璋建议火攻陈友谅舰队",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "丁普朗",
+      "type": "君臣",
+      "description": "丁普朗投奔朱元璋，在鄱阳湖之战中为给赵普胜报仇而冲锋战死",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈理",
+      "type": "敌对",
+      "description": "陈友谅死后，朱元璋进攻陈理，陈理最终投降",
+      "chapterEvent": "鄱阳湖之战后续",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张定边",
+      "type": "君臣",
+      "description": "张定边是陈友谅的结义兄弟和部将，深受信任",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "陈友谅",
+      "target": "张必先",
+      "type": "朋友",
+      "description": "陈友谅、张定边、张必先三人为儿时伙伴并结拜为兄弟",
+      "chapterEvent": "人物背景介绍",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "陈友谅",
+      "target": "赵普胜",
+      "type": "敌对",
+      "description": "陈友谅杀害了赵普胜",
+      "chapterEvent": "人物背景介绍",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "张必先",
+      "type": "朋友",
+      "description": "张定边、陈友谅、张必先三人结拜为兄弟",
+      "chapterEvent": "人物背景介绍",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "常遇春",
+      "type": "敌对",
+      "description": "张定边突击朱元璋旗舰时被常遇春射伤",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "韩成",
+      "type": "敌对",
+      "description": "张定边在突击中斩杀韩成",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "陈兆先",
+      "type": "敌对",
+      "description": "张定边在突击中斩杀陈兆先",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "宋贵",
+      "type": "敌对",
+      "description": "张定边在突击中斩杀宋贵",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "张定边",
+      "target": "陈理",
+      "type": "君臣",
+      "description": "陈友谅死后，张定边保护陈理撤退并拥立其继位",
+      "chapterEvent": "鄱阳湖之战后续",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "type": "朋友",
+      "description": "徐达与常遇春、廖永忠等共同制定作战计划",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "徐达",
+      "target": "廖永忠",
+      "type": "朋友",
+      "description": "徐达与常遇春、廖永忠等共同制定作战计划",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "丁普朗",
+      "target": "赵普胜",
+      "type": "朋友",
+      "description": "丁普朗与赵普胜为结拜兄弟，丁普朗为给赵普胜报仇而战死",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "丁普朗",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "丁普朗为给结拜兄弟赵普胜报仇而攻击陈友谅",
+      "chapterEvent": "鄱阳湖之战",
+      "note": "",
+      "chapter": "第十二章 鄱阳湖！决死战！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋在消灭陈友谅后，发动对张士诚东吴政权的全面进攻",
+      "chapterEvent": "朱元璋讨伐张士诚",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱文正",
+      "type": "亲属",
+      "description": "朱文正是朱元璋的亲侄子，也是其手下得力大将",
+      "chapterEvent": "朱文正叛变",
+      "note": "关系从亲属、君臣转变为敌对",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱文正",
+      "target": "张士诚",
+      "type": "同盟",
+      "description": "朱文正因不满封赏，暗中勾结张士诚准备讨伐朱元璋",
+      "chapterEvent": "朱文正叛变",
+      "note": "秘密同盟关系，未及实施即被朱元璋镇压",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋任命徐达为主帅，率军讨伐张士诚",
+      "chapterEvent": "平江攻击战",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "朱元璋任命常遇春为主帅，率军讨伐张士诚，并告诫其勿多杀戮",
+      "chapterEvent": "平江攻击战",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "韩林儿",
+      "type": "君臣",
+      "description": "韩林儿是名义上的皇帝（小明王），朱元璋自立吴王是否得其批准存疑",
+      "chapterEvent": "朱元璋即吴王位",
+      "note": "名义上的君臣关系，朱元璋势力已远强于韩林儿",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "绍荣",
+      "type": "敌对",
+      "description": "绍荣曾为朱元璋部将，至正二十二年密谋杀害朱元璋，被处死",
+      "chapterEvent": "意想不到的背叛",
+      "note": "关系从君臣转变为敌对",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "赵继祖",
+      "type": "敌对",
+      "description": "赵继祖曾为朱元璋部将，至正二十二年与绍荣密谋叛变，被处死",
+      "chapterEvent": "意想不到的背叛",
+      "note": "关系从君臣转变为敌对",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "谢再兴",
+      "type": "敌对",
+      "description": "谢再兴曾为朱元璋部将，至正二十三年在与陈友谅决战时叛变",
+      "chapterEvent": "意想不到的背叛",
+      "note": "关系从君臣转变为敌对",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马皇后",
+      "type": "亲属",
+      "description": "马皇后是朱元璋结发妻子，曾劝阻朱元璋处死朱文正",
+      "chapterEvent": "朱文正叛变处理",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士信",
+      "type": "亲属",
+      "description": "张士信是张士诚的弟弟，在东吴后期掌权",
+      "chapterEvent": "张士诚势力介绍",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士义",
+      "type": "亲属",
+      "description": "张士义是张士诚的弟弟，早年战死",
+      "chapterEvent": "张士诚势力介绍",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "张士诚",
+      "target": "张士德",
+      "type": "亲属",
+      "description": "张士德是张士诚的弟弟，早年战死",
+      "chapterEvent": "张士诚势力介绍",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "朱元璋派重臣李善长审问被俘的张士诚",
+      "chapterEvent": "张士诚的结局",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "李善长",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "李善长奉朱元璋之命审问张士诚，遭张士诚蔑视和辱骂",
+      "chapterEvent": "张士诚的结局",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "type": "同盟",
+      "description": "徐达和常遇春共同担任讨伐张士诚的主帅，协同作战",
+      "chapterEvent": "平江攻击战",
+      "note": "",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "陈友谅是朱元璋此前的主要对手，已被朱元璋消灭",
+      "chapterEvent": "背景介绍",
+      "note": "本章开始时陈友谅已败亡",
+      "chapter": "第十三章 下一个目标，张士诚！"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "朱元璋与陈友谅是争夺天下的主要对手。",
+      "chapterEvent": "扫平江南对手",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋与张士诚是争夺江南的对手。",
+      "chapterEvent": "扫平江南对手",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "察罕帖木儿",
+      "type": "敌对",
+      "description": "朱元璋为麻痹元朝，曾向元将察罕帖木儿送礼。",
+      "chapterEvent": "麻痹元朝策略",
+      "note": "表面示好，实为策略",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张昶",
+      "type": "敌对",
+      "description": "朱元璋拒绝元朝招抚，扣留了前来封官的元臣张昶。",
+      "chapterEvent": "拒绝元朝招抚",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "刘基",
+      "type": "君臣",
+      "description": "朱元璋让刘基多与扣留的元臣张昶交谈。",
+      "chapterEvent": "扣留元使",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "元顺帝",
+      "type": "敌对",
+      "description": "朱元璋最终起兵北伐，目标是推翻元顺帝的统治。",
+      "chapterEvent": "北伐元朝",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "扩廓帖木尔",
+      "type": "敌对",
+      "description": "王保保是元朝末期朱元璋最主要的军事对手。",
+      "chapterEvent": "北伐战争",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋派遣徐达为北伐主将。",
+      "chapterEvent": "北伐开始",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "常遇春",
+      "type": "君臣",
+      "description": "朱元璋派遣常遇春为北伐副将兼先锋。",
+      "chapterEvent": "北伐开始",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "扩廓帖木尔",
+      "target": "察罕帖木儿",
+      "type": "亲属",
+      "description": "王保保是察罕帖木尔的外甥和养子。",
+      "chapterEvent": "人物背景介绍",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "扩廓帖木尔",
+      "target": "脱因帖木儿",
+      "type": "亲属",
+      "description": "脱因帖木儿是王保保的弟弟。",
+      "chapterEvent": "山东战役",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "扩廓帖木尔",
+      "target": "李思齐",
+      "type": "敌对",
+      "description": "王保保与军阀李思齐争权，将主力用于对付李而非北伐明军。",
+      "chapterEvent": "北伐战略背景",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "徐达",
+      "target": "常遇春",
+      "type": "同盟",
+      "description": "徐达与常遇春共同担任北伐明军的主副将，配合作战。",
+      "chapterEvent": "北伐山东、河南",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "常遇春",
+      "target": "阿鲁温",
+      "type": "敌对",
+      "description": "常遇春率军强渡洛水，大破元军并俘虏梁王阿鲁温。",
+      "chapterEvent": "河南洛水之战",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "铁木真",
+      "target": "蒙哥",
+      "type": "亲属",
+      "description": "蒙哥是成吉思汗（铁木真）的孙子。",
+      "chapterEvent": "蒙古历史背景介绍",
+      "note": "间接提及的祖孙关系",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "蒙哥",
+      "target": "王坚",
+      "type": "敌对",
+      "description": "大汗蒙哥攻打南宋合州，被守将王坚击伤。",
+      "chapterEvent": "合州钓鱼城之战",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "陆秀夫",
+      "target": "赵昺",
+      "type": "君臣",
+      "description": "南宋丞相陆秀夫背负幼帝赵昺投海殉国。",
+      "chapterEvent": "南宋灭亡",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "忽必烈",
+      "target": "文天祥",
+      "type": "敌对",
+      "description": "元帝忽必烈亲自劝降文天祥失败，最终将其处死。",
+      "chapterEvent": "劝降与就义",
+      "note": "",
+      "chapter": "第十四章 复仇"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋任命徐达为征虏大将军，率中路军出征北元。",
+      "chapterEvent": "远征沙漠部署",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李文忠",
+      "type": "君臣",
+      "description": "朱元璋任命李文忠为左副将军，率右路军出征北元。",
+      "chapterEvent": "远征沙漠部署",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "君臣",
+      "description": "朱元璋任命冯胜为右副将军，率西路军出征北元。",
+      "chapterEvent": "远征沙漠部署",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "徐达",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "徐达挑选蓝玉作为其先锋将领。",
+      "chapterEvent": "挑选先锋",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "徐达",
+      "target": "王保保",
+      "type": "敌对",
+      "description": "徐达率军与王保保在岭北交战，先胜后遭伏击，最终对峙。",
+      "chapterEvent": "岭北之战",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "王保保",
+      "target": "贺宗哲",
+      "type": "同盟",
+      "description": "王保保与贺宗哲商定，在岭北设伏共同对付徐达明军。",
+      "chapterEvent": "岭北设伏",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "type": "亲属",
+      "description": "蓝玉是常遇春的内弟（小舅子）。",
+      "chapterEvent": "提及人物关系",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "冯胜",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "冯胜挑选傅友德作为其先锋将领，后委以主力。",
+      "chapterEvent": "挑选先锋",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "李文忠",
+      "target": "蛮子哈刺章",
+      "type": "敌对",
+      "description": "李文忠在阿鲁浑河、称海等地与蛮子哈刺章元军交战并僵持。",
+      "chapterEvent": "阿鲁浑河之战",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "傅友德",
+      "target": "失刺罕",
+      "type": "敌对",
+      "description": "傅友德在西凉击败元将失刺罕。",
+      "chapterEvent": "西路军七战七捷",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "傅友德",
+      "target": "朵儿只巴",
+      "type": "敌对",
+      "description": "傅友德在永昌击败元太尉朵儿只巴。",
+      "chapterEvent": "西路军七战七捷",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "傅友德",
+      "target": "上都驴",
+      "type": "敌对",
+      "description": "傅友德击败并俘虏元将上都驴。",
+      "chapterEvent": "西路军七战七捷",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "傅友德",
+      "target": "伯颜帖木儿",
+      "type": "敌对",
+      "description": "傅友德兵至亦集乃路，守将伯颜帖木儿投降。",
+      "chapterEvent": "西路军七战七捷",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "傅友德",
+      "target": "朵儿只班",
+      "type": "敌对",
+      "description": "傅友德在别笃山口击溃元岐王朵儿只班的主力。",
+      "chapterEvent": "西路军七战七捷",
+      "note": "",
+      "chapter": "第十五章 远征沙漠"
+    },
+    {
+      "source": "朱元璋",
+      "target": "沈万三",
+      "type": "敌对",
+      "description": "朱元璋因抑商政策及沈万三出资修城墙触犯皇权，欲杀之，后抄家发配。",
+      "chapterEvent": "沈万三修城被罚",
+      "note": "从潜在的利用关系（沈万三投靠）转变为明确的敌对惩罚关系。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "马皇后",
+      "target": "沈万三",
+      "type": "关联",
+      "description": "马皇后劝说朱元璋，使沈万三免于死罪。",
+      "chapterEvent": "沈万三修城被罚",
+      "note": "",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马皇后",
+      "type": "亲属",
+      "description": "朱元璋的皇后，在沈万三事件中为其求情。",
+      "chapterEvent": "沈万三修城被罚",
+      "note": "",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋因江浙地区曾支持张士诚，对该地实行报复性高赋税政策。",
+      "chapterEvent": "制定赋税政策",
+      "note": "张士诚已死，是朱元璋对其残余势力和影响的政治报复。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱熹",
+      "type": "关联",
+      "description": "朱元璋曾考虑认朱熹为祖先，但因年代太近作罢；后将其思想定为科举标准。",
+      "chapterEvent": "寻找祖先与制定科举标准",
+      "note": "关系从潜在的“认祖”转变为利用其思想作为统治工具。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱百六",
+      "type": "亲属",
+      "description": "朱百六是朱元璋的祖先，其存在使得朱元璋无法认朱熹为祖先。",
+      "chapterEvent": "寻找祖先",
+      "note": "",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱棣",
+      "target": "黄观",
+      "type": "敌对",
+      "description": "朱棣（永乐帝）在靖难后忌恨忠于建文帝的黄观，将其名字从登科录上划去。",
+      "chapterEvent": "为黄观正名",
+      "note": "本章未直接出现朱棣，但根据上下文“为永乐所忌”可推断此关系。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "黄观",
+      "target": "韩克忠",
+      "type": "关联",
+      "description": "黄观被除名后，韩克忠被改为第一名（状元）。",
+      "chapterEvent": "为黄观正名",
+      "note": "替代关系。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "陈独秀",
+      "target": "蒋梦麟",
+      "type": "朋友",
+      "description": "两人比较前清秀才的“价值”，陈独秀以八股秀才为傲，蒋梦麟作揖。",
+      "chapterEvent": "八股的影响",
+      "note": "近代人物，对话体现了八股的历史影响。",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "朱元璋是皇帝，李善长是开国功臣，并代理淮西集团会长。",
+      "chapterEvent": "朝廷的斗争（淮西集团）",
+      "note": "",
+      "chapter": "第十六章 建国"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "type": "君臣",
+      "description": "朱元璋任命胡惟庸为丞相，后因其专权将其处死。",
+      "chapterEvent": "胡惟庸案件",
+      "note": "关系从君臣变为敌对",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "刘基",
+      "type": "敌对",
+      "description": "胡惟庸在朱元璋支持下打败浙东集团，除掉了刘基。",
+      "chapterEvent": "党争",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "李善长",
+      "type": "关联",
+      "description": "胡惟庸试图拉拢李善长，李善长最终默许其行为。",
+      "chapterEvent": "拉拢朝臣",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "朱元璋因李善长专断令其退休。",
+      "chapterEvent": "处置功臣",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "汪广洋",
+      "type": "敌对",
+      "description": "胡惟庸挤走丞相汪广洋，独揽大权。",
+      "chapterEvent": "争夺相权",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "汪广洋",
+      "type": "君臣",
+      "description": "朱元璋因占城国进贡事件处死汪广洋。",
+      "chapterEvent": "占城国事件",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "陆仲亨",
+      "type": "同盟",
+      "description": "胡惟庸拉拢吉安侯陆仲亨成为同党。",
+      "chapterEvent": "结党营私",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "陈宁",
+      "type": "同盟",
+      "description": "胡惟庸拉拢御史大夫陈宁成为同党。",
+      "chapterEvent": "结党营私",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "毛骧",
+      "type": "同盟",
+      "description": "胡惟庸拉拢都督毛骧成为同党。",
+      "chapterEvent": "结党营私",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "李存义",
+      "type": "亲属",
+      "description": "胡惟庸与李存义是儿女亲家，并拉其下水。",
+      "chapterEvent": "拉拢李善长",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "李善长",
+      "target": "李存义",
+      "type": "亲属",
+      "description": "李善长之弟李存义游说李善长默许胡惟庸。",
+      "chapterEvent": "拉拢李善长",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "胡惟庸",
+      "target": "涂节",
+      "type": "同盟",
+      "description": "涂节原为胡惟庸死党，后告发胡惟庸。",
+      "chapterEvent": "胡惟庸案发",
+      "note": "关系从同盟变为敌对",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "涂节",
+      "type": "君臣",
+      "description": "朱元璋在涂节告密后仍将其与胡惟庸一同处死。",
+      "chapterEvent": "胡惟庸案发",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "朱元璋在元末击败对手陈友谅。",
+      "chapterEvent": "回顾创业",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋在元末击败对手张士诚。",
+      "chapterEvent": "回顾创业",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "王保保",
+      "type": "敌对",
+      "description": "朱元璋在元末击败对手王保保。",
+      "chapterEvent": "回顾创业",
+      "note": "",
+      "chapter": "第十七章 胡惟庸案件"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱亮祖",
+      "type": "君臣",
+      "description": "朱元璋是皇帝，朱亮祖是其部下开国大将，封永嘉侯。",
+      "chapterEvent": "朱亮祖贪腐案",
+      "note": "关系从君臣变为敌对（朱元璋处死朱亮祖）",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱元璋",
+      "target": "道同",
+      "type": "君臣",
+      "description": "道同是番禺县令，朱元璋是其君主。",
+      "chapterEvent": "道同被诬陷处死",
+      "note": "朱元璋起初误信谗言下令杀道同，后发现真相但为时已晚。",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱亮祖",
+      "target": "道同",
+      "type": "敌对",
+      "description": "朱亮祖受土豪贿赂，多次干涉、殴打道同执法，并诬告致其死。",
+      "chapterEvent": "朱亮祖与道同冲突",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱亮祖",
+      "target": "罗氏兄弟",
+      "type": "同盟",
+      "description": "朱亮祖收受罗氏兄弟等土豪好处，为其出头，动用军队从县衙抢出人犯。",
+      "chapterEvent": "朱亮祖包庇恶霸",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱亮祖",
+      "target": "朱暹",
+      "type": "亲属",
+      "description": "朱暹是朱亮祖的长子，参与其父不法事。",
+      "chapterEvent": "朱亮祖父子被处死",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱暹",
+      "type": "敌对",
+      "description": "朱元璋将参与朱亮祖贪腐案的朱暹一同鞭死。",
+      "chapterEvent": "朱亮祖父子被处死",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "朱元璋",
+      "target": "罗氏兄弟",
+      "type": "敌对",
+      "description": "朱元璋在处死朱亮祖后，下令将参与此事的恶霸（包括罗氏兄弟）全部杀死。",
+      "chapterEvent": "肃清涉案恶霸",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "道同",
+      "target": "罗氏兄弟",
+      "type": "敌对",
+      "description": "道同作为县令，执法严厉，抓捕了恶霸罗氏兄弟。",
+      "chapterEvent": "道同执法",
+      "note": "",
+      "chapter": "第十八章 扫除一切腐败者"
+    },
+    {
+      "source": "郑士利",
+      "target": "朱元璋",
+      "type": "君臣",
+      "description": "郑士利上书为“空印案”辩解",
+      "chapterEvent": "空印案",
+      "note": "郑士利因上书被罚作苦工",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "朱元璋",
+      "target": "方克勤",
+      "type": "君臣",
+      "description": "朱元璋因空印案处死方克勤",
+      "chapterEvent": "空印案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "余敏",
+      "target": "郭桓",
+      "type": "敌对",
+      "description": "余敏告发郭桓贪污",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "丁廷举",
+      "target": "郭桓",
+      "type": "敌对",
+      "description": "丁廷举告发郭桓贪污",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "郭桓",
+      "target": "赵全德",
+      "type": "同盟",
+      "description": "被指控合谋贪污",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "郭桓",
+      "target": "赵瑁",
+      "type": "同盟",
+      "description": "被朱元璋列为同党",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "郭桓",
+      "target": "王惠迪",
+      "type": "同盟",
+      "description": "被朱元璋列为同党",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "郭桓",
+      "target": "王志",
+      "type": "同盟",
+      "description": "被朱元璋列为同党",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "郭桓",
+      "target": "麦至德",
+      "type": "同盟",
+      "description": "被朱元璋列为同党",
+      "chapterEvent": "郭桓案",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "朱元璋",
+      "target": "吴庸",
+      "type": "君臣",
+      "description": "朱元璋任命吴庸主审郭桓案，后又将其处死",
+      "chapterEvent": "郭桓案",
+      "note": "关系从君臣变为处决者与被处决者",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "袁凯",
+      "target": "朱元璋",
+      "type": "君臣",
+      "description": "袁凯因在朱元璋与太子意见间为难而装疯",
+      "chapterEvent": "官员装疯避祸",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "袁凯",
+      "target": "朱标",
+      "type": "君臣",
+      "description": "袁凯奉朱元璋命将处决名单交太子朱标",
+      "chapterEvent": "官员装疯避祸",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "父子，在处决人犯的宽严问题上意见相左",
+      "chapterEvent": "官员装疯避祸",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "李善长",
+      "target": "胡惟庸",
+      "type": "关联",
+      "description": "李善长被胡惟庸案牵连",
+      "chapterEvent": "胡惟庸案延续",
+      "note": "",
+      "chapter": "第十九章 冤案"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "朱元璋任命蓝玉为征虏大将军，率军消灭北元。",
+      "chapterEvent": "最后决战部署",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "朱元璋是徐达的君主，徐达是其重要将领。",
+      "chapterEvent": "提及徐达病逝",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "君臣",
+      "description": "朱元璋任命冯胜为征虏大将军远征辽东，后将其治罪。",
+      "chapterEvent": "远征辽东与冯胜获罪",
+      "note": "关系从君臣信任变为君臣敌对（治罪）",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "纳哈出",
+      "type": "敌对",
+      "description": "朱元璋视纳哈出为边境威胁，派军征讨并设计招降。",
+      "chapterEvent": "远征辽东与招降纳哈出",
+      "note": "后纳哈出投降，关系变为君臣（降将）",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "爱猷识理达腊",
+      "type": "敌对",
+      "description": "朱元璋与北元皇帝爱猷识理达腊持续对抗。",
+      "chapterEvent": "北元威胁",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "脱古思帖木儿",
+      "type": "敌对",
+      "description": "朱元璋派蓝玉征讨继续对抗明朝的北元皇帝脱古思帖木儿。",
+      "chapterEvent": "最后决战",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "type": "亲属",
+      "description": "蓝玉是常遇春的内弟（小舅子）。",
+      "chapterEvent": "蓝玉出身介绍",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "type": "师生",
+      "description": "蓝玉跟随常遇春多年，深得其兵法精髓，作战风格相似。",
+      "chapterEvent": "蓝玉作战风格来源",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "徐达",
+      "type": "关联",
+      "description": "蓝玉曾跟随徐达参加洪武五年远征，徐达是其前辈。",
+      "chapterEvent": "蓝玉早期经历",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "王保保",
+      "type": "敌对",
+      "description": "蓝玉在洪武五年远征中被王保保击败，视其为要战胜的目标。",
+      "chapterEvent": "蓝玉的执念与王保保之死",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "纳哈出",
+      "type": "敌对",
+      "description": "蓝玉参与征讨纳哈出，并在受降宴上发生冲突。",
+      "chapterEvent": "辽东远征与纳哈出投降",
+      "note": "后纳哈出投降，关系变为明朝将领与降将",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "冯胜",
+      "type": "同盟",
+      "description": "蓝玉在冯胜麾下任右副将军，共同远征辽东。",
+      "chapterEvent": "远征辽东",
+      "note": "冯胜获罪后，蓝玉接替其主帅位置",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "蓝玉",
+      "target": "傅友德",
+      "type": "同盟",
+      "description": "蓝玉与傅友德同任左右副将军，随冯胜远征辽东。",
+      "chapterEvent": "远征辽东",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "常茂",
+      "target": "常遇春",
+      "type": "亲属",
+      "description": "常茂是常遇春的儿子，继承了父亲的爵位。",
+      "chapterEvent": "纳哈出投降宴冲突",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "常茂",
+      "target": "纳哈出",
+      "type": "敌对",
+      "description": "常茂在纳哈出投降宴上抽刀砍伤纳哈出肩膀。",
+      "chapterEvent": "纳哈出投降宴冲突",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "冯胜",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "冯胜为主帅，傅友德为其麾下左副将军。",
+      "chapterEvent": "远征辽东",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "冯胜",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "冯胜为主帅，蓝玉为其麾下右副将军。",
+      "chapterEvent": "远征辽东",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "冯胜",
+      "target": "纳哈出",
+      "type": "敌对",
+      "description": "冯胜率军征讨纳哈出，并最终接受其投降。",
+      "chapterEvent": "远征辽东与招降纳哈出",
+      "note": "后纳哈出投降",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "徐达",
+      "target": "王保保",
+      "type": "敌对",
+      "description": "徐达与北元第一名将王保保作战是其军事生涯高峰。",
+      "chapterEvent": "徐达军事成就",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "爱猷识理达腊",
+      "target": "脱古思帖木儿",
+      "type": "亲属",
+      "description": "脱古思帖木儿是爱猷识理达腊的儿子，继任北元皇帝。",
+      "chapterEvent": "北元皇位更迭",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "耿忠",
+      "target": "纳哈出",
+      "type": "关联",
+      "description": "冲突发生后，耿忠保持冷静，命人扶纳哈出去见冯胜。",
+      "chapterEvent": "纳哈出投降宴冲突",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "观童",
+      "target": "纳哈出",
+      "type": "关联",
+      "description": "观童是纳哈出手下降将，受冯胜指派去安抚纳哈出部下。",
+      "chapterEvent": "平息纳哈出部下骚动",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "乃剌吾",
+      "target": "纳哈出",
+      "type": "关联",
+      "description": "乃剌吾原是纳哈出部下，受朱元璋派遣成功劝降纳哈出。",
+      "chapterEvent": "招降纳哈出",
+      "note": "",
+      "chapter": "第二十章 最后的名将——蓝玉"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "朱元璋封蓝玉为凉国公，后因其骄纵不法将其诛杀。",
+      "chapterEvent": "蓝玉案",
+      "note": "关系从君臣变为处决者与罪臣",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "朱元璋与长子朱标，朱元璋对其寄予厚望并传授治国之道。",
+      "chapterEvent": "太子朱标病亡",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱允炆",
+      "type": "亲属",
+      "description": "朱元璋之孙，朱标之子，朱元璋在其父死后立其为皇太孙。",
+      "chapterEvent": "朱允炆继太子位",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱元璋第四子，封燕王。本章提及朱棣向朱元璋告发蓝玉。",
+      "chapterEvent": "朱棣告发蓝玉",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "蓝玉",
+      "target": "常遇春",
+      "type": "亲属",
+      "description": "蓝玉是常遇春的内弟（小舅子）。",
+      "chapterEvent": "提及蓝玉与太子的关系",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "蓝玉",
+      "target": "朱标",
+      "type": "朋友",
+      "description": "蓝玉因与常遇春的亲属关系，与太子朱标交好，曾提醒朱标小心燕王。",
+      "chapterEvent": "蓝玉提醒太子小心燕王",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "蓝玉",
+      "target": "朱棣",
+      "type": "敌对",
+      "description": "蓝玉认为朱棣有天子气象，提醒太子小心，朱棣得知后向朱元璋告发蓝玉。",
+      "chapterEvent": "朱棣告发蓝玉",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱标",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱标是朱棣的同父异母兄长。",
+      "chapterEvent": "朱标将蓝玉的话告诉朱棣",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱标",
+      "target": "朱允炆",
+      "type": "亲属",
+      "description": "朱标是朱允炆的父亲。",
+      "chapterEvent": "朱标病亡，朱允炆继位",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "蒋瓛",
+      "target": "蓝玉",
+      "type": "敌对",
+      "description": "锦衣卫指挥蒋瓛告发蓝玉谋反，直接导致蓝玉被捕。",
+      "chapterEvent": "蓝玉案发",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蒋瓛",
+      "type": "君臣",
+      "description": "蒋瓛作为锦衣卫指挥，受命于朱元璋，负责监察和告发。",
+      "chapterEvent": "蒋瓛告发蓝玉",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "type": "君臣",
+      "description": "朱元璋曾任命胡惟庸为丞相，后以谋反罪将其诛杀，引发胡惟庸案。",
+      "chapterEvent": "提及胡惟庸案",
+      "note": "关系从君臣变为处决者与罪臣",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "马皇后",
+      "type": "亲属",
+      "description": "朱元璋的结发妻子，是其最信任的人之一。",
+      "chapterEvent": "提及朱元璋最信任的人",
+      "note": "",
+      "chapter": "第二十一章 蓝玉的覆灭"
+    },
+    {
+      "source": "朱元璋",
+      "target": "张士诚",
+      "type": "敌对",
+      "description": "朱元璋与张士诚为争夺天下而敌对。",
+      "chapterEvent": "元末群雄争霸",
+      "note": "",
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "朱元璋与陈友谅为争夺天下而敌对，陈友谅是主要对手。",
+      "chapterEvent": "元末群雄争霸",
+      "note": "",
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "type": "君臣",
+      "description": "胡惟庸曾任朱元璋的丞相，后因谋反被处死。",
+      "chapterEvent": "胡惟庸案",
+      "note": "关系从君臣变为敌对",
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "蓝玉是朱元璋的将领，后因谋反被处死。",
+      "chapterEvent": "蓝玉案",
+      "note": "关系从君臣变为敌对",
+      "chapter": "第二十二章 制度后的秘密"
+    },
+    {
+      "source": "朱元璋",
+      "target": "胡惟庸",
+      "type": "敌对",
+      "description": "朱元璋以谋反罪诛杀丞相胡惟庸，引发胡惟庸案。",
+      "chapterEvent": "清除功臣",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "李善长",
+      "type": "敌对",
+      "description": "朱元璋诛杀开国功臣李善长。",
+      "chapterEvent": "清除功臣",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "type": "敌对",
+      "description": "朱元璋诛杀大将蓝玉，引发蓝玉案。",
+      "chapterEvent": "清除功臣",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "周德兴",
+      "type": "敌对",
+      "description": "朱元璋诛杀开国将领、同乡周德兴。",
+      "chapterEvent": "诛杀周德兴",
+      "note": "从朋友、同乡变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "傅友德",
+      "type": "敌对",
+      "description": "朱元璋诛杀名将傅友德。",
+      "chapterEvent": "诛杀傅友德",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "王弼",
+      "type": "敌对",
+      "description": "朱元璋诛杀蓝玉副将王弼。",
+      "chapterEvent": "诛杀王弼",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "敌对",
+      "description": "朱元璋诛杀最后一位开国公爵冯胜。",
+      "chapterEvent": "诛杀冯胜",
+      "note": "从君臣变为敌对",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "汤和",
+      "type": "朋友",
+      "description": "朱元璋与汤和是同乡和早年伙伴，汤和晚年主动交出兵权得以善终。",
+      "chapterEvent": "探望汤和",
+      "note": "关系复杂，从伙伴、君臣到朱元璋晚年唯一留存的故友",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱元璋是朱棣的父亲。",
+      "chapterEvent": "朱棣出生与成长",
+      "note": "朱元璋对朱棣关注较少，不如对太子朱标",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "朱元璋是太子朱标的父亲，对其极为喜爱和重视。",
+      "chapterEvent": "立太子与教育",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "朱棣是太子朱标的弟弟，但内心对朱标享有的特权感到不平。",
+      "chapterEvent": "朱棣的成长与心理",
+      "note": "存在竞争和心理落差",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "李文忠",
+      "type": "亲属",
+      "description": "李文忠是朱棣的表哥，朱棣常与之交往学习军事。",
+      "chapterEvent": "朱棣的军事启蒙",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "李景隆",
+      "type": "朋友",
+      "description": "朱棣与李文忠之子李景隆是童年伙伴，但朱棣认为李景隆军事无能。",
+      "chapterEvent": "朱棣的成长",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "徐达",
+      "type": "亲属",
+      "description": "朱棣娶徐达长女为妻，属政治联姻。",
+      "chapterEvent": "朱棣的婚姻",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "傅友德",
+      "type": "师生",
+      "description": "朱棣曾虚心向名将傅友德学习军事。",
+      "chapterEvent": "朱棣在北平的学习与历练",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "冯胜",
+      "type": "师生",
+      "description": "朱棣曾虚心向名将冯胜学习军事。",
+      "chapterEvent": "朱棣在北平的学习与历练",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "蓝玉",
+      "type": "师生",
+      "description": "朱棣曾虚心向名将蓝玉学习军事，并从其夜袭战术中得到启发。",
+      "chapterEvent": "朱棣在北平的学习与历练",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "乃儿不花",
+      "type": "敌对",
+      "description": "朱棣率军远征，最终招降了北元太尉乃儿不花。",
+      "chapterEvent": "朱棣首次挂帅北伐",
+      "note": "从敌对到招降",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "观童",
+      "type": "君臣",
+      "description": "朱棣派遣使者观童成功劝降乃儿不花。",
+      "chapterEvent": "招降乃儿不花",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱棣",
+      "target": "晋王",
+      "type": "亲属",
+      "description": "朱棣与晋王朱棡是兄弟，曾一同受命领兵北伐。",
+      "chapterEvent": "洪武二十三年北伐",
+      "note": "共同领兵，存在比较和竞争",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱标",
+      "target": "宋濂",
+      "type": "师生",
+      "description": "宋濂是太子朱标的老师。",
+      "chapterEvent": "太子教育",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱标",
+      "target": "李善长",
+      "type": "君臣",
+      "description": "李善长兼任太子少师，辅导太子朱标。",
+      "chapterEvent": "太子教育",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "朱标",
+      "target": "徐达",
+      "type": "君臣",
+      "description": "徐达兼任太子少傅，辅导太子朱标。",
+      "chapterEvent": "太子教育",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "李文忠",
+      "target": "李景隆",
+      "type": "亲属",
+      "description": "李文忠是李景隆的父亲。",
+      "chapterEvent": "提及李景隆出身",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "观童",
+      "target": "纳哈出",
+      "type": "关联",
+      "description": "观童曾在洪武二十年成功劝降北元将领纳哈出。",
+      "chapterEvent": "提及观童过往功绩",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    },
+    {
+      "source": "观童",
+      "target": "乃儿不花",
+      "type": "朋友",
+      "description": "观童与乃儿不花私交很深，这有助于他劝降乃儿不花。",
+      "chapterEvent": "劝降乃儿不花",
+      "note": "",
+      "chapter": "第二十三章 终点，起点"
+    }
+  ]
+}

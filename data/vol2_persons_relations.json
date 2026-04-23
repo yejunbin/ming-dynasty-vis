@@ -1,0 +1,5327 @@
+{
+  "persons": [
+    {
+      "name": "朱棣",
+      "aliases": [
+        "明成祖",
+        "永乐帝",
+        "永乐皇帝",
+        "永乐大帝",
+        "太宗"
+      ],
+      "identity": "明朝第三位皇帝",
+      "birthYear": 1360,
+      "deathYear": 1424,
+      "bio": "明成祖，年号永乐，在位期间国力强盛，组织郑和下西洋、修《永乐大典》、迁都北京。",
+      "appearanceTime": "靖难成功后（1402年后），永乐年间（1403-1424）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第二章 帝王的荣耀",
+        "第三章 帝王的抉择",
+        "第四章 郑和之后，再无郑和",
+        "第五章 纵横天下",
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！",
+        "第八章 帝王的财产",
+        "第九章 生死相搏",
+        "第十章 最后的秘密",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志",
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜"
+      ]
+    },
+    {
+      "name": "朱允炆",
+      "aliases": [
+        "建文帝"
+      ],
+      "identity": "明朝第二位皇帝",
+      "birthYear": 1377,
+      "deathYear": null,
+      "bio": "朱元璋之孙，朱标之子，年号建文，在靖难之役中被朱棣推翻。",
+      "appearanceTime": "建文年间（1399-1402），靖难之役失败时（1402年）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第二章 帝王的荣耀",
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "朱元璋",
+      "aliases": [
+        "明太祖",
+        "洪武帝"
+      ],
+      "identity": "明朝开国皇帝",
+      "birthYear": 1328,
+      "deathYear": 1398,
+      "bio": "明太祖，推翻元朝，建立明朝，洪武年间励精图治，恢复国力。",
+      "appearanceTime": "被朱棣追述（1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第二章 帝王的荣耀",
+        "第三章 帝王的抉择",
+        "第四章 郑和之后，再无郑和",
+        "第五章 纵横天下",
+        "第六章 天子守国门！",
+        "第八章 帝王的财产"
+      ]
+    },
+    {
+      "name": "马皇后",
+      "aliases": [
+        "孝慈高皇后"
+      ],
+      "identity": "朱元璋的皇后",
+      "birthYear": 1332,
+      "deathYear": 1382,
+      "bio": "朱元璋结发妻子，朱标、秦王、晋王之母，被朱棣尊为嫡母。",
+      "appearanceTime": "被朱棣追尊为嫡母时（1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "朱标",
+      "aliases": [
+        "懿文太子"
+      ],
+      "identity": "朱元璋长子、皇太子",
+      "birthYear": 1355,
+      "deathYear": 1392,
+      "bio": "朱元璋长子，建文帝朱允炆之父，早逝。",
+      "appearanceTime": "被朱棣在修改的《太祖实录》中提及（1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "张玉",
+      "aliases": [],
+      "identity": "靖难功臣，将领",
+      "birthYear": 1343,
+      "deathYear": 1401,
+      "bio": "明朝靖难名将，张軏之父，张辅之父。本章仅被提及。",
+      "appearanceTime": "朱棣封赏靖难功臣时（1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第六章 天子守国门！",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "张辅",
+      "aliases": [
+        "英国公"
+      ],
+      "identity": "张玉之子，靖难功臣",
+      "birthYear": 1375,
+      "deathYear": 1449,
+      "bio": "英国公，靖难名将张玉之子，历仕四朝，正统初年作为武臣代表辅政。",
+      "appearanceTime": "朱棣封赏靖难功臣时（提及继承张玉爵位，1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第五章 纵横天下",
+        "第六章 天子守国门！",
+        "第十二章 朱瞻基是个好同志",
+        "第十三章 祸根",
+        "第十四章 土木堡",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "朱能",
+      "aliases": [],
+      "identity": "靖难功臣，将领",
+      "birthYear": 1370,
+      "deathYear": 1406,
+      "bio": "靖难名将，被任命为征安南明军统帅，在行军途中病逝。",
+      "appearanceTime": "朱棣封赏靖难功臣时（1402年后）",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第五章 纵横天下",
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "姚广孝",
+      "aliases": [
+        "道衍",
+        "黑衣宰相"
+      ],
+      "identity": "僧人，政治家，朱棣主要谋士",
+      "birthYear": 1335,
+      "deathYear": 1418,
+      "bio": "朱棣主要谋士，策划并参与靖难之役，功成后拒受厚赏，仍为僧人。",
+      "appearanceTime": "永乐二年（1404）受封太子少师前后",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第十章 最后的秘密",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "朱权",
+      "aliases": [
+        "宁王"
+      ],
+      "identity": "朱元璋第十七子，藩王",
+      "birthYear": 1378,
+      "deathYear": 1448,
+      "bio": "朱元璋第十七子，初封宁王，被朱棣胁迫参与靖难，后改封南昌。",
+      "appearanceTime": "靖难成功后（1402年后）被朱棣安置",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第三章 帝王的抉择",
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "齐王",
+      "aliases": [
+        "朱榑"
+      ],
+      "identity": "朱元璋第七子，藩王",
+      "birthYear": 1364,
+      "deathYear": 1428,
+      "bio": "朱元璋第七子，封齐王，后被朱棣削爵废为庶人。",
+      "appearanceTime": "永乐四年（1406）被削爵",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "岷王",
+      "aliases": [
+        "朱楩"
+      ],
+      "identity": "朱元璋第十八子，藩王",
+      "birthYear": 1379,
+      "deathYear": 1450,
+      "bio": "朱元璋第十八子，封岷王，后被朱棣削去官属护卫。",
+      "appearanceTime": "永乐六年（1408）被削护卫",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "辽王",
+      "aliases": [
+        "朱植"
+      ],
+      "identity": "朱元璋第十五子，藩王",
+      "birthYear": 1377,
+      "deathYear": 1424,
+      "bio": "朱元璋第十五子，封辽王，后被朱棣削去官属护卫。",
+      "appearanceTime": "永乐十年（1412）被削护卫",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "周王",
+      "aliases": [
+        "朱橚"
+      ],
+      "identity": "朱元璋第五子，藩王",
+      "birthYear": 1361,
+      "deathYear": 1425,
+      "bio": "朱元璋第五子，封周王，与朱棣同母（碽妃），后被朱棣削去护卫。",
+      "appearanceTime": "永乐十九年（1421）被削护卫；亦在讨论朱棣生母时提及",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "碽妃",
+      "aliases": [],
+      "identity": "朱元璋妃嫔",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋妃子，据考为朱棣与周王朱橚的生母。",
+      "appearanceTime": "考据朱棣生母时提及（1402年后追述）",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "李淑妃",
+      "aliases": [],
+      "identity": "朱元璋妃嫔",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋妃子，生太子朱标、秦王、晋王。",
+      "appearanceTime": "考据孝陵神位时提及（1402年后追述）",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "李景隆",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "建文帝时期将领，在靖难之役中屡战屡败，被用作反面教材警示后人。",
+      "appearanceTime": "建文四年（1402年）六月十三日",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第四章 郑和之后，再无郑和",
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "胡濙",
+      "aliases": [],
+      "identity": "明朝官员（给事中）",
+      "birthYear": 1375,
+      "deathYear": 1463,
+      "bio": "历仕五朝的老臣，长期负责秘密事务，正统初年作为顾命大臣辅政。",
+      "appearanceTime": "永乐五年（1407年）受命出发",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第四章 郑和之后，再无郑和",
+        "第十章 最后的秘密",
+        "第十三章 祸根",
+        "第十八章 北京保卫战",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "郑和",
+      "aliases": [
+        "马三保"
+      ],
+      "identity": "明朝宦官，航海家",
+      "birthYear": 1371,
+      "deathYear": 1433,
+      "bio": "朱棣秘密派遣寻找建文帝下落的官员之一，后七下西洋。",
+      "appearanceTime": "建文帝失踪后（1402年后）受命寻访",
+      "chapters": [
+        "第一章 帝王的烦恼",
+        "第四章 郑和之后，再无郑和",
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "孙贵妃",
+      "aliases": [
+        "成穆孙贵妃"
+      ],
+      "identity": "朱元璋妃嫔",
+      "birthYear": null,
+      "deathYear": 1374,
+      "bio": "朱元璋贵妃，无子，周王朱橚曾为其服丧三年。",
+      "appearanceTime": "在讨论周王庶子身份时提及（洪武七年，1374年）",
+      "chapters": [
+        "第一章 帝王的烦恼"
+      ]
+    },
+    {
+      "name": "解缙",
+      "aliases": [],
+      "identity": "明代才子、官员，《永乐大典》总编官",
+      "birthYear": 1369,
+      "deathYear": 1415,
+      "bio": "明朝才子，文臣，在朱棣立太子问题上发挥了关键作用，支持朱高炽。",
+      "appearanceTime": "洪武二十一年(1388年)至永乐十三年(1415年)",
+      "chapters": [
+        "第二章 帝王的荣耀",
+        "第八章 帝王的财产",
+        "第九章 生死相搏"
+      ]
+    },
+    {
+      "name": "纪纲",
+      "aliases": [],
+      "identity": "锦衣卫指挥使",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱棣的亲信，锦衣卫最高统帅，奉命处死解缙。",
+      "appearanceTime": "永乐十三年(1415年)",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "李善长",
+      "aliases": [],
+      "identity": "明朝开国功臣",
+      "birthYear": null,
+      "deathYear": 1390,
+      "bio": "明朝开国功臣，后被朱元璋处死，解缙曾为其申辩。",
+      "appearanceTime": "洪武二十三年(1390年)（被提及）",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "胡广",
+      "aliases": [
+        "胡靖"
+      ],
+      "identity": "建文二年状元，明朝官员，内阁首辅",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "建文二年状元，后投降朱棣，成为明朝首任内阁成员之一。",
+      "appearanceTime": "建文二年(1400年)至永乐年间",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "王艮",
+      "aliases": [
+        "王敬止"
+      ],
+      "identity": "建文二年榜眼，明朝官员",
+      "birthYear": null,
+      "deathYear": 1402,
+      "bio": "建文二年实际状元（因貌丑被降为榜眼），靖难时以身殉国。",
+      "appearanceTime": "建文二年(1400年)至靖难之役(约1402年)",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "李贯",
+      "aliases": [],
+      "identity": "建文二年探花，明朝官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "建文二年探花，解缙同乡好友，后投降朱棣，因言行失当下狱死。",
+      "appearanceTime": "建文二年(1400年)至永乐初年",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "吴溥",
+      "aliases": [],
+      "identity": "明朝官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "解缙、胡广、王艮的邻居，冷眼旁观三人对靖难的态度。",
+      "appearanceTime": "靖难之役末期(约1402年)",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "王景",
+      "aliases": [],
+      "identity": "翰林学士",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱棣任命编纂《永乐大典》的五位总裁官之首。",
+      "appearanceTime": "永乐二年(1404年)后",
+      "chapters": [
+        "第二章 帝王的荣耀"
+      ]
+    },
+    {
+      "name": "沈永",
+      "aliases": [],
+      "identity": "辽东都指挥",
+      "birthYear": null,
+      "deathYear": 1403,
+      "bio": "辽东都指挥，因抵御蒙古不力且未及时上报被朱棣处死。",
+      "appearanceTime": "永乐元年(1403)",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "李芳远",
+      "aliases": [
+        "朝鲜太宗"
+      ],
+      "identity": "朝鲜王朝国王",
+      "birthYear": 1367,
+      "deathYear": 1422,
+      "bio": "朝鲜太宗，继位后于永乐元年派遣使臣向明朝朝贡。",
+      "appearanceTime": "永乐年间(1403-1424)，提及朱棣喜好朝鲜泡菜时",
+      "chapters": [
+        "第三章 帝王的抉择",
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "宋礼",
+      "aliases": [],
+      "identity": "工部尚书，水利专家",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝工部尚书，永乐年间受命治理会通河，保障漕运畅通。",
+      "appearanceTime": "永乐九年(1411)",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "陈瑄",
+      "aliases": [],
+      "identity": "漕运总督",
+      "birthYear": 1365,
+      "deathYear": 1433,
+      "bio": "明朝漕运总督，在宋礼之后进一步疏通河道，完善漕运。",
+      "appearanceTime": "永乐九年(1411)后",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "箫仪",
+      "aliases": [],
+      "identity": "主事（官员）",
+      "birthYear": null,
+      "deathYear": 1421,
+      "bio": "明朝官员，因激烈反对迁都，言辞触怒朱棣而被杀。",
+      "appearanceTime": "永乐十九年(1421)迁都后不久",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "张居正",
+      "aliases": [],
+      "identity": "明朝内阁首辅，改革家",
+      "birthYear": 1525,
+      "deathYear": 1582,
+      "bio": "明朝中后期政治家、改革家，本章以其改革受阻类比朱棣迁都面临的反对。",
+      "appearanceTime": "作为历史类比提及（一百多年后）",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "于谦",
+      "aliases": [],
+      "identity": "明朝兵部尚书，民族英雄",
+      "birthYear": 1398,
+      "deathYear": 1457,
+      "bio": "明朝名臣，在土木堡之变后保卫北京，本章提及其在迁都十九年后守卫北京。",
+      "appearanceTime": "作为历史后续提及（迁都十九年后）",
+      "chapters": [
+        "第三章 帝王的抉择",
+        "第十二章 朱瞻基是个好同志",
+        "第十三章 祸根",
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十七章 信念",
+        "第十八章 北京保卫战",
+        "第十九章 朱祁镇的奋斗",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "隋炀帝",
+      "aliases": [
+        "杨广"
+      ],
+      "identity": "隋朝第二位皇帝",
+      "birthYear": 569,
+      "deathYear": 618,
+      "bio": "隋朝皇帝，以修建京杭大运河等大型工程著称，本章作为大工程导致王朝动荡的例子提及。",
+      "appearanceTime": "作为历史类比提及",
+      "chapters": [
+        "第三章 帝王的抉择"
+      ]
+    },
+    {
+      "name": "傅友德",
+      "aliases": [],
+      "identity": "明朝开国名将",
+      "birthYear": null,
+      "deathYear": 1394,
+      "bio": "明朝开国将领，曾率军远征云南。",
+      "appearanceTime": "洪武十四年(1381)（奉朱元璋命远征云南）",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "蓝玉",
+      "aliases": [],
+      "identity": "明朝开国名将",
+      "birthYear": null,
+      "deathYear": 1393,
+      "bio": "明朝开国名将，曾击败北元脱古思帖木儿。",
+      "appearanceTime": "洪武十四年(1381)（奉朱元璋命远征云南）",
+      "chapters": [
+        "第四章 郑和之后，再无郑和",
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "戚祥",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": 1381,
+      "bio": "明朝将领，在远征云南时阵亡，戚继光先祖。",
+      "appearanceTime": "洪武十四年(1381)（远征云南时阵亡）",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "戚继光",
+      "aliases": [],
+      "identity": "明朝抗倭名将、军事家",
+      "birthYear": 1528,
+      "deathYear": 1588,
+      "bio": "明朝抗倭名将、军事家，戚祥的后代。",
+      "appearanceTime": "本章仅作为戚祥后代被提及",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "陈祖义",
+      "aliases": [],
+      "identity": "海盗、渤林邦国国王",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "广东潮州人，逃亡海外后成为海盗首领，自立为渤林邦国国王。",
+      "appearanceTime": "郑和第一次下西洋返航途中（约1406-1407年）",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "陈友谅",
+      "aliases": [],
+      "identity": "元末起义军首领、汉政权皇帝",
+      "birthYear": 1320,
+      "deathYear": 1363,
+      "bio": "元末起义军首领，曾与朱元璋争霸，其水军促使朱元璋重视造船。",
+      "appearanceTime": "本章仅作为历史背景被提及（影响明朝造船技术）",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "麻那者巫里",
+      "aliases": [],
+      "identity": "渤林邦国国王",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "三佛齐渤林邦国国王，陈祖义曾是其手下大将。",
+      "appearanceTime": "本章提及陈祖义投奔其麾下",
+      "chapters": [
+        "第四章 郑和之后，再无郑和"
+      ]
+    },
+    {
+      "name": "源道义",
+      "aliases": [
+        "足利义满"
+      ],
+      "identity": "日本室町幕府将军",
+      "birthYear": 1358,
+      "deathYear": 1408,
+      "bio": "日本实际统治者，被明朝史书称为“日本王”，永乐元年遣使朝贡。",
+      "appearanceTime": "永乐元年(1403)、永乐三年(1405)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "李至刚",
+      "aliases": [],
+      "identity": "明朝大臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "曾建议处罚违规出售兵器的日本使臣。",
+      "appearanceTime": "永乐初年(约1403-1405)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "杨渤",
+      "aliases": [],
+      "identity": "明朝礼部官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "受朱棣派遣出使安南调查国王更替事件，回朝后证明胡氏所言属实。",
+      "appearanceTime": "永乐元年(1403)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "裴伯耆",
+      "aliases": [],
+      "identity": "安南国大臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "安南陈氏旧臣，逃至明朝揭露胡氏篡位真相。",
+      "appearanceTime": "永乐二年(1404)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "陈天平",
+      "aliases": [],
+      "identity": "安南陈氏国王之弟（自称）",
+      "birthYear": null,
+      "deathYear": 1406,
+      "bio": "自称安南陈氏王室后裔，逃至明朝寻求帮助，后被胡氏伏兵杀害。",
+      "appearanceTime": "永乐二年(1404)八月至被害(1406)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "胡一元",
+      "aliases": [
+        "黎季犛"
+      ],
+      "identity": "安南国丞相、篡位者",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "安南丞相，杀害原国王后篡位，改名为胡一元，传位其子。",
+      "appearanceTime": "建文时期至永乐年间(提及)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "胡𡘎",
+      "aliases": [
+        "胡汉苍"
+      ],
+      "identity": "安南国王（篡位）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "胡一元之子，继其父位为安南国王，设计欺骗明朝获取册封。",
+      "appearanceTime": "永乐元年至安南战事期间(1403-1406后)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "黄中",
+      "aliases": [],
+      "identity": "明朝广西将军",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "奉命率五千人护送陈天平回国，在安南遭遇伏击。",
+      "appearanceTime": "永乐二年至三年(1404-1406)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "沐晟",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": 1368,
+      "deathYear": 1439,
+      "bio": "率云南一路明军与张辅合击安南。",
+      "appearanceTime": "安南平定战(1406)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "朱荣",
+      "aliases": [],
+      "identity": "明朝部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "张辅部将，在嘉林江击败安南军。",
+      "appearanceTime": "安南平定战(1406)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "蔡福",
+      "aliases": [],
+      "identity": "明朝都指挥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在多邦城之战中亲自架云梯并率先登城。",
+      "appearanceTime": "安南平定战(1406年十二月)",
+      "chapters": [
+        "第五章 纵横天下"
+      ]
+    },
+    {
+      "name": "脱古思帖木儿",
+      "aliases": [],
+      "identity": "北元皇帝",
+      "birthYear": null,
+      "deathYear": 1388,
+      "bio": "北元皇帝，被蓝玉击败后逃亡，被也速迭儿杀死。",
+      "appearanceTime": "蓝玉击败北元时期（1388年前后）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "也速迭儿",
+      "aliases": [],
+      "identity": "蒙古贵族",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杀害北元皇帝脱古思帖木儿的蒙古贵族。",
+      "appearanceTime": "杀害脱古思帖木儿时期（约1388年）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "鬼力赤",
+      "aliases": [],
+      "identity": "鞑靼首领（非黄金家族）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "篡夺蒙古大汗之位，废元朝国号，向明朝称臣。",
+      "appearanceTime": "建文四年（1402）篡位至被杀（约1408年）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "阿鲁台",
+      "aliases": [],
+      "identity": "鞑靼太师",
+      "birthYear": null,
+      "deathYear": 1434,
+      "bio": "明朝永乐年间蒙古鞑靼部首领，与明成祖朱棣多次交战，后被瓦剌脱欢击败身亡。",
+      "appearanceTime": "永乐七年（1409）至永乐八年（1410）",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！",
+        "第十章 最后的秘密",
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "本雅失里",
+      "aliases": [
+        "本雅史里"
+      ],
+      "identity": "鞑靼可汗（元朝宗室）",
+      "birthYear": null,
+      "deathYear": 1410,
+      "bio": "被阿鲁台拥立的鞑靼可汗，后被朱棣击败，逃至瓦剌被杀。",
+      "appearanceTime": "永乐七年（1409）至永乐八年（1410）",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "猛可帖木儿",
+      "aliases": [],
+      "identity": "瓦剌首领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明初瓦剌首领，死后由马哈木继任。",
+      "appearanceTime": "明初",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "马哈木",
+      "aliases": [],
+      "identity": "瓦剌首领，顺宁王",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌首领，受明朝册封为顺宁王，联合明朝对抗鞑靼。",
+      "appearanceTime": "永乐七年（1409）受封，永乐八年（1410）杀本雅失里",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！",
+        "第十七章 信念"
+      ]
+    },
+    {
+      "name": "冯胜",
+      "aliases": [],
+      "identity": "明朝开国将领",
+      "birthYear": null,
+      "deathYear": 1395,
+      "bio": "明朝开国名将，洪武二十年远征辽东，降伏纳哈出。",
+      "appearanceTime": "洪武二十年（1387）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "纳哈出",
+      "aliases": [],
+      "identity": "北元太尉",
+      "birthYear": null,
+      "deathYear": 1388,
+      "bio": "北元太尉，据守辽东，被冯胜降伏。",
+      "appearanceTime": "洪武二十年（1387）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "郭骥",
+      "aliases": [],
+      "identity": "明朝使节",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "明朝派往鞑靼的使节，被鞑靼杀害。",
+      "appearanceTime": "永乐七年（1409）四月被杀",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "邱福",
+      "aliases": [
+        "丘福"
+      ],
+      "identity": "明朝将领，淇国公",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "明朝将领，封淇国公，永乐七年北征鞑靼全军覆没，战死。",
+      "appearanceTime": "永乐七年（1409）北征至八月战死",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "盛庸",
+      "aliases": [],
+      "identity": "明朝将领（建文朝）",
+      "birthYear": null,
+      "deathYear": 1403,
+      "bio": "建文朝将领，在靖难之役中曾用火器重创朱棣军队。",
+      "appearanceTime": "靖难时期（1401年东昌之战）",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "王聪",
+      "aliases": [],
+      "identity": "明朝将领，侯爵",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "邱福北征副将，随邱福一同战死。",
+      "appearanceTime": "永乐七年（1409）北征至八月战死",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "霍亲",
+      "aliases": [],
+      "identity": "明朝将领，侯爵",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "邱福北征副将，随邱福一同战死。",
+      "appearanceTime": "永乐七年（1409）北征至八月战死",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "王忠",
+      "aliases": [],
+      "identity": "明朝将领，侯爵",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "邱福北征左参将，随邱福一同战死。",
+      "appearanceTime": "永乐七年（1409）北征至八月战死",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "李远",
+      "aliases": [],
+      "identity": "明朝将领，侯爵",
+      "birthYear": null,
+      "deathYear": 1409,
+      "bio": "邱福北征右参将，曾劝邱福勿轻敌冒进，随邱福战死。",
+      "appearanceTime": "永乐七年（1409）北征至八月战死",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "王友",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱棣北征时部将，奉命驻扎饮马河畔。",
+      "appearanceTime": "永乐八年（1410）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "柳升",
+      "aliases": [
+        "安远伯柳升",
+        "安定侯"
+      ],
+      "identity": "明朝将领，安远伯",
+      "birthYear": null,
+      "deathYear": 1427,
+      "bio": "明朝将领，封安定侯，随朱棣远征瓦剌，指挥神机营。",
+      "appearanceTime": "永乐八年（1410）阔滦海子之战",
+      "chapters": [
+        "第六章 天子守国门！",
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "铁木真",
+      "aliases": [
+        "成吉思汗"
+      ],
+      "identity": "蒙古帝国大汗",
+      "birthYear": 1162,
+      "deathYear": 1227,
+      "bio": "蒙古帝国奠基者，统一蒙古各部，尊号成吉思汗。",
+      "appearanceTime": "历史背景提及（约12-13世纪）",
+      "chapters": [
+        "第六章 天子守国门！"
+      ]
+    },
+    {
+      "name": "答里巴",
+      "aliases": [],
+      "identity": "瓦剌拥立的蒙古汗（黄金家族阿里布哥系）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "被瓦剌首领马哈木立为汗，以图统一蒙古。",
+      "appearanceTime": "永乐中期(约1410-1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "刘江",
+      "aliases": [],
+      "identity": "明朝前锋将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明军前锋将领，在康哈里海击溃瓦剌先锋部队。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "太平",
+      "aliases": [],
+      "identity": "瓦剌部落首领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌部落首领之一，与马哈木、博罗共同策划忽兰忽失温战役。",
+      "appearanceTime": "永乐十二年(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "博罗",
+      "aliases": [],
+      "identity": "瓦剌部落首领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌部落首领之一，与马哈木、太平共同策划忽兰忽失温战役。",
+      "appearanceTime": "永乐十二年(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "李彬",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明军将领，在忽兰忽失温战役中指挥左路骑兵。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "谭青",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明军将领，在忽兰忽失温战役中与李彬共同指挥左路骑兵。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "王通",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明军将领，在忽兰忽失温战役中指挥右路骑兵。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "李谦",
+      "aliases": [],
+      "identity": "朱棣内侍（宦官）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱棣的内侍，在追击瓦剌时因使皇太孙朱瞻基涉险而畏罪自杀。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "朱瞻基",
+      "aliases": [
+        "皇太孙",
+        "明宣宗",
+        "蛐蛐皇帝"
+      ],
+      "identity": "朱棣之孙，朱高炽之子，后来的明宣宗",
+      "birthYear": 1399,
+      "deathYear": 1435,
+      "bio": "明仁宗朱高炽长子，在位期间与父亲共创“仁宣之治”，临终为幼子朱祁镇选定顾命大臣。",
+      "appearanceTime": "永乐十二年六月(1414)",
+      "chapters": [
+        "第七章 逆命者必剪除之！",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志",
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "朱高炽",
+      "aliases": [
+        "明仁宗"
+      ],
+      "identity": "朱棣之子，明朝太子（后来的明仁宗）",
+      "birthYear": 1378,
+      "deathYear": 1425,
+      "bio": "朱棣长子，体胖有足疾，性格仁厚，在永乐年间长期担任太子并监国。",
+      "appearanceTime": "本章间接提及（朱瞻基之父）",
+      "chapters": [
+        "第七章 逆命者必剪除之！",
+        "第八章 帝王的财产",
+        "第九章 生死相搏",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "沐英",
+      "aliases": [],
+      "identity": "明朝开国将领，镇守云南",
+      "birthYear": 1345,
+      "deathYear": 1392,
+      "bio": "明朝开国将领，镇守云南，其火器战法对明军战术有影响。",
+      "appearanceTime": "本章结尾处作为战法渊源被提及",
+      "chapters": [
+        "第七章 逆命者必剪除之！"
+      ]
+    },
+    {
+      "name": "杨士奇",
+      "aliases": [],
+      "identity": "内阁首辅、“三杨”之一",
+      "birthYear": 1365,
+      "deathYear": 1444,
+      "bio": "明朝大臣，“三杨”之一，朱高炽监国时的支持者，洪熙年间任礼部侍郎兼内阁大学士。",
+      "appearanceTime": "至正二十五年(1365)出生，洪武四年(1371)后经历被叙述",
+      "chapters": [
+        "第八章 帝王的财产",
+        "第九章 生死相搏",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "杨美",
+      "aliases": [],
+      "identity": "杨士奇生父",
+      "birthYear": null,
+      "deathYear": 1366,
+      "bio": "杨士奇之父，在杨士奇幼年时去世。",
+      "appearanceTime": "杨士奇一岁半时（约1366年）",
+      "chapters": [
+        "第八章 帝王的财产"
+      ]
+    },
+    {
+      "name": "罗性",
+      "aliases": [
+        "罗子理"
+      ],
+      "identity": "名士、官员，杨士奇继父与老师",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨士奇母亲改嫁的丈夫，赏识并培养杨士奇。",
+      "appearanceTime": "洪武四年(1371)后至洪武七年(1374)被贬前",
+      "chapters": [
+        "第八章 帝王的财产"
+      ]
+    },
+    {
+      "name": "岳飞",
+      "aliases": [],
+      "identity": "南宋抗金名将",
+      "birthYear": 1103,
+      "deathYear": 1142,
+      "bio": "南宋抗金名将，被东厂奉为偶像。",
+      "appearanceTime": "本章提及东厂供奉其像时",
+      "chapters": [
+        "第八章 帝王的财产"
+      ]
+    },
+    {
+      "name": "朱高煦",
+      "aliases": [],
+      "identity": "明成祖朱棣次子，汉王",
+      "birthYear": 1380,
+      "deathYear": 1429,
+      "bio": "明成祖朱棣次子，于宣德元年（1426）起兵造反，迅速被平定并处死。",
+      "appearanceTime": "本章主要描述其在永乐年间（1403-1424）与太子朱高炽的夺嫡斗争。",
+      "chapters": [
+        "第九章 生死相搏",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "耿通",
+      "aliases": [],
+      "identity": "大理寺丞",
+      "birthYear": null,
+      "deathYear": 1412,
+      "bio": "明朝官员，因在朱棣面前直言太子无过而被杀。",
+      "appearanceTime": "永乐十年（1412）九月，因替太子说话被朱棣处死。",
+      "chapters": [
+        "第九章 生死相搏"
+      ]
+    },
+    {
+      "name": "蹇义",
+      "aliases": [],
+      "identity": "尚书，太子党官员",
+      "birthYear": 1363,
+      "deathYear": 1435,
+      "bio": "明朝官员，太子朱高炽的支持者，在永乐十二年风波中被捕。",
+      "appearanceTime": "永乐十二年（1414）九月，因太子迎驾迟缓事件被朱棣关入监狱。",
+      "chapters": [
+        "第九章 生死相搏",
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "黄淮",
+      "aliases": [],
+      "identity": "学士，太子党官员",
+      "birthYear": 1367,
+      "deathYear": 1449,
+      "bio": "明朝官员，太子朱高炽的支持者，在永乐十二年风波中被捕。",
+      "appearanceTime": "永乐十二年（1414）九月，因太子迎驾迟缓事件被朱棣关入监狱。",
+      "chapters": [
+        "第九章 生死相搏"
+      ]
+    },
+    {
+      "name": "杨溥",
+      "aliases": [],
+      "identity": "洗马（东宫官属），太子党官员",
+      "birthYear": 1372,
+      "deathYear": 1446,
+      "bio": "明朝大臣，与杨士奇、杨荣并称“三杨”，洪熙年间被朱高炽释放并召入内阁。",
+      "appearanceTime": "永乐十二年（1414）九月，因太子迎驾迟缓事件被朱棣关入监狱。",
+      "chapters": [
+        "第九章 生死相搏",
+        "第十一章 朱高炽的勇气和疑团",
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "溥洽",
+      "aliases": [],
+      "identity": "僧人，建文帝主录僧",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "建文帝朱允炆的主录僧，被怀疑知道建文帝下落，遭朱棣长期囚禁。",
+      "appearanceTime": "因姚广孝临终请求于永乐十六年(1418)被释放；此前已被囚禁多年",
+      "chapters": [
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "王宾",
+      "aliases": [],
+      "identity": "姚广孝青年时期好友",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "姚广孝同乡好友，在姚广孝衣锦还乡时拒绝相见并予以指责。",
+      "appearanceTime": "永乐二年(1404)姚广孝回乡时",
+      "chapters": [
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "姚广孝之姊",
+      "aliases": [],
+      "identity": "姚广孝的姐姐",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "姚广孝的亲人，在其衣锦还乡时闭门不纳。",
+      "appearanceTime": "永乐二年(1404)姚广孝回乡时",
+      "chapters": [
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "方孝孺",
+      "aliases": [],
+      "identity": "建文朝大臣、学者",
+      "birthYear": 1357,
+      "deathYear": 1402,
+      "bio": "建文帝重臣，因拒绝为朱棣起草即位诏书而被杀，灭十族。",
+      "appearanceTime": "作为姚广孝回忆中靖难之役后的被难者被提及（时间约在1402年）",
+      "chapters": [
+        "第十章 最后的秘密",
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "黄子澄",
+      "aliases": [],
+      "identity": "建文朝大臣",
+      "birthYear": 1350,
+      "deathYear": 1402,
+      "bio": "建文帝时期大臣，靖难之役后被朱棣处死，家属被罚没为奴。",
+      "appearanceTime": "作为姚广孝回忆中靖难之役后的被难者被提及（时间约在1402年）",
+      "chapters": [
+        "第十章 最后的秘密",
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "张定边",
+      "aliases": [],
+      "identity": "元末明初将领",
+      "birthYear": 1318,
+      "deathYear": 1417,
+      "bio": "元末陈友谅部将，以勇猛和长寿著称。",
+      "appearanceTime": "作为长寿的参照人物被提及（时间背景在姚广孝去世的1418年）",
+      "chapters": [
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "兀良哈",
+      "aliases": [
+        "兀良哈三卫"
+      ],
+      "identity": "蒙古部落",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "蒙古部落，明初内附，设立三卫，时叛时附。",
+      "appearanceTime": "永乐二十年(1422)，朱棣在回师途中顺道击溃之",
+      "chapters": [
+        "第十章 最后的秘密"
+      ]
+    },
+    {
+      "name": "杨荣",
+      "aliases": [
+        "三杨之一"
+      ],
+      "identity": "内阁大学士、太常寺卿",
+      "birthYear": 1371,
+      "deathYear": 1440,
+      "bio": "“三杨”之一，历仕四朝，参与永乐、宣德朝重大决策，正统五年去世。",
+      "appearanceTime": "洪熙元年(1425)",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团",
+        "第十二章 朱瞻基是个好同志",
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "金幼孜",
+      "aliases": [],
+      "identity": "内阁大学士、户部侍郎",
+      "birthYear": 1368,
+      "deathYear": 1432,
+      "bio": "明朝大臣，洪熙年间任户部侍郎兼内阁大学士。",
+      "appearanceTime": "洪熙元年(1425)",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "齐泰",
+      "aliases": [],
+      "identity": "建文朝大臣",
+      "birthYear": null,
+      "deathYear": 1402,
+      "bio": "建文帝时期大臣，靖难之役后被朱棣处死，家属被罚没为奴。",
+      "appearanceTime": "洪熙元年(1425)提及",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "方克勤",
+      "aliases": [],
+      "identity": "方孝孺之父",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "方孝孺的父亲。",
+      "appearanceTime": "洪熙元年(1425)提及",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "方克家",
+      "aliases": [],
+      "identity": "方克勤之弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "方克勤的弟弟，方孝孺的叔父。",
+      "appearanceTime": "洪熙元年(1425)提及",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "方孝复",
+      "aliases": [],
+      "identity": "方克家之子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "方克家的儿子，方孝孺的堂兄，靖难后被罚戍边，洪熙年间被赦免。",
+      "appearanceTime": "洪熙元年(1425)提及",
+      "chapters": [
+        "第十一章 朱高炽的勇气和疑团"
+      ]
+    },
+    {
+      "name": "枚青",
+      "aliases": [],
+      "identity": "朱高煦亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱高煦的亲信，被派往京城联络张辅共同造反，反被张辅绑送朝廷。",
+      "appearanceTime": "宣德元年（1426）七月",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "侯泰",
+      "aliases": [],
+      "identity": "中官（宦官）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明宣宗朱瞻基派往乐安劝降朱高煦的宦官使者。",
+      "appearanceTime": "宣德元年（1426）",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "薛禄",
+      "aliases": [
+        "阳武侯"
+      ],
+      "identity": "将领，阳武侯",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，大臣们最初提议由其带兵平定朱高煦叛乱。",
+      "appearanceTime": "宣德元年（1426）",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "夏原吉",
+      "aliases": [],
+      "identity": "户部尚书，大臣",
+      "birthYear": 1366,
+      "deathYear": 1430,
+      "bio": "明朝大臣，以李景隆之事为例，力劝朱瞻基亲征朱高煦。",
+      "appearanceTime": "宣德元年（1426）",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "王斌",
+      "aliases": [],
+      "identity": "朱高煦部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱高煦的部将，在朱高煦准备投降时劝其死战，但朱高煦随后仍投降。",
+      "appearanceTime": "宣德元年（1426）八月二十日后",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "李时勉",
+      "aliases": [],
+      "identity": "大臣",
+      "birthYear": 1374,
+      "deathYear": 1450,
+      "bio": "明朝大臣，曾上书严厉批评明仁宗朱高炽，被责打，后被朱瞻基释放并表扬。",
+      "appearanceTime": "仁宗、宣宗时期（提及）",
+      "chapters": [
+        "第十二章 朱瞻基是个好同志"
+      ]
+    },
+    {
+      "name": "王振",
+      "aliases": [
+        "王先生"
+      ],
+      "identity": "宦官，司礼监太监，明英宗朱祁镇启蒙老师",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "明朝正统年间权宦，自宫入侍，深得明英宗宠信，擅权干政，酿成土木堡之变。",
+      "appearanceTime": "永乐末年(约1424年)自愿净身入宫；宣德年间(约1428-1435年)侍奉太子朱祁镇读书；正统年间(1436-1449年)掌权。",
+      "chapters": [
+        "第十三章 祸根",
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十七章 信念",
+        "第二十章 回家",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "朱祁镇",
+      "aliases": [
+        "明英宗",
+        "英宗",
+        "太上皇"
+      ],
+      "identity": "明朝第六位皇帝",
+      "birthYear": 1427,
+      "deathYear": 1464,
+      "bio": "明宣宗朱瞻基长子，九岁即位，年号正统，宠信宦官王振，导致土木堡之变被俘。",
+      "appearanceTime": "宣德年间(约1430-1435年)为太子；正统元年(1436年)即位。",
+      "chapters": [
+        "第十三章 祸根",
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十七章 信念",
+        "第十八章 北京保卫战",
+        "第十九章 朱祁镇的奋斗",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "张太皇太后",
+      "aliases": [
+        "张皇后",
+        "张太后",
+        "张太祖太后"
+      ],
+      "identity": "明仁宗朱高炽皇后，明宣宗朱瞻基生母，明英宗朱祁镇祖母",
+      "birthYear": null,
+      "deathYear": 1442,
+      "bio": "历经四朝，在明英宗幼年时垂帘听政，压制宦官王振，是正统初年政局稳定的关键人物。",
+      "appearanceTime": "正统元年(1436年)训诫皇帝与王振；正统七年(1442年)十月去世。",
+      "chapters": [
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "王山",
+      "aliases": [],
+      "identity": "锦衣卫同知，王振侄子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "依附权宦王振得官，任锦衣卫同知，是其党羽。",
+      "appearanceTime": "正统年间(1436-1449年)被王振安插为锦衣卫同知。",
+      "chapters": [
+        "第十三章 祸根",
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "王祐",
+      "aliases": [],
+      "identity": "工部侍郎",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阿附宦官王振的无耻官员，自称王振“儿子”。",
+      "appearanceTime": "正统七年(1442年)后王振专权时期。",
+      "chapters": [
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "也先",
+      "aliases": [
+        "额森"
+      ],
+      "identity": "瓦剌首领",
+      "birthYear": 1407,
+      "deathYear": 1455,
+      "bio": "蒙古瓦剌部首领，统一蒙古诸部，势力强盛，最终发动对明朝的战争，导致土木堡之变。",
+      "appearanceTime": "正统四年(1439年)继承其父脱欢之位；正统十年(1445年)前后威胁明朝边境。",
+      "chapters": [
+        "第十三章 祸根",
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十七章 信念",
+        "第十八章 北京保卫战",
+        "第十九章 朱祁镇的奋斗",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "脱欢",
+      "aliases": [],
+      "identity": "瓦剌首领",
+      "birthYear": null,
+      "deathYear": 1439,
+      "bio": "马哈木之子，统一瓦剌各部，拥立脱脱不花为汗，为也先的崛起奠定基础。",
+      "appearanceTime": "永乐十六年(1418年)袭爵；宣德九年(1434年)击败阿鲁台；正统四年(1439年)去世。",
+      "chapters": [
+        "第十三章 祸根"
+      ]
+    },
+    {
+      "name": "刘球",
+      "aliases": [],
+      "identity": "侍讲学士",
+      "birthYear": 1392,
+      "deathYear": 1443,
+      "bio": "明朝官员，侍讲学士，因上奏指出蒙古威胁而被王振陷害致死。",
+      "appearanceTime": "正统八年(1443)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "马顺",
+      "aliases": [],
+      "identity": "锦衣卫指挥",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "王振死党，在朝会上喝斥群臣，被群臣殴死。",
+      "appearanceTime": "正统八年(1443)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "井源",
+      "aliases": [],
+      "identity": "驸马，将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝驸马，将领，奉命出征抵御也先进攻。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "王直",
+      "aliases": [],
+      "identity": "吏部尚书",
+      "birthYear": 1379,
+      "deathYear": 1462,
+      "bio": "明朝大臣，吏部尚书，老牌硬汉，反对朱祁钰行贿，曾试图探望朱祁镇被拒。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十八章 北京保卫战",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "邝埜",
+      "aliases": [],
+      "identity": "兵部尚书",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "明朝兵部尚书，为人清廉正直，反对亲征并随军出征，死于土木堡。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "朱祁钰",
+      "aliases": [
+        "明代宗",
+        "景泰帝",
+        "新皇帝",
+        "陛下"
+      ],
+      "identity": "明朝皇帝（英宗之弟）",
+      "birthYear": 1428,
+      "deathYear": 1457,
+      "bio": "明代宗，朱祁镇之弟，在土木堡之变后即位，后将归来的朱祁镇囚禁。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第十六章 决断！",
+        "第十七章 信念",
+        "第十九章 朱祁镇的奋斗",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "钱皇后",
+      "aliases": [
+        "孝庄钱皇后",
+        "皇后"
+      ],
+      "identity": "明英宗皇后",
+      "birthYear": null,
+      "deathYear": 1468,
+      "bio": "明英宗原配皇后，与英宗感情深厚，在英宗被俘及软禁期间始终支持。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十五章 力挽狂澜",
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "朱勇",
+      "aliases": [
+        "成国公"
+      ],
+      "identity": "成国公，将领",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "成国公朱能之子，承袭爵位，随英宗亲征，死于土木堡。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "曹鼎",
+      "aliases": [],
+      "identity": "内阁成员",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "明朝内阁成员，随英宗亲征，死于土木堡。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "张益",
+      "aliases": [],
+      "identity": "内阁成员",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "明朝内阁成员，随英宗亲征，死于土木堡。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "郭敬",
+      "aliases": [],
+      "identity": "大同镇守太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "大同镇守太监，在阳和之战中战败装死逃生，后向王振报告军情。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "宋瑛",
+      "aliases": [],
+      "identity": "明军将领",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "明军将领，在阳和之战中被也先军队阵斩。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡"
+      ]
+    },
+    {
+      "name": "石亨",
+      "aliases": [],
+      "identity": "明军将领",
+      "birthYear": null,
+      "deathYear": 1460,
+      "bio": "明朝将领，北京保卫战中负责防守安定门，并参与德胜门伏击谋划。",
+      "appearanceTime": "正统十四年(1449)",
+      "chapters": [
+        "第十四章 土木堡",
+        "第十八章 北京保卫战",
+        "第十九章 朱祁镇的奋斗",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "梁贵",
+      "aliases": [],
+      "identity": "锦衣卫千户",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "随明英宗出征的锦衣卫军官，土木堡之变后逃回京城报信，证实皇帝被俘。",
+      "appearanceTime": "正统十四年(1449)八月十六日",
+      "chapters": [
+        "第十五章 力挽狂澜"
+      ]
+    },
+    {
+      "name": "喜宁",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": 1450,
+      "bio": "明英宗身边的太监，土木堡之变后投降瓦剌，并为也先出谋划策。",
+      "appearanceTime": "正统十四年(1449)土木堡之变现场",
+      "chapters": [
+        "第十五章 力挽狂澜",
+        "第十七章 信念",
+        "第十八章 北京保卫战",
+        "第十九章 朱祁镇的奋斗",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "赛刊王",
+      "aliases": [],
+      "identity": "瓦剌贵族，也先之弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌首领也先的弟弟，最早审问被俘的明英宗。",
+      "appearanceTime": "正统十四年(1449)土木堡之变后",
+      "chapters": [
+        "第十五章 力挽狂澜"
+      ]
+    },
+    {
+      "name": "伯颜帖木尔",
+      "aliases": [],
+      "identity": "瓦剌贵族，也先之弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌首领也先的弟弟，主张不杀明英宗并负责看管他。",
+      "appearanceTime": "正统十四年(1449)土木堡之变后的讨论中",
+      "chapters": [
+        "第十五章 力挽狂澜"
+      ]
+    },
+    {
+      "name": "乃公",
+      "aliases": [],
+      "identity": "瓦剌部属（身份不详）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌讨论如何处理明英宗时，主张杀掉明英宗的无名小卒。",
+      "appearanceTime": "正统十四年(1449)瓦剌内部讨论时",
+      "chapters": [
+        "第十五章 力挽狂澜"
+      ]
+    },
+    {
+      "name": "袁彬",
+      "aliases": [],
+      "identity": "明朝校尉（后被指定为朱祁镇仆人）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "土木堡之变中被俘的明军人员，后被也先指派服侍被俘的明英宗，对其极为忠诚。",
+      "appearanceTime": "正统十四年(1449)朱祁镇被俘后不久",
+      "chapters": [
+        "第十五章 力挽狂澜",
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "徐珵",
+      "aliases": [
+        "徐有贞"
+      ],
+      "identity": "侍讲学士",
+      "birthYear": 1407,
+      "deathYear": 1472,
+      "bio": "明朝官员，精通阴阳术数，在朝会上主张南迁避祸。",
+      "appearanceTime": "正统十四年(1449)八月十八日朝会",
+      "chapters": [
+        "第十五章 力挽狂澜",
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "商辂",
+      "aliases": [],
+      "identity": "大臣，连中三元者",
+      "birthYear": 1414,
+      "deathYear": 1486,
+      "bio": "明朝状元，内阁首辅。本章中受命起草复立太子的奏折。",
+      "appearanceTime": "正统十四年八月十八日(1449年)",
+      "chapters": [
+        "第十六章 决断！",
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "陈懋",
+      "aliases": [
+        "宁阳侯"
+      ],
+      "identity": "宁阳侯，将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "其所率浙军被于谦征调赴京守卫。",
+      "appearanceTime": "正统十四年八月十九日(1449年)",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "邝野",
+      "aliases": [],
+      "identity": "前兵部尚书",
+      "birthYear": 1385,
+      "deathYear": 1449,
+      "bio": "原兵部尚书，死于土木堡之变，其职由于谦接替。",
+      "appearanceTime": "正统十四年八月二十一日(1449年)（提及接替其职）",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "陈溢",
+      "aliases": [],
+      "identity": "都察院右都御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "清廉官员，痛恨王振，在朝会上首先弹劾王振。",
+      "appearanceTime": "正统十四年八月二十三日(1449年)",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "王竑",
+      "aliases": [],
+      "identity": "户科给事中",
+      "birthYear": 1413,
+      "deathYear": 1488,
+      "bio": "言官，在朝会上第一个动手殴打马顺。",
+      "appearanceTime": "正统十四年八月二十三日(1449年)",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "金英",
+      "aliases": [],
+      "identity": "太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝太监，在正统十四年朝议上叱责建议南迁的徐珵。",
+      "appearanceTime": "正统十四年八月二十三日(1449年)",
+      "chapters": [
+        "第十六章 决断！",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "毛贵",
+      "aliases": [],
+      "identity": "太监，王振同党",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "王振同党，被金英引入朝堂，被群臣殴死。",
+      "appearanceTime": "正统十四年八月二十三日(1449年)",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "王长随",
+      "aliases": [],
+      "identity": "太监，王振同党",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "王振同党，被金英引入朝堂，被群臣殴死。",
+      "appearanceTime": "正统十四年八月二十三日(1449年)",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "虞允文",
+      "aliases": [],
+      "identity": "南宋文臣，将领",
+      "birthYear": 1110,
+      "deathYear": 1174,
+      "bio": "南宋文官，曾在采石之战大败金军，被引为于谦类比。",
+      "appearanceTime": "本章作为历史类比提及",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "完颜亮",
+      "aliases": [],
+      "identity": "金朝皇帝",
+      "birthYear": 1122,
+      "deathYear": 1161,
+      "bio": "金朝皇帝，率军南侵，在采石被虞允文击败。",
+      "appearanceTime": "本章作为历史类比提及",
+      "chapters": [
+        "第十六章 决断！"
+      ]
+    },
+    {
+      "name": "郭登",
+      "aliases": [],
+      "identity": "大同总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "大同镇守将领，武定侯郭英之后，坚守大同。",
+      "appearanceTime": "土木堡之变后至正统十四年（1449）十月，镇守大同",
+      "chapters": [
+        "第十七章 信念"
+      ]
+    },
+    {
+      "name": "杨洪",
+      "aliases": [],
+      "identity": "宣府镇守将领",
+      "birthYear": 1381,
+      "deathYear": 1451,
+      "bio": "明朝将领，镇守宣府等地，在北京保卫战中立功。",
+      "appearanceTime": "正统十四年（1449）八月二十一日前后，镇守宣府",
+      "chapters": [
+        "第十七章 信念",
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "孙祥",
+      "aliases": [],
+      "identity": "都御史（紫荆关守备）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "紫荆关守备，在也先攻关时战死。",
+      "appearanceTime": "正统十四年（1449）十月一日，紫荆关之战",
+      "chapters": [
+        "第十七章 信念"
+      ]
+    },
+    {
+      "name": "伯颜帖木儿",
+      "aliases": [
+        "伯颜帖木尔",
+        "伯颜"
+      ],
+      "identity": "瓦剌贵族（也先之弟）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "也先的弟弟，奉命看管朱祁镇，后对其礼遇有加。",
+      "appearanceTime": "正统十四年（1449）九月后，在瓦剌营中",
+      "chapters": [
+        "第十七章 信念",
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "刘安",
+      "aliases": [],
+      "identity": "前大同总兵官",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "土木堡之变时的大同总兵，能力不足被取代。",
+      "appearanceTime": "土木堡之变时，在大同",
+      "chapters": [
+        "第十七章 信念"
+      ]
+    },
+    {
+      "name": "郭英",
+      "aliases": [
+        "武定侯"
+      ],
+      "identity": "明朝开国将领（郭登祖上）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝开国功臣，武定侯，郭登的祖先。",
+      "appearanceTime": "本章仅作为郭登背景提及",
+      "chapters": [
+        "第十七章 信念"
+      ]
+    },
+    {
+      "name": "刘聚",
+      "aliases": [],
+      "identity": "西直门守将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，北京保卫战中负责防守西直门。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "高礼",
+      "aliases": [],
+      "identity": "明军部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "刘聚部将，参与西直门前锋战。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "毛福寿",
+      "aliases": [],
+      "identity": "明军部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "刘聚部将，参与西直门前锋战。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "赵荣",
+      "aliases": [],
+      "identity": "中书舍人（后临时升太常少卿）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，被于谦临时派遣与也先进行象征性谈判。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "王复",
+      "aliases": [],
+      "identity": "通政司参议（后临时升右通政）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，被于谦临时派遣与也先进行象征性谈判。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "博罗茂洛海",
+      "aliases": [],
+      "identity": "瓦剌将领，也先之弟",
+      "birthYear": null,
+      "deathYear": 1449,
+      "bio": "也先的弟弟，瓦剌将领，率军进攻德胜门时被神机营伏击杀。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "陶瑾",
+      "aliases": [],
+      "identity": "安定门守将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，北京保卫战中最初负责防守安定门。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "石彪",
+      "aliases": [],
+      "identity": "明军将领，石亨之侄",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "石亨的侄子，勇猛善战，在北京保卫战中为先锋，率军冲击也先部队。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "孙镗",
+      "aliases": [],
+      "identity": "西直门守将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，北京保卫战中负责防守西直门。",
+      "appearanceTime": "正统十四年(1449年)北京保卫战期间（章节末尾提及）",
+      "chapters": [
+        "第十八章 北京保卫战"
+      ]
+    },
+    {
+      "name": "哈铭",
+      "aliases": [],
+      "identity": "蒙古族侍从",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "蒙古族人，在朱祁镇被俘期间忠心侍奉，与袁彬同为朱祁镇重要支持者。",
+      "appearanceTime": "本章描述其随侍朱祁镇期间（1449-1450年）",
+      "chapters": [
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "高斌",
+      "aliases": [
+        "高斌（下有金字）"
+      ],
+      "identity": "被俘明军低等武官",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "被俘明军武官，受朱祁镇密令，协助设计擒杀喜宁。",
+      "appearanceTime": "景泰元年（1450年）元月，作为使者与喜宁同赴宣府",
+      "chapters": [
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "江福",
+      "aliases": [],
+      "identity": "明朝宣府都指挥",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宣府守将，按朱祁镇密令设计擒获喜宁。",
+      "appearanceTime": "景泰元年（1450年）元月，在宣府接待使者并执行擒杀计划",
+      "chapters": [
+        "第十九章 朱祁镇的奋斗"
+      ]
+    },
+    {
+      "name": "李实",
+      "aliases": [],
+      "identity": "礼部侍郎（出使前为给事中）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，景泰元年出使瓦剌，面见朱祁镇和也先。",
+      "appearanceTime": "景泰元年（1450）作为使者出使瓦剌，七月十一日会见朱祁镇",
+      "chapters": [
+        "第二十章 回家"
+      ]
+    },
+    {
+      "name": "兴安",
+      "aliases": [],
+      "identity": "太监，朱祁钰亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱祁钰的亲信太监，出主意向大臣行贿以改立太子。",
+      "appearanceTime": "李实出使前，训斥李实不要多管国书内容",
+      "chapters": [
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "孙太后",
+      "aliases": [
+        "太后"
+      ],
+      "identity": "皇太后（朱祁镇生母）",
+      "birthYear": null,
+      "deathYear": 1462,
+      "bio": "明宣宗皇后，朱祁镇之母，早在朱祁钰即位前便立朱见深为太子。",
+      "appearanceTime": "仅在朱祁镇向李实询问时提及",
+      "chapters": [
+        "第二十章 回家",
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "袁敏",
+      "aliases": [],
+      "identity": "知事（从土木堡逃回）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，上书请求探望被俘的朱祁镇。",
+      "appearanceTime": "在李实回朝后，上书提及",
+      "chapters": [
+        "第二十章 回家"
+      ]
+    },
+    {
+      "name": "皮勒马尼哈马",
+      "aliases": [],
+      "identity": "瓦剌使臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "瓦剌派往明朝的使臣，其出访促成了杨善的出场。",
+      "appearanceTime": "作为第六批瓦剌使臣来到京城（约1450年）",
+      "chapters": [
+        "第二十章 回家"
+      ]
+    },
+    {
+      "name": "杨善",
+      "aliases": [],
+      "identity": "都察院右都御史，使臣",
+      "birthYear": null,
+      "deathYear": 1458,
+      "bio": "明朝大臣，凭借口才出使瓦剌并成功迎回朱祁镇。",
+      "appearanceTime": "在本章末尾作为新使团负责人出场，前往瓦剌谈判（约1450年）",
+      "chapters": [
+        "第二十章 回家"
+      ]
+    },
+    {
+      "name": "刘福",
+      "aliases": [],
+      "identity": "给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，给事中，上书认为迎接朱祁镇的礼仪太薄。",
+      "appearanceTime": "朱祁镇归来时（1450年）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "高平",
+      "aliases": [],
+      "identity": "大臣",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝大臣，向朱祁钰进言南宫树木多便于隐藏奸细，导致树木被砍。",
+      "appearanceTime": "朱祁镇被囚南宫期间（约1450年后）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "阮浪",
+      "aliases": [],
+      "identity": "宦官（少监）",
+      "birthYear": null,
+      "deathYear": 1453,
+      "bio": "永乐年间入宫的宦官，被派监视朱祁镇，反被其真诚打动，因金刀案被杀。",
+      "appearanceTime": "朱祁镇被囚南宫期间（约1450-1453年）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "王瑶",
+      "aliases": [],
+      "identity": "官员",
+      "birthYear": null,
+      "deathYear": 1453,
+      "bio": "阮浪的朋友，收受阮浪转赠的朱祁镇礼物，卷入金刀案被杀。",
+      "appearanceTime": "金刀案发生期间（约1453年）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "卢忠",
+      "aliases": [],
+      "identity": "锦衣卫",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "锦衣卫，王瑶的“朋友”，告发金刀案，企图陷害朱祁镇。",
+      "appearanceTime": "金刀案发生期间（约1453年）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "李善",
+      "aliases": [],
+      "identity": "锦衣卫",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "锦衣卫，卢忠的同事，参与告发金刀案。",
+      "appearanceTime": "金刀案发生期间（约1453年）",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "朱见深",
+      "aliases": [
+        "沂王"
+      ],
+      "identity": "皇太子（后为明宪宗）",
+      "birthYear": 1447,
+      "deathYear": 1487,
+      "bio": "明英宗朱祁镇长子，后为明宪宗。本章中为复立太子的主要人选。",
+      "appearanceTime": "景泰三年（1452）五月被废太子时提及",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "朱见济",
+      "aliases": [],
+      "identity": "皇太子（朱祁钰之子）",
+      "birthYear": 1448,
+      "deathYear": 1453,
+      "bio": "朱祁钰之子，被立为太子，早夭。",
+      "appearanceTime": "景泰三年（1452）五月被立为太子，景泰四年（1453）十一月去世",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "陈循",
+      "aliases": [],
+      "identity": "内阁首辅",
+      "birthYear": 1385,
+      "deathYear": 1462,
+      "bio": "明朝大臣，内阁首辅，接受朱祁钰（通过兴安）行贿，同意改立太子。",
+      "appearanceTime": "景泰三年（1452）改立太子会议时",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "高毂",
+      "aliases": [],
+      "identity": "内阁次辅",
+      "birthYear": 1391,
+      "deathYear": 1460,
+      "bio": "明朝大臣，内阁次辅，接受行贿，同意改立太子。",
+      "appearanceTime": "景泰三年（1452）改立太子会议时",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "江渊",
+      "aliases": [],
+      "identity": "内阁阁员，刑部侍郎，文渊阁大学士",
+      "birthYear": null,
+      "deathYear": 1466,
+      "bio": "明朝大臣，徐珵（徐有贞）的朋友，后表态主战得到升迁。",
+      "appearanceTime": "正统十四年（1449）八月十八日（回忆），及景泰三年（1452）改立太子会议时",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "王一宁",
+      "aliases": [],
+      "identity": "内阁阁员",
+      "birthYear": 1397,
+      "deathYear": 1452,
+      "bio": "明朝大臣，内阁阁员，接受行贿，同意改立太子。",
+      "appearanceTime": "景泰三年（1452）改立太子会议时",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "萧鎡",
+      "aliases": [],
+      "identity": "内阁阁员",
+      "birthYear": null,
+      "deathYear": 1464,
+      "bio": "明朝大臣，内阁阁员，接受行贿，同意改立太子。",
+      "appearanceTime": "景泰三年（1452）改立太子会议时",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇"
+      ]
+    },
+    {
+      "name": "徐有贞",
+      "aliases": [
+        "徐珵"
+      ],
+      "identity": "左副都御史",
+      "birthYear": 1407,
+      "deathYear": 1472,
+      "bio": "原名徐珵，因建议南迁受辱，后改名徐有贞，等待复仇机会。",
+      "appearanceTime": "回忆正统十四年（1449）八月十八日事件，及之后改名升迁过程",
+      "chapters": [
+        "第二十一章 囚徒朱祁镇",
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "曹吉祥",
+      "aliases": [],
+      "identity": "宦官",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝宦官，原为王振同党，后参与夺门之变。",
+      "appearanceTime": "景泰八年正月(1457年)",
+      "chapters": [
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "张軏",
+      "aliases": [],
+      "identity": "都督，张玉之子，张辅之弟",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝将领，张玉之子，参与夺门之变，率军入城。",
+      "appearanceTime": "景泰八年正月(1457年)",
+      "chapters": [
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "许彬",
+      "aliases": [],
+      "identity": "太常寺卿",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝官员，石亨熟人，向石亨推荐徐有贞参与夺门之变。",
+      "appearanceTime": "景泰八年正月(1457年)",
+      "chapters": [
+        "第二十二章 夺门"
+      ]
+    },
+    {
+      "name": "王文",
+      "aliases": [],
+      "identity": "大学士，朱祁钰亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明朝内阁大学士，景泰帝朱祁钰的亲信大臣。",
+      "appearanceTime": "景泰八年正月十四日(1457年)",
+      "chapters": [
+        "第二十二章 夺门"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "source": "朱棣",
+      "target": "朱允炆",
+      "type": "敌对",
+      "description": "朱棣发动靖难之役，推翻其侄建文帝朱允炆的统治。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱棣是朱元璋的第四子（本章考据实为庶子）。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "马皇后",
+      "type": "亲属",
+      "description": "朱棣为政治合法性，在官方记录中尊马皇后为嫡母，否认生母。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "碽妃",
+      "type": "亲属",
+      "description": "根据本章考据，碽妃是朱棣的亲生母亲，但被朱棣刻意隐瞒。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "朱棣是朱标（懿文太子）的同父异母弟弟。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "张玉",
+      "type": "君臣",
+      "description": "张玉是朱棣靖难之役中的大将和功臣。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱能",
+      "type": "君臣",
+      "description": "朱能是朱棣靖难之役中的大将和功臣。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "姚广孝",
+      "type": "君臣",
+      "description": "姚广孝（道衍）是朱棣靖难之役的主要策划者和第一谋士。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱权",
+      "type": "敌对",
+      "description": "朱棣胁迫宁王朱权参与靖难，成功后违背“中分天下”诺言，将其改封南昌并加以控制。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "齐王",
+      "type": "敌对",
+      "description": "朱棣登基后削藩，将齐王朱榑废为庶人。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "岷王",
+      "type": "敌对",
+      "description": "朱棣登基后削藩，削去岷王朱楩的官属及护卫。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "辽王",
+      "type": "敌对",
+      "description": "朱棣登基后削藩，削去辽王朱植的官属及护卫。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "周王",
+      "type": "亲属",
+      "description": "朱棣与周王朱橚是同父同母兄弟（生母均为碽妃）。朱棣登基后亦削其护卫。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "李景隆",
+      "type": "君臣",
+      "description": "李景隆原为建文帝将领，后打开金川门投降朱棣。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "胡濙",
+      "type": "君臣",
+      "description": "朱棣秘密派遣胡濙寻找建文帝下落。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "郑和",
+      "type": "君臣",
+      "description": "朱棣秘密派遣郑和寻找建文帝下落（兼下西洋）。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "张玉",
+      "type": "亲属",
+      "description": "张辅是张玉的儿子，继承了张玉的爵位。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱允炆",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱允炆是朱元璋之孙，朱标之子。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱允炆",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "朱允炆是朱标（懿文太子）的儿子。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "马皇后",
+      "target": "朱标",
+      "type": "亲属",
+      "description": "马皇后是太子朱标、秦王、晋王的生母。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "周王",
+      "target": "碽妃",
+      "type": "亲属",
+      "description": "周王朱橚是碽妃所生（与朱棣同母）。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "周王",
+      "target": "孙贵妃",
+      "type": "关联",
+      "description": "因周王是庶子，曾被朱元璋指派为无子的孙贵妃服丧三年，以证明其庶子身份。",
+      "chapter": "第一章 帝王的烦恼",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "解缙",
+      "type": "君臣",
+      "description": "朱棣是皇帝，解缙是其臣子。朱棣任命解缙为《永乐大典》总编官，后将其处死。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱允炆",
+      "type": "敌对",
+      "description": "叔侄关系。朱棣发动靖难之役，从侄子朱允炆手中夺取皇位。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "纪纲",
+      "type": "君臣",
+      "description": "朱棣是皇帝，纪纲是其亲信和锦衣卫指挥使，奉命处死解缙。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "胡广",
+      "type": "君臣",
+      "description": "朱棣是皇帝，胡广是其臣子。朱棣任命胡广为内阁成员，并曾意图与解缙联姻。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "朱元璋",
+      "type": "君臣",
+      "description": "解缙是朱元璋的臣子，曾上书针砭时弊并为李善长申辩，后被朱元璋罢官。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "李善长",
+      "type": "关联",
+      "description": "解缙曾代友上书，为被朱元璋处死的李善长申辩。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "胡广",
+      "type": "朋友",
+      "description": "同乡兼好友，曾一同商议靖难时的去向，后同朝为官，朱棣曾意图让两家结亲。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "王艮",
+      "type": "朋友",
+      "description": "同乡兼好友，靖难前曾一同商议去向，但王艮选择殉国，解缙选择投降。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "李贯",
+      "type": "朋友",
+      "description": "同乡兼好友，同为建文帝近侍，靖难后一同投降朱棣。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "胡广",
+      "target": "王艮",
+      "type": "朋友",
+      "description": "同乡，建文二年科举的状元（胡广）和实际状元（王艮），靖难前曾一同商议去向。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "纪纲",
+      "target": "解缙",
+      "type": "敌对",
+      "description": "纪纲奉朱棣之命，设计将囚犯解缙灌醉后弃于雪地致死。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "吴溥",
+      "target": "解缙",
+      "type": "关联",
+      "description": "邻居。吴溥在家中旁观了解缙、胡广、王艮三人在靖难前的谈话。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "吴溥",
+      "target": "胡广",
+      "type": "关联",
+      "description": "邻居。吴溥看穿了胡广慷慨陈词背后的虚伪。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "吴溥",
+      "target": "王艮",
+      "type": "关联",
+      "description": "邻居。吴溥准确预言三人中只有王艮会以身殉国。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "王景",
+      "type": "君臣",
+      "description": "朱棣任命王景为编纂《永乐大典》的五位总裁官之首。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "王景",
+      "type": "关联",
+      "description": "先后担任《永乐大典》编纂工作的负责人。解缙初稿被斥后，朱棣任命王景等人为总裁。",
+      "chapter": "第二章 帝王的荣耀",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "沈永",
+      "type": "君臣",
+      "description": "朱棣因沈永抵御蒙古不力且隐瞒不报，将其处死。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱权",
+      "type": "亲属",
+      "description": "朱棣是朱权的兄长（同父异母）。靖难之役中，朱棣挟持了朱权。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱棣是朱元璋的第四子。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "李芳远",
+      "type": "君臣",
+      "description": "朝鲜国王李芳远属于明朝藩属国君主，向朱棣进献物品以示臣服。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "宋礼",
+      "type": "君臣",
+      "description": "朱棣命令工部尚书宋礼治理会通河，以解决迁都的漕运难题。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "陈瑄",
+      "type": "君臣",
+      "description": "漕运总督陈瑄在朱棣迁都的背景下，奉命进一步疏通漕运河道。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "箫仪",
+      "type": "君臣",
+      "description": "主事箫仪因激烈反对迁都，言辞触怒朱棣，被朱棣下令处死。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "反对迁都的大臣们",
+      "type": "敌对",
+      "description": "以箫仪为代表，众多大臣因自身利益和观念反对朱棣迁都北京，并在迁都引发天灾后集体批评朱棣。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "宋礼",
+      "target": "陈瑄",
+      "type": "关联",
+      "description": "先后负责疏通漕运河道，宋礼治理会通河，陈瑄进一步疏通，共同保障了迁都后的粮食供应。",
+      "chapter": "第三章 帝王的抉择",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "郑和",
+      "type": "君臣",
+      "description": "朱棣赏识并提拔郑和，赐其姓郑，任命为内官监太监，并委以下西洋的重任。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "胡濙",
+      "type": "君臣",
+      "description": "朱棣派遣胡濙秘密寻访建文帝下落。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "朱元璋",
+      "target": "傅友德",
+      "type": "君臣",
+      "description": "朱元璋命令傅友德远征云南。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "朱元璋",
+      "target": "蓝玉",
+      "type": "君臣",
+      "description": "朱元璋命令蓝玉随傅友德远征云南。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "傅友德",
+      "target": "蓝玉",
+      "type": "同盟",
+      "description": "共同奉朱元璋之命率军远征云南。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "郑和",
+      "target": "李景隆",
+      "type": "敌对",
+      "description": "靖难之役中，郑和为朱棣献策，大败李景隆率领的南军。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "戚祥",
+      "target": "戚继光",
+      "type": "亲属",
+      "description": "戚祥是戚继光的先祖。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "郑和",
+      "target": "陈祖义",
+      "type": "敌对",
+      "description": "郑和第一次下西洋返航时，遭遇海盗陈祖义，陈祖义假意投降后企图偷袭。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "陈祖义",
+      "target": "麻那者巫里",
+      "type": "君臣",
+      "description": "陈祖义逃亡海外后，曾投奔渤林邦国国王麻那者巫里手下为将。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "朱元璋",
+      "target": "陈友谅",
+      "type": "敌对",
+      "description": "元末争霸时期的对手，陈友谅的水军促使朱元璋重视发展造船技术。",
+      "chapter": "第四章 郑和之后，再无郑和",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "父子关系，朱棣是朱元璋第四子。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "李芳远",
+      "type": "君臣",
+      "description": "明朝皇帝与属国朝鲜国王的册封与朝贡关系。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "源道义",
+      "type": "君臣",
+      "description": "明朝皇帝与前来朝贡的日本实际统治者（明朝称日本王）的关系。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "李至刚",
+      "type": "君臣",
+      "description": "皇帝与大臣，朱棣未采纳李至刚处罚日本使臣的建议。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "杨渤",
+      "type": "君臣",
+      "description": "皇帝派遣杨渤出使安南调查国王更替事件。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "裴伯耆",
+      "type": "君臣",
+      "description": "明朝皇帝接见并听取前来告发安南篡位事件的安南旧臣。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "陈天平",
+      "type": "君臣",
+      "description": "明朝皇帝接见自称安南王弟的陈天平，并安排其回国。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "胡𡘎",
+      "type": "敌对",
+      "description": "朱棣在识破胡氏篡位并杀害陈天平后，发兵征讨安南胡氏政权。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱能",
+      "type": "君臣",
+      "description": "皇帝任命朱能为征安南明军统帅。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "张辅",
+      "type": "君臣",
+      "description": "在朱能病逝后，张辅继任为征安南明军主帅。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "胡一元",
+      "target": "胡𡘎",
+      "type": "亲属",
+      "description": "父子关系，胡一元篡位后传位于其子胡𡘎。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "胡一元",
+      "target": "陈天平",
+      "type": "敌对",
+      "description": "胡氏父子篡夺了陈氏王位，并伏兵杀害了回国继位的陈天平。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "胡𡘎",
+      "target": "陈天平",
+      "type": "敌对",
+      "description": "胡氏父子伏兵杀害了明朝护送回国的陈天平。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "黄中",
+      "target": "陈天平",
+      "type": "关联",
+      "description": "黄中奉命率军护送陈天平回国，途中陈被安南伏兵杀害。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "朱能",
+      "type": "关联",
+      "description": "张辅在朱能病逝后继任征安南明军主帅。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "沐晟",
+      "type": "同盟",
+      "description": "征安南明军的两路统帅，分别从广西和云南进军，最终会师。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "朱荣",
+      "type": "君臣",
+      "description": "主帅与部将，张辅派遣朱荣在嘉林江作战。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "蔡福",
+      "type": "君臣",
+      "description": "主帅与部下军官，蔡福在多邦城之战中奋勇登城。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "裴伯耆",
+      "target": "陈天平",
+      "type": "同盟",
+      "description": "同为安南陈氏旧臣或王室，先后至明朝揭露胡氏篡位，目标一致。",
+      "chapter": "第五章 纵横天下",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "朱棣是朱元璋的第四子。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱权",
+      "type": "亲属",
+      "description": "朱棣是朱权（宁王）的兄长，靖难时绑架朱权以获取朵颜三卫。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "邱福",
+      "type": "君臣",
+      "description": "朱棣是皇帝，邱福是其麾下大将，封淇国公，朱棣命其北征鞑靼。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "张玉",
+      "type": "君臣",
+      "description": "张玉是朱棣靖难时的麾下大将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱能",
+      "type": "君臣",
+      "description": "朱能是朱棣靖难时的麾下大将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "张辅",
+      "type": "君臣",
+      "description": "张辅是张玉之子，朱棣麾下将领，平定并镇守安南。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "本雅失里",
+      "type": "敌对",
+      "description": "朱棣亲征鞑靼，在斡难河击败本雅失里。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "阿鲁台",
+      "type": "敌对",
+      "description": "朱棣亲征鞑靼，在阔滦海子包围并准备攻击阿鲁台。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "马哈木",
+      "type": "同盟",
+      "description": "朱棣册封马哈木为顺宁王，扶持瓦剌以对抗鞑靼。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "蓝玉",
+      "target": "脱古思帖木儿",
+      "type": "敌对",
+      "description": "蓝玉击败北元皇帝脱古思帖木儿。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "也速迭儿",
+      "target": "脱古思帖木儿",
+      "type": "敌对",
+      "description": "也速迭儿杀害了逃亡的北元皇帝脱古思帖木儿。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "阿鲁台",
+      "target": "鬼力赤",
+      "type": "敌对",
+      "description": "阿鲁台对鬼力赤向明朝称臣不满，杀害了鬼力赤。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "阿鲁台",
+      "target": "本雅失里",
+      "type": "同盟",
+      "description": "阿鲁台拥立本雅失里为鞑靼可汗，共同对抗明朝，后因逃跑方向分歧而分兵。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "本雅失里",
+      "type": "敌对",
+      "description": "本雅失里逃到瓦剌后，被马哈木杀死。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "阿鲁台",
+      "type": "敌对",
+      "description": "瓦剌与鞑靼互相征战，马哈木讨厌以首领自居的鞑靼太师阿鲁台。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "冯胜",
+      "target": "纳哈出",
+      "type": "敌对",
+      "description": "冯胜远征辽东，降伏了北元太尉纳哈出。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱权",
+      "type": "亲属",
+      "description": "朱元璋是朱权（宁王）的父亲。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱元璋",
+      "target": "冯胜",
+      "type": "君臣",
+      "description": "朱元璋派遣冯胜远征辽东。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "张辅",
+      "target": "张玉",
+      "type": "亲属",
+      "description": "张辅是张玉的儿子。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "盛庸",
+      "target": "张玉",
+      "type": "敌对",
+      "description": "盛庸在东昌之战中杀死了张玉。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "邱福",
+      "target": "王聪",
+      "type": "关联",
+      "description": "邱福北征时的副将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "邱福",
+      "target": "霍亲",
+      "type": "关联",
+      "description": "邱福北征时的副将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "邱福",
+      "target": "王忠",
+      "type": "关联",
+      "description": "邱福北征时的左参将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "邱福",
+      "target": "李远",
+      "type": "关联",
+      "description": "邱福北征时的右参将，曾劝谏邱福勿轻敌。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "王友",
+      "type": "君臣",
+      "description": "朱棣北征时命令部将王友驻扎饮马河畔。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "柳升",
+      "type": "君臣",
+      "description": "柳升是朱棣北征时掌管中军的副将。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "本雅失里",
+      "target": "铁木真",
+      "type": "亲属",
+      "description": "本雅失里是元朝宗室，成吉思汗（铁木真）的子孙。",
+      "chapter": "第六章 天子守国门！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "马哈木",
+      "type": "敌对",
+      "description": "朱棣因瓦剌不服从明朝调遣且意图统一蒙古，亲征瓦剌，双方在忽兰忽失温爆发大战。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "阿鲁台",
+      "type": "敌对",
+      "description": "瓦剌与鞑靼为世仇，马哈木在明军击败鞑靼后趁机侵攻阿鲁台。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "太平",
+      "type": "同盟",
+      "description": "同为瓦剌部落首领，共同策划并在忽兰忽失温战役中对抗明军。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "博罗",
+      "type": "同盟",
+      "description": "同为瓦剌部落首领，共同策划并在忽兰忽失温战役中对抗明军。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "答里巴",
+      "type": "君臣",
+      "description": "马哈木立黄金家族的答里巴为汗，以图统一蒙古，恢复帝国。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "柳升",
+      "type": "君臣",
+      "description": "柳升为明朝将领，封安定侯，随朱棣远征瓦剌，并受命指挥神机营。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "刘江",
+      "type": "君臣",
+      "description": "刘江为明军前锋将领，受朱棣统辖，在康哈里海击溃瓦剌先锋。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "李谦",
+      "type": "君臣",
+      "description": "李谦是朱棣的内侍（宦官），随军出征，因护卫皇太孙失职而畏罪自杀。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱瞻基",
+      "type": "亲属",
+      "description": "朱瞻基是朱棣的孙子，深受朱棣喜爱，被带在身边出征锻炼。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "朱高炽",
+      "type": "亲属",
+      "description": "朱瞻基是朱高炽的儿子。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱高炽",
+      "type": "亲属",
+      "description": "朱高炽是朱棣的儿子，朱瞻基的父亲。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "盛庸",
+      "type": "敌对",
+      "description": "靖难之役中，盛庸作为建文朝将领曾用火器重创朱棣军队，促使朱棣后来重视并组建神机营。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "明朝政府",
+      "target": "阿鲁台",
+      "type": "关联",
+      "description": "初期明朝联合瓦剌打击鞑靼（阿鲁台），后阿鲁台被瓦剌攻击时向明朝求援，明朝态度暧昧。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "明朝政府",
+      "target": "瓦剌",
+      "type": "关联",
+      "description": "初期嘉奖瓦剌帮助解决本雅失里，后因瓦剌坐大并意图统一蒙古而与之敌对，爆发战争。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "马哈木",
+      "target": "本雅失里",
+      "type": "敌对",
+      "description": "瓦剌替明朝政府解决了鞑靼可汗本雅失里这个“祸害”。",
+      "chapter": "第七章 逆命者必剪除之！",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱元璋",
+      "type": "亲属",
+      "description": "父子关系。朱棣是朱元璋第四子，继承并发展了其父制定的制度。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "解缙",
+      "type": "君臣",
+      "description": "皇帝与臣子。朱棣任命解缙为殿阁大学士，成为首批内阁成员，参与机务。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "杨士奇",
+      "type": "君臣",
+      "description": "皇帝与臣子。杨士奇是朱棣留给子孙的治世英才（“三杨”之一），活跃于朱棣及之后朝代。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱高炽",
+      "type": "亲属",
+      "description": "父子关系。朱高炽是朱棣长子，后继位为明仁宗。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "杨美",
+      "type": "亲属",
+      "description": "父子关系。杨美是杨士奇生父，早逝。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "罗性",
+      "type": "亲属",
+      "description": "继父子关系。罗性是杨士奇母亲改嫁后的丈夫，同时也是杨士奇的老师。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "罗性",
+      "target": "杨士奇",
+      "type": "师生",
+      "description": "师徒关系。罗性赏识杨士奇志气，着力培养他读书。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "臣子与君主。杨士奇是辅佐朱高炽（明仁宗）缔造仁宣盛世的关键人物。",
+      "chapter": "第八章 帝王的财产",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "朱高炽",
+      "type": "敌对",
+      "description": "朱高煦因不满父亲朱棣立兄朱高炽为太子，长期策划阴谋，企图夺取太子之位。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱高煦是朱棣的次子，但怨恨父亲未兑现立自己为太子的承诺。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱高炽是朱棣的长子，被立为太子，但因朱棣多疑和朱高煦的挑拨，父子关系紧张。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "解缙是太子党第一干将，通过作诗等方式坚定朱棣立朱高炽为太子的决心。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "解缙",
+      "target": "朱棣",
+      "type": "君臣",
+      "description": "朱棣就立太子事征求解缙意见，解缙巧妙进言促使朱棣倾向于立朱高炽。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "解缙",
+      "type": "敌对",
+      "description": "朱高煦将太子党核心解缙视为首要打击对象，策划将其赶出京城。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "杨士奇是太子忠诚的支持者和守护者，在多次危机中为太子辩护，同甘共苦。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "朱棣",
+      "type": "君臣",
+      "description": "朱棣向杨士奇询问太子情况，杨士奇以巧妙的外交辞令维护太子，稳定了朱棣的情绪。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "杨士奇",
+      "type": "敌对",
+      "description": "朱高煦恨杨士奇维护太子，指示人攻击杨士奇，最终导致其被关入监狱。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "耿通",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "耿通在大理寺丞任上，因直言太子没有过错而触怒朱棣。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "耿通",
+      "type": "敌对",
+      "description": "朱棣以“离间父子”为借口，处死为太子说话的耿通，以警告太子。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "蹇义",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "蹇义作为尚书，是太子党官员，在永乐十二年风波中因太子事被牵连入狱。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "黄淮",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "黄淮作为学士，是太子党官员，在永乐十二年风波中因太子事被牵连入狱。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "杨溥",
+      "target": "朱高炽",
+      "type": "君臣",
+      "description": "杨溥作为东宫洗马，是太子党官员，在永乐十二年风波中因太子事被牵连入狱。",
+      "chapter": "第九章 生死相搏",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "朱棣",
+      "type": "朋友",
+      "description": "姚广孝是朱棣唯一的朋友，自洪武十八年(1385)相识，共同策划并完成靖难之役，感情深厚。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "朱棣",
+      "type": "君臣",
+      "description": "姚广孝是朱棣最重要的谋士和臣子，为朱棣夺取和巩固皇位立下汗马功劳，官至太子少师。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "朱允炆",
+      "type": "敌对",
+      "description": "朱棣通过靖难之役从其侄朱允炆手中夺取皇位，并长期追查其下落，视为重大政治威胁。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "溥洽",
+      "type": "关联",
+      "description": "姚广孝在临终前向朱棣请求释放因建文帝案被囚的僧人溥洽，以此寻求自身灵魂的救赎。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "溥洽",
+      "type": "敌对",
+      "description": "朱棣因怀疑溥洽知道建文帝下落而将其长期囚禁，直至姚广孝临终请求才将其释放。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "胡濙",
+      "type": "君臣",
+      "description": "朱棣秘密派遣胡濙长期寻访建文帝朱允炆的下落，胡濙最终在永乐二十一年(1423)复命。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "胡濙",
+      "target": "朱允炆",
+      "type": "关联",
+      "description": "胡濙受朱棣之命，历时十余年暗中寻访建文帝朱允炆，并最终（根据推论）与之取得联系。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "阿鲁台",
+      "type": "敌对",
+      "description": "朱棣多次亲征打击鞑靼首领阿鲁台，如永乐二十年(1422)因其犯边而发动远征。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "兀良哈",
+      "type": "敌对",
+      "description": "永乐二十年(1422)，朱棣在回师途中顺道攻击并与阿鲁台勾结的兀良哈部落。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "王宾",
+      "type": "朋友",
+      "description": "王宾是姚广孝青年时期的好友，但在姚广孝功成名就后（永乐二年，1404年）拒绝相见并指责他。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "姚广孝之姊",
+      "type": "亲属",
+      "description": "姚广孝的姐姐，是其最亲的亲人，但在姚广孝衣锦还乡时（永乐二年，1404年）闭门不纳。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "方孝孺",
+      "type": "关联",
+      "description": "姚广孝在回忆靖难后的清算时，提及方孝孺等人被杀，他曾劝阻朱棣但未成功，对此抱有罪恶感。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "姚广孝",
+      "target": "黄子澄",
+      "type": "关联",
+      "description": "姚广孝在回忆靖难后的清算时，提及黄子澄等人被杀，他曾劝阻朱棣但未成功，对此抱有罪恶感。",
+      "chapter": "第十章 最后的秘密",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱高炽是朱棣的长子。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "杨士奇",
+      "type": "君臣",
+      "description": "朱高炽为皇帝，杨士奇为内阁大学士，亦是共患难的朋友。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "蹇义",
+      "type": "君臣",
+      "description": "朱高炽为皇帝，蹇义为大臣，亦是共患难的朋友。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "杨荣",
+      "type": "君臣",
+      "description": "朱高炽任命杨荣为太常寺卿兼内阁大学士。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "金幼孜",
+      "type": "君臣",
+      "description": "朱高炽任命金幼孜为户部侍郎兼内阁大学士。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "杨溥",
+      "type": "君臣",
+      "description": "朱高炽登基后释放杨溥并召入内阁。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "齐泰",
+      "type": "关联",
+      "description": "朱高炽下旨赦免齐泰被罚为奴的家属。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "黄子澄",
+      "type": "关联",
+      "description": "朱高炽下旨赦免黄子澄被罚为奴的家属。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "方孝孺",
+      "type": "关联",
+      "description": "朱高炽称方孝孺为忠臣，并寻找赦免其亲属。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "朱瞻基",
+      "type": "亲属",
+      "description": "朱高炽是朱瞻基的父亲。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高炽",
+      "target": "朱高煦",
+      "type": "亲属",
+      "description": "朱高炽是朱高煦的兄长。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "朱高煦",
+      "type": "亲属",
+      "description": "朱瞻基是朱高煦的侄子。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "朱瞻基",
+      "type": "敌对",
+      "description": "朱高煦多次阴谋夺位，计划在朱高炽死后伏击朱瞻基。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "杨荣",
+      "type": "同盟",
+      "description": "同属“三杨”内阁，共同辅政。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "杨溥",
+      "type": "同盟",
+      "description": "同属“三杨”内阁，共同辅政。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "方孝孺",
+      "target": "方克勤",
+      "type": "亲属",
+      "description": "方克勤是方孝孺的父亲。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "方克勤",
+      "target": "方克家",
+      "type": "亲属",
+      "description": "方克家是方克勤的弟弟。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "方克家",
+      "target": "方孝复",
+      "type": "亲属",
+      "description": "方孝复是方克家的儿子。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "齐泰",
+      "type": "敌对",
+      "description": "靖难之役后，朱棣处死齐泰并罚没其家属。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "黄子澄",
+      "type": "敌对",
+      "description": "靖难之役后，朱棣处死黄子澄并罚没其家属。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱棣",
+      "target": "方孝孺",
+      "type": "敌对",
+      "description": "因方孝孺拒绝合作，朱棣将其灭十族。",
+      "chapter": "第十一章 朱高炽的勇气和疑团",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "朱高煦",
+      "type": "敌对",
+      "description": "朱高煦起兵造反，朱瞻基御驾亲征将其平定，后朱高煦被处死。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱棣是朱瞻基的祖父。朱瞻基休养生息的政策部分是为了纠正朱棣时期征战带来的民生问题。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "朱高炽",
+      "type": "亲属",
+      "description": "朱高炽是朱瞻基的父亲。朱瞻基继承了其父留下的政治班底（如“三杨”）。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "朱棣",
+      "type": "亲属",
+      "description": "朱棣是朱高煦的父亲。朱高煦抱怨朱棣听信谗言，将他封到乐安。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "张辅",
+      "type": "朋友",
+      "description": "朱高煦自认与张辅有多年交情，派枚青去联络其共同造反，但被张辅拒绝并绑送其使者。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "枚青",
+      "type": "君臣",
+      "description": "枚青是朱高煦的亲信，被派往京城联络张辅。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "张辅",
+      "type": "君臣",
+      "description": "张辅将朱高煦的使者枚青绑送朱瞻基，并在军事会议上主动请缨平叛。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "杨荣",
+      "type": "君臣",
+      "description": "杨荣是朱瞻基的重要辅臣（“三杨”之一），在平定朱高煦时主张皇帝亲征。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "夏原吉",
+      "type": "君臣",
+      "description": "夏原吉是朱瞻基的大臣，以李景隆为例力劝朱瞻基亲征朱高煦。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "于谦",
+      "type": "君臣",
+      "description": "朱瞻基指派御史于谦斥责投降的朱高煦，对于谦的表现印象深刻，后派其巡按江西加以历练。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "王斌",
+      "type": "君臣",
+      "description": "王斌是朱高煦的部将，在朱高煦准备投降时劝其死战。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "李时勉",
+      "type": "君臣",
+      "description": "李时勉曾严厉批评朱瞻基的父亲朱高炽，朱瞻基继位后将其释放并表扬。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "朱高煦",
+      "target": "姚广孝",
+      "type": "关联",
+      "description": "朱高煦将成功发起靖难之役的姚广孝视为自己阴谋家事业的榜样。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "杨荣",
+      "target": "张辅",
+      "type": "敌对",
+      "description": "在如何平定朱高煦的军事会议上，杨荣（主张亲征）与张辅（主张派将）发生了争执。",
+      "chapter": "第十二章 朱瞻基是个好同志",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "朱祁镇",
+      "type": "师生",
+      "description": "王振是太子朱祁镇的启蒙老师，朱祁镇对他极为尊敬和信任，称其为“先生”。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "朱瞻基",
+      "type": "君臣",
+      "description": "明宣宗朱瞻基赏识王振的才学，命其侍奉太子朱祁镇读书。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "张太皇太后",
+      "type": "敌对",
+      "description": "张太皇太后严厉压制和训诫王振，禁止其干预国事，是王振掌权的最大障碍。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "杨士奇",
+      "type": "敌对",
+      "description": "王振掌权路上需要逾越的文官集团领袖，最终王振利用其子犯罪事件攻击并排挤了杨士奇。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "杨荣",
+      "type": "敌对",
+      "description": "王振掌权路上的障碍，“三杨”之一。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "杨溥",
+      "type": "敌对",
+      "description": "王振掌权路上的障碍，“三杨”之一。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "于谦不贿赂、不依附王振，被其关押，后因众臣求情获释，始终与王振对抗。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "王山",
+      "type": "亲属",
+      "description": "王山是王振的侄子，被王振安插为锦衣卫同知，是其重要党羽。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "王祐",
+      "type": "同盟",
+      "description": "工部侍郎王祐极度阿附王振，自称是其“儿子”，是王振在朝中的无耻帮凶。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "张太皇太后",
+      "type": "亲属",
+      "description": "朱祁镇是张太皇太后的孙子，幼年即位得其拥立和辅佐。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱瞻基",
+      "type": "亲属",
+      "description": "朱祁镇是明宣宗朱瞻基的儿子。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "杨士奇",
+      "type": "君臣",
+      "description": "朱瞻基临终前任命杨士奇为顾命大臣，辅佐幼主朱祁镇。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "杨荣",
+      "type": "君臣",
+      "description": "朱瞻基临终前任命杨荣为顾命大臣。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "杨溥",
+      "type": "君臣",
+      "description": "朱瞻基临终前任命杨溥为顾命大臣。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "张辅",
+      "type": "君臣",
+      "description": "朱瞻基临终前任命张辅为顾命大臣。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "朱瞻基",
+      "target": "胡濙",
+      "type": "君臣",
+      "description": "朱瞻基临终前任命胡濙为顾命大臣。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "张太皇太后",
+      "target": "杨士奇",
+      "type": "同盟",
+      "description": "张太皇太后在朝会上要求皇帝尊重并听从以杨士奇为首的五位顾命大臣。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "脱欢",
+      "type": "亲属",
+      "description": "也先是脱欢的儿子，继承其父地位，继续扩张瓦剌势力。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "脱欢",
+      "target": "阿鲁台",
+      "type": "敌对",
+      "description": "瓦剌首领脱欢击败并杀死了鞑靼首领阿鲁台。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "杨荣",
+      "type": "同盟",
+      "description": "同为核心内阁成员，合称“三杨”，共同辅政。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "杨士奇",
+      "target": "杨溥",
+      "type": "同盟",
+      "description": "同为核心内阁成员，合称“三杨”，共同辅政。",
+      "chapter": "第十三章 祸根",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "刘球",
+      "type": "敌对",
+      "description": "王振因刘球上奏指出蒙古威胁而勃然大怒，将其下狱并指使马顺杀害。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "马顺",
+      "type": "同盟",
+      "description": "马顺是王振的亲信，奉命杀害刘球。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "王振是司礼监太监，深受明英宗朱祁镇宠信和信任。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "也先",
+      "type": "敌对",
+      "description": "王振主导明军出征对抗也先率领的蒙古瓦剌军队。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱祁钰",
+      "type": "亲属",
+      "description": "朱祁钰是明英宗朱祁镇的弟弟，英宗亲征前将国事交其掌管。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "钱皇后",
+      "type": "亲属",
+      "description": "钱皇后是明英宗朱祁镇的原配妻子，二人感情深厚。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "张辅",
+      "type": "君臣",
+      "description": "张辅是四朝元老，英国公，随英宗亲征。文中暗示张辅曾受英宗父亲托付辅佐英宗。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "邝埜",
+      "target": "于谦",
+      "type": "同僚",
+      "description": "邝埜为兵部尚书，于谦为兵部侍郎，二人共同反对英宗亲征。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "郭敬",
+      "target": "王振",
+      "type": "同僚",
+      "description": "郭敬是大同镇守太监，向顶头上司王振报告阳和战败的惨况。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "郭敬",
+      "target": "也先",
+      "type": "敌对",
+      "description": "郭敬参与阳和之战，被也先军队击败。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "也先",
+      "type": "敌对",
+      "description": "石亨在阳和之战中被也先军队击败，部下全军覆没。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "宋瑛",
+      "target": "也先",
+      "type": "敌对",
+      "description": "宋瑛在阳和之战中被也先军队阵斩。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "朱勇",
+      "target": "朱能",
+      "type": "亲属",
+      "description": "朱勇是成国公朱能之子，承袭父爵。",
+      "chapter": "第十四章 土木堡",
+      "volume": 2
+    },
+    {
+      "source": "王直",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "王直作为吏部尚书，在皇帝被俘后主持朝局，首要关切皇帝生死。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "梁贵",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "梁贵作为锦衣卫千户随朱祁镇出征，逃回后向朝廷报告皇帝被俘的消息。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "喜宁",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "喜宁原是朱祁镇的随侍太监，但在被俘后背叛并投降瓦剌。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "喜宁",
+      "target": "也先",
+      "type": "同盟",
+      "description": "喜宁投降瓦剌后，为也先出谋划策，并告知明朝边关防务。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "朱祁镇",
+      "type": "敌对",
+      "description": "也先在土木堡击败明军并俘虏了明朝皇帝朱祁镇，将其作为人质。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "赛刊王",
+      "target": "也先",
+      "type": "亲属",
+      "description": "赛刊王是也先的弟弟，在俘虏朱祁镇后向其汇报情况。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "伯颜帖木尔",
+      "target": "也先",
+      "type": "亲属",
+      "description": "伯颜帖木尔是也先的弟弟，在讨论中主张不杀朱祁镇。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "伯颜帖木尔",
+      "target": "朱祁镇",
+      "type": "关联",
+      "description": "也先决定不杀朱祁镇后，将其交给伯颜帖木尔看管，后者逐渐被朱祁镇的人格魅力影响。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "乃公",
+      "target": "朱祁镇",
+      "type": "敌对",
+      "description": "乃公在瓦剌内部讨论时，主张杀掉被俘的朱祁镇。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "袁彬",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "袁彬是被俘明军人员，被也先指派服侍朱祁镇，对其极为忠诚，陪伴其度过俘虏生涯。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "钱皇后",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "钱皇后是朱祁镇的妻子，在皇帝被俘后试图用财宝赎回他。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "徐珵",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "徐珵在由朱祁钰主持的朝会上，提出南迁的建议。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "徐珵",
+      "type": "敌对",
+      "description": "在朝会上，于谦严厉驳斥徐珵的南迁主张，称‘建议南迁之人，该杀！’",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "于谦在朱祁钰主持的朝会上发言，力主保卫北京。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "朱祁钰是明英宗朱祁镇的弟弟，在兄长被俘后暂代执政。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "王振",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "王振是明英宗宠信的宦官，其错误决策导致了土木堡之变（本章作为背景提及）。",
+      "chapter": "第十五章 力挽狂澜",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "徐珵",
+      "type": "敌对",
+      "description": "于谦怒斥建议南迁的徐珵，主张坚决抵抗。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "王直",
+      "type": "同盟",
+      "description": "吏部尚书王直公开站出来支持于谦的主战主张。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "商辂",
+      "type": "同盟",
+      "description": "商辂站在于谦一边，支持其抵抗主张。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "朱祁钰将防守北京的重任交给代理兵部尚书的于谦。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "陈懋",
+      "type": "君臣",
+      "description": "于谦下令征调宁阳侯陈懋所部浙军赴京守卫。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "邝野",
+      "type": "关联",
+      "description": "于谦在八月二十一日正式接替邝野的兵部尚书职位。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "陈溢",
+      "target": "王振",
+      "type": "敌对",
+      "description": "陈溢极其痛恨王振，在朝会上首先弹劾王振祸国殃民。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "马顺",
+      "target": "王振",
+      "type": "同盟",
+      "description": "马顺是王振的死党，帮王振干了不少坏事。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "马顺",
+      "target": "刘球",
+      "type": "敌对",
+      "description": "马顺曾派人杀害侍讲学士刘球。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "王竑",
+      "target": "马顺",
+      "type": "敌对",
+      "description": "王竑痛恨王振一党，在朝会上带头殴打并打死了马顺。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "马顺",
+      "type": "君臣",
+      "description": "马顺作为锦衣卫指挥，在朝会上喝斥群臣，执行朱祁钰命令。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "金英",
+      "target": "毛贵",
+      "type": "关联",
+      "description": "金英将王振同党毛贵引入朝堂，导致其被群臣殴死。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "金英",
+      "target": "王长随",
+      "type": "关联",
+      "description": "金英将王振同党王长随引入朝堂，导致其被群臣殴死。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "毛贵",
+      "target": "王振",
+      "type": "同盟",
+      "description": "毛贵是王振的同党。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "王长随",
+      "target": "王振",
+      "type": "同盟",
+      "description": "王长随是王振的同党。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "王山",
+      "target": "王振",
+      "type": "亲属",
+      "description": "王山是王振的侄子，倚仗其权势。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "朱祁钰是明英宗朱祁镇的弟弟，在其被俘后监国。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "朱祁镇",
+      "type": "敌对",
+      "description": "瓦剌首领也先在土木堡击败明军并俘虏了明英宗朱祁镇。",
+      "chapter": "第十六章 决断！",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "兄弟关系。朱祁钰在朱祁镇被俘后即位，后关系因皇权而恶化。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "于谦",
+      "type": "君臣",
+      "description": "朱祁钰即位后，于谦作为兵部尚书负责北京防务，是景泰帝的重臣。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "也先",
+      "type": "敌对",
+      "description": "也先在土木堡俘虏朱祁镇，并挟持其四处索赎、叫门。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "伯颜帖木儿",
+      "type": "关联",
+      "description": "伯颜帖木儿是也先指派看管朱祁镇的负责人。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "郭登",
+      "type": "关联",
+      "description": "朱祁镇被挟持至大同城下，试图以姻亲关系命令郭登开门，遭拒。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "杨洪",
+      "type": "关联",
+      "description": "朱祁镇被挟持至宣府城下，试图命令杨洪开门，遭巧妙拒绝。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "喜宁",
+      "type": "同盟",
+      "description": "喜宁投降瓦剌，为也先出谋划策（如挟帝叫门），是也先的谋士。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "伯颜帖木儿",
+      "type": "亲属",
+      "description": "兄弟关系。伯颜帖木儿是也先的弟弟。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "马哈木",
+      "type": "亲属",
+      "description": "祖孙关系。马哈木是也先的祖父。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "郭登",
+      "type": "敌对",
+      "description": "也先企图进攻大同，被郭登坚守击退，双方是攻守敌对关系。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "杨洪",
+      "type": "敌对",
+      "description": "也先多次进攻宣府，均被杨洪击退，对杨洪十分忌惮。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "孙祥",
+      "type": "敌对",
+      "description": "也先率军攻破紫荆关，守将孙祥战死。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "郭登",
+      "target": "郭英",
+      "type": "亲属",
+      "description": "祖孙关系。郭登是武定侯郭英的后代。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "郭登",
+      "target": "刘安",
+      "type": "关联",
+      "description": "刘安是郭登的前任大同总兵，因能力不足被郭登取代。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "也先",
+      "type": "敌对",
+      "description": "于谦是北京保卫战明军总指挥，组织防御对抗也先的进攻。",
+      "chapter": "第十七章 信念",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "喜宁",
+      "type": "同盟",
+      "description": "也先接受投降明朝太监喜宁的建议，喜宁为其出谋划策对付明朝。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "朱祁镇",
+      "type": "敌对",
+      "description": "也先在土木堡俘虏明英宗朱祁镇，并在北京城下以其为筹码要挟明朝。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "博罗茂洛海",
+      "type": "亲属",
+      "description": "博罗茂洛海是也先的弟弟，受也先命令率军进攻德胜门。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "石亨",
+      "type": "同盟",
+      "description": "于谦不计前嫌提拔石亨，二人共同谋划北京防务，分别镇守德胜门和安定门。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "赵荣",
+      "type": "君臣",
+      "description": "于谦作为兵部尚书，临时派遣并提升赵荣为代表与瓦剌谈判。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "王复",
+      "type": "君臣",
+      "description": "于谦作为兵部尚书，临时派遣并提升王复为代表与瓦剌谈判。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "刘聚",
+      "target": "高礼",
+      "type": "君臣",
+      "description": "刘聚作为西直门守将，派遣部将高礼迎击瓦剌军。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "刘聚",
+      "target": "毛福寿",
+      "type": "君臣",
+      "description": "刘聚作为西直门守将，派遣部将毛福寿迎击瓦剌军。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "石彪",
+      "type": "亲属",
+      "description": "石彪是石亨的侄子，在石亨麾下担任先锋将领。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "也先",
+      "type": "敌对",
+      "description": "石亨曾在阳和之战中被也先击败，怀有旧仇，在北京保卫战中于安定门伏击并大败也先。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "喜宁",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "投降瓦剌的喜宁为也先策划阴谋，企图对付以于谦为首的明朝抵抗力量。",
+      "chapter": "第十八章 北京保卫战",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "也先",
+      "type": "敌对",
+      "description": "朱祁镇被也先俘虏并挟持，也先曾计划谋杀朱祁镇。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "伯颜帖木儿",
+      "type": "朋友",
+      "description": "伯颜帖木儿原为看守，后被朱祁镇人格魅力感化，对其礼遇有加并多方保护。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "喜宁",
+      "type": "敌对",
+      "description": "喜宁投降瓦剌后，屡次向也先献策欲加害朱祁镇，朱祁镇设计将其除掉。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "袁彬",
+      "type": "朋友",
+      "description": "袁彬在朱祁镇被俘期间始终追随，患难与共，由君臣变为挚友。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "哈铭",
+      "type": "朋友",
+      "description": "哈铭（蒙古族）在朱祁镇被俘期间忠心侍奉，与袁彬同为朱祁镇重要支持者。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱祁钰",
+      "type": "亲属",
+      "description": "兄弟关系。朱祁钰在朱祁镇被俘后即位，本章提及朱祁钰不欲接回朱祁镇。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "高斌",
+      "type": "君臣",
+      "description": "朱祁镇信任高斌，委以其密令，命其协助擒杀喜宁。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "伯颜帖木儿",
+      "type": "亲属",
+      "description": "兄弟关系。也先因伯颜帖木儿尊敬朱祁镇而愤怒。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "也先",
+      "target": "喜宁",
+      "type": "君臣",
+      "description": "喜宁投降瓦剌后成为也先下属，为其出谋划策。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "袁彬",
+      "target": "哈铭",
+      "type": "朋友",
+      "description": "两人共同辅佐和保护被俘的朱祁镇，并肩作战。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "高斌",
+      "target": "江福",
+      "type": "关联",
+      "description": "高斌向江福传达朱祁镇密令，江福据此设伏擒杀喜宁。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "于谦",
+      "type": "君臣",
+      "description": "于谦是朱祁镇（及后来朱祁钰）的臣子，本章仅提及于谦领导北京保卫战的功绩。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "石亨",
+      "type": "君臣",
+      "description": "石亨是朱祁镇的臣子，本章仅提及其因北京保卫战受封赏。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "杨洪",
+      "type": "君臣",
+      "description": "杨洪是朱祁镇的臣子，本章仅提及其因北京保卫战受封赏。",
+      "chapter": "第十九章 朱祁镇的奋斗",
+      "volume": 2
+    },
+    {
+      "source": "王直",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "王直作为吏部尚书，上奏折力主迎回朱祁镇，与皇帝朱祁钰发生激烈争执。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "兄弟关系。朱祁钰在朱祁镇被俘后即位，极度不愿其兄回归，担心皇位受影响。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "于谦在朝会上巧妙进言，用“天位已定”安抚朱祁钰，使其同意派遣使者。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "胡濙",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "礼部尚书胡濙向朱祁钰进言，认为应该迎接朱祁镇回来。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "李实",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "李实作为大明使者，在瓦剌面见被俘的太上皇朱祁镇，并对其加以嘲讽和质问。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "李实",
+      "target": "也先",
+      "type": "敌对",
+      "description": "李实代表明朝出使瓦剌，与首领也先进行外交对话，交涉归还朱祁镇事宜。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "王振",
+      "type": "君臣",
+      "description": "朱祁镇宠信宦官王振，李实指责其被俘之祸源于此。朱祁镇辩称群臣当时不进言。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "兴安",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "太监兴安是朱祁钰的亲信，奉命训斥使者李实，执行皇帝意图。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "兴安",
+      "target": "李实",
+      "type": "关联",
+      "description": "兴安训斥李实，让他不要多问国书内容，只管奉命出使。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "皮勒马尼哈马",
+      "target": "胡濙",
+      "type": "关联",
+      "description": "瓦剌使臣皮勒马尼哈马在京城无人理会，自行找到礼部要求见尚书胡濙，促使胡濙再次建议遣使。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "杨善",
+      "target": "也先",
+      "type": "敌对",
+      "description": "杨善作为大明使臣，前往瓦剌与也先谈判，运用口才试图说服也先放归朱祁镇。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "杨善",
+      "target": "朱祁钰",
+      "type": "君臣",
+      "description": "杨善被朱祁钰随意指派为出使瓦剌的使者，但皇帝并未给予实质支持。",
+      "chapter": "第二十章 回家",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "敌对",
+      "description": "朱祁钰囚禁归来的哥哥朱祁镇于南宫，严密监视，并试图寻找机会除掉他，关系极度紧张。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "钱皇后",
+      "type": "亲属",
+      "description": "夫妻关系。钱皇后在朱祁镇被囚期间不离不弃，做针线活维持生计，是朱祁镇的精神支柱。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱见深",
+      "type": "敌对",
+      "description": "朱祁钰废黜了侄子朱见深的太子之位，以立自己的儿子朱见济。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱见济",
+      "type": "亲属",
+      "description": "父子关系。朱祁钰立朱见济为太子，以巩固自己的皇位传承。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "父子关系。朱见深是朱祁镇的太子，后被废。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "兴安",
+      "type": "君臣",
+      "description": "主仆与亲信关系。兴安是朱祁钰的亲信太监，为其出谋划策（如行贿改立太子）。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "阮浪",
+      "type": "朋友",
+      "description": "朱祁镇被囚期间，以真诚打动负责监视的宦官阮浪，并赠送其礼物，阮浪因此被处死。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "阮浪",
+      "target": "王瑶",
+      "type": "朋友",
+      "description": "朋友关系。阮浪将朱祁镇所赠之物转送给王瑶，导致二人卷入金刀案。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "王瑶",
+      "target": "卢忠",
+      "type": "敌对",
+      "description": "表面是朋友，实则卢忠为陷害朱祁镇、谋求升迁而告发王瑶和阮浪，导致二人被杀。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "卢忠",
+      "target": "李善",
+      "type": "同盟",
+      "description": "同事关系，同为锦衣卫，合谋告发金刀案。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "徐有贞",
+      "target": "于谦",
+      "type": "敌对",
+      "description": "徐有贞（徐珵）因南迁建议被于谦当众驳斥并受辱，后误以为于谦阻其升迁，心生怨恨。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "徐有贞",
+      "target": "江渊",
+      "type": "敌对",
+      "description": "徐珵视江渊为朋友并倾诉，江渊却随后在朝堂上主张固守，得到升迁，徐珵感到被背叛。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "陈循",
+      "type": "君臣",
+      "description": "皇帝与首辅。朱祁钰通过兴安向陈循行贿，以换取其支持改立太子。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "高毂",
+      "type": "君臣",
+      "description": "皇帝与次辅。朱祁钰通过兴安向高毂行贿，以换取其支持改立太子。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "王直",
+      "type": "君臣",
+      "description": "皇帝与吏部尚书。王直反对朱祁钰行贿改立太子，并曾试图探望被囚的朱祁镇。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "也先",
+      "type": "敌对",
+      "description": "也先在土木堡之变中俘虏朱祁镇，后将其放回。本章中朱祁镇回忆其经历。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "喜宁",
+      "type": "敌对",
+      "description": "喜宁是投降瓦剌的宦官，为也先出谋划策对付朱祁镇。本章中朱祁镇回忆其经历。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "孙太后",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "祖母与孙子。孙太后在朱祁钰即位前便立朱见深为太子，以保障其皇位继承权。",
+      "chapter": "第二十一章 囚徒朱祁镇",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "曹吉祥",
+      "type": "同盟",
+      "description": "共同策划夺门之变的同谋者。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "张軏",
+      "type": "同盟",
+      "description": "共同策划夺门之变的同谋者，关系很好。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "许彬",
+      "type": "朋友",
+      "description": "石亨向老熟人许彬请教阴谋计划，许彬推荐了徐有贞。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "徐有贞",
+      "type": "同盟",
+      "description": "夺门之变的核心同谋，徐有贞是计划的主要策划者。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "曹吉祥",
+      "target": "王振",
+      "type": "关联",
+      "description": "曹吉祥原先是王振的同党。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "张軏",
+      "target": "张玉",
+      "type": "亲属",
+      "description": "张軏是张玉的儿子。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "张軏",
+      "target": "张辅",
+      "type": "亲属",
+      "description": "张軏是张辅的弟弟。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "许彬",
+      "target": "徐有贞",
+      "type": "关联",
+      "description": "许彬向石亨推荐徐有贞参与夺门之变。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "徐有贞",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "徐有贞策划并执行夺门之变，拥立朱祁镇复位。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "王文",
+      "type": "君臣",
+      "description": "王文是朱祁钰的亲信大臣，在朝会上支持朱祁钰。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "陈循",
+      "type": "君臣",
+      "description": "陈循是朱祁钰的亲信大臣，在朝会上支持朱祁钰。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "朱见深是朱祁钰的侄子。朱祁钰在朝会上否决复立朱见深为太子。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "朱祁钰",
+      "target": "朱祁镇",
+      "type": "亲属",
+      "description": "兄弟关系。朱祁钰囚禁了朱祁镇，朱祁镇通过夺门之变复位取代朱祁钰。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "胡濙",
+      "type": "同盟",
+      "description": "共同商议推举朱见深复立为太子。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "王直",
+      "type": "同盟",
+      "description": "共同商议推举朱见深复立为太子。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "于谦",
+      "target": "商辂",
+      "type": "关联",
+      "description": "于谦等人找到商辂起草复立太子的奏折。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "朱祁镇",
+      "target": "朱见深",
+      "type": "亲属",
+      "description": "父子关系。朱见深是朱祁镇的长子。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "石亨",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "石亨是夺门之变的主要执行者之一，拥立朱祁镇复位。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "张軏",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "张軏是夺门之变的主要执行者之一，率军入城协助朱祁镇复位。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    },
+    {
+      "source": "曹吉祥",
+      "target": "朱祁镇",
+      "type": "君臣",
+      "description": "曹吉祥是夺门之变的参与者之一，拥立朱祁镇复位。",
+      "chapter": "第二十二章 夺门",
+      "volume": 2
+    }
+  ]
+}

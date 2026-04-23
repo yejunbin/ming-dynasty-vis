@@ -1,0 +1,3946 @@
+{
+  "persons": [
+    {
+      "name": "皇太极",
+      "aliases": [],
+      "identity": "后金大汗（后金第二位君主）",
+      "birthYear": 1592,
+      "deathYear": 1643,
+      "bio": "努尔哈赤第八子，继承汗位，政治手段高超，是明朝后期主要对手。",
+      "appearanceTime": "天启六年(1626)九月登基后",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 6",
+        "片段 7",
+        "片段 9",
+        "片段 10",
+        "片段 12",
+        "片段 13",
+        "片段 14",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "努尔哈赤",
+      "aliases": [],
+      "identity": "后金开国大汗",
+      "birthYear": 1559,
+      "deathYear": 1626,
+      "bio": "后金（清朝前身）建立者，长期侵扰明朝辽东。",
+      "appearanceTime": "本章开头提及其去世（天启六年）",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "代善",
+      "aliases": [],
+      "identity": "后金四大贝勒之一，努尔哈赤次子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "努尔哈赤之子，有继承资格但因生活作风问题退出竞争，支持皇太极。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "阿敏",
+      "aliases": [],
+      "identity": "后金四大贝勒之一，努尔哈赤之侄",
+      "birthYear": 1586,
+      "deathYear": 1640,
+      "bio": "努尔哈赤之侄，皇太极堂兄，后金重要军事统帅，在永平之战中被孙承宗击败。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1",
+        "片段 7",
+        "片段 9"
+      ]
+    },
+    {
+      "name": "莽古尔泰",
+      "aliases": [
+        "三贝勒"
+      ],
+      "identity": "后金四大贝勒之一，努尔哈赤第五子",
+      "birthYear": 1587,
+      "deathYear": 1632,
+      "bio": "努尔哈赤第五子，率军进攻广渠门，被袁崇焕击退。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时；天启七年(1627)五月宁锦大战中",
+      "chapters": [
+        "片段 1",
+        "片段 6",
+        "片段 9"
+      ]
+    },
+    {
+      "name": "多尔衮",
+      "aliases": [],
+      "identity": "后金四小贝勒之一，努尔哈赤第十四子",
+      "birthYear": 1612,
+      "deathYear": 1650,
+      "bio": "努尔哈赤幼子，深受喜爱但年幼，未参与汗位竞争。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1",
+        "片段 9",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "阿济格",
+      "aliases": [],
+      "identity": "后金四小贝勒之一，努尔哈赤第十二子",
+      "birthYear": 1605,
+      "deathYear": 1651,
+      "bio": "努尔哈赤之子，年幼且不受待见，被排除继承。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1",
+        "片段 6",
+        "片段 14",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "济尔哈朗",
+      "aliases": [],
+      "identity": "后金四小贝勒之一，努尔哈赤之侄",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "努尔哈赤侄子，年幼且不受待见，被排除继承。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "多铎",
+      "aliases": [],
+      "identity": "后金四小贝勒之一，努尔哈赤第十五子",
+      "birthYear": 1614,
+      "deathYear": 1649,
+      "bio": "努尔哈赤幼子，年幼且不受待见，被排除继承。",
+      "appearanceTime": "天启六年(1626)汗位继承讨论时",
+      "chapters": [
+        "片段 1",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "袁崇焕",
+      "aliases": [
+        "袁督师"
+      ],
+      "identity": "明朝兵部右侍郎、辽东巡抚",
+      "birthYear": 1584,
+      "deathYear": 1630,
+      "bio": "明末将领，主持宁远、宁锦大捷，后被崇祯帝以擅杀毛文龙、通敌等罪名处死。",
+      "appearanceTime": "天启六年(1626)十月派使吊丧起，至天启七年(1627)宁锦大战",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 6",
+        "片段 7",
+        "片段 9",
+        "片段 10",
+        "片段 13",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "魏忠贤",
+      "aliases": [
+        "魏公公"
+      ],
+      "identity": "明朝司礼监秉笔太监，阉党首领",
+      "birthYear": 1568,
+      "deathYear": 1627,
+      "bio": "明熹宗朝权阉，曾为王安亲信，后迫害东林党。",
+      "appearanceTime": "宁远之战后论功行赏时提及",
+      "chapters": [
+        "片段 1",
+        "片段 3",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "王永光",
+      "aliases": [],
+      "identity": "明朝兵部尚书",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在御前辩论中为钱谦益辩护，后被温体仁指责结党。",
+      "appearanceTime": "宁远之战后提及",
+      "chapters": [
+        "片段 1",
+        "片段 8"
+      ]
+    },
+    {
+      "name": "高第",
+      "aliases": [],
+      "identity": "明朝原辽东经略",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "袁崇焕前任，因不战而退被革职。",
+      "appearanceTime": "宁远之战后提及被革职",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "满桂",
+      "aliases": [],
+      "identity": "明朝右都督、将领",
+      "birthYear": null,
+      "deathYear": 1630,
+      "bio": "明末将领，与袁崇焕不和，在德胜门抵御后金军时受伤。",
+      "appearanceTime": "宁远之战后升官；天启七年(1627)宁锦大战前与袁崇焕冲突及领援军",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 6",
+        "片段 7"
+      ]
+    },
+    {
+      "name": "赵率教",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": 1569,
+      "deathYear": 1629,
+      "bio": "明末将领，袁崇焕亲信，被推荐为山海关总兵。",
+      "appearanceTime": "宁远之战后升官；天启七年(1627)五月宁锦大战中守锦州",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 6",
+        "片段 9"
+      ]
+    },
+    {
+      "name": "左辅",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明将，参与宁远之战。",
+      "appearanceTime": "宁远之战后升官时提及",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "朱梅",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，宁远兵变时与毕自肃一同被缚。",
+      "appearanceTime": "宁远之战后升官时提及",
+      "chapters": [
+        "片段 1",
+        "片段 5"
+      ]
+    },
+    {
+      "name": "祖大寿",
+      "aliases": [],
+      "identity": "明朝将领",
+      "birthYear": 1579,
+      "deathYear": 1656,
+      "bio": "明末清初将领，袁崇焕部下，关宁铁骑重要统帅，后降清。",
+      "appearanceTime": "宁远之战后升官时提及",
+      "chapters": [
+        "片段 1",
+        "片段 5",
+        "片段 6",
+        "片段 7",
+        "片段 9",
+        "片段 13",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "孙承宗",
+      "aliases": [
+        "孙大学士"
+      ],
+      "identity": "明朝帝师、前辽东督师",
+      "birthYear": 1563,
+      "deathYear": 1638,
+      "bio": "明末军事家、战略家，主持修建关宁锦防线，在己巳之变中稳定局势并收复失地。",
+      "appearanceTime": "宁远之战后论功行赏时提及",
+      "chapters": [
+        "片段 1",
+        "片段 6",
+        "片段 7",
+        "片段 9",
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "顾秉谦",
+      "aliases": [],
+      "identity": "明朝内阁首辅，阉党成员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阿附魏忠贤的官员。",
+      "appearanceTime": "宁远之战后论功行赏时提及",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "王之臣",
+      "aliases": [],
+      "identity": "明朝辽东督师",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "袁崇焕的上司，曾调解袁崇焕与满桂的矛盾。",
+      "appearanceTime": "天启七年(1627)宁锦大战前调解袁满矛盾时",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "熊廷弼",
+      "aliases": [],
+      "identity": "明朝前辽东经略",
+      "birthYear": 1569,
+      "deathYear": 1625,
+      "bio": "明末将领，曾经营辽东，本章通过袁崇焕回忆提及。",
+      "appearanceTime": "朝廷调解袁王矛盾时作为历史教训提及",
+      "chapters": [
+        "片段 1",
+        "片段 6"
+      ]
+    },
+    {
+      "name": "王化贞",
+      "aliases": [],
+      "identity": "明朝前辽东巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末官员，与熊廷弼不和。",
+      "appearanceTime": "朝廷调解袁王矛盾时作为历史教训提及",
+      "chapters": [
+        "片段 1"
+      ]
+    },
+    {
+      "name": "朱由检",
+      "aliases": [
+        "崇祯",
+        "崇祯皇帝"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1611,
+      "deathYear": 1644,
+      "bio": "明朝第十六位皇帝，即位后铲除魏忠贤阉党。",
+      "appearanceTime": "天启七年(1627)九月至十一月",
+      "chapters": [
+        "片段 3",
+        "片段 12"
+      ]
+    },
+    {
+      "name": "客氏",
+      "aliases": [
+        "客大妈"
+      ],
+      "identity": "明熹宗朱由校乳母",
+      "birthYear": null,
+      "deathYear": 1627,
+      "bio": "明熹宗乳母，与魏忠贤勾结，权倾后宫。",
+      "appearanceTime": "天启七年(1627)九月初三",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "王体乾",
+      "aliases": [],
+      "identity": "司礼监掌印太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "魏忠贤死党，司礼监掌印太监。",
+      "appearanceTime": "天启七年(1627)九月初四",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "杨所修",
+      "aliases": [],
+      "identity": "都察院副都御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党成员，为自保率先弹劾崔呈秀。",
+      "appearanceTime": "天启七年(1627)九月十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "崔呈秀",
+      "aliases": [],
+      "identity": "兵部尚书、阉党核心",
+      "birthYear": null,
+      "deathYear": 1627,
+      "bio": "魏忠贤头号死党，阉党“五虎”之首。",
+      "appearanceTime": "天启七年(1627)九月十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "陈殷",
+      "aliases": [],
+      "identity": "太仆寺少卿",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党骨干，被杨所修弹劾。",
+      "appearanceTime": "天启七年(1627)九月十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "朱童蒙",
+      "aliases": [],
+      "identity": "巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党骨干，被杨所修弹劾。",
+      "appearanceTime": "天启七年(1627)九月十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "李养德",
+      "aliases": [],
+      "identity": "工部尚书",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党骨干，被杨所修弹劾。",
+      "appearanceTime": "天启七年(1627)九月十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "朱三俊",
+      "aliases": [],
+      "identity": "国子监司业（副校长）",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "弹劾监生陆万龄。",
+      "appearanceTime": "天启七年(1627)九月二十四日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "陆万龄",
+      "aliases": [],
+      "identity": "国子监监生",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党狂热支持者，提议为魏忠贤建生祠。",
+      "appearanceTime": "天启七年(1627)九月二十四日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "杨邦宪",
+      "aliases": [],
+      "identity": "江西巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "魏忠贤铁杆，上疏请求为魏忠贤修生祠。",
+      "appearanceTime": "天启七年(1627)九月二十五日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "魏良卿",
+      "aliases": [],
+      "identity": "魏忠贤侄子",
+      "birthYear": null,
+      "deathYear": 1627,
+      "bio": "因魏忠贤关系获封赏，后被处死。",
+      "appearanceTime": "天启七年(1627)九月末至十月初",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "魏广微",
+      "aliases": [],
+      "identity": "已故阉党成员",
+      "birthYear": null,
+      "deathYear": 1627,
+      "bio": "阉党成员，死后被追赠太师。",
+      "appearanceTime": "天启七年(1627)九月末至十月初",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "陈尔翼",
+      "aliases": [],
+      "identity": "吏科给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党成员，上疏为崔呈秀辩护并攻击东林党。",
+      "appearanceTime": "天启七年(1627)十月",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "杨维垣",
+      "aliases": [],
+      "identity": "云南监察御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "阉党成员，受魏忠贤指使弹劾崔呈秀以自保。",
+      "appearanceTime": "天启七年(1627)十月十五日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "陆澄源",
+      "aliases": [],
+      "identity": "工部主事",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "非阉党官员，率先同时弹劾崔呈秀与魏忠贤。",
+      "appearanceTime": "天启七年(1627)十月二十三日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "钱元悫",
+      "aliases": [],
+      "identity": "兵部主事",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "上疏痛斥崔呈秀与魏忠贤。",
+      "appearanceTime": "天启七年(1627)十月二十五日后",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "史躬盛",
+      "aliases": [],
+      "identity": "刑部员外郎",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "上疏弹劾魏忠贤。",
+      "appearanceTime": "天启七年(1627)十月末",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "钱嘉征",
+      "aliases": [],
+      "identity": "国子监监生",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "上疏弹劾魏忠贤十大罪，成为倒魏关键一击。",
+      "appearanceTime": "天启七年(1627)十月二十六日",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "徐应元",
+      "aliases": [],
+      "identity": "崇祯皇帝亲近太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "崇祯旧仆，表面帮助魏忠贤，实则促其速败。",
+      "appearanceTime": "天启七年(1627)十月末",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "朱由校",
+      "aliases": [
+        "天启皇帝",
+        "先皇",
+        "先帝"
+      ],
+      "identity": "明朝皇帝（明熹宗）",
+      "birthYear": 1605,
+      "deathYear": 1627,
+      "bio": "明朝第十五位皇帝，魏忠贤的庇护者。",
+      "appearanceTime": "本章中作为已故人物被提及",
+      "chapters": [
+        "片段 3"
+      ]
+    },
+    {
+      "name": "崇祯帝",
+      "aliases": [
+        "崇祯",
+        "朱由检",
+        "皇帝"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1611,
+      "deathYear": 1644,
+      "bio": "明朝末代皇帝，在位期间面临内忧外患，性格多疑，最终自缢于煤山。",
+      "appearanceTime": "崇祯元年至二年（1628-1629）",
+      "chapters": [
+        "片段 5",
+        "片段 6",
+        "片段 7",
+        "片段 8",
+        "片段 10",
+        "片段 13",
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "毕自肃",
+      "aliases": [
+        "毕巡抚"
+      ],
+      "identity": "辽东巡抚",
+      "birthYear": null,
+      "deathYear": 1629,
+      "bio": "明末官员，因宁远兵变被缚，后自杀。",
+      "appearanceTime": "崇祯二年（1629）宁远兵变时",
+      "chapters": [
+        "片段 5"
+      ]
+    },
+    {
+      "name": "毕自严",
+      "aliases": [],
+      "identity": "户部尚书",
+      "birthYear": 1569,
+      "deathYear": 1638,
+      "bio": "明末户部尚书，毕自肃之兄，掌管财政。",
+      "appearanceTime": "崇祯二年（1629）袁崇焕索要军饷时",
+      "chapters": [
+        "片段 5",
+        "片段 6"
+      ]
+    },
+    {
+      "name": "杨正朝",
+      "aliases": [],
+      "identity": "宁远兵变头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宁远兵变带头者之一，后被袁崇焕处决。",
+      "appearanceTime": "崇祯二年（1629）宁远兵变时",
+      "chapters": [
+        "片段 5"
+      ]
+    },
+    {
+      "name": "张思顺",
+      "aliases": [],
+      "identity": "宁远兵变头目",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "宁远兵变带头者之一，后被袁崇焕处决。",
+      "appearanceTime": "崇祯二年（1629）宁远兵变时",
+      "chapters": [
+        "片段 5"
+      ]
+    },
+    {
+      "name": "吴国琦",
+      "aliases": [],
+      "identity": "中军部将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，因对宁远兵变负有直接责任被袁崇焕处斩。",
+      "appearanceTime": "崇祯二年（1629）兵变平息后",
+      "chapters": [
+        "片段 5"
+      ]
+    },
+    {
+      "name": "左良玉",
+      "aliases": [
+        "左总兵"
+      ],
+      "identity": "将领",
+      "birthYear": 1599,
+      "deathYear": 1645,
+      "bio": "明末将领，隶属熊文灿麾下，但看不起熊文灿。",
+      "appearanceTime": "崇祯二年（1629）兵变平息后",
+      "chapters": [
+        "片段 5",
+        "片段 12",
+        "片段 13",
+        "片段 14",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "何可纲",
+      "aliases": [],
+      "identity": "宁远总兵（袁崇焕推荐）",
+      "birthYear": null,
+      "deathYear": 1631,
+      "bio": "明末将领，袁崇焕亲信，被推荐为宁远总兵。",
+      "appearanceTime": "崇祯二年（1629）袁崇焕调整人事时",
+      "chapters": [
+        "片段 5",
+        "片段 9"
+      ]
+    },
+    {
+      "name": "麻登云",
+      "aliases": [],
+      "identity": "原任总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，原任总兵，被袁崇焕建议另行任用。",
+      "appearanceTime": "崇祯二年（1629）袁崇焕调整人事时",
+      "chapters": [
+        "片段 5"
+      ]
+    },
+    {
+      "name": "毛文龙",
+      "aliases": [
+        "毛总兵"
+      ],
+      "identity": "左都督、总兵皮岛",
+      "birthYear": 1576,
+      "deathYear": 1629,
+      "bio": "明末将领，镇守东江（皮岛），牵制后金，后被袁崇焕擅杀。",
+      "appearanceTime": "崇祯二年（1629）",
+      "chapters": [
+        "片段 5",
+        "片段 6",
+        "片段 7",
+        "片段 9",
+        "片段 10"
+      ]
+    },
+    {
+      "name": "钱龙锡",
+      "aliases": [],
+      "identity": "大学士",
+      "birthYear": 1579,
+      "deathYear": 1645,
+      "bio": "在御前辩论中为钱谦益辩护，后建议钱谦益离职听候处理。",
+      "appearanceTime": "崇祯元年（1628）七月",
+      "chapters": [
+        "片段 5",
+        "片段 7",
+        "片段 8"
+      ]
+    },
+    {
+      "name": "王洽",
+      "aliases": [],
+      "identity": "原任兵部尚书",
+      "birthYear": null,
+      "deathYear": 1629,
+      "bio": "明末官员，因己巳之变中应对不力被撤职处死。",
+      "appearanceTime": "崇祯二年十一月(1629年11月)",
+      "chapters": [
+        "片段 6"
+      ]
+    },
+    {
+      "name": "黑云龙",
+      "aliases": [],
+      "identity": "总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，袁崇焕部下。",
+      "appearanceTime": "崇祯二年十一月二十三日(1629年11月23日)",
+      "chapters": [
+        "片段 6"
+      ]
+    },
+    {
+      "name": "吴襄",
+      "aliases": [],
+      "identity": "将领",
+      "birthYear": null,
+      "deathYear": 1644,
+      "bio": "明末将领，吴三桂之父，参与广渠门之战。",
+      "appearanceTime": "崇祯二年十一月二十日(1629年11月20日)",
+      "chapters": [
+        "片段 6",
+        "片段 9",
+        "片段 12"
+      ]
+    },
+    {
+      "name": "马世龙",
+      "aliases": [],
+      "identity": "明军将领（辽东系）",
+      "birthYear": null,
+      "deathYear": 1634,
+      "bio": "明末将领，辽东系重要人物，曾不听袁崇焕调遣，但服从孙承宗指挥。",
+      "appearanceTime": "崇祯三年(1630)",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "杨国栋",
+      "aliases": [],
+      "identity": "通州总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，己巳之变时驻守通州，一度欲弃城，被孙承宗稳住。",
+      "appearanceTime": "崇祯二年(1629)",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "温体仁",
+      "aliases": [],
+      "identity": "礼部尚书，后入阁",
+      "birthYear": 1573,
+      "deathYear": 1638,
+      "bio": "明末大臣，崇祯朝内阁首辅，权术家，在袁崇焕案中推波助澜以打击政敌。",
+      "appearanceTime": "崇祯三年(1630)",
+      "chapters": [
+        "片段 7",
+        "片段 8",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "周延儒",
+      "aliases": [],
+      "identity": "礼部侍郎，后入阁",
+      "birthYear": 1593,
+      "deathYear": 1644,
+      "bio": "明末大臣，崇祯朝内阁首辅，与温体仁合谋利用袁案打击钱龙锡。",
+      "appearanceTime": "崇祯三年(1630)",
+      "chapters": [
+        "片段 7",
+        "片段 8"
+      ]
+    },
+    {
+      "name": "高捷",
+      "aliases": [],
+      "identity": "御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末言官，上疏弹劾钱龙锡与袁崇焕勾结。",
+      "appearanceTime": "崇祯二年十二月(1629)",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "史范",
+      "aliases": [],
+      "identity": "山东御史",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末言官，上疏弹劾钱龙锡收受袁崇焕贿赂，促使崇祯下决心杀袁。",
+      "appearanceTime": "崇祯三年八月(1630)",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "刘之纶",
+      "aliases": [
+        "刘侍郎"
+      ],
+      "identity": "兵部侍郎",
+      "birthYear": null,
+      "deathYear": 1630,
+      "bio": "明末文官将领，率军与后金作战，因马世龙不援而战死。",
+      "appearanceTime": "崇祯三年(1630)，作为背景提及。",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "成基命",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": 1559,
+      "deathYear": 1635,
+      "bio": "明末大臣，因与钱龙锡关系密切，在钱去职后不久亦离职。",
+      "appearanceTime": "崇祯三年(1630)，作为背景提及。",
+      "chapters": [
+        "片段 7"
+      ]
+    },
+    {
+      "name": "钱谦益",
+      "aliases": [
+        "受之"
+      ],
+      "identity": "东林党领袖，礼部右侍郎",
+      "birthYear": 1582,
+      "deathYear": 1664,
+      "bio": "明末文臣，东林党领袖，因科举舞弊案及与温体仁、周延儒的党争而闻名。",
+      "appearanceTime": "崇祯元年(1628)",
+      "chapters": [
+        "片段 8",
+        "片段 13",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "韩敬",
+      "aliases": [],
+      "identity": "官员，钱谦益同科进士",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "钱谦益的政敌，曾与钱谦益竞争状元，后因京察被贬。",
+      "appearanceTime": "天启元年(1621)（回忆）",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "钱千秋",
+      "aliases": [],
+      "identity": "举人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "浙江科举舞弊案当事人，通过买密码中举。",
+      "appearanceTime": "天启元年(1621)（回忆）",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "顾其中",
+      "aliases": [],
+      "identity": "礼部给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "天启元年上疏弹劾钱谦益在浙江乡试中作弊。",
+      "appearanceTime": "天启元年(1621)（回忆）",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "乔允升",
+      "aliases": [],
+      "identity": "刑部尚书",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在御前辩论中证实浙江科举案已结案。",
+      "appearanceTime": "崇祯元年(1628)",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "章允儒",
+      "aliases": [],
+      "identity": "礼部给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在御前辩论中为钱谦益辩护，因言辞激烈被崇祯下令逮捕。",
+      "appearanceTime": "崇祯元年(1628)",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "李标",
+      "aliases": [],
+      "identity": "内阁大学士",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "在御前辩论中为钱谦益辩护，否认结党。",
+      "appearanceTime": "崇祯元年(1628)",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "沈一贯",
+      "aliases": [],
+      "identity": "前内阁首辅",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "温体仁的老师。",
+      "appearanceTime": "本章提及（无具体时间）",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "柳如是",
+      "aliases": [],
+      "identity": "钱谦益之妻",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末才女，钱谦益的妻子，使其名声更著。",
+      "appearanceTime": "本章提及（无具体时间）",
+      "chapters": [
+        "片段 8"
+      ]
+    },
+    {
+      "name": "崇祯",
+      "aliases": [],
+      "identity": "明朝皇帝",
+      "birthYear": 1611,
+      "deathYear": 1644,
+      "bio": "明朝末代皇帝，年号崇祯。",
+      "appearanceTime": "崇祯二年(1629)至崇祯四年(1631)",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "韩一良",
+      "aliases": [],
+      "identity": "明朝官员",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "本章中因上疏言贪污事被崇祯斥责罢官的官员。",
+      "appearanceTime": "崇祯初年",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "刘懋",
+      "aliases": [],
+      "identity": "刑部给事中",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末官员，建议裁撤驿站，间接导致西北民变加剧。",
+      "appearanceTime": "崇祯二年(1629)",
+      "chapters": [
+        "片段 9",
+        "片段 10"
+      ]
+    },
+    {
+      "name": "王守仁",
+      "aliases": [
+        "王阳明"
+      ],
+      "identity": "明代思想家、军事家",
+      "birthYear": 1472,
+      "deathYear": 1529,
+      "bio": "明代心学集大成者，曾任驿站所长等职。",
+      "appearanceTime": "本章中作为驿站所长的历史背景提及",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "徐霞客",
+      "aliases": [
+        "徐弘祖"
+      ],
+      "identity": "地理学家、旅行家",
+      "birthYear": 1587,
+      "deathYear": 1641,
+      "bio": "明代著名地理学家，著有《徐霞客游记》。",
+      "appearanceTime": "本章中作为使用驿站的历史人物提及",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "李自成",
+      "aliases": [
+        "闯王"
+      ],
+      "identity": "明末农民起义领袖",
+      "birthYear": 1606,
+      "deathYear": 1645,
+      "bio": "明末民军领袖，高迎祥死后主要首领之一，受洪承畴、孙传庭夹击。",
+      "appearanceTime": "崇祯二年(1629)，因驿站被裁失业",
+      "chapters": [
+        "片段 9",
+        "片段 12",
+        "片段 13",
+        "片段 14",
+        "片段 15",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "吴三桂",
+      "aliases": [],
+      "identity": "明军将领",
+      "birthYear": 1612,
+      "deathYear": 1678,
+      "bio": "明末清初将领，引清兵入关的关键人物。",
+      "appearanceTime": "崇祯四年(1631)大凌河援军中提及",
+      "chapters": [
+        "片段 9",
+        "片段 10",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "张春",
+      "aliases": [],
+      "identity": "明军大将",
+      "birthYear": null,
+      "deathYear": 1631,
+      "bio": "明末将领，率四万援军救援大凌河，兵败被俘。",
+      "appearanceTime": "崇祯四年(1631)大凌河援军",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "丘禾嘉",
+      "aliases": [],
+      "identity": "锦州巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末官员，镇守锦州。",
+      "appearanceTime": "崇祯四年(1631)祖大寿诈降计划中",
+      "chapters": [
+        "片段 9"
+      ]
+    },
+    {
+      "name": "黄龙",
+      "aliases": [],
+      "identity": "总兵",
+      "birthYear": null,
+      "deathYear": 1633,
+      "bio": "明末将领，曾在海上截击叛逃的孔有德部。",
+      "appearanceTime": "本章末尾提及",
+      "chapters": [
+        "片段 9",
+        "片段 10"
+      ]
+    },
+    {
+      "name": "孔有德",
+      "aliases": [],
+      "identity": "叛军首领，后降清",
+      "birthYear": null,
+      "deathYear": 1652,
+      "bio": "原为明将，后叛明降清，为清初汉军将领。",
+      "appearanceTime": "崇祯年间（约1632年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "耿仲明",
+      "aliases": [],
+      "identity": "叛军首领，后降清",
+      "birthYear": 1604,
+      "deathYear": 1649,
+      "bio": "原为明将，与孔有德一同叛明降清。",
+      "appearanceTime": "崇祯年间（约1632年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "李九成",
+      "aliases": [],
+      "identity": "叛军将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "参与孔有德叛乱，在登州城外被明军击杀。",
+      "appearanceTime": "崇祯年间（约1632年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "毛承禄",
+      "aliases": [],
+      "identity": "叛军将领，毛文龙之子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "毛文龙之子，参与孔有德叛乱，后被俘处死。",
+      "appearanceTime": "崇祯年间（约1632年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "朱大典",
+      "aliases": [],
+      "identity": "明军统帅",
+      "birthYear": 1585,
+      "deathYear": 1646,
+      "bio": "明末官员，率军平定孔有德叛乱。",
+      "appearanceTime": "崇祯年间（约1632年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "孙元化",
+      "aliases": [],
+      "identity": "明朝巡抚，火炮专家",
+      "birthYear": 1581,
+      "deathYear": 1632,
+      "bio": "明末官员，精通西洋火器，曾修筑登州城防。",
+      "appearanceTime": "本章提及其过往事迹（崇祯初年）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "尚可喜",
+      "aliases": [],
+      "identity": "明军守岛将领，后降清",
+      "birthYear": 1604,
+      "deathYear": 1676,
+      "bio": "原为明将，后被孔有德劝降，成为清初藩王。",
+      "appearanceTime": "本章提及其被劝降（约1633年后）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "朱元璋",
+      "aliases": [
+        "明太祖",
+        "朱重八"
+      ],
+      "identity": "明朝开国皇帝",
+      "birthYear": 1328,
+      "deathYear": 1398,
+      "bio": "明朝开国皇帝，年号洪武。",
+      "appearanceTime": "本章提及其建都及发行纸币（历史背景）",
+      "chapters": [
+        "片段 10",
+        "片段 13"
+      ]
+    },
+    {
+      "name": "杨鹤",
+      "aliases": [],
+      "identity": "明朝官员，三边总督",
+      "birthYear": null,
+      "deathYear": 1635,
+      "bio": "明末官员，主张招抚西北民变，接替武之望任三边总督。",
+      "appearanceTime": "崇祯年间（约1631年后）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "武之望",
+      "aliases": [],
+      "identity": "明朝官员，前任三边总督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "杨鹤前任，因西北民变难以平定而自杀。",
+      "appearanceTime": "本章提及其自杀（杨鹤上任前）",
+      "chapters": [
+        "片段 10"
+      ]
+    },
+    {
+      "name": "曹文诏",
+      "aliases": [
+        "曹总兵"
+      ],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": 1635,
+      "bio": "明末猛将，以少击多，战死于崇祯八年。",
+      "appearanceTime": "崇祯七年（1634）",
+      "chapters": [
+        "片段 12",
+        "片段 13",
+        "片段 14"
+      ]
+    },
+    {
+      "name": "王朴",
+      "aliases": [
+        "王总兵"
+      ],
+      "identity": "明朝总兵",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，因受贿导致民军突围。",
+      "appearanceTime": "崇祯六年（1634）十一月",
+      "chapters": [
+        "片段 12",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "张献忠",
+      "aliases": [
+        "八大王",
+        "张县长"
+      ],
+      "identity": "民军首领，后建立大西政权",
+      "birthYear": 1606,
+      "deathYear": 1647,
+      "bio": "明末农民军领袖，建立大西政权，曾假意受抚于熊文灿。",
+      "appearanceTime": "崇祯六年至八年（1634-1635）",
+      "chapters": [
+        "片段 12",
+        "片段 13",
+        "片段 15",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "高迎祥",
+      "aliases": [
+        "闯王",
+        "高闯王"
+      ],
+      "identity": "民军首领，闯王",
+      "birthYear": null,
+      "deathYear": 1636,
+      "bio": "明末农民起义早期领袖，号称“第一强寇”，后被孙传庭俘杀。",
+      "appearanceTime": "崇祯七年（1634）",
+      "chapters": [
+        "片段 12",
+        "片段 13",
+        "片段 14",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "洪承畴",
+      "aliases": [
+        "洪总督"
+      ],
+      "identity": "明朝将领，后降清",
+      "birthYear": 1593,
+      "deathYear": 1665,
+      "bio": "明末重臣，松锦大战兵败被俘后降清。",
+      "appearanceTime": "崇祯七年至八年（1634-1635）",
+      "chapters": [
+        "片段 12",
+        "片段 13",
+        "片段 14",
+        "片段 15",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "陈奇瑜",
+      "aliases": [
+        "陈总督"
+      ],
+      "identity": "明朝官员，五省总督",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末官员，曾总督五省军务围剿农民军。",
+      "appearanceTime": "崇祯七年（1634）二月至八月",
+      "chapters": [
+        "片段 12",
+        "片段 13",
+        "片段 14"
+      ]
+    },
+    {
+      "name": "贺人龙",
+      "aliases": [
+        "贺总兵",
+        "贺疯子"
+      ],
+      "identity": "明朝将领",
+      "birthYear": null,
+      "deathYear": 1642,
+      "bio": "明末猛将，作战勇猛，人称“贺疯子”。",
+      "appearanceTime": "崇祯八年（1635）前",
+      "chapters": [
+        "片段 12",
+        "片段 14"
+      ]
+    },
+    {
+      "name": "罗汝才",
+      "aliases": [
+        "曹操"
+      ],
+      "identity": "民军首领",
+      "birthYear": null,
+      "deathYear": 1643,
+      "bio": "明末农民起义军将领，绰号“曹操”。",
+      "appearanceTime": "崇祯八年（1635）荥阳大会",
+      "chapters": [
+        "片段 12"
+      ]
+    },
+    {
+      "name": "刘国能",
+      "aliases": [
+        "闯塌天"
+      ],
+      "identity": "民军首领，后降明",
+      "birthYear": null,
+      "deathYear": 1641,
+      "bio": "明末民军领袖，原为秀才，于崇祯十年率部投降熊文灿。",
+      "appearanceTime": "崇祯八年（1635）",
+      "chapters": [
+        "片段 12",
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "朱五一",
+      "aliases": [],
+      "identity": "朱元璋伯父",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "朱元璋的伯父，其坟在凤阳皇陵。",
+      "appearanceTime": "本章提及其坟被张献忠所毁",
+      "chapters": [
+        "片段 13"
+      ]
+    },
+    {
+      "name": "卢象升",
+      "aliases": [
+        "卢建斗",
+        "卢阎王"
+      ],
+      "identity": "明末将领",
+      "birthYear": 1600,
+      "deathYear": 1639,
+      "bio": "明末名将，组建天雄军，以善战著称，后在巨鹿战死。",
+      "appearanceTime": "崇祯八年(1635)出任五省总督后",
+      "chapters": [
+        "片段 13",
+        "片段 14",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "祖宽",
+      "aliases": [],
+      "identity": "明末将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末关宁铁骑将领，以勇猛著称，参与镇压农民军。",
+      "appearanceTime": "崇祯八年(1635)被卢象升调来追击高迎祥部",
+      "chapters": [
+        "片段 13",
+        "片段 14"
+      ]
+    },
+    {
+      "name": "孙殿英",
+      "aliases": [],
+      "identity": "民国军阀",
+      "birthYear": 1889,
+      "deathYear": 1947,
+      "bio": "民国军阀，曾盗掘清东陵。",
+      "appearanceTime": "本章作为类比提及",
+      "chapters": [
+        "片段 13"
+      ]
+    },
+    {
+      "name": "曾国藩",
+      "aliases": [],
+      "identity": "清朝中兴名臣",
+      "birthYear": 1811,
+      "deathYear": 1872,
+      "bio": "清朝中兴名臣，创建湘军。",
+      "appearanceTime": "本章作为类比提及其建军方法",
+      "chapters": [
+        "片段 13"
+      ]
+    },
+    {
+      "name": "祖大乐",
+      "aliases": [],
+      "identity": "明末将领，关宁铁骑将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末关宁铁骑将领，祖大寿之弟，参与镇压农民军。",
+      "appearanceTime": "崇祯九年(1636)",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "陈永福",
+      "aliases": [],
+      "identity": "明末将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，曾参与围剿高迎祥，后投降李自成。",
+      "appearanceTime": "崇祯九年(1636)",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "邢氏",
+      "aliases": [],
+      "identity": "李自成之妻",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "李自成妻子，曾掌管账务，后与高杰私奔降明。",
+      "appearanceTime": "崇祯七年(1634)至崇祯九年(1636)间",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "高杰",
+      "aliases": [],
+      "identity": "明末将领，原为李自成部将，后降明",
+      "birthYear": null,
+      "deathYear": 1645,
+      "bio": "原李自成部将，后降明，成为明军重要将领。",
+      "appearanceTime": "崇祯二年(1629)至崇祯九年(1636)间",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "王家桢",
+      "aliases": [],
+      "identity": "明末官员，曾任兵部侍郎、河南巡抚",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末官员，不善军事，接替卢象升后很快被免。",
+      "appearanceTime": "崇祯九年(1636)卢象升调离后",
+      "chapters": [
+        "片段 14",
+        "片段 15"
+      ]
+    },
+    {
+      "name": "孙传庭",
+      "aliases": [],
+      "identity": "明末将领，曾任陕西巡抚",
+      "birthYear": 1593,
+      "deathYear": 1643,
+      "bio": "明末名将，在陕西组建秦军，俘杀高迎祥。",
+      "appearanceTime": "崇祯九年(1636)三月至七月",
+      "chapters": [
+        "片段 14",
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "曹变蛟",
+      "aliases": [],
+      "identity": "明末将领，曹文诏之侄",
+      "birthYear": null,
+      "deathYear": 1642,
+      "bio": "明末将领，勇猛善战，在洪承畴麾下。",
+      "appearanceTime": "本章提及",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "左光先",
+      "aliases": [],
+      "identity": "明末将领",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末将领，在洪承畴麾下作战。",
+      "appearanceTime": "本章提及",
+      "chapters": [
+        "片段 14"
+      ]
+    },
+    {
+      "name": "刘泽清",
+      "aliases": [],
+      "identity": "明末将领",
+      "birthYear": null,
+      "deathYear": 1645,
+      "bio": "明末将领，参与围剿高迎祥。",
+      "appearanceTime": "本章提及",
+      "chapters": [
+        "片段 14",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "张汉儒",
+      "aliases": [],
+      "identity": "师爷",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "当地师爷，受温体仁指使写状子告发钱谦益。",
+      "appearanceTime": "崇祯十年(1637)写状告发钱谦益",
+      "chapters": [
+        "片段 15"
+      ]
+    },
+    {
+      "name": "曹化淳",
+      "aliases": [],
+      "identity": "司礼监秉笔太监、崇祯亲信",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "崇祯亲信太监，曾为王安亲信，受钱谦益请托出面相救。",
+      "appearanceTime": "崇祯十年(1637)受请托解救钱谦益，并与温体仁斗争",
+      "chapters": [
+        "片段 15"
+      ]
+    },
+    {
+      "name": "王安",
+      "aliases": [],
+      "identity": "前司礼监太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明光宗、熹宗朝太监，魏忠贤、曹化淳曾是其亲信。",
+      "appearanceTime": "钱谦益和曹化淳回忆中提及(崇祯十年，1637)",
+      "chapters": [
+        "片段 15"
+      ]
+    },
+    {
+      "name": "王之心",
+      "aliases": [],
+      "identity": "东厂提督太监",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "东厂提督太监，曹化淳的哥们，协助曹化淳对付温体仁。",
+      "appearanceTime": "崇祯十年(1637)曹化淳与其商量对策",
+      "chapters": [
+        "片段 15"
+      ]
+    },
+    {
+      "name": "杨嗣昌",
+      "aliases": [],
+      "identity": "兵部尚书、后入阁",
+      "birthYear": 1588,
+      "deathYear": 1641,
+      "bio": "崇祯朝大臣，提出“十面张网”计划镇压民变，推举熊文灿。",
+      "appearanceTime": "崇祯十年(1637)三月任兵部尚书，温体仁倒台后地位上升",
+      "chapters": [
+        "片段 15",
+        "片段 16",
+        "片段 17"
+      ]
+    },
+    {
+      "name": "熊文灿",
+      "aliases": [],
+      "identity": "两广总督、后任五省总督",
+      "birthYear": null,
+      "deathYear": 1640,
+      "bio": "原两广总督，被杨嗣昌举荐平定中原民变，主张招抚。",
+      "appearanceTime": "崇祯十年(1637)十月上任湖广，招抚张献忠、刘国能",
+      "chapters": [
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "郑芝龙",
+      "aliases": [],
+      "identity": "海盗、后受招安",
+      "birthYear": 1604,
+      "deathYear": 1661,
+      "bio": "福建沿海著名海盗，郑成功之父，曾被熊文灿招降。",
+      "appearanceTime": "文中作为熊文灿早年军功提及(时间早于1637)",
+      "chapters": [
+        "片段 15",
+        "片段 16"
+      ]
+    },
+    {
+      "name": "杨涟",
+      "aliases": [],
+      "identity": "前朝臣",
+      "birthYear": 1572,
+      "deathYear": 1625,
+      "bio": "东林党人，曾上疏弹劾魏忠贤二十四条大罪。",
+      "appearanceTime": "文中作为对比提及(时间早于本章)",
+      "chapters": [
+        "片段 15"
+      ]
+    },
+    {
+      "name": "黄道周",
+      "aliases": [
+        "大明孤臣黄道周"
+      ],
+      "identity": "明朝官员、学者",
+      "birthYear": 1585,
+      "deathYear": 1646,
+      "bio": "明末忠臣，隆武朝吏部尚书兼兵部尚书，组织“扁担军”抗清，兵败被俘，不屈就义。",
+      "appearanceTime": "隆武元年(1645)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "黄道周妻",
+      "aliases": [],
+      "identity": "黄道周妻子",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "随黄道周出征，组织“夫人军”抗清。",
+      "appearanceTime": "隆武元年(1645)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "岳托",
+      "aliases": [],
+      "identity": "清朝将领",
+      "birthYear": 1599,
+      "deathYear": 1639,
+      "bio": "清太祖努尔哈赤之孙，清初重要将领。",
+      "appearanceTime": "崇祯十一年(1638)前后",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "高起潜",
+      "aliases": [],
+      "identity": "明朝太监、监军",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "崇祯帝亲信太监，掌管御马监，多次出任监军。",
+      "appearanceTime": "崇祯十一年(1638)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "刘宇亮",
+      "aliases": [],
+      "identity": "明朝内阁首辅",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "崇祯朝内阁首辅，曾自请督师但退缩。",
+      "appearanceTime": "崇祯十一年(1638)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "刘香",
+      "aliases": [],
+      "identity": "明末海盗",
+      "birthYear": null,
+      "deathYear": 1635,
+      "bio": "明末海盗，被熊文灿、郑芝龙剿灭。",
+      "appearanceTime": "本章通过熊文灿事迹提及",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "潘独鳌",
+      "aliases": [],
+      "identity": "张献忠军师",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "秀才，投靠张献忠担任军师。",
+      "appearanceTime": "崇祯十二年(1639)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "阮之钿",
+      "aliases": [],
+      "identity": "谷城县令",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明末谷城县令，负责监视受抚的张献忠。",
+      "appearanceTime": "崇祯十二年(1639)",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "慈禧",
+      "aliases": [
+        "孝钦显皇后"
+      ],
+      "identity": "清朝晚期实际统治者",
+      "birthYear": 1835,
+      "deathYear": 1908,
+      "bio": "清朝晚期重要政治人物。",
+      "appearanceTime": "作者在议论中提及",
+      "chapters": [
+        "片段 16"
+      ]
+    },
+    {
+      "name": "朱翊铭",
+      "aliases": [
+        "襄王"
+      ],
+      "identity": "明朝藩王，襄王",
+      "birthYear": null,
+      "deathYear": 1641,
+      "bio": "万历皇帝同辈，崇祯皇帝的叔祖，被张献忠所杀。",
+      "appearanceTime": "崇祯十四年(1641)",
+      "chapters": [
+        "片段 17"
+      ]
+    },
+    {
+      "name": "崇祯皇帝",
+      "aliases": [
+        "朱由检"
+      ],
+      "identity": "明朝皇帝",
+      "birthYear": 1611,
+      "deathYear": 1644,
+      "bio": "明朝末代皇帝。",
+      "appearanceTime": "崇祯十三年至十五年(1640-1643)",
+      "chapters": [
+        "片段 17"
+      ]
+    },
+    {
+      "name": "陈新甲",
+      "aliases": [
+        "小杨嗣昌"
+      ],
+      "identity": "明朝兵部尚书",
+      "birthYear": null,
+      "deathYear": 1642,
+      "bio": "崇祯朝兵部尚书，催促洪承畴速战。",
+      "appearanceTime": "崇祯十四年(1641)",
+      "chapters": [
+        "片段 17"
+      ]
+    },
+    {
+      "name": "夏承德",
+      "aliases": [],
+      "identity": "明朝松山副将",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "松山守将，开城降清导致洪承畴被俘。",
+      "appearanceTime": "崇祯十五年(1642)",
+      "chapters": [
+        "片段 17"
+      ]
+    },
+    {
+      "name": "王承恩",
+      "aliases": [],
+      "identity": "明朝太监，崇祯近侍",
+      "birthYear": null,
+      "deathYear": 1644,
+      "bio": "崇祯皇帝贴身太监，为其解梦。",
+      "appearanceTime": "崇祯十二年左右(1639)",
+      "chapters": [
+        "片段 17"
+      ]
+    },
+    {
+      "name": "徐宏祖",
+      "aliases": [
+        "徐霞客"
+      ],
+      "identity": "地理学家、旅行家",
+      "birthYear": 1587,
+      "deathYear": 1641,
+      "bio": "明代地理学家、旅行家，著有《徐霞客游记》，一生游历天下，足迹遍及全国。",
+      "appearanceTime": "万历十五年(1587)出生，本章主要讲述其一生游历，直至崇祯十四年(1641)逝世。",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "徐经",
+      "aliases": [],
+      "identity": "徐宏祖祖先，科举考生",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "徐宏祖祖先，曾与唐寅一同进京赶考，因科举舞弊案牵连而落榜。",
+      "appearanceTime": "徐宏祖出生前九十年（约1497年前后）",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "唐寅",
+      "aliases": [
+        "唐伯虎"
+      ],
+      "identity": "画家、书法家、诗人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "明代著名画家、书法家、诗人，与徐经一同进京赶考时受科举舞弊案牵连。",
+      "appearanceTime": "徐宏祖出生前九十年（约1497年前后）",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "静闻",
+      "aliases": [],
+      "identity": "南京僧人",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "南京僧人，崇敬鸡足山迦叶寺菩萨，曾血写法华经，后与徐宏祖同行前往鸡足山。",
+      "appearanceTime": "崇祯九年(1636)左右",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "张骞",
+      "aliases": [],
+      "identity": "汉代探险家、外交家",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "汉代探险家、外交家，曾奉命出使西域，开辟丝绸之路。",
+      "appearanceTime": "徐宏祖临终前提及（1641年前后）",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "玄奘",
+      "aliases": [],
+      "identity": "唐代高僧、佛学家、翻译家",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "唐代高僧，曾奉命西行取经，对中国佛教发展有重大影响。",
+      "appearanceTime": "徐宏祖临终前提及（1641年前后）",
+      "chapters": [
+        "片段 18"
+      ]
+    },
+    {
+      "name": "耶律楚材",
+      "aliases": [],
+      "identity": "元代政治家、学者",
+      "birthYear": null,
+      "deathYear": null,
+      "bio": "元代政治家、学者，曾随成吉思汗西征，游历四方。",
+      "appearanceTime": "徐宏祖临终前提及（1641年前后）",
+      "chapters": [
+        "片段 18"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "source": "皇太极",
+      "target": "努尔哈赤",
+      "type": "亲属",
+      "description": "父子关系，皇太极是努尔哈赤第八子，继承其汗位。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "代善",
+      "type": "亲属",
+      "description": "兄弟关系，均为努尔哈赤之子。代善在汗位继承中支持皇太极。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "阿敏",
+      "type": "亲属",
+      "description": "堂兄弟关系，阿敏是努尔哈赤之侄。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "莽古尔泰",
+      "type": "亲属",
+      "description": "兄弟关系，均为努尔哈赤之子。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "多尔衮",
+      "type": "亲属",
+      "description": "兄弟关系，均为努尔哈赤之子。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "阿济格",
+      "type": "亲属",
+      "description": "兄弟关系，均为努尔哈赤之子。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "济尔哈朗",
+      "type": "亲属",
+      "description": "堂兄弟关系，济尔哈朗是努尔哈赤之侄。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "多铎",
+      "type": "亲属",
+      "description": "兄弟关系，均为努尔哈赤之子。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "袁崇焕",
+      "type": "敌对",
+      "description": "双方为交战对手。皇太极继位后，与袁崇焕进行谈判并发动宁锦大战。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "孙承宗",
+      "type": "师生",
+      "description": "孙承宗是袁崇焕的老师。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "满桂",
+      "type": "关联",
+      "description": "上下级兼同僚关系，曾共同作战，后因赵率教增援问题产生矛盾。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "赵率教",
+      "type": "关联",
+      "description": "上下级关系。宁锦大战中，袁崇焕是赵率教的上司，曾写信指导锦州防务。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "王之臣",
+      "type": "关联",
+      "description": "上下级关系。王之臣是辽东督师，袁崇焕是巡抚，二人曾因调解满桂矛盾产生分歧。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "满桂",
+      "target": "赵率教",
+      "type": "关联",
+      "description": "同僚关系。宁远之战时，满桂求援被赵率教拒绝，导致二人结怨。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "代善",
+      "target": "阿敏",
+      "type": "关联",
+      "description": "同僚关系，同属后金四大贝勒，共同参与宁锦大战。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "莽古尔泰",
+      "target": "满桂",
+      "type": "敌对",
+      "description": "天启七年(1627)五月，满桂率关宁铁骑援锦州时，在笊篱山与莽古尔泰部发生遭遇战。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "顾秉谦",
+      "type": "同盟",
+      "description": "政治同盟，同属阉党，在宁远之战后一同被论功行赏。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "熊廷弼",
+      "target": "王化贞",
+      "type": "关联",
+      "description": "历史同僚关系，二人不和导致辽东战局失利，被朝廷引为教训。",
+      "chapter": "片段 1",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "客氏",
+      "type": "同盟",
+      "description": "政治搭档与情人关系，在宫中互相勾结，权倾一时。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "王体乾",
+      "type": "同盟",
+      "description": "政治盟友，王体乾是魏忠贤的死党。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "崔呈秀",
+      "type": "同盟",
+      "description": "核心政治盟友，崔呈秀是魏忠贤的干儿子和头号死党。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "杨邦宪",
+      "type": "同盟",
+      "description": "杨邦宪是魏忠贤的铁杆支持者，上疏为其请建生祠。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "魏良卿",
+      "type": "亲属",
+      "description": "魏忠贤的侄子，因魏的关系获得封赏和免死铁券。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "杨维垣",
+      "type": "同盟",
+      "description": "魏忠贤指使杨维垣上疏弹劾崔呈秀，以推卸责任自保。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "徐应元",
+      "type": "关联",
+      "description": "魏忠贤在危难时向徐应元求助，徐表面帮助实则促其倒台。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "魏忠贤",
+      "type": "敌对",
+      "description": "崇祯即位后，表面安抚，实则策划并最终铲除了魏忠贤及其阉党。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "客氏",
+      "type": "敌对",
+      "description": "崇祯即位后，立即批准了客氏的辞呈，将其赶出皇宫。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "徐应元",
+      "type": "君臣",
+      "description": "徐应元是崇祯皇帝信任的贴身太监，但崇祯因其为魏忠贤辩护而严厉斥责。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "杨所修",
+      "target": "崔呈秀",
+      "type": "敌对",
+      "description": "杨所修为自保，率先上疏弹劾崔呈秀不孝。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "杨所修",
+      "target": "陈尔翼",
+      "type": "同盟",
+      "description": "两人合谋，由杨所修弹劾崔呈秀，再由陈尔翼上疏辩护并将责任推给东林党。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "陈尔翼",
+      "target": "崔呈秀",
+      "type": "同盟",
+      "description": "陈尔翼受杨所修和崔呈秀压力，上疏为崔呈秀辩护。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "崔呈秀",
+      "target": "杨所修",
+      "type": "敌对",
+      "description": "崔呈秀识破杨所修的计谋，威胁杨所修让其找人上疏为自己辩护。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "朱三俊",
+      "target": "陆万龄",
+      "type": "敌对",
+      "description": "朱三俊弹劾自己的学生陆万龄，陆是魏忠贤的狂热支持者。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "陆万龄",
+      "target": "魏忠贤",
+      "type": "同盟",
+      "description": "陆万龄是魏忠贤的狂热粉丝，曾提议在国子监为魏忠贤建生祠。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "客氏",
+      "target": "朱由校",
+      "type": "君臣",
+      "description": "客氏是明熹宗朱由校的乳母，从小照顾其至成年。",
+      "chapter": "片段 3",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "崇祯帝",
+      "type": "君臣",
+      "description": "袁崇焕向崇祯帝提出五年平辽方略及多项要求，崇祯予以支持并满足其部分要求。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "毕自肃",
+      "target": "毕自严",
+      "type": "亲属",
+      "description": "毕自肃是毕自严的弟弟，毕自肃曾为军饷事求助于兄。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "毕自肃",
+      "type": "关联",
+      "description": "袁崇焕在毕自肃因宁远兵变自杀后，接替处理辽东事务，并建议撤销辽东巡抚职位。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "杨正朝",
+      "type": "敌对",
+      "description": "袁崇焕平定宁远兵变，处决带头闹事的杨正朝。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "张思顺",
+      "type": "敌对",
+      "description": "袁崇焕平定宁远兵变，处决带头闹事的张思顺。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "吴国琦",
+      "type": "敌对",
+      "description": "袁崇焕追究宁远兵变领导责任，处斩负有直接责任的中军部将吴国琦。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "左良玉",
+      "type": "关联",
+      "description": "袁崇焕在平息宁远兵变后，对左良玉等将领进行了免职或查办。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "赵率教",
+      "type": "同盟",
+      "description": "袁崇焕推荐亲信赵率教为山海关总兵，并誓言共始终。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "何可纲",
+      "type": "同盟",
+      "description": "袁崇焕推荐亲信何可纲为宁远总兵，并誓言共始终。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "祖大寿",
+      "type": "同盟",
+      "description": "袁崇焕推荐亲信祖大寿，并誓言共始终。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "毛文龙",
+      "type": "敌对",
+      "description": "袁崇焕因毛文龙不听节制、经济问题等，设计并在双岛将其斩杀。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "钱龙锡",
+      "type": "关联",
+      "description": "袁崇焕曾向大学士钱龙锡透露对毛文龙“可用则用，不可用则杀”的想法。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "毛文龙",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "毛文龙驻守皮岛，时常骚扰牵制后金的皇太极，被其视为心腹大患。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "毕自严",
+      "type": "君臣",
+      "description": "崇祯帝命令户部尚书毕自严拨付军饷给袁崇焕，毕自严以财政困难拒绝。",
+      "chapter": "片段 5",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "赵率教",
+      "type": "君臣",
+      "description": "袁崇焕命令赵率教率军驰援遵化，阻击皇太极。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "在己巳之变中，袁崇焕率军追击并最终与皇太极部在广渠门交战。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "孙承宗",
+      "type": "师生",
+      "description": "孙承宗是袁崇焕的老师。本章中孙承宗告诫袁崇焕要谨慎行事，但袁未听从其防守部署。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "崇祯帝",
+      "type": "君臣",
+      "description": "崇祯帝召见袁崇焕，表面安抚实则已生疑心。袁向崇祯汇报夸大的敌情并提出让军队入城。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "满桂",
+      "type": "敌对",
+      "description": "两人长期不和。本章中满桂在德胜门受伤，有流言称是袁崇焕部下所为。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "祖大寿",
+      "type": "君臣",
+      "description": "祖大寿是袁崇焕的心腹部下，一同被崇祯召见，并参与了广渠门之战。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "毛文龙",
+      "type": "敌对",
+      "description": "袁崇焕曾用尚方宝剑擅杀毛文龙。此事成为朝中怀疑袁的罪状之一。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "崇祯帝",
+      "type": "君臣",
+      "description": "己巳之变中，崇祯帝启用孙承宗接替王洽为兵部尚书，主持防务。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "王洽",
+      "type": "君臣",
+      "description": "因己巳之变应对不力，崇祯帝将兵部尚书王洽撤职并处死。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "莽古尔泰",
+      "type": "亲属",
+      "description": "兄弟（同父异母）。皇太极亲攻德胜门，命莽古尔泰率军进攻广渠门。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "莽古尔泰",
+      "target": "阿济格",
+      "type": "亲属",
+      "description": "兄弟（同父异母）。一同参与广渠门之战，阿济格在战斗中受伤。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "熊廷弼",
+      "type": "关联",
+      "description": "袁崇焕曾对熊廷弼阐述“主守，后战”的战略思想，本章通过回忆提及。",
+      "chapter": "片段 6",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "袁崇焕",
+      "type": "师生",
+      "description": "孙承宗是袁崇焕的老领导和提携者，袁曾为其“提包”。本章中孙试图协调袁的军事行动。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "祖大寿",
+      "type": "君臣",
+      "description": "孙承宗以老领导的平方身份劝说并稳住了意图闹事的祖大寿，令其继续为朝廷效力。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "马世龙",
+      "type": "君臣",
+      "description": "马世龙是辽东系将领，桀骜不驯，但唯独服从老领导孙承宗的指挥。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "杨国栋",
+      "type": "君臣",
+      "description": "孙承宗在通州稳住了欲逃跑的总兵杨国栋，并以此稳定了通州防务。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "孙承宗作为明军统帅，在崇祯三年组织反击，击败皇太极留守关内的军队，收复四城。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "阿敏",
+      "type": "敌对",
+      "description": "孙承宗在永平之战中运用火炮与骑兵战术，大败阿敏率领的后金援军。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "祖大寿",
+      "type": "君臣",
+      "description": "祖大寿是袁崇焕的部下，关宁铁骑统帅，只服从袁的命令。袁下狱后祖一度欲闹事。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "袁崇焕是后金的主要对手，但本章提及皇太极利用反间计（据作者分析为编造）陷害袁崇焕。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "钱龙锡",
+      "type": "朋友",
+      "description": "两人关系密切，曾密谈处置毛文龙事宜。此谈话记录后来成为袁“勾结近臣”的罪证，并牵连钱龙锡。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "毛文龙",
+      "type": "敌对",
+      "description": "袁崇焕未经许可擅杀毛文龙，此事成为其后来被定罪的重要罪状之一。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "袁崇焕",
+      "type": "君臣",
+      "description": "崇祯起初重用袁崇焕，后因己巳之变将其下狱，最终听信谗言将其凌迟处死。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "孙承宗",
+      "type": "君臣",
+      "description": "崇祯在孙承宗收复四城后非常激动和倚重，认为以后可依靠孙承宗。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "祖大寿",
+      "type": "君臣",
+      "description": "在孙承宗调解下，崇祯安抚了祖大寿，并在此后对其极为信任（如大凌河之战后仍重用）。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "阿敏",
+      "type": "亲属",
+      "description": "阿敏是皇太极的堂兄（努尔哈赤之侄），四大贝勒之一。皇太极派其率军救援遵化、永平。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "周延儒",
+      "type": "同盟",
+      "description": "两人合谋，利用言官攻击袁崇焕，真实目的是借此扳倒内阁大学士钱龙锡，以便自己入阁掌权。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "钱龙锡",
+      "type": "敌对",
+      "description": "温体仁与周延儒将钱龙锡作为政治斗争的目标，通过扩大袁崇焕案将其牵连去职。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "周延儒",
+      "target": "钱龙锡",
+      "type": "敌对",
+      "description": "周延儒与温体仁将钱龙锡作为政治斗争的目标，通过扩大袁崇焕案将其牵连去职。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "马世龙",
+      "target": "刘之纶",
+      "type": "关联",
+      "description": "刘之纶曾命令马世龙救援，马世龙拒不听从，导致刘之纶战死。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "钱龙锡",
+      "target": "成基命",
+      "type": "朋友",
+      "description": "两人关系很好，钱龙锡去职后不久，成基命也离职。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "高捷",
+      "target": "钱龙锡",
+      "type": "关联",
+      "description": "御史高捷上疏弹劾钱龙锡与袁崇焕勾结，导致钱龙锡被迫辞职。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "史范",
+      "target": "钱龙锡",
+      "type": "关联",
+      "description": "山东御史史范上疏弹劾钱龙锡收受袁崇焕贿赂，此举直接促使崇祯下决心处死袁崇焕。",
+      "chapter": "片段 7",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "钱谦益",
+      "type": "敌对",
+      "description": "温体仁因未能入阁而嫉妒钱谦益，搜集其科举旧案材料上疏弹劾，并在御前辩论中成功将其扳倒。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "周延儒",
+      "target": "钱谦益",
+      "type": "敌对",
+      "description": "周延儒因被钱谦益排挤出内阁推举名单而结仇，与温体仁联手攻击钱谦益。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "周延儒",
+      "type": "同盟",
+      "description": "两人因共同的政治对手钱谦益而暂时结盟，合作策划并实施了针对钱谦益的弹劾。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "韩敬",
+      "target": "钱谦益",
+      "type": "敌对",
+      "description": "两人在十年前（万历末年）的科举中竞争状元结仇，韩敬在天启元年钱谦益的浙江科举案中落井下石。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "钱谦益",
+      "target": "柳如是",
+      "type": "亲属",
+      "description": "夫妻关系，柳如是是钱谦益的妻子。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "沈一贯",
+      "type": "师生",
+      "description": "温体仁是前首辅沈一贯的门生。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "钱谦益",
+      "type": "君臣",
+      "description": "皇帝与大臣。崇祯在御前辩论后，因厌恶结党而支持温体仁，罢免了钱谦益。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "温体仁",
+      "type": "君臣",
+      "description": "皇帝与大臣。崇祯在辩论中支持温体仁，并在他假意辞职时予以挽留。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "王永光",
+      "target": "钱谦益",
+      "type": "关联",
+      "description": "吏部尚书王永光曾受钱谦益请托将周延儒挤出内阁推举名单，在御前辩论中为钱谦益辩护。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "钱谦益",
+      "target": "周延儒",
+      "type": "敌对",
+      "description": "钱谦益在推选入阁时，通过关系将排在第一的周延儒挤掉，导致周延儒怀恨在心。",
+      "chapter": "片段 8",
+      "volume": 7
+    },
+    {
+      "source": "崇祯",
+      "target": "韩一良",
+      "type": "君臣",
+      "description": "崇祯斥责韩一良奏疏空泛，令其交代贪污者姓名，最终将其罢官。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "崇祯",
+      "target": "刘懋",
+      "type": "君臣",
+      "description": "崇祯采纳刘懋裁撤驿站的建议，但改革失败后刘懋去职。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "刘懋",
+      "target": "李自成",
+      "type": "关联",
+      "description": "刘懋推动的驿站裁撤导致李自成失业，间接促使李自成走上起义道路。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "祖大寿",
+      "type": "君臣",
+      "description": "孙承宗任蓟辽总督时，派祖大寿修筑大凌河城。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "何可纲",
+      "type": "君臣",
+      "description": "孙承宗派何可纲协助祖大寿修筑大凌河城。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "吴襄",
+      "type": "君臣",
+      "description": "孙承宗组织援救大凌河，先派吴襄率领小部队前往。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "张春",
+      "type": "君臣",
+      "description": "孙承宗组织大规模援军，由大将张春率领救援大凌河。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "祖大寿",
+      "type": "师生/上下级",
+      "description": "袁崇焕生前举荐并信任祖大寿，祖大寿是袁崇焕旧部。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "何可纲",
+      "type": "师生/上下级",
+      "description": "袁崇焕生前举荐何可纲，何可纲是袁崇焕旧部。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "袁崇焕",
+      "target": "赵率教",
+      "type": "师生/上下级",
+      "description": "袁崇焕生前举荐赵率教，赵率教是袁崇焕旧部。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "祖大寿",
+      "target": "何可纲",
+      "type": "敌对",
+      "description": "大凌河被围后期，祖大寿决定诈降，何可纲坚决反对，被祖大寿下令处死。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "祖大寿",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "大凌河之战中，祖大寿被皇太极围困，后诈降以脱身，回到锦州后继续抗金。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "祖大寿",
+      "target": "莽古尔泰",
+      "type": "敌对",
+      "description": "大凌河突围战中，祖大寿重创莽古尔泰所部后金军。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "莽古尔泰",
+      "type": "亲属",
+      "description": "兄弟关系（同父异母）。皇太极利用战事消耗莽古尔泰实力，后将其治罪。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "阿敏",
+      "type": "亲属",
+      "description": "叔侄关系（阿敏是皇太极堂兄）。皇太极借战败之机撤去阿敏职务。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "多尔衮",
+      "type": "亲属",
+      "description": "兄弟关系（同父异母）。皇太极派多尔衮率军接应祖大寿的诈降行动。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "张春",
+      "target": "吴襄",
+      "type": "上下级",
+      "description": "张春率领援军救援大凌河，部下包括吴襄。吴襄临阵脱逃导致张春军溃败。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "吴襄",
+      "target": "吴三桂",
+      "type": "亲属",
+      "description": "父子关系。吴三桂随父吴襄参与救援大凌河的行动。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "祖大寿",
+      "target": "丘禾嘉",
+      "type": "同僚",
+      "description": "祖大寿诈降返回锦州后，丘禾嘉是锦州巡抚，二人共同镇守锦州。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "毛文龙",
+      "target": "黄龙",
+      "type": "关联",
+      "description": "毛文龙死后，黄龙是其继任者之一，曾上岛平定兵变。",
+      "chapter": "片段 9",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "耿仲明",
+      "type": "同盟",
+      "description": "共同发动叛乱，后又一同逃往海上并降清。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "李九成",
+      "type": "同盟",
+      "description": "共同叛乱，李九成在登州城外为孔有德出战。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "毛承禄",
+      "type": "同盟",
+      "description": "共同叛乱，但海上遇袭时孔有德抛弃了毛承禄。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "孙元化",
+      "type": "君臣",
+      "description": "孔有德曾为孙元化部下，从其处学到火炮技术。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "黄龙",
+      "type": "敌对",
+      "description": "黄龙曾任孔有德上司，后在海战中截击孔有德叛军。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "皇太极",
+      "type": "君臣",
+      "description": "叛乱失败后，孔有德率部投降后金皇太极。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "孔有德",
+      "target": "尚可喜",
+      "type": "朋友",
+      "description": "同为山东老乡、矿工出身，后孔有德劝降尚可喜。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "耿仲明",
+      "target": "尚可喜",
+      "type": "朋友",
+      "description": "同为山东老乡、矿工出身，后一同成为清初藩王。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "毛承禄",
+      "target": "毛文龙",
+      "type": "亲属",
+      "description": "父子关系，毛承禄是毛文龙之子。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "朱大典",
+      "target": "孔有德",
+      "type": "敌对",
+      "description": "朱大典作为明军统帅，率军平定孔有德叛乱。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "吴三桂",
+      "target": "孔有德",
+      "type": "敌对",
+      "description": "吴三桂参与平定孔有德叛乱，围攻登州。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "杨鹤",
+      "target": "武之望",
+      "type": "关联",
+      "description": "杨鹤接替自杀的武之望，出任三边总督。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "杨鹤",
+      "type": "君臣",
+      "description": "崇祯帝采纳杨鹤的招抚理论，任命其为三边总督。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "刘懋",
+      "target": "崇祯帝",
+      "type": "君臣",
+      "description": "刘懋向崇祯帝建议裁撤驿站，被采纳。",
+      "chapter": "片段 10",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "曹文诏",
+      "type": "君臣",
+      "description": "崇祯将曹文诏调往大同抵御皇太极。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "吴襄",
+      "type": "君臣",
+      "description": "崇祯调派吴襄率关宁铁骑支援大同。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "王朴",
+      "type": "君臣",
+      "description": "崇祯因王朴失职导致民军突围而处罚他。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "左良玉",
+      "type": "君臣",
+      "description": "崇祯严令左良玉追击突围的民军。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "陈奇瑜",
+      "type": "君臣",
+      "description": "崇祯任命陈奇瑜为五省总督，后因其失职罢官。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "朱由检",
+      "target": "洪承畴",
+      "type": "君臣",
+      "description": "崇祯在陈奇瑜失败后派洪承畴接任五省总督。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "曹文诏",
+      "type": "敌对",
+      "description": "皇太极进攻大同，曹文诏率军抵御。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "曹文诏",
+      "target": "吴襄",
+      "type": "同盟",
+      "description": "吴襄率关宁铁骑支援曹文诏守卫大同。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "王朴",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "王朴受民军贿赂后接受投降，但民军（含张献忠）诈降突围。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "王朴",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "王朴受民军贿赂后接受投降，但民军（含李自成）诈降突围。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "左良玉",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "左良玉在河南追击并肃清民军（李自成部已先转移）。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "李自成",
+      "type": "关联",
+      "description": "高迎祥与李自成一同进入湖广郧阳地区活动。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "陈奇瑜",
+      "type": "关联",
+      "description": "陈奇瑜曾任洪承畴下属，后职位高于洪承畴。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "陈奇瑜",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "陈奇瑜在车厢峡围困民军主力（含张献忠），后接受诈降导致失败。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "陈奇瑜",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "陈奇瑜在车厢峡围困民军主力（含李自成），后接受诈降导致失败。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "贺人龙",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "贺人龙被李自成击败并围困四十余天。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "洪承畴接任五省总督后组织围剿，将民军主力（含李自成）赶至河南。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "洪承畴接任五省总督后组织围剿，将民军主力（含张献忠）赶至河南。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "左良玉",
+      "type": "同盟",
+      "description": "洪承畴调集左良玉等部共同围剿民军。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "曹文诏",
+      "type": "同盟",
+      "description": "洪承畴调集曹文诏等部共同围剿民军。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "罗汝才",
+      "type": "同盟",
+      "description": "共同参与荥阳大会，商议对抗官军策略。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "刘国能",
+      "type": "同盟",
+      "description": "共同参与荥阳大会，商议对抗官军策略。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "高迎祥",
+      "type": "同盟",
+      "description": "共同参与荥阳大会，商议对抗官军策略。",
+      "chapter": "片段 12",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "朱元璋",
+      "type": "敌对",
+      "description": "张献忠攻破凤阳，焚毁朱元璋祖坟及皇觉寺。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "张献忠刨毁明朝凤阳皇陵，崇祯帝震怒并下罪己诏。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "曹文诏",
+      "type": "君臣",
+      "description": "崇祯帝派曹文诏追击民军，曹文诏战死后崇祯追赠其官爵。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "洪承畴",
+      "type": "君臣",
+      "description": "崇祯帝任命洪承畴为督师，负责西北战事。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "左良玉",
+      "type": "君臣",
+      "description": "左良玉为明军将领，受崇祯调遣。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "卢象升",
+      "type": "君臣",
+      "description": "崇祯帝任命卢象升为五省总督，督师东南。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "李自成",
+      "type": "同盟",
+      "description": "高迎祥与李自成联合行动，共同对抗明军。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "张献忠",
+      "type": "同盟",
+      "description": "高迎祥与张献忠在陕州等地合兵，共同作战。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "张献忠",
+      "type": "同盟",
+      "description": "李自成与张献忠曾联合对抗明军。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "高迎祥",
+      "type": "敌对",
+      "description": "卢象升将高迎祥视为头号劲敌，调兵围剿。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "李自成称卢象升为“卢阎王”，对其十分畏惧。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "祖宽",
+      "type": "同盟",
+      "description": "卢象升上书调来祖宽及其关宁铁骑，共同剿匪。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "祖宽",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "祖宽率关宁铁骑多次追击并大败张献忠部。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "祖宽",
+      "target": "高迎祥",
+      "type": "敌对",
+      "description": "祖宽与左良玉联合追击高迎祥部。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "祖宽",
+      "target": "左良玉",
+      "type": "同盟",
+      "description": "祖宽与左良玉联合追击高迎祥、张献忠等部。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "左良玉",
+      "target": "高迎祥",
+      "type": "敌对",
+      "description": "左良玉曾遭遇高迎祥大军但避战。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "祖宽",
+      "target": "祖大寿",
+      "type": "关联",
+      "description": "祖宽原为祖大寿家丁（佣人），后成为将领。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "朱元璋",
+      "target": "朱五一",
+      "type": "亲属",
+      "description": "朱五一是朱元璋的伯父。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "袁崇焕",
+      "type": "关联",
+      "description": "卢象升在崇祯二年目睹袁崇焕下狱，深受影响。",
+      "chapter": "片段 13",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "卢象升",
+      "type": "敌对",
+      "description": "卢象升率军在七顶山等地多次击败高迎祥。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "祖大乐",
+      "type": "敌对",
+      "description": "祖大乐参与追击并击败高迎祥。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "祖宽",
+      "type": "敌对",
+      "description": "祖宽率关宁铁骑参与追击高迎祥。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "陈永福",
+      "type": "敌对",
+      "description": "陈永福参与围剿高迎祥。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "孙传庭",
+      "type": "敌对",
+      "description": "孙传庭在陕西子午谷设伏，最终俘杀高迎祥。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "高杰",
+      "type": "敌对",
+      "description": "原为部属与同乡，后高杰叛逃并带走李自成之妻邢氏。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "邢氏",
+      "type": "亲属",
+      "description": "夫妻关系，邢氏后与高杰私奔。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高杰",
+      "target": "邢氏",
+      "type": "亲属",
+      "description": "私通后一同叛逃李自成，结为夫妻。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "贺人龙",
+      "type": "敌对",
+      "description": "贺人龙曾围攻李自成，李自成试图招降未果。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高杰",
+      "target": "贺人龙",
+      "type": "关联",
+      "description": "高杰曾为李自成送信招降贺人龙，引起李自成怀疑。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "高杰",
+      "target": "洪承畴",
+      "type": "君臣",
+      "description": "高杰叛逃李自成后，投降洪承畴麾下。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "祖宽",
+      "type": "君臣",
+      "description": "卢象升指挥祖宽等关宁铁骑将领作战。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "祖大乐",
+      "type": "君臣",
+      "description": "卢象升指挥祖大乐等关宁铁骑将领作战。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "阿济格",
+      "type": "君臣",
+      "description": "皇太极派阿济格率清军入关劫掠。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "孙传庭",
+      "target": "曹变蛟",
+      "type": "关联",
+      "description": "曹变蛟是当时能战之将，但未在孙传庭直接麾下。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "孙传庭",
+      "target": "左光先",
+      "type": "关联",
+      "description": "左光先是当时能战之将，但未在孙传庭直接麾下。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "祖大乐",
+      "target": "祖宽",
+      "type": "亲属",
+      "description": "同为关宁铁骑将领，家族关系（可能为兄弟或同族）。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "曹文诏",
+      "target": "曹变蛟",
+      "type": "亲属",
+      "description": "叔侄关系，皆为明末将领。",
+      "chapter": "片段 14",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "钱谦益",
+      "type": "敌对",
+      "description": "温体仁设计陷害，指使张汉儒告御状，欲置钱谦益于死地。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "张汉儒",
+      "target": "钱谦益",
+      "type": "敌对",
+      "description": "张汉儒受温体仁指使，写状子告发钱谦益五十八条罪状。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "温体仁",
+      "target": "张汉儒",
+      "type": "同盟",
+      "description": "温体仁借刀杀人，利用张汉儒告发钱谦益。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "钱谦益",
+      "target": "孙承宗",
+      "type": "师生",
+      "description": "孙承宗是钱谦益中进士时的录取老师（座师）。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "钱谦益",
+      "target": "曹化淳",
+      "type": "关联",
+      "description": "钱谦益通过孙承宗请托曹化淳救命，因曾为曹化淳故主王安写墓志铭。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "曹化淳",
+      "type": "关联",
+      "description": "孙承宗受钱谦益之托，出面找曹化淳帮忙。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "曹化淳",
+      "target": "王安",
+      "type": "关联",
+      "description": "曹化淳曾是太监王安的亲信。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "魏忠贤",
+      "target": "王安",
+      "type": "关联",
+      "description": "魏忠贤也曾是王安的亲信。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "曹化淳",
+      "target": "王之心",
+      "type": "朋友",
+      "description": "曹化淳与东厂提督太监王之心是哥们，关系很铁。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "曹化淳",
+      "target": "温体仁",
+      "type": "敌对",
+      "description": "曹化淳为救钱谦益与温体仁斗争，温体仁企图连曹化淳一起整。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "温体仁",
+      "type": "君臣",
+      "description": "崇祯最终识破温体仁结党，在其辞职信上批“放他去”，将其罢免。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "杨嗣昌",
+      "target": "熊文灿",
+      "type": "同盟",
+      "description": "杨嗣昌向崇祯推举熊文灿担任五省总督，执行其“十面张网”计划。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "左良玉",
+      "type": "君臣",
+      "description": "左良玉是熊文灿的下属，但看不起熊文灿，不听使唤。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "张献忠",
+      "type": "敌对",
+      "description": "熊文灿试图招抚张献忠，张献忠诈降。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "刘国能",
+      "type": "君臣",
+      "description": "刘国能率部向熊文灿投降，服从改编。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "郑芝龙",
+      "type": "君臣",
+      "description": "熊文灿任两广总督时曾招降海盗郑芝龙，并利用其平定沿海。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "王家桢",
+      "type": "关联",
+      "description": "熊文灿接替无能的前任总督王家桢。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "洪承畴在陕北对付李自成。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "孙传庭",
+      "target": "李自成",
+      "type": "敌对",
+      "description": "孙传庭放言搞定李自成就退休，与洪承畴夹击李自成。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "刘国能",
+      "type": "关联",
+      "description": "同为被招抚对象，刘国能真降促使张献忠加快“投降”步伐。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "高迎祥",
+      "target": "李自成",
+      "type": "关联",
+      "description": "高迎祥死后，李自成成为主要首领之一。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "杨涟",
+      "target": "魏忠贤",
+      "type": "敌对",
+      "description": "杨涟曾上疏弹劾魏忠贤二十四条大罪。",
+      "chapter": "片段 15",
+      "volume": 7
+    },
+    {
+      "source": "黄道周",
+      "target": "黄道周妻",
+      "type": "亲属",
+      "description": "夫妻关系，妻子随黄道周出征抗清。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "卢象升",
+      "type": "君臣",
+      "description": "崇祯帝任命卢象升为督师，指挥抗清。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "杨嗣昌",
+      "type": "君臣",
+      "description": "杨嗣昌为崇祯朝兵部尚书，深受信任。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "高起潜",
+      "type": "君臣",
+      "description": "高起潜为崇祯帝亲信太监，出任监军。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "刘宇亮",
+      "type": "君臣",
+      "description": "刘宇亮为崇祯朝内阁首辅。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "崇祯帝",
+      "target": "熊文灿",
+      "type": "君臣",
+      "description": "熊文灿被任命为兵部尚书，负责招抚农民军。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "杨嗣昌",
+      "type": "敌对",
+      "description": "卢象升主战，杨嗣昌主和，两人在朝堂上激烈争执。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "高起潜",
+      "type": "敌对",
+      "description": "高起潜阴挠卢象升军事行动，调走其部队。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "孙承宗",
+      "type": "关联",
+      "description": "卢象升听闻孙承宗殉国后，坚定了死战决心。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "卢象升",
+      "target": "袁崇焕",
+      "type": "关联",
+      "description": "卢象升以袁崇焕被冤杀的下场为鉴，拒绝议和。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "杨嗣昌",
+      "target": "高起潜",
+      "type": "同盟",
+      "description": "两人均主张与清议和，在政治上立场相近。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "杨嗣昌",
+      "target": "刘宇亮",
+      "type": "关联",
+      "description": "杨嗣昌反对无军事经验的刘宇亮出任督师。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "袁崇焕",
+      "type": "师生",
+      "description": "孙承宗是袁崇焕的上级和提携者，袁是其关宁防线的执行者。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "努尔哈赤",
+      "type": "敌对",
+      "description": "孙承宗构筑的关宁防线长期抵御努尔哈赤及后金的进攻。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "孙承宗",
+      "target": "皇太极",
+      "type": "敌对",
+      "description": "孙承宗的防线也抵御了皇太极的进攻。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "郑芝龙",
+      "type": "招抚",
+      "description": "熊文灿招安海盗郑芝龙，借助其力量平定海乱。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "刘国能",
+      "type": "招抚",
+      "description": "熊文灿招降农民军将领刘国能。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "熊文灿",
+      "target": "张献忠",
+      "type": "招抚",
+      "description": "熊文灿招降张献忠，但张献忠是假意受抚。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "潘独鳌",
+      "type": "君臣",
+      "description": "潘独鳌投靠张献忠，担任其军师。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "阮之钿",
+      "type": "敌对",
+      "description": "谷城县令阮之钿奉命监视受抚的张献忠。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "李自成",
+      "type": "同盟",
+      "description": "李自成兵败后曾到谷城拜访张献忠，寻求援助。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "祖大寿",
+      "target": "袁崇焕",
+      "type": "部属",
+      "description": "祖大寿是袁崇焕的部将，袁死后祖大寿一度不受节制。",
+      "chapter": "片段 16",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "杨嗣昌",
+      "type": "敌对",
+      "description": "张献忠是杨嗣昌负责镇压的主要农民军对手，张献忠攻陷襄阳杀襄王间接导致杨嗣昌忧惧病逝。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "张献忠",
+      "target": "朱翊铭",
+      "type": "敌对",
+      "description": "张献忠攻陷襄阳后，为打击杨嗣昌而杀死襄王朱翊铭。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "杨嗣昌",
+      "target": "崇祯皇帝",
+      "type": "君臣",
+      "description": "杨嗣昌深受崇祯信任，被视为知己，杨嗣昌死后崇祯极为悲痛并予以厚恤。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "朱翊铭",
+      "target": "崇祯皇帝",
+      "type": "亲属",
+      "description": "朱翊铭是万历皇帝同辈，按辈分是崇祯皇帝的叔祖（爷爷辈）。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "祖大寿",
+      "type": "敌对",
+      "description": "皇太极率军围攻锦州，祖大寿是明军守将，最终祖大寿力竭投降。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "皇太极",
+      "target": "洪承畴",
+      "type": "敌对",
+      "description": "松锦大战中，皇太极击败并俘虏洪承畴，后洪承畴降清。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "陈新甲",
+      "type": "关联",
+      "description": "兵部尚书陈新甲不断催促洪承畴出战，是洪承畴决定冒险进攻的外部压力之一。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "吴三桂",
+      "type": "君臣",
+      "description": "松锦大战中，吴三桂是洪承畴麾下的总兵之一。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "洪承畴",
+      "target": "王朴",
+      "type": "君臣",
+      "description": "松锦大战中，王朴是洪承畴麾下的总兵之一，突围时率先逃跑导致全军溃败。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "多尔衮",
+      "target": "皇太极",
+      "type": "亲属",
+      "description": "多尔衮是皇太极的弟弟，在松锦大战中为清军重要将领。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "夏承德",
+      "target": "洪承畴",
+      "type": "关联",
+      "description": "夏承德作为松山副将，开城降清，导致主帅洪承畴被俘。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "王承恩",
+      "target": "崇祯皇帝",
+      "type": "君臣",
+      "description": "王承恩是崇祯的贴身太监，为其解梦，预言大明将亡。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "张献忠",
+      "type": "同盟",
+      "description": "同为明末农民军首领，李自成经济困难时曾找张献忠求助。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "李自成",
+      "target": "崇祯皇帝",
+      "type": "敌对",
+      "description": "李自成是最终推翻明朝的主要力量。",
+      "chapter": "片段 17",
+      "volume": 7
+    },
+    {
+      "source": "徐宏祖",
+      "target": "徐经",
+      "type": "亲属",
+      "description": "徐经是徐宏祖的祖先，徐宏祖受其家族“与科举制度决裂”思想影响。",
+      "chapter": "片段 18",
+      "volume": 7
+    },
+    {
+      "source": "徐经",
+      "target": "唐寅",
+      "type": "朋友",
+      "description": "徐经与唐寅曾一同进京赶考，途中为同伴，后同受科举舞弊案牵连。",
+      "chapter": "片段 18",
+      "volume": 7
+    },
+    {
+      "source": "徐宏祖",
+      "target": "静闻",
+      "type": "朋友",
+      "description": "静闻主动找到徐宏祖，请求结伴前往云南鸡足山。徐宏祖在静闻死后，背负其骨灰完成承诺。",
+      "chapter": "片段 18",
+      "volume": 7
+    }
+  ]
+}
